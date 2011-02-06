@@ -888,7 +888,7 @@ foreach (@tree) {
  td {text-align: $align}
  #title {
     text-align: $align;
-    color: #5A8AD6;
+    color: #grey;
     font-weight: bold;
     margin-left: 13px;
     margin-top: 16px;
