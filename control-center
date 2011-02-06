@@ -1440,7 +1440,6 @@ sub about_mdk_cc() {
     my $locale = lang::read;
     require Gtk2::Pango;
    foreach my $line (grep { $_ ne "\n" && !/^#/ } cat_(top(glob("/usr/share/doc/mageia-release-*/CREDITS.$locale->{lang}")))) {
-        $l
         if (my ($type, $comment, $contributor) = split(/\|/, $line, 3)) {
             last if !$type;
             $comment =~ s/^ //; # fix initial space of first section (CREDITS format should be enhanced to specify lines that really are sections)
