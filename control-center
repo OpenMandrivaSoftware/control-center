@@ -616,11 +616,11 @@ my %options = (
     'wiz_expert' => [ N("/_Options"), N("/Expert mode in _wizards") ],
 );
 
-my $mga_rel = common::mandrake_release();
+my $mga_rel = common::mageia_release();
 
 my ($steps, $view);
 
-my $release = mandrake_release_info();
+my $release = mageia_release_info();
 
 my @menu_items = (
                   [ N("/_File"), undef, undef, undef, '<Branch>' ],
@@ -671,7 +671,7 @@ my @menu_items = (
                   [ N("/_Help") . N("/_Report Bug"), undef, sub {
                         run_program::raw({ detach => 1, as_user => 1 }, 'drakbug', '--report', (split(/\s/, $pending_app))[0] || 'drakconf');
                       }, undef, '<Item>' ],
-                  [ N("/_Help") . N("/_About..."), undef, \&about_mdk_cc, undef, '<Item>' ]
+                  [ N("/_Help") . N("/_About..."), undef, \&about_mga_cc, undef, '<Item>' ]
                  );
 
 
@@ -1407,9 +1407,8 @@ sub more_themes() {
     $window_about->show_all;
 }
 
-sub about_mdk_cc() {
+sub about_mga_cc() {
     my $window_about = new_dialog(N("About - %s Control Center", $branding));
-
     my $tree_model = Gtk2::TreeStore->new("Glib::String", "Glib::String", "Glib::String");
     my $credits = Gtk2::TextView->new;
     my $list = Gtk2::TreeView->new_with_model($tree_model);
