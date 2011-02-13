@@ -1,3 +1,6 @@
+Version 12.20.1 - 14 Feb 2011 D Morgan
+- Use mga API ( will be changed to a "no" distro API )
+
 Version 12.19.1 - 7 Jun 2010, João Victor Duarte Martins
 
 - Updated extended maintenance binary to mdkapplet-add-media-helper.
