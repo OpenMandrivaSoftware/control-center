@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mt\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-02-06 01:19+0100\n"
+"POT-Creation-Date: 2008-02-22 23:38+0200\n"
 "PO-Revision-Date: 2004-09-08 07:44+0200\n"
 "Last-Translator: Ramon Casha <ramon.casha@linux.org.mt>\n"
 "Language-Team: Maltese <mt@li.org>\n"
@@ -552,7 +552,7 @@ msgstr ""
 msgid "%s Control Center"
 msgstr "Ċentru tal-Kontroll %s"
 
-#: ../control-center:106 ../control-center:1058
+#: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
 msgstr "Tiela'... stenna ftit"
@@ -1033,22 +1033,22 @@ msgstr "/I_rrapporta bug"
 msgid "/_About..."
 msgstr "/_Dwar..."
 
-#: ../control-center:730
+#: ../control-center:732
 #, c-format
 msgid "Cancel"
 msgstr "Ikkanċella"
 
-#: ../control-center:750
+#: ../control-center:752
 #, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr "Ċentru tal-Kontroll %s %s [fuq %s]"
 
-#: ../control-center:1037 ../control-center:1102
+#: ../control-center:1039 ../control-center:1104
 #, c-format
 msgid "Error"
 msgstr "Problema"
 
-#: ../control-center:1037
+#: ../control-center:1039
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1056,135 +1056,135 @@ msgid ""
 "Please report that bug."
 msgstr ""
 
-#: ../control-center:1102
+#: ../control-center:1104
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr "Ma setax jitħaddem programm mhux magħruf \"%s\""
 
-#: ../control-center:1121
+#: ../control-center:1123
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr "Il-bidliet li għamilt fil-modulu attwali mhux se jinkitbu."
 
-#: ../control-center:1208
+#: ../control-center:1210
 #, c-format
 msgid "cannot fork: %s"
 msgstr "ma setax jinħoloq proċess: %s"
 
-#: ../control-center:1231
+#: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
 msgstr "ma nistax nagħmel \"fork\" u nħaddem \"%s\" għax mhux eżekutibbli"
 
-#: ../control-center:1370
+#: ../control-center:1372
 #, c-format
 msgid "This program has exited abnormally"
 msgstr "Il-programm ħareġ b'mod abnormali"
 
-#: ../control-center:1379
+#: ../control-center:1381
 #, c-format
 msgid "Warning"
 msgstr "Twissija"
 
-#: ../control-center:1389 ../drakconsole:31
+#: ../control-center:1391 ../drakconsole:31
 #, c-format
 msgid "Close"
 msgstr "Agħlaq"
 
-#: ../control-center:1396
+#: ../control-center:1398
 #, c-format
 msgid "More themes"
 msgstr "Iżjed temi"
 
-#: ../control-center:1398
+#: ../control-center:1400
 #, c-format
 msgid "Getting new themes"
 msgstr "Biex tikseb temi ġodda"
 
-#: ../control-center:1399
+#: ../control-center:1401
 #, c-format
 msgid "Additional themes"
 msgstr "Temi oħra"
 
-#: ../control-center:1401
+#: ../control-center:1403
 #, c-format
 msgid "Get additional themes on www.damz.net"
 msgstr "Ikseb temi oħra minn www.damz.net"
 
-#: ../control-center:1409
+#: ../control-center:1411
 #, c-format
 msgid "About - %s Control Center"
 msgstr "Dwar - Ċentru tal-Kontroll %s"
 
-#: ../control-center:1418
+#: ../control-center:1420
 #, c-format
 msgid "Authors: "
 msgstr "Awturi: "
 
-#: ../control-center:1422
+#: ../control-center:1424
 #, c-format
 msgid "(perl version)"
 msgstr "(verżjoni perl)"
 
-#: ../control-center:1427
+#: ../control-center:1429
 #, c-format
 msgid "Artwork: "
 msgstr "Xogħol artistiku: "
 
-#: ../control-center:1432
+#: ../control-center:1434
 #, c-format
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1455
+#: ../control-center:1456
 #, c-format
 msgid "- %s: %s\n"
 msgstr ""
 
-#: ../control-center:1470
+#: ../control-center:1471
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "Ramon Casha"
 
-#: ../control-center:1472
+#: ../control-center:1473
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "<rcasha@waldonet.net.mt>"
 
-#: ../control-center:1474
+#: ../control-center:1475
 #, c-format
 msgid "Translator: "
 msgstr "Traduttur: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1483
+#: ../control-center:1484
 #, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "Ċentru tal-Kontroll %s"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1488
+#: ../control-center:1489
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "Copyright (C) %s Mandriva SA"
 
-#: ../control-center:1488
+#: ../control-center:1489
 #, fuzzy, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr "Copyright (C) %s Mandriva SA"
 
-#: ../control-center:1494
+#: ../control-center:1495
 #, c-format
 msgid "Authors"
 msgstr "Awturi"
 
-#: ../control-center:1495
+#: ../control-center:1496
 #, fuzzy, c-format
 msgid "Mageia Contributors"
 msgstr "Kontributuri ta’ Mandriva Linux"
@@ -1925,8 +1925,12 @@ msgstr "Reżoluzzjoni tal-iskrin"
 
 #: ../drakconf.desktop.in.h:1
 #, fuzzy
-msgid "Configure Your Computer"
-msgstr "Ikkonfigura groupware"
+msgid "Mageia Control Center"
+msgstr "Ċentru tal-Kontroll"
+
+#, fuzzy
+#~ msgid "Configure Your Computer"
+#~ msgstr "Ikkonfigura groupware"
 
 #, fuzzy
 #~ msgid "Mandriva Linux"

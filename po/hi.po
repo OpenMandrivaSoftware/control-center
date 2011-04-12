@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drakconf-hi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-02-06 01:19+0100\n"
+"POT-Creation-Date: 2008-02-22 23:38+0200\n"
 "PO-Revision-Date: 2005-08-28 21:36+0530\n"
 "Last-Translator: धनञ्जय शर्मा (Dhananjaya Sharma)\n"
 "Language-Team: Hindi, India\n"
@@ -549,7 +549,7 @@ msgstr ""
 msgid "%s Control Center"
 msgstr "मैनड्रिव लिनक्स नियंत्रण केन्द्र"
 
-#: ../control-center:106 ../control-center:1058
+#: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
 msgstr "लाया जा रहा है... कृपया प्रतिक्षा करें"
@@ -1033,22 +1033,22 @@ msgstr "/दोष के बारे में बतायें (_R)"
 msgid "/_About..."
 msgstr "/के बारे में(_A)..."
 
-#: ../control-center:730
+#: ../control-center:732
 #, c-format
 msgid "Cancel"
 msgstr "निरस्त करें"
 
-#: ../control-center:750
+#: ../control-center:752
 #, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr "मैनड्रिव लिनक्स नियंत्रण केन्द्र %s [%s पर]"
 
-#: ../control-center:1037 ../control-center:1102
+#: ../control-center:1039 ../control-center:1104
 #, c-format
 msgid "Error"
 msgstr "त्रुटि"
 
-#: ../control-center:1037
+#: ../control-center:1039
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1059,135 +1059,135 @@ msgstr ""
 "\n"
 "कृपया इस दोष के बारे में सूचित करें।"
 
-#: ../control-center:1102
+#: ../control-center:1104
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr "'%s' नामक अज्ञात कार्यक्रम को चलाना असम्भव"
 
-#: ../control-center:1121
+#: ../control-center:1123
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr "वर्तमान मॉडयूल में किये गए परिवर्तन सुरक्षित नहीं हुए।"
 
-#: ../control-center:1208
+#: ../control-center:1210
 #, c-format
 msgid "cannot fork: %s"
 msgstr "फ़ार्क नहीं हो सका: %s"
 
-#: ../control-center:1231
+#: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
 msgstr "फ़ार्क नहीं हो सका और निष्पादन (एग्जिक्यूट)  \"%s\" क्योंकि यह चलनेयोग्य नहीं है"
 
-#: ../control-center:1370
+#: ../control-center:1372
 #, c-format
 msgid "This program has exited abnormally"
 msgstr "यह कार्यक्रम असामान्य ढंग से निर्गमित हो चुका है"
 
-#: ../control-center:1379
+#: ../control-center:1381
 #, c-format
 msgid "Warning"
 msgstr "चेतावनी"
 
-#: ../control-center:1389 ../drakconsole:31
+#: ../control-center:1391 ../drakconsole:31
 #, c-format
 msgid "Close"
 msgstr "समाप्त"
 
-#: ../control-center:1396
+#: ../control-center:1398
 #, c-format
 msgid "More themes"
 msgstr "और प्रकरण"
 
-#: ../control-center:1398
+#: ../control-center:1400
 #, c-format
 msgid "Getting new themes"
 msgstr "नये प्रकरण प्राप्त करें"
 
-#: ../control-center:1399
+#: ../control-center:1401
 #, c-format
 msgid "Additional themes"
 msgstr "अतिरिक्त प्रकरण"
 
-#: ../control-center:1401
+#: ../control-center:1403
 #, c-format
 msgid "Get additional themes on www.damz.net"
 msgstr "अतिरिक्त प्रकरणों को www.damz.net से प्राप्त करें"
 
-#: ../control-center:1409
+#: ../control-center:1411
 #, c-format
 msgid "About - %s Control Center"
 msgstr "मैनड्रिव लिनक्स नियंत्रण केन्द्र - के बारे में"
 
-#: ../control-center:1418
+#: ../control-center:1420
 #, c-format
 msgid "Authors: "
 msgstr "लेखक: "
 
-#: ../control-center:1422
+#: ../control-center:1424
 #, c-format
 msgid "(perl version)"
 msgstr "(पर्ल संस्मरण)"
 
-#: ../control-center:1427
+#: ../control-center:1429
 #, c-format
 msgid "Artwork: "
 msgstr "चित्रकारी: "
 
-#: ../control-center:1432
+#: ../control-center:1434
 #, c-format
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1455
+#: ../control-center:1456
 #, c-format
 msgid "- %s: %s\n"
 msgstr "- %s: %s\n"
 
-#: ../control-center:1470
+#: ../control-center:1471
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "Dhananjaya Sharma (धनञ्जय शर्मा)"
 
-#: ../control-center:1472
+#: ../control-center:1473
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr " "
 
-#: ../control-center:1474
+#: ../control-center:1475
 #, c-format
 msgid "Translator: "
 msgstr "अनुवादक: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1483
+#: ../control-center:1484
 #, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "मैनड्रिव लिनक्स नियंत्रण केन्द्र"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1488
+#: ../control-center:1489
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "सर्वाधिकार (C) %s मैनड्रिव एसऐ"
 
-#: ../control-center:1488
+#: ../control-center:1489
 #, fuzzy, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr "सर्वाधिकार (C) %s मैनड्रिव एसऐ"
 
-#: ../control-center:1494
+#: ../control-center:1495
 #, c-format
 msgid "Authors"
 msgstr "लेखक"
 
-#: ../control-center:1495
+#: ../control-center:1496
 #, fuzzy, c-format
 msgid "Mageia Contributors"
 msgstr "मैनड्रिव लिनक्स के योगदानकर्ता"
@@ -1937,8 +1937,12 @@ msgstr "स्क्रीन विघटन"
 
 #: ../drakconf.desktop.in.h:1
 #, fuzzy
-msgid "Configure Your Computer"
-msgstr "ग्रुपवेयर संरचना"
+msgid "Mageia Control Center"
+msgstr "नियंत्रण केन्द्र"
+
+#, fuzzy
+#~ msgid "Configure Your Computer"
+#~ msgstr "ग्रुपवेयर संरचना"
 
 #, fuzzy
 #~ msgid "Mandriva Linux"

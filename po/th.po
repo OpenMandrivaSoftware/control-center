@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drakconf 0.90\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-02-06 01:19+0100\n"
+"POT-Creation-Date: 2008-02-22 23:38+0200\n"
 "PO-Revision-Date: 2003-03-01 08:12+0900\n"
 "Last-Translator: Pramote Khuwijitjaru <kmote@hotmail.com>\n"
 "Language-Team: Thai <en@li.org>\n"
@@ -529,7 +529,7 @@ msgstr ""
 msgid "%s Control Center"
 msgstr "%s ฐานควบคุม"
 
-#: ../control-center:106 ../control-center:1058
+#: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
 msgstr "โปรดรอสักครู่..."
@@ -1013,22 +1013,22 @@ msgstr "/แจ้งบั๊ก"
 msgid "/_About..."
 msgstr "/เกี่ยวกับ..."
 
-#: ../control-center:730
+#: ../control-center:732
 #, c-format
 msgid "Cancel"
 msgstr "ยกเลิก"
 
-#: ../control-center:750
+#: ../control-center:752
 #, fuzzy, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr "%s Control Center %s"
 
-#: ../control-center:1037 ../control-center:1102
+#: ../control-center:1039 ../control-center:1104
 #, c-format
 msgid "Error"
 msgstr "ผิดพลาด"
 
-#: ../control-center:1037
+#: ../control-center:1039
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1036,135 +1036,135 @@ msgid ""
 "Please report that bug."
 msgstr ""
 
-#: ../control-center:1102
+#: ../control-center:1104
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr ""
 
-#: ../control-center:1121
+#: ../control-center:1123
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr "การเปลี่บนแปลงที่ทำอยู่ที่นี่จะไม่ถูกบันทึก"
 
-#: ../control-center:1208
+#: ../control-center:1210
 #, c-format
 msgid "cannot fork: %s"
 msgstr "ไม่สามารถ fork: %s"
 
-#: ../control-center:1231
+#: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
 msgstr ""
 
-#: ../control-center:1370
+#: ../control-center:1372
 #, c-format
 msgid "This program has exited abnormally"
 msgstr "ออกจากโปรแกรมแบบไม่ปรกติ"
 
-#: ../control-center:1379
+#: ../control-center:1381
 #, c-format
 msgid "Warning"
 msgstr "คำเตือน"
 
-#: ../control-center:1389 ../drakconsole:31
+#: ../control-center:1391 ../drakconsole:31
 #, c-format
 msgid "Close"
 msgstr "ปิด"
 
-#: ../control-center:1396
+#: ../control-center:1398
 #, c-format
 msgid "More themes"
 msgstr "ธีมอื่นๆ"
 
-#: ../control-center:1398
+#: ../control-center:1400
 #, c-format
 msgid "Getting new themes"
 msgstr "กำลังอ่านธีมใหม่อื่นๆ"
 
-#: ../control-center:1399
+#: ../control-center:1401
 #, c-format
 msgid "Additional themes"
 msgstr "ธีมเพิ่มเติม"
 
-#: ../control-center:1401
+#: ../control-center:1403
 #, c-format
 msgid "Get additional themes on www.damz.net"
 msgstr "อ่านธีมใหม่เพิ่มเติมจาก www.damz.net"
 
-#: ../control-center:1409
+#: ../control-center:1411
 #, c-format
 msgid "About - %s Control Center"
 msgstr "เกี่ยวกับ - %s Control Center"
 
-#: ../control-center:1418
+#: ../control-center:1420
 #, c-format
 msgid "Authors: "
 msgstr "ผู้แต่ง:  "
 
-#: ../control-center:1422
+#: ../control-center:1424
 #, c-format
 msgid "(perl version)"
 msgstr "รุ่นของเคอเนล:"
 
-#: ../control-center:1427
+#: ../control-center:1429
 #, c-format
 msgid "Artwork: "
 msgstr "งานศิลป์: "
 
-#: ../control-center:1432
+#: ../control-center:1434
 #, c-format
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1455
+#: ../control-center:1456
 #, c-format
 msgid "- %s: %s\n"
 msgstr ""
 
-#: ../control-center:1470
+#: ../control-center:1471
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "ทวีศักดิ์ แตะกระโทก"
 
-#: ../control-center:1472
+#: ../control-center:1473
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "<taekratt@yahoo.com>"
 
-#: ../control-center:1474
+#: ../control-center:1475
 #, c-format
 msgid "Translator: "
 msgstr "ผู้แปล:"
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1483
+#: ../control-center:1484
 #, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "%s ฐานควบคุม"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1488
+#: ../control-center:1489
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "สงวนลิขสิทธิ์ (C) %s Mandriva SA"
 
-#: ../control-center:1488
+#: ../control-center:1489
 #, fuzzy, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr "สงวนลิขสิทธิ์ (C) %s Mandriva SA"
 
-#: ../control-center:1494
+#: ../control-center:1495
 #, c-format
 msgid "Authors"
 msgstr "ผู้แต่ง"
 
-#: ../control-center:1495
+#: ../control-center:1496
 #, fuzzy, c-format
 msgid "Mageia Contributors"
 msgstr "Mandriva Linux Control Center %s"
@@ -1918,8 +1918,12 @@ msgid "Screen Resolution"
 msgstr "ความละเอียดของจอ"
 
 #: ../drakconf.desktop.in.h:1
-msgid "Configure Your Computer"
-msgstr "ปรับแต่งเครื่องคอมพิวเตอร์ของท่าน"
+#, fuzzy
+msgid "Mageia Control Center"
+msgstr "ศูนย์ควบคุม"
+
+#~ msgid "Configure Your Computer"
+#~ msgstr "ปรับแต่งเครื่องคอมพิวเตอร์ของท่าน"
 
 #, fuzzy
 #~ msgid "Mandriva Linux"

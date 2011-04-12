@@ -7,13 +7,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Drakconf VERSION\n"
-"POT-Creation-Date: 2011-02-06 01:19+0100\n"
+"POT-Creation-Date: 2008-02-22 23:38+0200\n"
 "PO-Revision-Date: 2005-03-05 23:20+0600\n"
 "Last-Translator: Jamil Ahmed <jamil@bengalinux.org>\n"
 "Language-Team: Bangla <mdk-translation@bengalinux.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -560,7 +560,7 @@ msgstr ""
 msgid "%s Control Center"
 msgstr "ম্যান্ড্রিব লিনাক্স নিয়ন্ত্রন (control) সেন্টার"
 
-#: ../control-center:106 ../control-center:1058
+#: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
 msgstr "লোড করা হচ্ছে... দয়া করে অপেক্ষা করুন"
@@ -1043,22 +1043,22 @@ msgstr "/_বাগ সম্বন্ধে রিপোর্ট করুন"
 msgid "/_About..."
 msgstr "/_পরিচিতি..."
 
-#: ../control-center:730
+#: ../control-center:732
 #, c-format
 msgid "Cancel"
 msgstr "বাতিল"
 
-#: ../control-center:750
+#: ../control-center:752
 #, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr "ম্যান্ড্রিব লিনাক্স নিয়ন্ত্রন (control) সেন্টার %s [%s -এ]"
 
-#: ../control-center:1037 ../control-center:1102
+#: ../control-center:1039 ../control-center:1104
 #, c-format
 msgid "Error"
 msgstr "ত্রুটি"
 
-#: ../control-center:1037
+#: ../control-center:1039
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1069,95 +1069,95 @@ msgstr ""
 "\n"
 "অনুগ্রহ করে বাগটি রিপোর্ট করুন।"
 
-#: ../control-center:1102
+#: ../control-center:1104
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr "'%s' - অজানা প্রোগ্রামটি চালানো অসম্ভব"
 
-#: ../control-center:1121
+#: ../control-center:1123
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr "বর্তমান মডিউলে যে পরিবর্তনগুলো করা হয়েছে তা সংরক্ষণ করা সম্ভব হবে না।"
 
-#: ../control-center:1208
+#: ../control-center:1210
 #, c-format
 msgid "cannot fork: %s"
 msgstr "fork করা যায় নি: %s"
 
-#: ../control-center:1231
+#: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
 msgstr "\"%s\" fork এবং exec করা যায় নি কারন এটি চালানো সম্ভব নয়"
 
-#: ../control-center:1370
+#: ../control-center:1372
 #, c-format
 msgid "This program has exited abnormally"
 msgstr "এই প্রোগ্রামটি অস্বাভাবিকভাবে বন্ধ হয়ে গেছে"
 
-#: ../control-center:1379
+#: ../control-center:1381
 #, c-format
 msgid "Warning"
 msgstr "সতর্কবাণী"
 
-#: ../control-center:1389 ../drakconsole:31
+#: ../control-center:1391 ../drakconsole:31
 #, c-format
 msgid "Close"
 msgstr "বন্ধ করো"
 
-#: ../control-center:1396
+#: ../control-center:1398
 #, c-format
 msgid "More themes"
 msgstr "আরো থীম"
 
-#: ../control-center:1398
+#: ../control-center:1400
 #, c-format
 msgid "Getting new themes"
 msgstr "নতুন থীম পাওয়া যাচ্ছে"
 
-#: ../control-center:1399
+#: ../control-center:1401
 #, c-format
 msgid "Additional themes"
 msgstr "অতিরিক্ত থীম"
 
-#: ../control-center:1401
+#: ../control-center:1403
 #, c-format
 msgid "Get additional themes on www.damz.net"
 msgstr "www.damz.net -থেকে আরো থীম পেতে পারেন"
 
 # কেন্দ্র
-#: ../control-center:1409
+#: ../control-center:1411
 #, c-format
 msgid "About - %s Control Center"
 msgstr "পরিচিতি - ম্যান্ড্রিব লিনাক্স নিয়ন্ত্রন সেন্টার"
 
-#: ../control-center:1418
+#: ../control-center:1420
 #, c-format
 msgid "Authors: "
 msgstr "লেখকবৃন্দ: "
 
 # ভারসান = ভার্সন
-#: ../control-center:1422
+#: ../control-center:1424
 #, c-format
 msgid "(perl version)"
 msgstr "(perl-র ভার্সন)"
 
-#: ../control-center:1427
+#: ../control-center:1429
 #, c-format
 msgid "Artwork: "
 msgstr "শিল্পকর্ম: "
 
-#: ../control-center:1432
+#: ../control-center:1434
 #, c-format
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1455
+#: ../control-center:1456
 #, c-format
 msgid "- %s: %s\n"
 msgstr ""
 
-#: ../control-center:1470
+#: ../control-center:1471
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
@@ -1168,7 +1168,7 @@ msgstr ""
 "খন্দকার মুজাহিদুল ইসলাম সুজন\n"
 "অঙ্কুর প্রকল্পের পক্ষ থেকে।"
 
-#: ../control-center:1472
+#: ../control-center:1473
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
@@ -1178,35 +1178,35 @@ msgstr ""
 "<itsjamil@yahoo.com>\n"
 "<suzan@bengalinux.org>"
 
-#: ../control-center:1474
+#: ../control-center:1475
 #, c-format
 msgid "Translator: "
 msgstr "অনুবাদক: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1483
+#: ../control-center:1484
 #, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "ম্যান্ড্রিব লিনাক্স নিয়ন্ত্রন (control) সেন্টার"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1488
+#: ../control-center:1489
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "কপিরাইট (C) ১৯%s Mandriva SA"
 
-#: ../control-center:1488
+#: ../control-center:1489
 #, fuzzy, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr "কপিরাইট (C) ১৯%s Mandriva SA"
 
-#: ../control-center:1494
+#: ../control-center:1495
 #, c-format
 msgid "Authors"
 msgstr "লেখকবৃন্দ"
 
-#: ../control-center:1495
+#: ../control-center:1496
 #, fuzzy, c-format
 msgid "Mageia Contributors"
 msgstr "ম্যান্ড্রিব লিনাক্স-এ অংশগ্রহণকারী"
@@ -1951,9 +1951,14 @@ msgstr "মনিটর"
 msgid "Screen Resolution"
 msgstr "পর্দার রেজ্যুলিউসন"
 
+# আমাদেরকে কি এরকম কারে ইংরেজীটা রাখতেই হবে? যেমন: (control)
 #: ../drakconf.desktop.in.h:1
-msgid "Configure Your Computer"
-msgstr "কম্পিউটারকে কনফিগার করুন"
+#, fuzzy
+msgid "Mageia Control Center"
+msgstr "নিয়ন্ত্রন কেন্দ্র"
+
+#~ msgid "Configure Your Computer"
+#~ msgstr "কম্পিউটারকে কনফিগার করুন"
 
 #, fuzzy
 #~ msgid "Mandriva Linux"

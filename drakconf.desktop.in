@@ -1,6 +1,6 @@
 [Desktop Entry]
-_Name=Configure Your Computer
-_Comment=Configure Your Computer
+_Name=Mageia Control Center
+_Comment=Mageia Control Center
 Exec=/usr/sbin/drakconf
 Icon=drakconf
 Terminal=false

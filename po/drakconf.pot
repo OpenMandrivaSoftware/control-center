@@ -1891,5 +1891,5 @@ msgid "Screen Resolution"
 msgstr ""
 
 #: ../drakconf.desktop.in.h:1
-msgid "Configure Your Computer"
+msgid "Mageia Control Center"
 msgstr ""
