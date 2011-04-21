@@ -159,7 +159,6 @@ my @tree = (
                             if_(0, "Mageia Online"),
                             "Updates Configuration",
                             "Software Media Manager",
-                            "Extended Maintenance",
                         ]
                     },
                 ),
