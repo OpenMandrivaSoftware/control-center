@@ -1,33 +1,19 @@
-# translation of control-center.po to ukrainian
-# Ukrainian translation of drakconf.
-# $Id: uk.po 269532 2010-05-26 15:42:45Z cfergeau $
-# Copyright (C) 2000,2003, 2004, 2005, 2006, 2007, 2008, 2009 Free Software Foundation, Inc.
-# Copyright (c) 2000 Mandriva
+# Copyright (C) 2011 Free Software Foundation, Inc.
 #
-# Sergey Ribalchenko <fisher@obu.ck.ua>, 2000.
-# Michael Shigorin <mike@alt-linux.org>, 2002 (small fixes).
-# Gladky Dima <gladimdim@inbox.ru>, 2002 (fixes).
-# Taras Boychuk <btr1@torba.com>, 2002,2003, 2004.
-# Pavel Maryanov <acid_jack@ukr.net>, 2003.
-# Taras Boychuk <btr1@ukrpost.net>, 2004, 2005.
-# Taras Boychuk <btr1@mail.ru>, 2005, 2006, 2007.
-# Taras Boychuk <btr0001@ukr.net>, 2008, 2009.
-# Yuri Chornoivan <yurchor@ukr.net>, 2009, 2010.
+# Yuri Chornoivan <yurchor@ukr.net>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
-"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-02-22 23:38+0200\n"
-"PO-Revision-Date: 2010-05-04 16:01+0300\n"
+"PO-Revision-Date: 2011-04-26 13:35+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
-"Language-Team: Ukrainian <translation@linux.org.ua>\n"
-"Language: uk\n"
+"Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 "X-Generator: Lokalize 1.0\n"
-"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: ../contributors.pl:11
 #, c-format
@@ -44,9 +30,7 @@ msgstr "Per Oyvind Karlsen"
 msgid ""
 "massive packages rebuilding and cleaning, games, sparc port, proofreading of "
 "Mandriva tools"
-msgstr ""
-"перебудовано і почищено багато пакунків, ігри, переведення на процесори "
-"sparc, вичитування Mandriva tools"
+msgstr "перебудовано і почищено багато пакунків, ігри, переведення на процесори sparc, вичитування Mandriva tools"
 
 #: ../contributors.pl:13
 #, c-format
@@ -88,9 +72,7 @@ msgstr "Ben Reser"
 msgid ""
 "updated nc with debian patches, fixed some perl packages, dnotify startup "
 "script, urpmc, hddtemp, wipe, etc..."
-msgstr ""
-"поновлено nc латками з debian, виправлено деякі пакунки perl, скрипт "
-"завантаження dnotify, urpmc, hddtemp, wipe і т.д..."
+msgstr "поновлено nc латками з debian, виправлено деякі пакунки perl, скрипт завантаження dnotify, urpmc, hddtemp, wipe тощо."
 
 #: ../contributors.pl:17 ../contributors.pl:42
 #, c-format
@@ -102,9 +84,7 @@ msgstr "Thomas Backlund"
 msgid ""
 "\"deep and broad\" kernel work (many new patches before integration in "
 "official kernel)"
-msgstr ""
-"\"глибока і всебічна\" робота над ядром (багато нових латок до включення в "
-"офіційне ядро)"
+msgstr "\"глибока і всебічна\" робота над ядром (багато нових латок до включення в офіційне ядро)"
 
 #: ../contributors.pl:18
 #, c-format
@@ -137,10 +117,7 @@ msgid ""
 "Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
 "software (grass, mapserver), cursor_themes collection, misc server-side "
 "contributions"
-msgstr ""
-"Samba 3.0 (попередній випуск), що співіснує з Samba 2.2.x, Samba-2.2.x, "
-"програми GIS (трава, map-сервер), колекція тем з курсорами, різні серверні "
-"доповнення"
+msgstr "Samba 3.0 (попередній випуск), що співіснує з Samba 2.2.x, Samba-2.2.x, програми GIS (Grass, mapserver), колекція тем з курсорами, різні серверні доповнення"
 
 #: ../contributors.pl:21
 #, c-format
@@ -152,9 +129,7 @@ msgstr "Goetz Waschk"
 msgid ""
 "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
 "python, rox desktop"
-msgstr ""
-"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms, втулки до gnome-"
-"python, стільниця rox"
+msgstr "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms, втулки до gnome-python, стільниця rox"
 
 #: ../contributors.pl:22
 #, c-format
@@ -166,9 +141,7 @@ msgstr "Austin Acton"
 msgid ""
 "audio/video/MIDI apps, scientific apps, audio/video production howtos, "
 "bluetooth, pyqt & related"
-msgstr ""
-"програми для аудіо/відео/MIDI, наукові програми, ЯК ЗРОБИТИ для створення "
-"аудіо/відео, bluetooth, pyqt і зв'язане з ними"
+msgstr "програми для аудіо/відео/MIDI, наукові програми, ЯК ЗРОБИТИ для створення аудіо/відео, bluetooth, pyqt і зв'язане з ними"
 
 #: ../contributors.pl:23
 #, c-format
@@ -198,7 +171,7 @@ msgstr "Oden Eriksson"
 #: ../contributors.pl:25
 #, c-format
 msgid "most web-based packages and many security-related packages"
-msgstr "більшість пакунків, основаних на веб, і багато пакунків безпеки"
+msgstr "більшість пакунків, пов’язаних з інтернетом і багато пакунків безпеки"
 
 #: ../contributors.pl:26
 #, c-format
@@ -218,7 +191,7 @@ msgstr "David Walser"
 #: ../contributors.pl:27
 #, c-format
 msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
-msgstr "скрипт rpmsync script, програвач міді foolproof, налагодження libao"
+msgstr "скрипт rpmsync, належне відтворення MIDI, налагодження libao"
 
 #: ../contributors.pl:28
 #, c-format
@@ -228,7 +201,7 @@ msgstr "Andi Payn"
 #: ../contributors.pl:28
 #, c-format
 msgid "many extra gnome applets and python modules"
-msgstr "багато додаткових аплетів до гноме і модулів для пітона"
+msgstr "багато додаткових аплетів до Gnome і модулів для Python"
 
 #: ../contributors.pl:29 ../contributors.pl:41
 #, c-format
@@ -240,10 +213,7 @@ msgstr "Tibor Pittich"
 msgid ""
 "sk-i18n, contributed several packages, openldap testing and integration, "
 "bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
-msgstr ""
-"sk-i18n, розробка кількох пакунків, тестування і інтеграція openldap, bind-"
-"sdb-ldap, кількарічна участь підготовці нових дистрибутивів і тестування на "
-"помилки, і т.д..."
+msgstr "sk-i18n, розробка кількох пакунків, тестування і інтеграція openldap, bind-sdb-ldap, кількарічна участь підготовці нових дистрибутивів і тестування на помилки тощо."
 
 #: ../contributors.pl:30
 #, c-format
@@ -273,7 +243,7 @@ msgstr "Christophe Guilloux"
 #: ../contributors.pl:32
 #, c-format
 msgid "bug reports, help with thunderbird package,..."
-msgstr "звіти про помилки, допомога з пакунком thunderbird..."
+msgstr "звіти про помилки, допомога з пакунком thunderbird…"
 
 #: ../contributors.pl:33
 #, c-format
@@ -285,9 +255,7 @@ msgstr "Brook Humphrey"
 msgid ""
 "testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
 "spamassassin, maildrop, clamav."
-msgstr ""
-"тестування і звіти про помилки, Dovecot, bibletime, sword, допомога з pure-"
-"ftpd, spamassassin, maildrop, clamav."
+msgstr "тестування і звіти про помилки, Dovecot, bibletime, sword, допомога з pure-ftpd, spamassassin, maildrop, clamav."
 
 #: ../contributors.pl:34
 #, c-format
@@ -300,10 +268,7 @@ msgid ""
 "http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
 "support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
 "drakxtools"
-msgstr ""
-"підтримка http-проксі у встановлювачі, підтримка ядра 2.6 у sndconfig, "
-"підтримка samba3 у LinNeighborhood, виправлення і додаткові можливості у "
-"urpmi, bootsplash і drakxtools"
+msgstr "підтримка http-проксі у встановлювачі, підтримка ядра 2.6 у sndconfig, підтримка samba3 у LinNeighborhood, виправлення і додаткові можливості у urpmi, bootsplash і drakxtools"
 
 #: ../contributors.pl:35
 #, c-format
@@ -348,9 +313,7 @@ msgstr "Перекладачі"
 #: ../contributors.pl:40
 #, c-format
 msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
-msgstr ""
-"Перекладач і координатор Norwegian Bokml (nb), робота над "
-"інтернаціоналізацією."
+msgstr "Перекладач і координатор Norwegian Bokml (nb), робота над інтернаціоналізацією."
 
 #: ../contributors.pl:41
 #, c-format
@@ -360,7 +323,7 @@ msgstr "лідер команди mdk sk-i18n"
 #: ../contributors.pl:42
 #, c-format
 msgid "Finnish translator and coordinator"
-msgstr "Перекладач і координатор перекладу на фінську мову"
+msgstr "Перекладач і координатор перекладу фінською мовою"
 
 #: ../contributors.pl:43
 #, c-format
@@ -370,7 +333,7 @@ msgstr "Reinout Van Schouwen"
 #: ../contributors.pl:43
 #, c-format
 msgid "Dutch translator and coordinator"
-msgstr "Перекладач і координатор перекладу на голландську мову"
+msgstr "Перекладач і координатор перекладу голландською мовою"
 
 #: ../contributors.pl:44
 #, c-format
@@ -380,7 +343,7 @@ msgstr "Keld Simonsen"
 #: ../contributors.pl:44
 #, c-format
 msgid "Danish translator (and some Bokmal too:-)"
-msgstr "Перекладач на голландську мову (і ще трохи Bokmal)"
+msgstr "Перекладач голландською мовою (і ще трохи букмол)"
 
 #: ../contributors.pl:45
 #, c-format
@@ -390,7 +353,7 @@ msgstr "Karl Ove Hufthammer"
 #: ../contributors.pl:45
 #, c-format
 msgid "Norwegian Nynorsk (nn) translator and coordinator"
-msgstr "Перекладач і координатор Norwegian Nynorsk (nn)"
+msgstr "Перекладач і координатор норвезькою (нюноршк, nn)"
 
 #: ../contributors.pl:46
 #, c-format
@@ -400,7 +363,7 @@ msgstr "Marek Laane"
 #: ../contributors.pl:46
 #, c-format
 msgid "Estonian translator"
-msgstr "Перекладач на естонську мову"
+msgstr "Перекладач естонською мовою"
 
 #: ../contributors.pl:47
 #, c-format
@@ -410,7 +373,7 @@ msgstr "Andrea Celli"
 #: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
 #, c-format
 msgid "Italian Translator"
-msgstr "Перекладач на італійську мову"
+msgstr "Перекладач італійською мовою"
 
 #: ../contributors.pl:48 ../contributors.pl:64
 #, c-format
@@ -430,7 +393,7 @@ msgstr "Vedran Ljubovic"
 #: ../contributors.pl:50
 #, c-format
 msgid "Bosnian translator"
-msgstr "Перекладач на боснійську мову"
+msgstr "Перекладач боснійською мовою"
 
 #: ../contributors.pl:51
 #, c-format
@@ -551,14 +514,12 @@ msgstr "MD, тестування і виявлення помилок"
 msgid ""
 "And many unnamed and unknown beta testers and bug reporters that helped make "
 "sure it all worked right."
-msgstr ""
-"І багато безіменних і невідомих бета тестувальників і повідомлювачів про "
-"помилки, які допомагали бути впевненим, що все це працює правильно."
+msgstr "І багато безіменних і невідомих бета-тестувальників і авторів повідомлень про помилки, які допомагали бути впевненим, що все це працює правильно."
 
 #: ../control-center:90
 #, c-format
 msgid "Mageia"
-msgstr ""
+msgstr "Mageia"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -568,9 +529,10 @@ msgstr "Центр керування %s"
 #: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
-msgstr "Завантажую... Будь ласка, зачекайте..."
+msgstr "Завантажую… Будь ласка, зачекайте…"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:151 ../control-center:155
 #, c-format
 msgid "Software Management"
@@ -587,7 +549,8 @@ msgstr "Інші"
 msgid "Server wizards"
 msgstr "Помічники налаштування сервера"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:180 ../control-center:183
 #, c-format
 msgid "Sharing"
@@ -606,28 +569,24 @@ msgstr "Налаштувати сервер FTP"
 #: ../control-center:189
 #, c-format
 msgid "Configure Samba"
-msgstr "Налаштувати самбу"
+msgstr "Налаштувати Samba"
 
 #: ../control-center:190
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
-msgstr ""
-"Встановити файловий сервер і сервер друку для робочих станцій для Linux і не-"
-"Linux систем"
+msgstr "Встановити файловий сервер і сервер друку для робочих станцій для Linux і не-Linux систем"
 
 #: ../control-center:192
 #, c-format
 msgid "Manage Samba share"
-msgstr "Налаштувати доступ по Самбі"
+msgstr "Налаштувати спільний ресурс Samba"
 
 #: ../control-center:193
 #, c-format
 msgid "Manage, create special share, create public/user share"
-msgstr ""
-"Керування, створення спеціального ресурсу, створення загального/"
-"для_користувача ресурсу"
+msgstr "Керування, створення спеціального ресурсу, створення загального/для_користувача ресурсу"
 
 #: ../control-center:195
 #, c-format
@@ -649,7 +608,8 @@ msgstr "Налаштувати сервер встановлення"
 msgid "Set up server for network installations of %s"
 msgstr "Встановити сервер для встановлення %s з мережі"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:209 ../control-center:212
 #, c-format
 msgid "Network Services"
@@ -692,18 +652,18 @@ msgstr "Налаштувати час"
 
 #: ../control-center:225
 #, c-format
-msgid ""
-"Set the time of the server to be synchronized with an external time server"
-msgstr ""
-"Встановити, щоб час на сервері синхронізувався із зовнішнім сервером часу"
+msgid "Set the time of the server to be synchronized with an external time server"
+msgstr "Встановити, щоб час на сервері синхронізувався із зовнішнім сервером часу"
 
 #: ../control-center:227 ../control-center:228
 #, c-format
 msgid "OpenSSH daemon configuration"
 msgstr "Налаштування служби OpenSSH"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will
+#. searchs it:
 #: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Authentication"
@@ -727,9 +687,10 @@ msgstr "Налаштувати LDAP"
 #: ../control-center:250
 #, c-format
 msgid "Configure the LDAP directory services"
-msgstr "Налаштувати послуги LDAP directory"
+msgstr "Налаштувати служби каталогу LDAP"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:261 ../control-center:264
 #, c-format
 msgid "Groupware"
@@ -765,7 +726,8 @@ msgstr "Налаштувати пошту"
 msgid "Configure the Internet Mail services"
 msgstr "Налаштувати послуги Internet Mail"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:286 ../control-center:289
 #, c-format
 msgid "Online Administration"
@@ -794,10 +756,10 @@ msgstr "Віддалене адміністрування"
 #: ../control-center:309
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
-msgstr ""
-"Натисніть тут, якщо хочете налаштувати віддалену скриньку через веб-інтерфійс"
+msgstr "Натисніть тут, якщо хочете налаштувати віддалену скриньку через веб-інтерфійс"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:323
 #, c-format
 msgid "Hardware"
@@ -823,7 +785,8 @@ msgstr "Налаштувати мишу і клавіатуру"
 msgid "Configure printing and scanning"
 msgstr "Налаштувати друк і сканування"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:365 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
@@ -839,7 +802,8 @@ msgstr "Налаштувати мережеві пристрої"
 msgid "Personalize and Secure your network"
 msgstr "Налаштувати особисті установки і безпеку мережі"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:400
 #, c-format
 msgid "System"
@@ -860,7 +824,8 @@ msgstr "Локалізація"
 msgid "Administration tools"
 msgstr "Інструменти адміністрування"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:436
 #, c-format
 msgid "Network Sharing"
@@ -881,7 +846,8 @@ msgstr "Налаштувати доступ по ресурсів NFS"
 msgid "Configure WebDAV shares"
 msgstr "Налаштувати доступ до WebDAV"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:463 ../control-center:466
 #, c-format
 msgid "Local disks"
@@ -895,7 +861,7 @@ msgstr "CD-ROM (%s)"
 #: ../control-center:491
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
-msgstr "Задайте, куди монтувати CD-ROM \"%s\""
+msgstr "Вкажіть, куди монтувати CD-ROM «%s»"
 
 #: ../control-center:493
 #, c-format
@@ -905,7 +871,7 @@ msgstr "DVD-ROM (%s)"
 #: ../control-center:494
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
-msgstr "Задайте, куди монтувати DVD-ROM \"%s\""
+msgstr "Задайте, куди монтувати DVD-ROM «%s»"
 
 #: ../control-center:496
 #, c-format
@@ -915,7 +881,7 @@ msgstr "Записувач КД/DVD (%s)"
 #: ../control-center:497
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
-msgstr "Задайте, куди монтувати записувач CD/DVD \"%s\""
+msgstr "Задайте, куди монтувати записувач CD/DVD «%s»"
 
 #: ../control-center:499
 #, c-format
@@ -927,13 +893,15 @@ msgstr "Дисковод ZIP"
 msgid "Set where your ZIP drive is mounted"
 msgstr "Задайте, куди монтувати дисковод ZIP"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:512 ../control-center:515
 #, c-format
 msgid "Security"
 msgstr "Безпека"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:530
 #, c-format
 msgid "Boot"
@@ -1050,7 +1018,7 @@ msgstr "/_R Звіт про помилку"
 #: ../control-center:674
 #, c-format
 msgid "/_About..."
-msgstr "/_A Про програму..."
+msgstr "/_A Про програму…"
 
 #: ../control-center:732
 #, c-format
@@ -1060,7 +1028,7 @@ msgstr "Скасувати"
 #: ../control-center:752
 #, c-format
 msgid "%s Control Center %s [on %s]"
-msgstr "%s Центр керування Мандріва Лінакс %s [на %s]"
+msgstr "%s Центр керування %s [на %s]"
 
 #: ../control-center:1039 ../control-center:1104
 #, c-format
@@ -1096,9 +1064,7 @@ msgstr "не вдалося виконати розгалуження: %s"
 #: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
-msgstr ""
-"неможливо здійснити розгалуження і виконати \"%s\", оскільки він не є "
-"виконуваним"
+msgstr "неможливо здійснити розгалуження і виконати «%s», оскільки він не є виконуваним"
 
 #: ../control-center:1372
 #, c-format
@@ -1160,7 +1126,8 @@ msgstr "Оформлення:"
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
-#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#. -PO: this is used as "language: translator" in credits part of the about
+#. dialog:
 #: ../control-center:1456
 #, c-format
 msgid "- %s: %s\n"
@@ -1171,37 +1138,38 @@ msgstr "- %s: %s\n"
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
-msgstr "Тарас Бойчук"
+msgstr "Тарас Бойчук, Юрій Чорноіван"
 
 #: ../control-center:1473
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
-msgstr "<btr1@ukr.net>"
+msgstr "btr1@ukr.net, yurchor@ukr.net"
 
 #: ../control-center:1475
 #, c-format
 msgid "Translator: "
-msgstr "Перекладач:"
+msgstr "Перекладач: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free)
+#. Control Center")
 #: ../control-center:1484
 #, c-format
 msgid "%s %s (%s) Control Center"
-msgstr "Центр керування Мандріва Лінакс %s %s (%s)"
+msgstr "Центр керування %s %s (%s)"
 
 #. -PO: here %s is eg: "1999-2008"
 #: ../control-center:1489
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
-msgstr "Права на розповсюдження застережені (С) %s Mandriva SA"
+msgstr "©Mandriva SA, %s"
 
 #: ../control-center:1489
-#, fuzzy, c-format
+#, c-format
 msgid "Copyright (C) %s Mageia"
-msgstr "Права на розповсюдження застережені (С) %s Mandriva SA"
+msgstr "©Mageia, %s"
 
 #: ../control-center:1495
 #, c-format
@@ -1209,9 +1177,9 @@ msgid "Authors"
 msgstr "Автори"
 
 #: ../control-center:1496
-#, fuzzy, c-format
+#, c-format
 msgid "Mageia Contributors"
-msgstr "Вони підтримують Мандріва Лінакс"
+msgstr "Учасники розробки Mageia"
 
 #: ../drakconsole:27
 #, c-format
@@ -1290,9 +1258,8 @@ msgstr "Налаштувати ефекти 3D-стільниці"
 
 #: ../lib/MDV/Control_Center.pm:68
 #, c-format
-msgid ""
-"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
-msgstr "Виберіть метод розпізнавання (local, NIS, LDAP, Windows Domain, ...)"
+msgid "Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr "Виберіть метод розпізнавання (local, NIS, LDAP, Windows Domain, …)"
 
 #: ../lib/MDV/Control_Center.pm:77
 #, c-format
@@ -1347,7 +1314,7 @@ msgstr "Розділити доступ до Інтернету з іншими 
 #: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
 #, c-format
 msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
-msgstr "Встановити новий мережевий інтерфейс (LAN, ISDN, ADSL, ...)"
+msgstr "Встановити новий мережевий інтерфейс (LAN, ISDN, ADSL, …)"
 
 #: ../lib/MDV/Control_Center.pm:148
 #, c-format
@@ -1391,14 +1358,13 @@ msgstr "Встановити особистий захисний шлюз"
 
 #: ../lib/MDV/Control_Center.pm:200
 #, c-format
-msgid ""
-"Set up a personal firewall in order to protect the computer and the network"
+msgid "Set up a personal firewall in order to protect the computer and the network"
 msgstr "Встановити особистий захисний шлюз для захисту комп'ютера і мережі"
 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Вилучити і встановити шрифти. Імпорт шрифтів Віндовса"
+msgstr "Вилучити і встановити шрифти. Імпорт шрифтів Windows™"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1413,7 +1379,7 @@ msgstr "Налаштувати розділи на дисках"
 #: ../lib/MDV/Control_Center.pm:230
 #, c-format
 msgid "Create, delete and resize hard disk partitions"
-msgstr "Створити, видалити або змінити розміри розділів твердого диску"
+msgstr "Створити, вилучити або змінити розміри розділів жорсткого диска"
 
 #: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
 #, c-format
@@ -1453,9 +1419,7 @@ msgstr "Додаткові налаштування мережевого інт�
 #: ../lib/MDV/Control_Center.pm:282
 #, c-format
 msgid "Set up network interfaces failover and firewall replication"
-msgstr ""
-"Налаштування мережевого інтерфейсу перехоплення керування і дублювання "
-"захисного шлюзу"
+msgstr "Налаштування мережевого інтерфейсу перехоплення керування і дублювання захисного шлюзу"
 
 #: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
 #, c-format
@@ -1508,18 +1472,16 @@ msgid "Manage installed software packages on a group of computers"
 msgstr "Керувати встановленням пакунків на групі комп'ютерів"
 
 #: ../lib/MDV/Control_Center.pm:349
-#, fuzzy, c-format
+#, c-format
 msgid "Configure authentication for Mageia tools"
-msgstr "Налаштувати розпізнавання для інструментів Мандріви"
+msgstr "Налаштувати розпізнавання для інструментів Mageia"
 
 #: ../lib/MDV/Control_Center.pm:350
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "Define authentication required to access individual Mageia configuration "
 "tools "
-msgstr ""
-"Задати запити розпізнавання для доступу до окремих інструментів налаштування "
-"Мандріви"
+msgstr "Задати параметри розпізнавання для доступу до окремих інструментів налаштування Mageia "
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1616,17 +1578,17 @@ msgstr "Показати статистику використання вста�
 #: ../lib/MDV/Control_Center.pm:469
 #, c-format
 msgid "Share your hard disk partitions"
-msgstr "Налаштувати доступ до розділів твердого диску"
+msgstr "Налаштувати доступ до розділів жорсткого диска"
 
 #: ../lib/MDV/Control_Center.pm:470
 #, c-format
 msgid "Set up sharing of your hard disk partitions"
-msgstr "Налаштуйте доступ до розділів твердого диску"
+msgstr "Налаштуйте доступ до розділів жорсткого диска"
 
 #: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
 #, c-format
 msgid "Set up the printer(s), the print job queues, ..."
-msgstr "Налаштувати друкарки, черги друку, ..."
+msgstr "Налаштувати друкарки, черги друку, …"
 
 #: ../lib/MDV/Control_Center.pm:491
 #, c-format
@@ -1636,9 +1598,7 @@ msgstr "Заплановані завдання"
 #: ../lib/MDV/Control_Center.pm:492
 #, c-format
 msgid "Schedule programs to run periodically or at given times"
-msgstr ""
-"Створити список програм для їх періодичного виконання або для запуску в "
-"заданий час"
+msgstr "Створити список програм для їх періодичного виконання або для запуску в заданий час"
 
 #: ../lib/MDV/Control_Center.pm:501
 #, c-format
@@ -1648,7 +1608,7 @@ msgstr "Проксі"
 #: ../lib/MDV/Control_Center.pm:502
 #, c-format
 msgid "Set up a proxy server for files and web browsing"
-msgstr "Встановити проксі-сервер для перегляду файлів і вебу"
+msgstr "Встановити проксі-сервер для перегляду файлів та інтернету"
 
 #: ../lib/MDV/Control_Center.pm:510
 #, c-format
@@ -1668,7 +1628,7 @@ msgstr "Вилучити з'єднання"
 #: ../lib/MDV/Control_Center.pm:521
 #, c-format
 msgid "Delete a network interface"
-msgstr "Видалити мережевий інтерфейс"
+msgstr "Вилучити мережевий інтерфейс"
 
 #: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
 #, c-format
@@ -1708,9 +1668,7 @@ msgstr "Налаштувати політику безпеки системи, �
 #: ../lib/MDV/Control_Center.pm:572
 #, c-format
 msgid "Set the system security level, periodic security audit and permissions"
-msgstr ""
-"Встановити рівень безпеки системи і періодичність перевірки безпеки і права "
-"доступу"
+msgstr "Встановити рівень безпеки системи і періодичність перевірки безпеки і права доступу"
 
 #: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
 #, c-format
@@ -1802,7 +1760,7 @@ msgstr "Системне меню"
 #: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
 #, c-format
 msgid "Configure..."
-msgstr "Налаштувати..."
+msgstr "Налаштувати…"
 
 #: ../menus_launcher.pl:31
 #, c-format
@@ -1881,7 +1839,7 @@ msgstr "Рівні і перевірки"
 
 #: ../data/drakxtv.desktop.in.h:1
 msgid "TV Cards"
-msgstr "TV карти"
+msgstr "TБ-карти"
 
 #: ../data/fileshare.desktop.in.h:1
 msgid "Partition Sharing"
@@ -1889,7 +1847,7 @@ msgstr "Розбиття на розділи"
 
 #: ../data/harddrive.desktop.in.h:1
 msgid "Hard Drives"
-msgstr "Тверді диски"
+msgstr "Жорсткі диски"
 
 #: ../data/logdrake.desktop.in.h:1
 msgid "Logs"
@@ -1917,7 +1875,7 @@ msgstr "Конфігурація проксі"
 
 #: ../data/removable.desktop.in.h:1
 msgid "Removable devices"
-msgstr "Знімні пристрої"
+msgstr "Портативні пристрої"
 
 #: ../data/remove-connection.desktop.in.h:1
 msgid "Remove Connection"
@@ -1956,12 +1914,6 @@ msgid "Screen Resolution"
 msgstr "Роздільна здатність екрану"
 
 #: ../drakconf.desktop.in.h:1
-#, fuzzy
 msgid "Mageia Control Center"
-msgstr "Центр Керування"
+msgstr "Центр керування Mageia"
 
-#~ msgid "Configure Your Computer"
-#~ msgstr "Налаштувати комп'ютер"
-
-#~ msgid "Mandriva Linux"
-#~ msgstr "Мандріва Лінакс"
