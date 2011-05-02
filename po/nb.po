@@ -62,7 +62,7 @@ msgstr "Olivier Thauvin"
 #: ../contributors.pl:14
 #, c-format
 msgid "figlet introduction, Distriblint (checking rpm in the distro)"
-msgstr "figlet introduksjon, Distriblint (sjekker rpm-pakker i distroen)"
+msgstr "figlet-introduksjon, Distriblint (sjekker rpm-pakker i distroen)"
 
 #: ../contributors.pl:15
 #, c-format
@@ -373,7 +373,7 @@ msgstr "Keld Simonsen"
 #: ../contributors.pl:44
 #, c-format
 msgid "Danish translator (and some Bokmal too:-)"
-msgstr "Dansk oversetter (og noe Bokmål også:-)"
+msgstr "Dansk oversetter (og noe bokmål også:-)"
 
 #: ../contributors.pl:45
 #, c-format
