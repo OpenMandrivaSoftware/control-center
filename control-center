@@ -302,7 +302,7 @@ my @tree = (
                                 $id;
                             } ( # [ id, wizard file name, icon, description ]
                                 [ "Local Admin", 'local-administration-mdk', '--direct', N("Local administration"),
-                                  (-e "/usr/bin/webmin" ? N("Configure the local machine via web interface") : N("You don't seem to have webmin intalled. Local config is disabled"))
+                                  (-e "/usr/bin/webmin" ? N("Configure the local machine via web interface") : N("You don't seem to have webmin installed. Local config is disabled"))
                               ],
                                 [ "Remote Admin", 'remote-administration-mdk', '--link', N("Remote administration"),
                                   N("Click here if you want to configure a remote box via Web interface"),

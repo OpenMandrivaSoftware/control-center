@@ -23,7 +23,7 @@ use common;
 	N("Spencer Anderson") => N("ATI/gatos/DRM stuff, opengroupware.org"),
 	N("Andrey Borzenkov") => N("supermount-ng and other kernel work"),
 	N("Oden Eriksson") => N("most web-based packages and many security-related packages"),
-	N("Stefan VanDer Eijk") => N("slbd distro checking, devel dependancies"),
+	N("Stefan VanDer Eijk") => N("slbd distro checking, devel dependencies"),
 	N("David Walser") => N("rpmsync script, foolproof MIDI playback, tweaked libao"),
 	N("Andi Payn") => N("many extra gnome applets and python modules"),
 	N("Tibor Pittich") => N("sk-i18n, contributed several packages, openldap testing and integration, bind-sdb-ldap, several years of using cooker and bug hunting, etc..."),
