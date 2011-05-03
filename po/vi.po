@@ -192,8 +192,8 @@ msgstr "Stefan VanDer Eijk"
 
 #: ../contributors.pl:26
 #, c-format
-msgid "slbd distro checking, devel dependancies"
-msgstr "kiểm tra slbd distro, devel dependancies"
+msgid "slbd distro checking, devel dependencies"
+msgstr "kiểm tra slbd distro, devel dependencies"
 
 #: ../contributors.pl:27
 #, c-format

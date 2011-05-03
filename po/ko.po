@@ -182,7 +182,7 @@ msgstr ""
 
 #: ../contributors.pl:26
 #, c-format
-msgid "slbd distro checking, devel dependancies"
+msgid "slbd distro checking, devel dependencies"
 msgstr ""
 
 #: ../contributors.pl:27

@@ -195,7 +195,7 @@ msgstr "Сетфан ван дер Ейк"
 
 #: ../contributors.pl:26
 #, c-format
-msgid "slbd distro checking, devel dependancies"
+msgid "slbd distro checking, devel dependencies"
 msgstr "проверка на slbd, зависимости на devel пакети"
 
 #: ../contributors.pl:27

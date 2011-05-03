@@ -193,7 +193,7 @@ msgstr "ஸ்டீபன் ஃபோண்டெர் எய்க்"
 
 #: ../contributors.pl:26
 #, c-format
-msgid "slbd distro checking, devel dependancies"
+msgid "slbd distro checking, devel dependencies"
 msgstr "sldb distro சோதனை, அதன் சார்புடைய மென்பொருட்களை உருவாக்கியது"
 
 #: ../contributors.pl:27
