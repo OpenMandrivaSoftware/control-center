@@ -767,7 +767,7 @@ msgstr "הגדרת תצורת המחשב המקומי דרך ממשק ווב"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "נראה שתוכנת webmin אינה מותקנת במחשב זה. הגדרת התצורה המקומית תנוטרל"
 
 #: ../control-center:308

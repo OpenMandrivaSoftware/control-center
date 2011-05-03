@@ -763,7 +763,7 @@ msgstr "Ffurfweddu'r peiriant lleol drwy ryngwyneb gwe"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "Nid yw webadmin i weld wedi ei osod. Anablu ffurfweddiad lleol."
 
 #: ../control-center:308

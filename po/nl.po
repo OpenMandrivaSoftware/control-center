@@ -753,7 +753,7 @@ msgstr "De lokale computer configureren via een webinterface"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "U lijkt webmin niet geïnstalleerd te hebben. Lokale configuratie uitgeschakeld"
 
 #: ../control-center:308

@@ -775,7 +775,7 @@ msgstr "Aponty l'ndjole locle d trivi d'ene eterface waibe"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "Vos n'avoz nn wabmin d'astal. L'apontiaedje loc est dismetou"
 
 #: ../control-center:308

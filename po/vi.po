@@ -762,7 +762,7 @@ msgstr "Cấu hình máy nội bộ qua giao diện Web"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "Có vẻ như chưa cài đặt webmin. Cấu hình cục bộ không hoạt động"
 
 #: ../control-center:308

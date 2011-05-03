@@ -754,7 +754,7 @@ msgstr "通过 Web 界面配置本地计算机"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "您似乎没有安装 Webmin。本地配置被禁止"
 
 #: ../control-center:308

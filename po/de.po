@@ -783,7 +783,7 @@ msgstr "Konfigurieren des lokalen Rechners über eine Web-Schnittstelle"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr ""
 "Sie scheinen Webmin nicht installiert zu haben. Lokale Konfiguration wird "
 "abgeschaltet"

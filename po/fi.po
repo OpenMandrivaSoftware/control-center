@@ -773,7 +773,7 @@ msgstr "Hallitse paikallisen koneen asetuksia Internet-selaimen avulla"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "Webminiä ei ole asennettu. Paikallinen asettaminen poistettu käytöstä."
 
 #: ../control-center:308

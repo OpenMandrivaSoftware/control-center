@@ -766,7 +766,7 @@ msgstr "Web インターフェースからローカルマシンを設定"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr ""
 "webmin がインストールされていません。ローカル設定が無効になっています。"
 

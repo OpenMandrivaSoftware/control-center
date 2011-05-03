@@ -768,7 +768,7 @@ msgstr "اضبط الجهاز المحلِّي عبر واجهة وِب"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "يبدو أن webmin غير مثبّتٌ عندك. عُطِّل الضبط المحلي"
 
 #: ../control-center:308

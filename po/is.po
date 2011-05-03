@@ -764,7 +764,7 @@ msgstr "Stilla staðbundna vél um vefviðmót"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr ""
 "Þú virðist ekki hafa sett upp webmin. Ekki hægt að nota staðbundið vefviðmót"
 

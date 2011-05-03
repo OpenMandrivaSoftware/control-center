@@ -811,7 +811,7 @@ msgstr "Configurați mașina locală folosind o interfață web"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr ""
 "Se pare că nu aveți webmin instalat. Configurarea locală este dezactivată"
 

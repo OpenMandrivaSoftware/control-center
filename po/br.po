@@ -740,7 +740,7 @@ msgstr "Kefluniañ an urzhiataer lec'hel gant un etrefas gwiad"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr ""
 
 #: ../control-center:308

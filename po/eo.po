@@ -770,7 +770,7 @@ msgstr "Konfiguri la lokan maŝinon tra ttt-interfaco"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "Ŝajnas ke vi ne instalis webmin. Local config estas elŝaltita"
 
 #: ../control-center:308

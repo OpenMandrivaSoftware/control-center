@@ -780,7 +780,7 @@ msgstr "Configure a máquina local através de interface web"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr ""
 "Não parece ter o webmin instalado. A configuração local está desactivada"
 

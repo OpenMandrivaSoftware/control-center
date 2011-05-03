@@ -770,7 +770,7 @@ msgstr "Podešavanje lokalnog računara putem web interfejsa"
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "Izgleda da niste instalirali webmin. Lokalno podešavanje je isključeno"
 
 #: ../control-center:308

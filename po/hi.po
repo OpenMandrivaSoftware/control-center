@@ -764,7 +764,7 @@ msgstr "स्थानीय कम्प्यूटर की वेब इ�
 
 #: ../control-center:306
 #, c-format
-msgid "You don't seem to have webmin intalled. Local config is disabled"
+msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "लगता है आपने वेबमिन को संसाधित नहीं किया है । स्थानीय संरचना निष्क्रिय है"
 
 #: ../control-center:308
