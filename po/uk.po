@@ -1,19 +1,30 @@
-# Copyright (C) 2011 Free Software Foundation, Inc.
+# translation of control-center.po to ukrainian
+# Ukrainian translation of drakconf.
+# Copyright (c) 2000 Mandriva
 #
-# Yuri Chornoivan <yurchor@ukr.net>, 2011.
+# Sergey Ribalchenko <fisher@obu.ck.ua>, 2000.
+# Michael Shigorin <mike@alt-linux.org>, 2002 (small fixes).
+# Gladky Dima <gladimdim@inbox.ru>, 2002 (fixes).
+# Taras Boychuk <btr1@torba.com>, 2002,2003, 2004.
+# Pavel Maryanov <acid_jack@ukr.net>, 2003.
+# Taras Boychuk <btr1@ukrpost.net>, 2004, 2005.
+# Taras Boychuk <btr1@mail.ru>, 2005, 2006, 2007.
+# Taras Boychuk <btr0001@ukr.net>, 2008, 2009.
+# Yuri Chornoivan <yurchor@ukr.net>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2008-02-22 23:38+0200\n"
-"PO-Revision-Date: 2011-04-26 13:35+0300\n"
+"PO-Revision-Date: 2011-05-07 13:12+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: uk\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
-"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"X-Generator: Lokalize 1.2\n"
 
 #: ../contributors.pl:11
 #, c-format
@@ -30,7 +41,9 @@ msgstr "Per Oyvind Karlsen"
 msgid ""
 "massive packages rebuilding and cleaning, games, sparc port, proofreading of "
 "Mandriva tools"
-msgstr "перебудовано і почищено багато пакунків, ігри, переведення на процесори sparc, вичитування Mandriva tools"
+msgstr ""
+"перебудовано і почищено багато пакунків, ігри, переведення на процесори "
+"sparc, вичитування Mandriva tools"
 
 #: ../contributors.pl:13
 #, c-format
@@ -72,7 +85,9 @@ msgstr "Ben Reser"
 msgid ""
 "updated nc with debian patches, fixed some perl packages, dnotify startup "
 "script, urpmc, hddtemp, wipe, etc..."
-msgstr "поновлено nc латками з debian, виправлено деякі пакунки perl, скрипт завантаження dnotify, urpmc, hddtemp, wipe тощо."
+msgstr ""
+"поновлено nc латками з debian, виправлено деякі пакунки perl, скрипт "
+"завантаження dnotify, urpmc, hddtemp, wipe тощо."
 
 #: ../contributors.pl:17 ../contributors.pl:42
 #, c-format
@@ -84,7 +99,9 @@ msgstr "Thomas Backlund"
 msgid ""
 "\"deep and broad\" kernel work (many new patches before integration in "
 "official kernel)"
-msgstr "\"глибока і всебічна\" робота над ядром (багато нових латок до включення в офіційне ядро)"
+msgstr ""
+"\"глибока і всебічна\" робота над ядром (багато нових латок до включення в "
+"офіційне ядро)"
 
 #: ../contributors.pl:18
 #, c-format
@@ -117,7 +134,10 @@ msgid ""
 "Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
 "software (grass, mapserver), cursor_themes collection, misc server-side "
 "contributions"
-msgstr "Samba 3.0 (попередній випуск), що співіснує з Samba 2.2.x, Samba-2.2.x, програми GIS (Grass, mapserver), колекція тем з курсорами, різні серверні доповнення"
+msgstr ""
+"Samba 3.0 (попередній випуск), що співіснує з Samba 2.2.x, Samba-2.2.x, "
+"програми GIS (Grass, mapserver), колекція тем з курсорами, різні серверні "
+"доповнення"
 
 #: ../contributors.pl:21
 #, c-format
@@ -129,7 +149,9 @@ msgstr "Goetz Waschk"
 msgid ""
 "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
 "python, rox desktop"
-msgstr "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms, втулки до gnome-python, стільниця rox"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms, втулки до "
+"gnome-python, стільниця rox"
 
 #: ../contributors.pl:22
 #, c-format
@@ -141,7 +163,9 @@ msgstr "Austin Acton"
 msgid ""
 "audio/video/MIDI apps, scientific apps, audio/video production howtos, "
 "bluetooth, pyqt & related"
-msgstr "програми для аудіо/відео/MIDI, наукові програми, ЯК ЗРОБИТИ для створення аудіо/відео, bluetooth, pyqt і зв'язане з ними"
+msgstr ""
+"програми для аудіо/відео/MIDI, наукові програми, ЯК ЗРОБИТИ для створення "
+"аудіо/відео, bluetooth, pyqt і зв'язане з ними"
 
 #: ../contributors.pl:23
 #, c-format
@@ -213,7 +237,10 @@ msgstr "Tibor Pittich"
 msgid ""
 "sk-i18n, contributed several packages, openldap testing and integration, "
 "bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
-msgstr "sk-i18n, розробка кількох пакунків, тестування і інтеграція openldap, bind-sdb-ldap, кількарічна участь підготовці нових дистрибутивів і тестування на помилки тощо."
+msgstr ""
+"sk-i18n, розробка кількох пакунків, тестування і інтеграція openldap, "
+"bind-sdb-ldap, кількарічна участь підготовці нових дистрибутивів і тестування "
+"на помилки тощо."
 
 #: ../contributors.pl:30
 #, c-format
@@ -255,7 +282,9 @@ msgstr "Brook Humphrey"
 msgid ""
 "testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
 "spamassassin, maildrop, clamav."
-msgstr "тестування і звіти про помилки, Dovecot, bibletime, sword, допомога з pure-ftpd, spamassassin, maildrop, clamav."
+msgstr ""
+"тестування і звіти про помилки, Dovecot, bibletime, sword, допомога з "
+"pure-ftpd, spamassassin, maildrop, clamav."
 
 #: ../contributors.pl:34
 #, c-format
@@ -268,7 +297,10 @@ msgid ""
 "http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
 "support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
 "drakxtools"
-msgstr "підтримка http-проксі у встановлювачі, підтримка ядра 2.6 у sndconfig, підтримка samba3 у LinNeighborhood, виправлення і додаткові можливості у urpmi, bootsplash і drakxtools"
+msgstr ""
+"підтримка http-проксі у встановлювачі, підтримка ядра 2.6 у sndconfig, "
+"підтримка samba3 у LinNeighborhood, виправлення і додаткові можливості у "
+"urpmi, bootsplash і drakxtools"
 
 #: ../contributors.pl:35
 #, c-format
@@ -313,7 +345,9 @@ msgstr "Перекладачі"
 #: ../contributors.pl:40
 #, c-format
 msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
-msgstr "Перекладач і координатор Norwegian Bokml (nb), робота над інтернаціоналізацією."
+msgstr ""
+"Перекладач і координатор Norwegian Bokml (nb), робота над "
+"інтернаціоналізацією."
 
 #: ../contributors.pl:41
 #, c-format
@@ -514,7 +548,9 @@ msgstr "MD, тестування і виявлення помилок"
 msgid ""
 "And many unnamed and unknown beta testers and bug reporters that helped make "
 "sure it all worked right."
-msgstr "І багато безіменних і невідомих бета-тестувальників і авторів повідомлень про помилки, які допомагали бути впевненим, що все це працює правильно."
+msgstr ""
+"І багато безіменних і невідомих бета-тестувальників і авторів повідомлень про "
+"помилки, які допомагали бути впевненим, що все це працює правильно."
 
 #: ../control-center:90
 #, c-format
@@ -576,7 +612,9 @@ msgstr "Налаштувати Samba"
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
-msgstr "Встановити файловий сервер і сервер друку для робочих станцій для Linux і не-Linux систем"
+msgstr ""
+"Встановити файловий сервер і сервер друку для робочих станцій для Linux і "
+"не-Linux систем"
 
 #: ../control-center:192
 #, c-format
@@ -586,7 +624,9 @@ msgstr "Налаштувати спільний ресурс Samba"
 #: ../control-center:193
 #, c-format
 msgid "Manage, create special share, create public/user share"
-msgstr "Керування, створення спеціального ресурсу, створення загального/для_користувача ресурсу"
+msgstr ""
+"Керування, створення спеціального ресурсу, створення "
+"загального/для_користувача ресурсу"
 
 #: ../control-center:195
 #, c-format
@@ -652,8 +692,10 @@ msgstr "Налаштувати час"
 
 #: ../control-center:225
 #, c-format
-msgid "Set the time of the server to be synchronized with an external time server"
-msgstr "Встановити, щоб час на сервері синхронізувався із зовнішнім сервером часу"
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+"Встановити, щоб час на сервері синхронізувався із зовнішнім сервером часу"
 
 #: ../control-center:227 ../control-center:228
 #, c-format
@@ -756,7 +798,8 @@ msgstr "Віддалене адміністрування"
 #: ../control-center:309
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
-msgstr "Натисніть тут, якщо хочете налаштувати віддалену скриньку через веб-інтерфійс"
+msgstr ""
+"Натисніть тут, якщо хочете налаштувати віддалену скриньку через веб-інтерфійс"
 
 #. -PO: please keep the following message very short: it must fit in the left
 #. list of MCC!!!
@@ -812,7 +855,7 @@ msgstr "Система"
 #: ../control-center:403
 #, c-format
 msgid "Manage system services"
-msgstr "Налаштувати служби системи"
+msgstr "Налаштування служб системи"
 
 #: ../control-center:412
 #, c-format
@@ -834,17 +877,17 @@ msgstr "Спільний доступ"
 #: ../control-center:439
 #, c-format
 msgid "Configure Windows(R) shares"
-msgstr "Налаштувати доступ до ресурсів Windows"
+msgstr "Налаштування доступу до ресурсів Windows"
 
 #: ../control-center:446
 #, c-format
 msgid "Configure NFS shares"
-msgstr "Налаштувати доступ по ресурсів NFS"
+msgstr "Налаштування доступу до ресурсів NFS"
 
 #: ../control-center:453
 #, c-format
 msgid "Configure WebDAV shares"
-msgstr "Налаштувати доступ до WebDAV"
+msgstr "Налаштування доступу до WebDAV"
 
 #. -PO: please keep the following message very short: it must fit in the left
 #. list of MCC!!!
@@ -1064,7 +1107,9 @@ msgstr "не вдалося виконати розгалуження: %s"
 #: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
-msgstr "неможливо здійснити розгалуження і виконати «%s», оскільки він не є виконуваним"
+msgstr ""
+"неможливо здійснити розгалуження і виконати «%s», оскільки він не є "
+"виконуваним"
 
 #: ../control-center:1372
 #, c-format
@@ -1258,7 +1303,8 @@ msgstr "Налаштувати ефекти 3D-стільниці"
 
 #: ../lib/MDV/Control_Center.pm:68
 #, c-format
-msgid "Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
 msgstr "Виберіть метод розпізнавання (local, NIS, LDAP, Windows Domain, …)"
 
 #: ../lib/MDV/Control_Center.pm:77
@@ -1358,7 +1404,8 @@ msgstr "Встановити особистий захисний шлюз"
 
 #: ../lib/MDV/Control_Center.pm:200
 #, c-format
-msgid "Set up a personal firewall in order to protect the computer and the network"
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
 msgstr "Встановити особистий захисний шлюз для захисту комп'ютера і мережі"
 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
@@ -1419,7 +1466,9 @@ msgstr "Додаткові налаштування мережевого інт�
 #: ../lib/MDV/Control_Center.pm:282
 #, c-format
 msgid "Set up network interfaces failover and firewall replication"
-msgstr "Налаштування мережевого інтерфейсу перехоплення керування і дублювання захисного шлюзу"
+msgstr ""
+"Налаштування мережевого інтерфейсу перехоплення керування і дублювання "
+"захисного шлюзу"
 
 #: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
 #, c-format
@@ -1481,7 +1530,9 @@ msgstr "Налаштувати розпізнавання для інструм�
 msgid ""
 "Define authentication required to access individual Mageia configuration "
 "tools "
-msgstr "Задати параметри розпізнавання для доступу до окремих інструментів налаштування Mageia "
+msgstr ""
+"Задати параметри розпізнавання для доступу до окремих інструментів "
+"налаштування Mageia "
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1563,7 +1614,7 @@ msgstr "Надати спільний доступ до файлів і тек �
 #: ../lib/MDV/Control_Center.pm:449
 #, c-format
 msgid "Manage NFS shares"
-msgstr "Налаштувати доступ по NFS"
+msgstr "Налаштування доступу до NFS"
 
 #: ../lib/MDV/Control_Center.pm:459
 #, c-format
@@ -1598,7 +1649,9 @@ msgstr "Заплановані завдання"
 #: ../lib/MDV/Control_Center.pm:492
 #, c-format
 msgid "Schedule programs to run periodically or at given times"
-msgstr "Створити список програм для їх періодичного виконання або для запуску в заданий час"
+msgstr ""
+"Створити список програм для їх періодичного виконання або для запуску в "
+"заданий час"
 
 #: ../lib/MDV/Control_Center.pm:501
 #, c-format
@@ -1663,17 +1716,19 @@ msgstr "Встановити сканер"
 #: ../lib/MDV/Control_Center.pm:571
 #, c-format
 msgid "Configure system security, permissions and audit"
-msgstr "Налаштувати політику безпеки системи, права доступу і перевірку"
+msgstr "Налаштувати правила безпеки системи, права доступу і перевірку"
 
 #: ../lib/MDV/Control_Center.pm:572
 #, c-format
 msgid "Set the system security level, periodic security audit and permissions"
-msgstr "Встановити рівень безпеки системи і періодичність перевірки безпеки і права доступу"
+msgstr ""
+"Встановити рівень безпеки системи і періодичність перевірки безпеки і права "
+"доступу"
 
 #: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
 #, c-format
 msgid "Manage system services by enabling or disabling them"
-msgstr "Налаштування сервісів системи"
+msgstr "Налаштування службв системи"
 
 #: ../lib/MDV/Control_Center.pm:592
 #, c-format
@@ -1916,4 +1971,5 @@ msgstr "Роздільна здатність екрану"
 #: ../drakconf.desktop.in.h:1
 msgid "Mageia Control Center"
 msgstr "Центр керування Mageia"
+
 
