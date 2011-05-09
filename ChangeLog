@@ -1,3 +1,324 @@
+2011-04-21 07:05  
+
+	* Makefile, control-center: remove extended maintainance in control
+	  center entries
+
+2011-04-12 09:27  
+
+	* drakconf.desktop.in, po/af.po, po/am.po, po/ar.po, po/ast.po,
+	  po/az.po, po/be.po, po/bg.po, po/bn.po, po/br.po, po/bs.po,
+	  po/ca.po, po/cs.po, po/cy.po, po/da.po, po/de.po,
+	  po/drakconf.pot, po/el.po, po/eo.po, po/es.po, po/et.po,
+	  po/eu.po, po/fa.po, po/fi.po, po/fr.po, po/fur.po, po/ga.po,
+	  po/gl.po, po/he.po, po/hi.po, po/hr.po, po/hu.po, po/id.po,
+	  po/is.po, po/it.po, po/ja.po, po/ka.po, po/ko.po, po/ku.po,
+	  po/ky.po, po/lt.po, po/ltg.po, po/lv.po, po/mk.po, po/mn.po,
+	  po/ms.po, po/mt.po, po/nb.po, po/nl.po, po/nn.po, po/pa_IN.po,
+	  po/pl.po, po/pt.po, po/pt_BR.po, po/ro.po, po/ru.po, po/sc.po,
+	  po/sk.po, po/sl.po, po/sq.po, po/sr.po, po/sr@Latn.po, po/sv.po,
+	  po/ta.po, po/tg.po, po/th.po, po/tl.po, po/tr.po, po/uk.po,
+	  po/uz.po, po/uz@cyrillic.po, po/vi.po, po/wa.po, po/zh_CN.po,
+	  po/zh_TW.po: change description for mcc (#783)
+
+2011-04-04 09:57  
+
+	* Makefile, NEWS: update NEWS and Makefile
+
+2011-04-04 09:56  
+
+	* pixmaps/default/left-background-filler.png: update image to
+	  manage new design in left background
+
+2011-04-03 12:35  
+
+	* Makefile, NEWS: update version
+
+2011-04-03 12:34  
+
+	* pixmaps/default/left-background.png: update left background
+
+2011-03-30 08:40  
+
+	* po/drakconf.pot: Fix pot file
+
+2011-02-20 01:25  
+
+	* Makefile: - update the version in the Makefile
+
+2011-02-20 01:24  
+
+	* NEWS, pixmaps/default/MageiaUpdate.png,
+	  pixmaps/default/MageiaUpdate_128.png,
+	  pixmaps/default/MandrivaUpdate.png,
+	  pixmaps/default/MandrivaUpdate_128.png: - MandrivaUpdate is now
+	  MageiaUpate, change the icon file names too
+
+2011-02-14 11:24  
+
+	* Makefile, NEWS: fix version
+
+2011-02-14 11:19  
+
+	* Makefile, NEWS: update version
+
+2011-02-14 11:17  
+
+	* pixmaps/default/left-background.png: update left background
+
+2011-02-13 23:32  
+
+	* Makefile, NEWS: Fix NEWS
+	  Fix version number
+
+2011-02-06 10:25  
+
+	* control-center: Change hover to grey
+
+2011-02-06 09:46  
+
+	* control-center: Change color of menu text to grey
+
+2011-02-06 08:31  
+
+	* control-center: Port to new API
+
+2011-02-06 02:39  
+
+	* control-center, po/drakconf.pot: Fix typo
+
+2011-02-06 02:37  
+
+	* Makefile: Bump version
+
+2011-02-06 02:16  
+
+	* ., .perl_checker, AUTHORS, BUGS, COPYING, ChangeLog, Makefile,
+	  NEWS, TODO, apps.drakconf, contributors.pl, control-center,
+	  control-center.rc, credits2po, data, data/Boot.directory.in,
+	  data/Hardware.directory.in, data/Makefile,
+	  data/MountPoints.directory.in, data/NetworkInternet.directory.in,
+	  data/Security.directory.in, data/SoftwareManagement.directory.in,
+	  data/System.directory.in, data/SystemConfig.directory.in,
+	  data/XFDrake-Monitor.desktop.in,
+	  data/XFDrake-Resolution.desktop.in, data/XFDrake.desktop.in,
+	  data/autologin.desktop.in, data/clock.desktop.in,
+	  data/connection.desktop.in, data/drakautoinst.desktop.in,
+	  data/drakbackup.desktop.in, data/drakboot.desktop.in,
+	  data/drakcronat.desktop.in, data/drakdm.desktop.in,
+	  data/drakfirewall.desktop.in, data/drakfloppy.desktop.in,
+	  data/drakfont.desktop.in, data/drakgw.desktop.in,
+	  data/drakperm.desktop.in, data/draksec.desktop.in,
+	  data/drakxservices.desktop.in, data/drakxtv.desktop.in,
+	  data/fileshare.desktop.in, data/harddrake.desktop.in,
+	  data/harddrive.desktop.in, data/internet-access.desktop.in,
+	  data/intltool-merge, data/keyboarddrake.desktop.in,
+	  data/logdrake.desktop.in, data/manage-connection.desktop.in,
+	  data/menudrake.desktop.in, data/monitor-connection.desktop.in,
+	  data/mousedrake.desktop.in, data/nfs.desktop.in,
+	  data/printerdrake.desktop.in, data/proxy.desktop.in,
+	  data/removable.desktop.in, data/remove-connection.desktop.in,
+	  data/samba.desktop.in, data/scannerdrake.desktop.in,
+	  data/system-settings.vfolder-info, data/userdrake.desktop.in,
+	  data/webdav.desktop.in, doc, doc/DrakConf.html,
+	  drakconf.desktop.in, drakconf16.png, drakconf32.png,
+	  drakconf48.png, drakconsole, drakxconf, generate-conf-file.pl,
+	  lib, lib/MDV, lib/MDV/.perl_checker, lib/MDV/Control_Center.pm,
+	  mdkwebadmin.pl, menus_launcher.pl, pam.drakconf, pixmaps,
+	  pixmaps/Makefile, pixmaps/README, pixmaps/default,
+	  pixmaps/default/MandrivaUpdate.png,
+	  pixmaps/default/MandrivaUpdate_128.png,
+	  pixmaps/default/XFdrake-mdk.png,
+	  pixmaps/default/XFdrake-mdk_128.png,
+	  pixmaps/default/autologin-mdk.png,
+	  pixmaps/default/autologin-mdk_128.png,
+	  pixmaps/default/backup-mdk.png,
+	  pixmaps/default/backup-mdk_128.png,
+	  pixmaps/default/boot-theme-mdk.png,
+	  pixmaps/default/boot-theme-mdk_128.png,
+	  pixmaps/default/cadre-ic.png, pixmaps/default/console-mdk.png,
+	  pixmaps/default/console-mdk_128.png,
+	  pixmaps/default/dhcp_server-mdk.png,
+	  pixmaps/default/dhcp_server-mdk_128.png,
+	  pixmaps/default/diskdrake_cdrom.png,
+	  pixmaps/default/diskdrake_cdrom_128.png,
+	  pixmaps/default/diskdrake_cdwriter.png,
+	  pixmaps/default/diskdrake_cdwriter_128.png,
+	  pixmaps/default/diskdrake_dvd.png,
+	  pixmaps/default/diskdrake_dvd_128.png,
+	  pixmaps/default/diskdrake_fileshare.png,
+	  pixmaps/default/diskdrake_fileshare_128.png,
+	  pixmaps/default/diskdrake_floppy.png,
+	  pixmaps/default/diskdrake_floppy_128.png,
+	  pixmaps/default/diskdrake_hd.png,
+	  pixmaps/default/diskdrake_hd_128.png,
+	  pixmaps/default/diskdrake_nfs.png,
+	  pixmaps/default/diskdrake_nfs_128.png,
+	  pixmaps/default/diskdrake_samba.png,
+	  pixmaps/default/diskdrake_samba_128.png,
+	  pixmaps/default/diskdrake_zip.png,
+	  pixmaps/default/diskdrake_zip_128.png,
+	  pixmaps/default/dns_client-mdk.png,
+	  pixmaps/default/dns_client-mdk_128.png,
+	  pixmaps/default/dns_server-mdk.png,
+	  pixmaps/default/dns_server-mdk_128.png,
+	  pixmaps/default/drakauth-mdk.png,
+	  pixmaps/default/drakauth-mdk_128.png,
+	  pixmaps/default/drakautoinst-mdk.png,
+	  pixmaps/default/drakautoinst-mdk_128.png,
+	  pixmaps/default/drakboot-mdk.png,
+	  pixmaps/default/drakboot-mdk_128.png,
+	  pixmaps/default/drakconnect-mdk.png,
+	  pixmaps/default/drakconnect-mdk_128.png,
+	  pixmaps/default/drakcronat-mdk.png,
+	  pixmaps/default/drakcronat-mdk_128.png,
+	  pixmaps/default/drakedm-mdk.png,
+	  pixmaps/default/drakedm-mdk_128.png,
+	  pixmaps/default/drakfax-mdk.png,
+	  pixmaps/default/drakfax-mdk_128.png,
+	  pixmaps/default/drakfloppy-mdk.png,
+	  pixmaps/default/drakfloppy-mdk_128.png,
+	  pixmaps/default/drakfont-mdk.png,
+	  pixmaps/default/drakfont-mdk_128.png,
+	  pixmaps/default/drakgw-mdk.png,
+	  pixmaps/default/drakgw-mdk_128.png,
+	  pixmaps/default/drakhard-mdk.png,
+	  pixmaps/default/drakhard-mdk_128.png,
+	  pixmaps/default/drakhosts.png, pixmaps/default/drakhosts_128.png,
+	  pixmaps/default/drakmenustyle.png,
+	  pixmaps/default/drakmenustyle_128.png,
+	  pixmaps/default/draknfs.png, pixmaps/default/draknfs_128.png,
+	  pixmaps/default/drakpark-mdk.png,
+	  pixmaps/default/drakpark-mdk_128.png,
+	  pixmaps/default/drakperm-mdk.png,
+	  pixmaps/default/drakperm-mdk_128.png,
+	  pixmaps/default/drakproxy-mdk.png,
+	  pixmaps/default/drakproxy-mdk_128.png,
+	  pixmaps/default/drakroam-mdk.png,
+	  pixmaps/default/drakroam-mdk_128.png,
+	  pixmaps/default/draksambashare.png,
+	  pixmaps/default/draksambashare_128.png,
+	  pixmaps/default/draksec-mdk.png,
+	  pixmaps/default/draksec-mdk_128.png,
+	  pixmaps/default/drakups-mdk.png,
+	  pixmaps/default/drakups-mdk_128.png,
+	  pixmaps/default/extended_maintenance.png,
+	  pixmaps/default/extended_maintenance_128.png,
+	  pixmaps/default/file-sharing-mdk.png,
+	  pixmaps/default/firewall-mdk.png,
+	  pixmaps/default/firewall-mdk_128.png,
+	  pixmaps/default/ftp-mdk.png, pixmaps/default/ftp-mdk_128.png,
+	  pixmaps/default/groupware-mdk.png,
+	  pixmaps/default/harddrake-mdk.png,
+	  pixmaps/default/harddrake-mdk_128.png,
+	  pixmaps/default/installremoverpm.png,
+	  pixmaps/default/installremoverpm_128.png,
+	  pixmaps/default/internet-access-mdk.png,
+	  pixmaps/default/internet-access-mdk_128.png,
+	  pixmaps/default/keyboard-mdk.png,
+	  pixmaps/default/keyboard-mdk_128.png,
+	  pixmaps/default/kolab-mdk.png, pixmaps/default/kolab-mdk_128.png,
+	  pixmaps/default/ldap-mdk.png, pixmaps/default/ldap-mdk_128.png,
+	  pixmaps/default/left-background-filler.png,
+	  pixmaps/default/left-background.png,
+	  pixmaps/default/local-administration-mdk.png,
+	  pixmaps/default/local-administration-mdk_128.png,
+	  pixmaps/default/localedrake.png,
+	  pixmaps/default/localedrake_128.png,
+	  pixmaps/default/logdrake-mdk.png,
+	  pixmaps/default/logdrake-mdk_128.png,
+	  pixmaps/default/manage-connections-mdk.png,
+	  pixmaps/default/manage-connections-mdk_128.png,
+	  pixmaps/default/mdkonline-mdk.png,
+	  pixmaps/default/mdkonline-mdk_128.png,
+	  pixmaps/default/migrationtools.png,
+	  pixmaps/default/migrationtools_128.png,
+	  pixmaps/default/mousedrake-mdk.png,
+	  pixmaps/default/mousedrake-mdk_128.png,
+	  pixmaps/default/net-mdk.png, pixmaps/default/net-mdk_128.png,
+	  pixmaps/default/net_monitor-mdk.png,
+	  pixmaps/default/net_monitor-mdk_128.png,
+	  pixmaps/default/netcenter.png, pixmaps/default/netcenter_128.png,
+	  pixmaps/default/network-mdk.png,
+	  pixmaps/default/network-mdk_128.png,
+	  pixmaps/default/network-services-mdk.png,
+	  pixmaps/default/network-sharing-mdk.png,
+	  pixmaps/default/network-sharing-mdk_128.png,
+	  pixmaps/default/new-connection-mdk.png,
+	  pixmaps/default/new-connection-mdk_128.png,
+	  pixmaps/default/news-mdk.png, pixmaps/default/news-mdk_128.png,
+	  pixmaps/default/nfs_server-mdk.png,
+	  pixmaps/default/nfs_server-mdk_128.png,
+	  pixmaps/default/nisautofs.png, pixmaps/default/nisautofs_128.png,
+	  pixmaps/default/ntp_server-mdk.png,
+	  pixmaps/default/ntp_server-mdk_128.png,
+	  pixmaps/default/online-administration-mdk.png,
+	  pixmaps/default/partition-mdk.png,
+	  pixmaps/default/partition-mdk_128.png,
+	  pixmaps/default/passwd-mdk.png,
+	  pixmaps/default/passwd-mdk_128.png,
+	  pixmaps/default/postfix-mdk.png,
+	  pixmaps/default/postfix-mdk_128.png,
+	  pixmaps/default/printer-mcc-mdk.png,
+	  pixmaps/default/printer-mcc-mdk_128.png,
+	  pixmaps/default/pxe-server.png,
+	  pixmaps/default/pxe-server_128.png,
+	  pixmaps/default/remote-administration-mdk.png,
+	  pixmaps/default/remote-administration-mdk_128.png,
+	  pixmaps/default/remove-connection-mdk.png,
+	  pixmaps/default/remove-connection-mdk_128.png,
+	  pixmaps/default/resolution-mdk.png,
+	  pixmaps/default/resolution-mdk_128.png,
+	  pixmaps/default/rpmdrake-mdk.png,
+	  pixmaps/default/rpmdrake-mdk_128.png,
+	  pixmaps/default/samba_server-mdk.png,
+	  pixmaps/default/samba_server-mdk_128.png,
+	  pixmaps/default/scanner-mdk.png,
+	  pixmaps/default/scanner-mdk_128.png,
+	  pixmaps/default/security-mdk.png,
+	  pixmaps/default/security-mdk_128.png,
+	  pixmaps/default/server-mdk.png,
+	  pixmaps/default/server-mdk_128.png,
+	  pixmaps/default/service-mdk.png,
+	  pixmaps/default/service-mdk_128.png,
+	  pixmaps/default/snapshots.png, pixmaps/default/snapshots_128.png,
+	  pixmaps/default/software.png, pixmaps/default/software_128.png,
+	  pixmaps/default/sound.png, pixmaps/default/sound_128.png,
+	  pixmaps/default/source-manager.png,
+	  pixmaps/default/source-manager_128.png,
+	  pixmaps/default/splash_screen.png,
+	  pixmaps/default/splash_screen_about.png,
+	  pixmaps/default/system-mdk.png,
+	  pixmaps/default/system-mdk_128.png, pixmaps/default/time-mdk.png,
+	  pixmaps/default/time-mdk_128.png, pixmaps/default/tv-mdk.png,
+	  pixmaps/default/tv-mdk_128.png, pixmaps/default/user-mdk.png,
+	  pixmaps/default/user-mdk_128.png, pixmaps/default/warning.png,
+	  pixmaps/default/web-mdk.png, pixmaps/default/web-mdk_128.png,
+	  pixmaps/default/web_server-mdk.png,
+	  pixmaps/default/web_server-mdk_128.png,
+	  pixmaps/default/webdav-mdk.png,
+	  pixmaps/default/webdav-mdk_128.png,
+	  pixmaps/default/wizard-mdk.png,
+	  pixmaps/default/wizard-mdk_128.png,
+	  pixmaps/default/wizard-sambaprint.png,
+	  pixmaps/default/wizard-sambaprint_128.png,
+	  pixmaps/default/wizard-sshd.png,
+	  pixmaps/default/wizard-sshd_128.png, po, po/.cvsignore,
+	  po/Makefile, po/af.po, po/am.po, po/ar.po, po/ast.po, po/az.po,
+	  po/be.po, po/bg.po, po/bn.po, po/br.po, po/bs.po, po/ca.po,
+	  po/cs.po, po/cy.po, po/da.po, po/de.po, po/drakconf.pot,
+	  po/el.po, po/eo.po, po/es.po, po/et.po, po/eu.po, po/fa.po,
+	  po/fi.po, po/fr.po, po/fur.po, po/ga.po, po/gl.po, po/he.po,
+	  po/hi.po, po/hr.po, po/hu.po, po/id.po, po/is.po, po/it.po,
+	  po/ja.po, po/ka.po, po/ko.po, po/ku.po, po/ky.po, po/lt.po,
+	  po/ltg.po, po/lv.po, po/mk.po, po/mn.po, po/ms.po, po/mt.po,
+	  po/nb.po, po/nl.po, po/nn.po, po/pa_IN.po, po/pl.po, po/pt.po,
+	  po/pt_BR.po, po/ro.po, po/ru.po, po/sc.po, po/sk.po, po/sl.po,
+	  po/sq.po, po/sr.po, po/sr@Latn.po, po/sv.po, po/ta.po, po/tg.po,
+	  po/th.po, po/tl.po, po/tr.po, po/uk.po, po/uz.po,
+	  po/uz@cyrillic.po, po/vi.po, po/wa.po, po/zh_CN.po, po/zh_TW.po,
+	  print_launcher.pl, progs.conf, wrapper: Import cleaned
+	  control-center
+
 2009-03-27 19:45  Karl Ove Hufthammer <karl at huftis.org>
 
 	* po/nn.po: Updated Norwegian Nynorsk translation.
