@@ -598,7 +598,7 @@ our %programs =
 
    "Updates Configuration" =>
    {
-    binary => "$sbindir/mdkapplet-config",
+    binary => "$sbindir/mgaapplet-config",
     embedded => 1,
     description => N("Configure updates frequency"),
     icon => 'rpmdrake-mdk',
