@@ -1,3 +1,143 @@
+2011-05-15 19:58  
+
+	* pixmaps/default/left-background.png: remove beta in left
+	  background
+
+2011-05-14 19:22  
+
+	* Makefile, NEWS, lib/MDV/Control_Center.pm: - Adapt to the update
+	  applet name change, s/mdkapplet/mgaapplet/; but leave
+	  "$sbindir/mdkapplet-add-media-helper --product=extended $version"
+	  as is, Mageia
+	  doesn't offer extended maintenance yet
+
+2011-05-14 19:22  
+
+	* Makefile, NEWS, lib/MDV/Control_Center.pm: - Adapt to the update
+	  applet name change, s/mdkapplet/mgaapplet/; but leave
+	  "$sbindir/mdkapplet-add-media-helper --product=extended $version"
+	  as is, Mageia
+	  doesn't offer extended maintenance yet
+
+2011-05-09 16:18  
+
+	* po/et.po: Updated Estonian translation.
+
+2011-05-09 08:36  
+
+	* ChangeLog, pixmaps/default/splash_screen.png: update splash
+	  screen
+
+2011-05-09 05:21  
+
+	* po/el.po: Update Greek translation
+
+2011-05-09 05:15  
+
+	* po/el.po: Update Greek translation
+
+2011-05-09 00:03  
+
+	* po/es.po: Complete Spanish translation :)
+
+2011-05-08 03:31  
+
+	* po/pt.po: update
+
+2011-05-08 02:56  
+
+	* po/pt.po: update
+
+2011-05-07 10:16  
+
+	* po/uk.po: Ukrainian translation update
+
+2011-05-06 14:46  
+
+	* po/de.po: Updated German translation
+
+2011-05-03 14:51  
+
+	* po/af.po, po/am.po, po/ar.po, po/ast.po, po/az.po, po/be.po,
+	  po/bg.po, po/bn.po, po/br.po, po/bs.po, po/ca.po, po/cs.po,
+	  po/cy.po, po/da.po, po/de.po, po/el.po, po/eo.po, po/es.po,
+	  po/et.po, po/eu.po, po/fa.po, po/fi.po, po/fr.po, po/fur.po,
+	  po/ga.po, po/gl.po, po/he.po, po/hi.po, po/hr.po, po/hu.po,
+	  po/id.po, po/is.po, po/it.po, po/ja.po, po/ka.po, po/ko.po,
+	  po/ku.po, po/ky.po, po/lt.po, po/ltg.po, po/lv.po, po/mk.po,
+	  po/mn.po, po/ms.po, po/mt.po, po/nb.po, po/nl.po, po/nn.po,
+	  po/pa_IN.po, po/pl.po, po/pt.po, po/pt_BR.po, po/ro.po, po/ru.po,
+	  po/sc.po, po/sk.po, po/sl.po, po/sq.po, po/sr.po, po/sr@Latn.po,
+	  po/sv.po, po/ta.po, po/tg.po, po/th.po, po/tl.po, po/tr.po,
+	  po/uk.po, po/uz.po, po/uz@cyrillic.po, po/vi.po, po/wa.po,
+	  po/zh_CN.po, po/zh_TW.po: fixed typo I broke in po files
+
+2011-05-03 14:41  
+
+	* po/af.po, po/am.po, po/ar.po, po/ast.po, po/az.po, po/be.po,
+	  po/bg.po, po/bn.po, po/br.po, po/bs.po, po/ca.po, po/cs.po,
+	  po/cy.po, po/da.po, po/de.po, po/el.po, po/eo.po, po/es.po,
+	  po/et.po, po/eu.po, po/fa.po, po/fi.po, po/fr.po, po/fur.po,
+	  po/ga.po, po/gl.po, po/he.po, po/hi.po, po/hr.po, po/hu.po,
+	  po/id.po, po/is.po, po/it.po, po/ja.po, po/ka.po, po/ko.po,
+	  po/ku.po, po/ky.po, po/lt.po, po/ltg.po, po/lv.po, po/mk.po,
+	  po/mn.po, po/ms.po, po/mt.po, po/nb.po, po/nl.po, po/nn.po,
+	  po/pa_IN.po, po/pl.po, po/pt.po, po/pt_BR.po, po/ro.po, po/ru.po,
+	  po/sc.po, po/sk.po, po/sl.po, po/sq.po, po/sr.po, po/sr@Latn.po,
+	  po/sv.po, po/ta.po, po/tg.po, po/th.po, po/tl.po, po/tr.po,
+	  po/uk.po, po/uz.po, po/uz@cyrillic.po, po/vi.po, po/wa.po,
+	  po/zh_CN.po, po/zh_TW.po: fixed po files I broke
+
+2011-05-03 14:27  
+
+	* po/fi.po: updated fi translation
+
+2011-05-03 14:05  
+
+	* po/fr.po, po/nb.po, po/nl.po, po/uk.po, po/zh_TW.po: merged
+	  correction in pot file (bug #959) in already updated po files
+
+2011-05-03 13:23  
+
+	* contributors.pl, control-center, po/drakconf.pot: - fixed typo
+	  (Bug #959)
+	  - corrected pot file so it will pass msgfmt -c
+
+2011-05-02 22:39  
+
+	* po/nb.po: Updated file.
+
+2011-05-02 10:06  
+
+	* po/fr.po: Update of the French locale for the following softwares
+	  and projets: control-center, drakpxelinux, drakwizard,
+	  mageia-gfxboot-theme, drakx-kbd-mouse-x11, drakx_install.
+	  
+	  The po files come from Mageia's Transifex.
+
+2011-05-01 21:35  
+
+	* po/uk.po: Ukrainian translation update
+
+2011-05-01 06:58  
+
+	* po/nl.po: Completed Dutch translations
+
+2011-04-28 07:45  
+
+	* po/zh_TW.po: 20110428 committed by Franklin
+
+2011-04-26 09:50  
+
+	* po/drakconf.pot: - fixed pot file
+	  - "Project-Id-Version" should not contain default value or Tx
+	  won't accept it
+
+2011-04-21 07:05  
+
+	* Makefile, control-center: remove extended maintainance in control
+	  center entries
+
 2011-04-21 07:05  
 
 	* Makefile, control-center: remove extended maintainance in control

@@ -1,3 +1,7 @@
+Version 12.21.6 - 15 May 2011 Anne Nicolas
+
+- remove beta in left background
+
 Version 12.21.5 - 15 May 2011 Ahmad Samir
 
 - Adapt to the update applet name change, s/mdkapplet/mgaapplet/; but leave
