@@ -1,3 +1,37 @@
+2011-05-19 09:33  
+
+	* drakconf16.png, drakconf32.png, drakconf48.png,
+	  pixmaps/default/splash_screen.png: fix drakconf icons (#1090)
+
+2011-05-19 01:24  
+
+	* NEWS: fix version number
+
+2011-05-19 01:21  
+
+	* Makefile, NEWS: 12.21.6
+
+2011-05-19 01:16  
+
+	* NEWS, po/bg.po, po/bn.po, po/br.po, po/bs.po, po/ca.po, po/cy.po,
+	  po/da.po, po/de.po, po/drakconf.pot, po/eo.po, po/et.po,
+	  po/eu.po, po/fr.po, po/gl.po, po/hi.po, po/hu.po, po/id.po,
+	  po/is.po, po/it.po, po/ja.po, po/ky.po, po/lt.po, po/ltg.po,
+	  po/mk.po, po/nb.po, po/nl.po, po/pa_IN.po, po/pl.po, po/pt.po,
+	  po/ro.po, po/ru.po, po/sc.po, po/sk.po, po/sv.po, po/tg.po,
+	  po/tr.po, po/uk.po, po/uz.po, po/uz@cyrillic.po, po/vi.po,
+	  po/zh_CN.po, po/zh_TW.po: use proper unicode character for (TM)
+	  (mga#473)
+
+2011-05-15 20:43  
+
+	* ChangeLog, Makefile, NEWS: update to 12.21.6
+
+2011-05-15 19:58  
+
+	* pixmaps/default/left-background.png: remove beta in left
+	  background
+
 2011-05-15 19:58  
 
 	* pixmaps/default/left-background.png: remove beta in left
