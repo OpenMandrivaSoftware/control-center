@@ -1,26 +1,19 @@
-# translation of ar.po to Arabic
-#
-# Mohammed Gamal <f2c2001@yahoo.com>, 2001.
-# Boujaj Mostapha Ibrahim <informatik.gelsenkirchen@arcor.de>, 2002.
-# Youcef Rabah Rahal <rahal@arabeyes.org>, 2004, 2005.
-# Ossama M. Khayat <okhayat@yahoo.com>, 2004, 2005.
-# Abdulaziz Al-Arfaj <alarfaj@arabeyes.org>, 2005.
-# Ma'moun Diraneyya <mamoun.diraneyya@gmail.com>, 2008, 2009.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: ar\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-02-22 23:38+0200\n"
-"PO-Revision-Date: 2009-05-28 03:17+0300\n"
-"Last-Translator: Ma'moun Diraneyya <mamoun.diraneyya@gmail.com>\n"
-"Language-Team: Arabic <doc@arabeyes.org>\n"
-"Language: ar\n"
+"Project-Id-Version: control-center\n"
+"POT-Creation-Date: 2011-05-03 15:20+0200\n"
+"PO-Revision-Date: 2011-05-19 13:08+0000\n"
+"Last-Translator: salim salim <almusalimalmusalimah@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
 
 #: ../contributors.pl:11
 #, c-format
@@ -37,9 +30,7 @@ msgstr "Per Oyvind Karlsen"
 msgid ""
 "massive packages rebuilding and cleaning, games, sparc port, proofreading of "
 "Mandriva tools"
-msgstr ""
-"إعادة بناء ضخمة للحزم وتنظيفها، والألعاب، والنقل إلى سبارك، وتحسين كتابة "
-"نصوص أدوات ماندريفا"
+msgstr "إعادة بناء ضخمة للحزم وتنظيفها، والألعاب، والنقل إلى سبارك، وتحسين كتابة نصوص أدوات ماجيّا"
 
 #: ../contributors.pl:13
 #, c-format
@@ -81,9 +72,7 @@ msgstr "Ben Reser"
 msgid ""
 "updated nc with debian patches, fixed some perl packages, dnotify startup "
 "script, urpmc, hddtemp, wipe, etc..."
-msgstr ""
-"تحديث nc مع رقع ديبيان، وتصحيح بعض حزم بِرل، وبرنامج dnotify startup، urpmc، "
-"hddtemp، wipe، إلخ..."
+msgstr "تحديث nc مع رقع ديبيان، وتصحيح بعض حزم بِرل، وبرنامج dnotify startup، urpmc، hddtemp، wipe، إلخ..."
 
 #: ../contributors.pl:17 ../contributors.pl:42
 #, c-format
@@ -95,9 +84,7 @@ msgstr "Thomas Backlund"
 msgid ""
 "\"deep and broad\" kernel work (many new patches before integration in "
 "official kernel)"
-msgstr ""
-"عمل \"شامل وممتد\" على النواة (كثير من الترقيعات الجديدة قبل دمجها في النواة "
-"الرسمية)"
+msgstr "عمل \"شامل وممتد\" على النواة (كثير من الترقيعات الجديدة قبل دمجها في النواة الرسمية)"
 
 #: ../contributors.pl:18
 #, c-format
@@ -130,10 +117,7 @@ msgid ""
 "Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
 "software (grass, mapserver), cursor_themes collection, misc server-side "
 "contributions"
-msgstr ""
-"سامبا 3.0.(إصدارة قبليَّة) التي تتعايش مع سامبا 2.2.x، سامبا 2.2.x، GIS "
-"وبرمجيات (grass، mapserver)، مجموعة سمات للمؤشّر، مساهمات مختلفة من ناحية "
-"الخادوم"
+msgstr "سامبا 3.0.(إصدارة قبليَّة) التي تتعايش مع سامبا 2.2.x، سامبا 2.2.x، GIS وبرمجيات (grass، mapserver)، مجموعة سمات للمؤشّر، مساهمات مختلفة من ناحية الخادم"
 
 #: ../contributors.pl:21
 #, c-format
@@ -145,9 +129,7 @@ msgstr "Goetz Waschk"
 msgid ""
 "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
 "python, rox desktop"
-msgstr ""
-"اكسين، وتوتِم، وجي‌ستريمر، وإم‌بليَر، وvlc، وvcdimager، وxmms، وملحقات جنوم-"
-"بيثون، سطح مكتب rox"
+msgstr "اكسين، وتوتِم، وجي‌ستريمر، وإم‌بليَر، وvlc، وvcdimager، وxmms، وملحقات جنوم-بيثون، سطح مكتب rox"
 
 #: ../contributors.pl:22
 #, c-format
@@ -159,9 +141,7 @@ msgstr "Austin Acton"
 msgid ""
 "audio/video/MIDI apps, scientific apps, audio/video production howtos, "
 "bluetooth, pyqt & related"
-msgstr ""
-"تطبيقات للصوت/الفيديو/MIDI، وتطبيقات علمية، وأدلة مساعدة تخصُّ الإنتاج الصوتي "
-"والمرئي، bluetooth، pyqt وما تعلّق بها"
+msgstr "تطبيقات للصوت/الفيديو/MIDI، وتطبيقات علمية، وأدلة مساعدة تخصُّ الإنتاج الصوتي والمرئي، bluetooth، pyqt وما تعلّق بها"
 
 #: ../contributors.pl:23
 #, c-format
@@ -201,7 +181,7 @@ msgstr "Stefan VanDer Eijk"
 #: ../contributors.pl:26
 #, c-format
 msgid "slbd distro checking, devel dependencies"
-msgstr "فحص slbd في التوزيعة، وتوابع devel"
+msgstr "فحص slbd في التوزيعة، و اعتماديات devel"
 
 #: ../contributors.pl:27
 #, c-format
@@ -233,10 +213,7 @@ msgstr "Tibor Pittich"
 msgid ""
 "sk-i18n, contributed several packages, openldap testing and integration, "
 "bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
-msgstr ""
-"قائد فريق ماندريفا للتوطين إلى السلوفاكية، ساهم في العديد من الحزم، وباختبار "
-"openldap ودمجه، وbind-sdb-ldap، استخدم كوكر وتتبَّع علله البرمجية طوال سنوات "
-"عدة،... إلخ"
+msgstr "قائد فريق ماندريفا للتوطين إلى السلوفاكية، ساهم في العديد من الحزم، وباختبار openldap ودمجه، وbind-sdb-ldap، استخدم كوكر وتتبَّع علله البرمجية طوال سنوات عدة،... إلخ"
 
 #: ../contributors.pl:30
 #, c-format
@@ -278,9 +255,7 @@ msgstr "Brook Humphrey"
 msgid ""
 "testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
 "spamassassin, maildrop, clamav."
-msgstr ""
-"الاختبار وتقارير العلل، Dovecot، bibletime، swordK والمساعدة في pure-ftpd، "
-"spamassassin، maildrop، clamav."
+msgstr "الاختبار وتقارير العلل، Dovecot، bibletime، swordK والمساعدة في pure-ftpd، spamassassin، maildrop، clamav."
 
 #: ../contributors.pl:34
 #, c-format
@@ -293,9 +268,7 @@ msgid ""
 "http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
 "support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
 "drakxtools"
-msgstr ""
-"دعم وسيط http في المُثبِّت، ودعم النواة 2.6 في sndconfig، ودعم سامبا3 في "
-"LinNeighborhood، وإصلاحات وتحسينات في urpmi، شاشة الإقلاع وأدوات دريك"
+msgstr "دعم وسيط http في المُثبِّت، ودعم النواة 2.6 في sndconfig، ودعم سامبا3 في LinNeighborhood، وإصلاحات وتحسينات في urpmi، شاشة الإقلاع وأدوات دريك"
 
 #: ../contributors.pl:35
 #, c-format
@@ -541,450 +514,462 @@ msgstr "MD، الاختبار، والتبليغ عن العلل"
 msgid ""
 "And many unnamed and unknown beta testers and bug reporters that helped make "
 "sure it all worked right."
-msgstr ""
-"والعديد من مختبري النُّسخ التجريبية ومُبلغي العلل المجهولين وغير المذكورين، "
-"والذين ساعدوا في التحقق من صحَّة عمل كل شيء."
+msgstr "والعديد من مختبري النُّسخ التجريبية ومُبلغي العلل المجهولين وغير المذكورين، والذين ساعدوا في التحقق من صحَّة عمل كل شيء."
 
 #: ../control-center:90
 #, c-format
 msgid "Mageia"
-msgstr ""
+msgstr "ماجيّا"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
 msgid "%s Control Center"
 msgstr "مركز تحكُّم %s"
 
-#: ../control-center:106 ../control-center:1060
+#: ../control-center:106 ../control-center:1059
 #, c-format
 msgid "Loading... Please wait"
 msgstr "انتظر من فضلك ريثما يتحمَّل..."
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:151 ../control-center:155
 #, c-format
 msgid "Software Management"
 msgstr "إدارة البرمجيَّات"
 
-#: ../control-center:167 ../control-center:355 ../control-center:390
-#: ../control-center:548
+#: ../control-center:166 ../control-center:354 ../control-center:389
+#: ../control-center:547
 #, c-format
 msgid "Others"
 msgstr "أخرى"
 
-#: ../control-center:177
+#: ../control-center:176
 #, c-format
 msgid "Server wizards"
-msgstr "مرشدو الخادوم"
+msgstr "مرشدو الخادم"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:180 ../control-center:183
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:179 ../control-center:182
 #, c-format
 msgid "Sharing"
 msgstr "المشاركة"
 
-#: ../control-center:186
+#: ../control-center:185
 #, c-format
 msgid "Configure FTP"
 msgstr "اضبط FTP"
 
-#: ../control-center:187
+#: ../control-center:186
 #, c-format
 msgid "Set up an FTP server"
-msgstr "أعدَّ خادوم FTP"
+msgstr "أعدَّ خادم FTP"
 
-#: ../control-center:189
+#: ../control-center:188
 #, c-format
 msgid "Configure Samba"
 msgstr "اضبط سامبا"
 
-#: ../control-center:190
+#: ../control-center:189
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
-msgstr "أعدَّ خادوم ملفات وطابعات لمحطات عمل لينُكس والأنظمة الأخرى"
+msgstr "أعدَّ خادم ملفات وطابعات لمحطات عمل لينُكس والأنظمة الأخرى"
 
-#: ../control-center:192
+#: ../control-center:191
 #, c-format
 msgid "Manage Samba share"
 msgstr "أدِر مشاركة سامبا"
 
-#: ../control-center:193
+#: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
 msgstr "أدِر، وأنشئ مشاركة خاصة أو عامة"
 
-#: ../control-center:195
+#: ../control-center:194
 #, c-format
 msgid "Configure web server"
-msgstr "اضبط خادوم الوِب"
+msgstr "اضبط خادم الوِب"
 
-#: ../control-center:196
+#: ../control-center:195
 #, c-format
 msgid "Set up a web server"
-msgstr "أعدَّ خادوم وِب"
+msgstr "أعدَّ خادم وِب"
+
+#: ../control-center:197
+#, c-format
+msgid "Configure installation server"
+msgstr "اضبط خادم التثبيت"
 
 #: ../control-center:198
 #, c-format
-msgid "Configure installation server"
-msgstr "اضبط خادوم التثبيت"
-
-#: ../control-center:199
-#, c-format
 msgid "Set up server for network installations of %s"
-msgstr "أعدَّ خادوماً لتثبيتات %s الشبكيَّة"
+msgstr "أعدَّ خادماً لتثبيتات %s الشبكيَّة"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:209 ../control-center:212
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:208 ../control-center:211
 #, c-format
 msgid "Network Services"
 msgstr "خدمات الشبكة"
 
-#: ../control-center:215
+#: ../control-center:214
 #, c-format
 msgid "Configure DHCP"
 msgstr "اضبط DHCP"
 
-#: ../control-center:216
+#: ../control-center:215
 #, c-format
 msgid "Set up a DHCP server"
-msgstr "أعدَّ خادوم DHCP"
+msgstr "أعدَّ خادم DHCP"
 
-#: ../control-center:218
+#: ../control-center:217
 #, c-format
 msgid "Configure DNS"
 msgstr "اضبط DNS"
 
-#: ../control-center:219
+#: ../control-center:218
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
-msgstr "أعدَّ خادوم DNS (حلُّ اسم الشبكة)"
+msgstr "أعدَّ خادم DNS (حلُّ اسم الشبكة)"
 
-#: ../control-center:221
+#: ../control-center:220
 #, c-format
 msgid "Configure proxy"
 msgstr "اضبط الوسيط"
 
-#: ../control-center:222
+#: ../control-center:221
 #, c-format
 msgid "Configure a web caching proxy server"
-msgstr "اضبط خادوم وسيط مختزن لوِب"
+msgstr "اضبط خادم وسيط مختزن لوِب"
 
-#: ../control-center:224
+#: ../control-center:223
 #, c-format
 msgid "Configure time"
 msgstr "اضبط الوقت"
 
-#: ../control-center:225
+#: ../control-center:224
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
-msgstr "عيِّن وقت مُزامنة الخادوم مع خادوم زمني خارجي"
+msgstr "عيِّن وقت مُزامنة الخادم مع خادوم زمني خارجي"
 
-#: ../control-center:227 ../control-center:228
+#: ../control-center:226 ../control-center:227
 #, c-format
 msgid "OpenSSH daemon configuration"
 msgstr "ضبط عفريت OpenSSH"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
-#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will
+#. searchs it:
+#: ../control-center:238 ../control-center:241 ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Authentication"
 msgstr "الاستيثاق"
 
-#: ../control-center:246
+#: ../control-center:245
 #, c-format
 msgid "Configure NIS and Autofs"
 msgstr "اضبط NIS وAutofs"
 
-#: ../control-center:247
+#: ../control-center:246
 #, c-format
 msgid "Configure the NIS and Autofs services"
 msgstr "اضبط خدمات NIS وAutofs"
 
-#: ../control-center:249
+#: ../control-center:248
 #, c-format
 msgid "Configure LDAP"
 msgstr "اضبط LDAP"
 
-#: ../control-center:250
+#: ../control-center:249
 #, c-format
 msgid "Configure the LDAP directory services"
 msgstr "اضبط خدمات دليل LDAP"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:261 ../control-center:264
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:260 ../control-center:263
 #, c-format
 msgid "Groupware"
 msgstr "البرمجيات الجماعية"
 
-#: ../control-center:267
+#: ../control-center:266
 #, c-format
 msgid "Configure news"
 msgstr "اضبط الأخبار"
 
-#: ../control-center:268
+#: ../control-center:267
 #, c-format
 msgid "Configure a newsgroup server"
-msgstr "اضبط خادوم المجموعات الإخبارية"
+msgstr "اضبط خادم المجموعات الإخبارية"
 
-#: ../control-center:270
+#: ../control-center:269
 #, c-format
 msgid "Configure groupware"
 msgstr "اضبط البرمجيات الجماعية"
 
-#: ../control-center:271
+#: ../control-center:270
 #, c-format
 msgid "Configure a groupware server"
-msgstr "اضبط خادوم البرمجيات الجماعية"
+msgstr "اضبط خادم البرمجيات الجماعية"
 
-#: ../control-center:273
+#: ../control-center:272
 #, c-format
 msgid "Configure mail"
 msgstr "اضبط البريد"
 
-#: ../control-center:274
+#: ../control-center:273
 #, c-format
 msgid "Configure the Internet Mail services"
 msgstr "اضبط خدمات بريد الإنترنت"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:286 ../control-center:289
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:285 ../control-center:288
 #, c-format
 msgid "Online Administration"
 msgstr "إدارة حيَّة"
 
-#: ../control-center:305
+#: ../control-center:304
 #, c-format
 msgid "Local administration"
 msgstr "إدارة محليَّة"
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "Configure the local machine via web interface"
 msgstr "اضبط الجهاز المحلِّي عبر واجهة وِب"
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
-msgstr "يبدو أن webmin غير مثبّتٌ عندك. عُطِّل الضبط المحلي"
+msgstr "يبدو أن webmin غير مثبّتٌ لديك. لذا تم تعطيل الضبط المحلي"
 
-#: ../control-center:308
+#: ../control-center:307
 #, c-format
 msgid "Remote administration"
 msgstr "الإدارة عن بعد"
 
-#: ../control-center:309
+#: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
 msgstr "اضغط هنا إن كنت تريد ضبط جهاز بعيد عبر واجهة وِب"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:323
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:322
 #, c-format
 msgid "Hardware"
 msgstr "العتاد"
 
-#: ../control-center:326
+#: ../control-center:325
 #, c-format
 msgid "Manage your hardware"
 msgstr "أدِر عتادك"
 
-#: ../control-center:333
+#: ../control-center:332
 #, c-format
 msgid "Configure graphics"
 msgstr "اضبط الرسوميات"
 
-#: ../control-center:340
+#: ../control-center:339
 #, c-format
 msgid "Configure mouse and keyboard"
 msgstr "اضبط الفأرة ولوحة المفاتيح"
 
-#: ../control-center:347
+#: ../control-center:346
 #, c-format
 msgid "Configure printing and scanning"
 msgstr "اضبط الطباعة والمسح"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:365 ../drakxconf:31
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:364 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
 msgstr "الشبكة والإنترنت"
 
-#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#: ../control-center:367 ../lib/MDV/Control_Center.pm:419
 #, c-format
 msgid "Manage your network devices"
 msgstr "أدِر أجهزة شبكتك"
 
-#: ../control-center:381
+#: ../control-center:380
 #, c-format
 msgid "Personalize and Secure your network"
 msgstr "خصِّص شبكتك واحمها"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:400
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:399
 #, c-format
 msgid "System"
 msgstr "النظام"
 
-#: ../control-center:403
+#: ../control-center:402
 #, c-format
 msgid "Manage system services"
 msgstr "أدِر خدمات النظام"
 
-#: ../control-center:412
+#: ../control-center:411
 #, c-format
 msgid "Localization"
 msgstr "التوطين"
 
-#: ../control-center:419
+#: ../control-center:418
 #, c-format
 msgid "Administration tools"
 msgstr "أدوات إدارية"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:436
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:435
 #, c-format
 msgid "Network Sharing"
 msgstr "مشاركة الشبكة"
 
-#: ../control-center:439
+#: ../control-center:438
 #, c-format
 msgid "Configure Windows(R) shares"
 msgstr "اضبط مشاركة وِندُز"
 
-#: ../control-center:446
+#: ../control-center:445
 #, c-format
 msgid "Configure NFS shares"
 msgstr "اضبط مشاركة NFS"
 
-#: ../control-center:453
+#: ../control-center:452
 #, c-format
 msgid "Configure WebDAV shares"
 msgstr "اضبط مشاركة WebDAV"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:463 ../control-center:466
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:462 ../control-center:465
 #, c-format
 msgid "Local disks"
 msgstr "الأقراص المحليَّة"
 
-#: ../control-center:490
+#: ../control-center:489
 #, c-format
 msgid "CD-ROM (%s)"
 msgstr "الأقراص المضغوطة (%s)"
 
-#: ../control-center:491
+#: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
 msgstr "عيِّن نقطة ضم محرِّك الأقراص المضغوطة \"%s\""
 
-#: ../control-center:493
+#: ../control-center:492
 #, c-format
 msgid "DVD-ROM (%s)"
 msgstr "الأقراص الرَّقمية (%s)"
 
-#: ../control-center:494
+#: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
 msgstr "عيِّن نقطة ضم محرِّك الأقراص الرقمية \"%s\""
 
-#: ../control-center:496
+#: ../control-center:495
 #, c-format
 msgid "CD/DVD burner (%s)"
 msgstr "كاتب الأقراص (%s)"
 
-#: ../control-center:497
+#: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
 msgstr "عيِّن نقطة ضم كاتب الأقراص \"%s\""
 
-#: ../control-center:499
+#: ../control-center:498
 #, c-format
 msgid "ZIP drive"
 msgstr "محرِّك ZIP"
 
-#: ../control-center:500
+#: ../control-center:499
 #, c-format
 msgid "Set where your ZIP drive is mounted"
 msgstr "عيِّن نقطة ضم محرِّك ZIP"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:512 ../control-center:515
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:511 ../control-center:514
 #, c-format
 msgid "Security"
 msgstr "الأمان"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:530
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:529
 #, c-format
 msgid "Boot"
 msgstr "الإقلاع"
 
-#: ../control-center:533
+#: ../control-center:532
 #, c-format
 msgid "Configure boot steps"
 msgstr "اضبط خطوات الإقلاع"
 
-#: ../control-center:542
+#: ../control-center:541
 #, c-format
 msgid "Boot look'n feel"
 msgstr "مظهر الإقلاع"
 
-#: ../control-center:559
+#: ../control-center:558
 #, c-format
 msgid "Additional wizards"
 msgstr "مرشدون إضافيون"
 
-#: ../control-center:614 ../control-center:615 ../control-center:616
-#: ../control-center:628
+#: ../control-center:613 ../control-center:614 ../control-center:615
+#: ../control-center:627
 #, c-format
 msgid "/_Options"
 msgstr "/_خيارات"
 
-#: ../control-center:614
+#: ../control-center:613
 #, c-format
 msgid "/Display _Logs"
 msgstr "/اعر_ض السجلات"
 
-#: ../control-center:615
+#: ../control-center:614
 #, c-format
 msgid "/_Embedded Mode"
 msgstr "/ال_وضع المُضمَّن"
 
-#: ../control-center:616
+#: ../control-center:615
 #, c-format
 msgid "/Expert mode in _wizards"
 msgstr "/الو_ضع الخبير في المرشدين"
 
-#: ../control-center:626 ../control-center:627
+#: ../control-center:625 ../control-center:626
 #, c-format
 msgid "/_File"
 msgstr "/_ملف"
 
-#: ../control-center:627
+#: ../control-center:626
 #, c-format
 msgid "/_Quit"
 msgstr "/خ_روج"
 
-#: ../control-center:627
+#: ../control-center:626
 #, c-format
 msgid "<control>Q"
 msgstr "<control>ر"
 
-#: ../control-center:627
+#: ../control-center:626
 #, c-format
 msgid "Quit"
 msgstr "اخرج"
 
-#: ../control-center:648 ../control-center:651 ../control-center:664
+#: ../control-center:647 ../control-center:650 ../control-center:663
 #, c-format
 msgid "/_Themes"
 msgstr "/_سمات"
 
-#: ../control-center:654
+#: ../control-center:653
 #, c-format
 msgid ""
 "This action will restart the control center.\n"
@@ -993,65 +978,65 @@ msgstr ""
 "سيعيد هذا الإجراء مركز التحكم.\n"
 "وستخسر أية تغييرات لم تُطبَّق بعد."
 
-#: ../control-center:664
+#: ../control-center:663
 #, c-format
 msgid "/_More themes"
 msgstr "/سمات أ_كثر "
 
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669 ../control-center:670 ../control-center:671
-#: ../control-center:674
+#: ../control-center:665 ../control-center:666 ../control-center:667
+#: ../control-center:668 ../control-center:669 ../control-center:670
+#: ../control-center:673
 #, c-format
 msgid "/_Help"
 msgstr "/مسا_عدة"
 
-#: ../control-center:667 ../control-center:668 ../control-center:669
-#: ../control-center:670
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669
 #, c-format
 msgid "Help"
 msgstr "مساعدة"
 
-#: ../control-center:668
+#: ../control-center:667
 #, c-format
 msgid "/_Release notes"
 msgstr "/ملاح_ظات الإصدارة"
 
-#: ../control-center:669
+#: ../control-center:668
 #, c-format
 msgid "/What's _New?"
 msgstr "/مال_جديد؟"
 
-#: ../control-center:670
+#: ../control-center:669
 #, c-format
 msgid "/_Errata"
 msgstr "/ال_هفوات"
 
-#: ../control-center:671
+#: ../control-center:670
 #, c-format
 msgid "/_Report Bug"
 msgstr "/أبل_غ عن علَّة"
 
-#: ../control-center:674
+#: ../control-center:673
 #, c-format
 msgid "/_About..."
 msgstr "/عَ_نْ..."
 
-#: ../control-center:732
+#: ../control-center:731
 #, c-format
 msgid "Cancel"
 msgstr "ألغِ"
 
-#: ../control-center:752
+#: ../control-center:751
 #, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr "مركز تحكّم %s %s [على %s]"
 
-#: ../control-center:1039 ../control-center:1104
+#: ../control-center:1038 ../control-center:1103
 #, c-format
 msgid "Error"
 msgstr "خطأ"
 
-#: ../control-center:1039
+#: ../control-center:1038
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1062,138 +1047,140 @@ msgstr ""
 "\n"
 "أبلغ عن تلك العلَّة فضلاً."
 
-#: ../control-center:1104
+#: ../control-center:1103
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr "تشغيل البرنامج '%s' المجهول مُستحيل"
 
-#: ../control-center:1123
+#: ../control-center:1122
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr "لن تُحفظ التعديلات المُنجزة على الوحدة الحالية."
 
-#: ../control-center:1210
+#: ../control-center:1209
 #, c-format
 msgid "cannot fork: %s"
-msgstr ""
+msgstr "لايمكن استنساخ: %s"
 
-#: ../control-center:1233
+#: ../control-center:1232
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
-msgstr ""
+msgstr "لايمكن استنساخ \"%s\" بما أنها غير تنفيذية"
 
-#: ../control-center:1372
+#: ../control-center:1371
 #, c-format
 msgid "This program has exited abnormally"
 msgstr "أُغلق هذا البرنامج بطريقة شاذة"
 
-#: ../control-center:1381
+#: ../control-center:1380
 #, c-format
 msgid "Warning"
 msgstr "تحذير"
 
-#: ../control-center:1391 ../drakconsole:31
+#: ../control-center:1390 ../drakconsole:31
 #, c-format
 msgid "Close"
 msgstr "أغلق"
 
-#: ../control-center:1398
+#: ../control-center:1397
 #, c-format
 msgid "More themes"
 msgstr "سمات أكثر"
 
-#: ../control-center:1400
+#: ../control-center:1399
 #, c-format
 msgid "Getting new themes"
 msgstr "الحصول على سمات جديدة"
 
-#: ../control-center:1401
+#: ../control-center:1400
 #, c-format
 msgid "Additional themes"
 msgstr "سمات إضافية "
 
-#: ../control-center:1403
+#: ../control-center:1402
 #, c-format
 msgid "Get additional themes on www.damz.net"
 msgstr "احصل على سمات إضافيّة من www.damz.net"
 
-#: ../control-center:1411
+#: ../control-center:1410
 #, c-format
 msgid "About - %s Control Center"
 msgstr "عَنْ - مركز تحكم %s"
 
-#: ../control-center:1420
+#: ../control-center:1418
 #, c-format
 msgid "Authors: "
 msgstr "المؤلِّفون: "
 
-#: ../control-center:1424
+#: ../control-center:1422
 #, c-format
 msgid "(perl version)"
 msgstr "(إصدار بِرل)"
 
-#: ../control-center:1429
+#: ../control-center:1427
 #, c-format
 msgid "Artwork: "
 msgstr "العمل الفني: "
 
-#: ../control-center:1434
+#: ../control-center:1432
 #, c-format
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
-#. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1456
+#. -PO: this is used as "language: translator" in credits part of the about
+#. dialog:
+#: ../control-center:1454
 #, c-format
 msgid "- %s: %s\n"
 msgstr "- %s: %s\n"
 
-#: ../control-center:1471
+#: ../control-center:1469
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "مأمون ديرانية"
 
-#: ../control-center:1473
+#: ../control-center:1471
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "mamoun.diraneyya@gmail.com"
 
-#: ../control-center:1475
+#: ../control-center:1473
 #, c-format
 msgid "Translator: "
 msgstr "المترجم: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1484
+#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free)
+#. Control Center")
+#: ../control-center:1482
 #, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "مركز تحكُّم %s %s (%s)"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1489
+#: ../control-center:1487
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "حقوق النشر (C) %s ماندريفا ش.م."
 
-#: ../control-center:1489
-#, fuzzy, c-format
+#: ../control-center:1487
+#, c-format
 msgid "Copyright (C) %s Mageia"
-msgstr "حقوق النشر (C) %s ماندريفا ش.م."
+msgstr "حقوق النشر (C) %s ماجيّا ش.م."
 
-#: ../control-center:1495
+#: ../control-center:1493
 #, c-format
 msgid "Authors"
 msgstr "المؤلِّفون"
 
-#: ../control-center:1496
-#, fuzzy, c-format
+#: ../control-center:1494
+#, c-format
 msgid "Mageia Contributors"
-msgstr "المساهمون في لينُكس ماندريفا"
+msgstr "المساهمون في ماجيّا"
 
 #: ../drakconsole:27
 #, c-format
@@ -1364,7 +1351,7 @@ msgstr "اختر مدير العرض الذي سيُمكِّنك من انتقا
 #: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
 #, c-format
 msgid "Configure a fax server"
-msgstr "اضبط خادوم فاكس"
+msgstr "اضبط خادم فاكس"
 
 #: ../lib/MDV/Control_Center.pm:199
 #, c-format
@@ -1375,7 +1362,7 @@ msgstr "أعدَّ جدارك الناري الشخصي"
 #, c-format
 msgid ""
 "Set up a personal firewall in order to protect the computer and the network"
-msgstr "أعدَّ جداراً نارياً شخصياً لحماية الحاسوب والشّبكة"
+msgstr "أعدَّ جداراً نارياً شخصياً لحماية الحاسب والشّبكة"
 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
@@ -1385,7 +1372,7 @@ msgstr "أدِر، وأضف، واحذف خطوطاً. واستورد خطوط �
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
 msgid "Set up the graphical server"
-msgstr "أعدَّ الخادوم الرُّسومي"
+msgstr "أعدَّ الخادم الرُّسومي"
 
 #: ../lib/MDV/Control_Center.pm:229
 #, c-format
@@ -1450,12 +1437,12 @@ msgstr "Kolab"
 #: ../lib/MDV/Control_Center.pm:302
 #, c-format
 msgid "Set up a groupware server"
-msgstr "أعدَّ خادوم برمجيات جماعية"
+msgstr "أعدَّ خادم برمجيات جماعية"
 
 #: ../lib/MDV/Control_Center.pm:311
 #, c-format
 msgid "Manage localization for your system"
-msgstr "أدِر توطين حاسوبك"
+msgstr "أدِر توطين حاسبك"
 
 #: ../lib/MDV/Control_Center.pm:312
 #, c-format
@@ -1488,16 +1475,16 @@ msgid "Manage installed software packages on a group of computers"
 msgstr "أدِر حزم البرمجيات المُثبَّتة على مجموعة حواسيب"
 
 #: ../lib/MDV/Control_Center.pm:349
-#, fuzzy, c-format
+#, c-format
 msgid "Configure authentication for Mageia tools"
-msgstr "اضبط الاستيثاق لأدوات ماندريفا"
+msgstr "اضبط الاستيثاق لأدوات ماجيّا"
 
 #: ../lib/MDV/Control_Center.pm:350
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "Define authentication required to access individual Mageia configuration "
 "tools "
-msgstr "عرِّف الاستيثاق المطلوب للنفاذ إلى أدوات ضبط ماندريفا المنفردة "
+msgstr "عرِّف الاستيثاق المطلوب للنفاذ إلى أدوات ضبط ماجيّا المنفردة "
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1624,7 +1611,7 @@ msgstr "الوسيط"
 #: ../lib/MDV/Control_Center.pm:502
 #, c-format
 msgid "Set up a proxy server for files and web browsing"
-msgstr "أعدَّ خادوماً وسيطاً لتصفح الملفات والوِب"
+msgstr "أعدَّ خادماً وسيطاً لتصفح الملفات والوِب"
 
 #: ../lib/MDV/Control_Center.pm:510
 #, c-format
@@ -1702,24 +1689,24 @@ msgid "Select from where software packages are downloaded "
 msgstr "اختر مكان تنزيل حزم البرمجيات "
 
 #: ../lib/MDV/Control_Center.pm:603
-#, fuzzy, c-format
+#, c-format
 msgid "Configure updates frequency"
-msgstr "اضبط البرمجيات الجماعية"
+msgstr "اضبط تردد التحديثات"
 
 #: ../lib/MDV/Control_Center.pm:612
 #, c-format
 msgid "Access to extended maintenance"
-msgstr ""
+msgstr "الدخول إلى الصيانة الممتدة "
 
 #: ../lib/MDV/Control_Center.pm:621
 #, c-format
 msgid "Configure TOMOYO Linux policy"
-msgstr ""
+msgstr "اضبط لينوكس تومويو"
 
 #: ../lib/MDV/Control_Center.pm:622
 #, c-format
 msgid "View and configure TOMOYO Linux security policy"
-msgstr ""
+msgstr "اعرض و اضبط سياسة أمان لينوكس تومويو"
 
 #. -PO: here power means electrical power
 #. -PO: UPS==Uninterruptible power supply
@@ -1919,7 +1906,7 @@ msgstr "نقاط ضمِّ WebDAV"
 
 #: ../data/XFDrake.desktop.in.h:1
 msgid "Graphical server"
-msgstr "خادوم رسومي"
+msgstr "خادم رسومي"
 
 #: ../data/XFDrake-Monitor.desktop.in.h:1
 msgid "Monitor"
@@ -1930,12 +1917,5 @@ msgid "Screen Resolution"
 msgstr "مَيْز الشاشة"
 
 #: ../drakconf.desktop.in.h:1
-#, fuzzy
 msgid "Mageia Control Center"
-msgstr "مركز التحكم"
-
-#~ msgid "Configure Your Computer"
-#~ msgstr "اضبط حاسوبك"
-
-#~ msgid "Mandriva Linux"
-#~ msgstr "لينُكس ماندريفا"
+msgstr "مركز تحكم ماجيّا"
