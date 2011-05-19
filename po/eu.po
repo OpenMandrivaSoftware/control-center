@@ -1392,7 +1392,7 @@ msgstr "Ezarri suhesi pertsonal bat sarea eta konputagailua babesteko"
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
-"Kudeatu, erantsi eta ezabatu letra-tipoak. Inportatu Windows(TM) hizki-tipoak"
+"Kudeatu, erantsi eta ezabatu letra-tipoak. Inportatu Windows® hizki-tipoak"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1540,7 +1540,7 @@ msgstr "Menu tankera konfiguraketa"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Inportatu Windows(TM) documents and settings"
+msgstr "Inportatu Windows® documents and settings"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

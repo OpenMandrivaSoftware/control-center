@@ -848,7 +848,7 @@ msgstr "Rhannu Rhwydwaith"
 #: ../control-center:439
 #, c-format
 msgid "Configure Windows(R) shares"
-msgstr "Ffurfweddu rhannu Windows(TM)"
+msgstr "Ffurfweddu rhannu Windows®"
 
 #: ../control-center:446
 #, c-format
@@ -1376,7 +1376,7 @@ msgstr ""
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Rheoli, ychwanegu a thynnu ffontiau. Mewnforio ffontiau Windows (TM)"
+msgstr "Rheoli, ychwanegu a thynnu ffontiau. Mewnforio ffontiau Windows ®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1522,7 +1522,7 @@ msgstr "Canolfan Ffurfweddu Dewislenni"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Mewnforio gosodiadau a dogfennau Windows(TM)"
+msgstr "Mewnforio gosodiadau a dogfennau Windows®"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

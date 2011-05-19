@@ -1366,7 +1366,7 @@ msgstr "設定個人防火牆以保護您的電腦及網路"
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "管理、新增及移除字型、匯入 Windows(TM) 字型"
+msgstr "管理、新增及移除字型、匯入 Windows® 字型"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1510,7 +1510,7 @@ msgstr "選單風格設定"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "匯入 Windows(TM) 文件與設定"
+msgstr "匯入 Windows® 文件與設定"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

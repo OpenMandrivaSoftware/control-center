@@ -1399,7 +1399,7 @@ msgstr ""
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
 "Управление, добавяне и премахване на шрифтове. Прехвърляне на шрифтове от "
-"Windows(TM)"
+"Windows®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1547,7 +1547,7 @@ msgstr "Настройка на стила за менюта"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Прехвърляне на документи и настройки от Windows(TM)"
+msgstr "Прехвърляне на документи и настройки от Windows®"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

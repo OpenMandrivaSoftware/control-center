@@ -1399,7 +1399,7 @@ msgstr "Configura un firewall personale per proteggere il computer e la rete"
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Gestisci tipi di caratteri. Importa tipi di caratteri da Windows (TM)"
+msgstr "Gestisci tipi di caratteri. Importa tipi di caratteri da Windows ®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1549,7 +1549,7 @@ msgstr "Configurazione dello stile del menu"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Importa i documenti e le impostazioni di Windows(TM)"
+msgstr "Importa i documenti e le impostazioni di Windows®"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

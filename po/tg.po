@@ -1389,7 +1389,7 @@ msgstr ""
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Роҳбарӣ, иловакунӣ ё хориҷкунии ҳуруфҳо. Вориди ҳуруфҳои Windows(TM)"
+msgstr "Роҳбарӣ, иловакунӣ ё хориҷкунии ҳуруфҳо. Вориди ҳуруфҳои Windows®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

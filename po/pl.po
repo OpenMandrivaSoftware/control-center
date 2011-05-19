@@ -1404,7 +1404,7 @@ msgstr "Konfiguracja osobistej zapory sieciowej chroniącej komputer w sieci"
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
-"Zarządzanie, dodawanie i usuwanie czcionek. Import czcionek z Windows(TM) "
+"Zarządzanie, dodawanie i usuwanie czcionek. Import czcionek z Windows® "
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1552,7 +1552,7 @@ msgstr "Konfiguracja stylu menu"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Import dokumentów i ustawień z systemu Windows (TM)"
+msgstr "Import dokumentów i ustawień z systemu Windows ®"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

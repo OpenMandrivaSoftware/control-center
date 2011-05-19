@@ -1401,7 +1401,7 @@ msgstr ""
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "ফন্ট ব্যবহার করুন, যুক্ত করুন এবং মুছে ফেলুন। উইন্ডোজ(TM) ফন্ট সংগ্রহ করুন"
+msgstr "ফন্ট ব্যবহার করুন, যুক্ত করুন এবং মুছে ফেলুন। উইন্ডোজ® ফন্ট সংগ্রহ করুন"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

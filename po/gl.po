@@ -1404,7 +1404,7 @@ msgstr "Configurar un cortalumes persoal para protexer o ordenador e a rede"
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Administrar, engadir e eliminar fontes. Importar fontes de Windows(TM)"
+msgstr "Administrar, engadir e eliminar fontes. Importar fontes de Windows®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1554,7 +1554,7 @@ msgstr "Configuración do Estilo do Menú"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Importar os os documentos e configuracións de Windows(TM)"
+msgstr "Importar os os documentos e configuracións de Windows®"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

@@ -1374,7 +1374,7 @@ msgstr "Een persoonlijke firewall instellen teneinde de computer en het netwerk 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Lettertypen beheren, toevoegen en verwijderen. Windows(TM)-lettertypen importeren"
+msgstr "Lettertypen beheren, toevoegen en verwijderen. Windows®-lettertypen importeren"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

@@ -1371,7 +1371,7 @@ msgstr "Eine persönliche Firewall einrichten, um den Computer und das Netzwerk 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Schriften verwalten, hinzufügen und entfernen. Import von Windows(TM) Schriften"
+msgstr "Schriften verwalten, hinzufügen und entfernen. Import von Windows® Schriften"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1515,7 +1515,7 @@ msgstr "Konfiguration des Menüstils"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Importieren von Windows (TM) Dokumenten und Einstellungen"
+msgstr "Importieren von Windows ® Dokumenten und Einstellungen"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

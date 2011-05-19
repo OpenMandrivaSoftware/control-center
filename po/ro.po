@@ -1440,7 +1440,7 @@ msgstr ""
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
-"Gestionați, adăugați și înlăturați fonturi. Importați fonturi Windows(TM)"
+"Gestionați, adăugați și înlăturați fonturi. Importați fonturi Windows®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1588,7 +1588,7 @@ msgstr "Configurare stil de meniuri"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Importați documente și configurări din Windows(TM)"
+msgstr "Importați documente și configurări din Windows®"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

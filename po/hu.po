@@ -1547,7 +1547,7 @@ msgstr "Menüstílus beállítása"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Windows(TM)-dokumentumok és -beállítások importálása"
+msgstr "Windows®-dokumentumok és -beállítások importálása"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

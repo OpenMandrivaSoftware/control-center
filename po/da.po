@@ -1394,7 +1394,7 @@ msgstr ""
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
-"Administér, tilføj og fjern skrifttyper. Importér Windows (TM)-skrifttyper"
+"Administér, tilføj og fjern skrifttyper. Importér Windows ®-skrifttyper"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1542,7 +1542,7 @@ msgstr "Konfigurering af menustíl"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Importér Windows(TM)-dokumenter og -indstillinger"
+msgstr "Importér Windows®-dokumenter og -indstillinger"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

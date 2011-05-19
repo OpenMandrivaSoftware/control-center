@@ -1357,7 +1357,7 @@ msgstr "Компьютерни ҳимоя қилиш учун шахсий фа�
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Шрифтларни қўшиш ва ўчириш. Windows(TM) шрифтларини импорт қилиш."
+msgstr "Шрифтларни қўшиш ва ўчириш. Windows® шрифтларини импорт қилиш."
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1504,7 +1504,7 @@ msgstr "Меню услубини мослаш"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Windows(TM) ҳужжат ва мосламаларни импорт қилиш"
+msgstr "Windows® ҳужжат ва мосламаларни импорт қилиш"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

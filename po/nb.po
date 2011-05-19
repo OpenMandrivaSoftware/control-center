@@ -1395,7 +1395,7 @@ msgstr "Sett opp en personlig brannmur for å beskytte maskinen og nettverket"
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
-"Håndter, legg til og fjern skrifttyper. Importer skrifttyper fra Windows(TM)"
+"Håndter, legg til og fjern skrifttyper. Importer skrifttyper fra Windows®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1543,7 +1543,7 @@ msgstr "Sett opp menystil"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Importer dokumenter og innstillinger fra Windows (TM)"
+msgstr "Importer dokumenter og innstillinger fra Windows ®"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

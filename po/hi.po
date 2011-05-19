@@ -1382,7 +1382,7 @@ msgstr ""
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "फ़ॉन्टों का प्रबंधन, जोड़ना और हटाना । विण्डो (TM) फ़ॉन्टों का इम्पोर्ट"
+msgstr "फ़ॉन्टों का प्रबंधन, जोड़ना और हटाना । विण्डो ® फ़ॉन्टों का इम्पोर्ट"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

@@ -1383,7 +1383,7 @@ msgstr "Firewall"
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Nastaviť, pridať a odstrániť písma. Importovať písma z Windows(TM)."
+msgstr "Nastaviť, pridať a odstrániť písma. Importovať písma z Windows®."
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

@@ -1389,7 +1389,7 @@ msgstr "Aktivera personlig brandvägg för att skydda datorn och nätverket"
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
-"Hantera, lägg till och ta bort typsnitt. Importera Windows(TM) typsnitt."
+"Hantera, lägg till och ta bort typsnitt. Importera Windows® typsnitt."
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

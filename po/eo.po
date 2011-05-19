@@ -1383,7 +1383,7 @@ msgstr "Agordi personan fajroŝirmilon por protekti la komputilon kaj la reton"
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
-"Mastrumi, aldoni kaj forigi litertiparojn. Importi vindozajn (TM) "
+"Mastrumi, aldoni kaj forigi litertiparojn. Importi vindozajn ® "
 "litertiparojn"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
@@ -1530,7 +1530,7 @@ msgstr "Agordo de la menuo-stilo"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Importu Windows(TM) documents and settings"
+msgstr "Importu Windows® documents and settings"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

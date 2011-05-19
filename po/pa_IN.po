@@ -1368,7 +1368,7 @@ msgstr "ਕੰਪਿਊਟਰ ਅਤੇ ਨੈੱਟਵਰਕ ਨੂੰ ਬਚ�
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "ਫੌਂਟ ਪ੍ਰਬੰਧਨ ਕਰੋ, ਸ਼ਾਮਿਲ ਕਰੋ, ਹਟਾਓ। Windows(TM) ਫੌਂਟ ਅਯਾਤ ਕਰੋ"
+msgstr "ਫੌਂਟ ਪ੍ਰਬੰਧਨ ਕਰੋ, ਸ਼ਾਮਿਲ ਕਰੋ, ਹਟਾਓ। Windows® ਫੌਂਟ ਅਯਾਤ ਕਰੋ"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

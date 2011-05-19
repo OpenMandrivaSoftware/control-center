@@ -1510,7 +1510,7 @@ msgstr "菜单风格配置"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "导入 Windows(TM) 文档和设置"
+msgstr "导入 Windows® 文档和设置"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

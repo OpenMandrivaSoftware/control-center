@@ -1395,7 +1395,7 @@ msgstr ""
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
-"Раководете, додавајте и отстранувајте фонтови. Внеси Windows(TM) фонтови"
+"Раководете, додавајте и отстранувајте фонтови. Внеси Windows® фонтови"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

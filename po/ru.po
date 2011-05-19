@@ -1398,7 +1398,7 @@ msgstr "Настройка персонального файервола для 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Управление шрифтами. Импортирование шрифтов Windows(TM)"
+msgstr "Управление шрифтами. Импортирование шрифтов Windows®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1547,7 +1547,7 @@ msgstr "Настройка стиля меню"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Импорт документов и настроек Windows(TM)"
+msgstr "Импорт документов и настроек Windows®"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

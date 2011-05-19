@@ -1508,7 +1508,7 @@ msgstr "Izvieļnis stila konfiguraceja"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Importēt Windows(TM) dokumentus i īstatiejumus"
+msgstr "Importēt Windows® dokumentus i īstatiejumus"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

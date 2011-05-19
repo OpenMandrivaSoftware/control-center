@@ -1388,7 +1388,7 @@ msgstr "Ağınızı ve bilgisayarı korumak için bir güvenlik duvarı oluştur
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Fontları yönetin,ekleyin veya kaldırın. Windows(TM) fontlarını alın"
+msgstr "Fontları yönetin,ekleyin veya kaldırın. Windows® fontlarını alın"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1534,7 +1534,7 @@ msgstr "Menü biçimi yapılandırması"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Windows (TM) belge ve ayarlarını aktar"
+msgstr "Windows ® belge ve ayarlarını aktar"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

@@ -1374,7 +1374,7 @@ msgstr "Isikliku tulemüüri loomine oma arvuti ja võrgu kaitsmiseks"
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Fontide haldamine, lisamine ja eemaldamine ning Windows(TM) fontide import"
+msgstr "Fontide haldamine, lisamine ja eemaldamine ning Windows® fontide import"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1518,7 +1518,7 @@ msgstr "Menüüstiili seadistamine"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Windows(TM) dokumentide ja seadistuste import"
+msgstr "Windows® dokumentide ja seadistuste import"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

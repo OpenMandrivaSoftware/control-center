@@ -1378,7 +1378,7 @@ msgstr "Configurer un pare-feu personnel pour protéger l'ordinateur et le rése
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Gérer, ajouter et supprimer les polices. Importer les polices Windows (TM)"
+msgstr "Gérer, ajouter et supprimer les polices. Importer les polices Windows ®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1522,7 +1522,7 @@ msgstr "Configuration du style de menu"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Importer les documents et les réglages de Windows(TM)"
+msgstr "Importer les documents et les réglages de Windows®"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

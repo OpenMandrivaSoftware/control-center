@@ -1388,7 +1388,7 @@ msgstr ""
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
 "Upravljajte fontovima, dodajte i uklanjajte fontove. Prenesite fontove iz "
-"Windows-a(TM)"
+"Windows-a®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

@@ -1378,7 +1378,7 @@ msgstr "Thiết lập tường lửa cá nhân để bảo vệ mạng và máy 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Quản lý, thêm, bỏ phông chữ. Nhập phông chữ từ Windows(TM)"
+msgstr "Quản lý, thêm, bỏ phông chữ. Nhập phông chữ từ Windows®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

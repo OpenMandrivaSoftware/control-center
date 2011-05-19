@@ -1381,7 +1381,7 @@ msgstr "コンピュータとネットワークを保護するファイアウォ
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "フォントの管理・追加・削除と Windows(TM) フォントのインポート"
+msgstr "フォントの管理・追加・削除と Windows® フォントのインポート"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1527,7 +1527,7 @@ msgstr "メニュースタイルの設定"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Windows(TM) のドキュメントと設定をインポート"
+msgstr "Windows® のドキュメントと設定をインポート"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

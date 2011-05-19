@@ -1380,7 +1380,7 @@ msgstr "Setja upp þinn eiginn eldvegg til að verja tölvuna og netið"
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Sýsla með letur. Flytja inn Windows(TM) letur"
+msgstr "Sýsla með letur. Flytja inn Windows® letur"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1528,7 +1528,7 @@ msgstr "Uppsetning valmyndastíls"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Flytja inn Windows(TM) skjöl og stillingar"
+msgstr "Flytja inn Windows® skjöl og stillingar"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

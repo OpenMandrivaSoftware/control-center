@@ -1559,7 +1559,7 @@ msgstr "Налаштування стилю меню"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Імпортувати документи і налаштування Windows(TM)"
+msgstr "Імпортувати документи і налаштування Windows®"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

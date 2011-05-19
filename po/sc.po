@@ -1381,7 +1381,7 @@ msgstr "Assètia unu firewall personali po amparai màkina e arretza"
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Manija, açungi e srèxina litras. Importa litras de Windows(TM)"
+msgstr "Manija, açungi e srèxina litras. Importa litras de Windows®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

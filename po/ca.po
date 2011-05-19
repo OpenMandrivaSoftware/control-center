@@ -1393,7 +1393,7 @@ msgstr ""
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Gestiona, afegeix i elimina fonts. Importa fonts de Windows(TM)"
+msgstr "Gestiona, afegeix i elimina fonts. Importa fonts de Windows®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

@@ -1360,7 +1360,7 @@ msgstr ""
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
-"Shriftlarni qoʻshish va oʻchirish. Windows(TM) shriftlarini import qilish."
+"Shriftlarni qoʻshish va oʻchirish. Windows® shriftlarini import qilish."
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1508,7 +1508,7 @@ msgstr "Menyu uslubini moslash"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Windows(TM) hujjat va moslamalarni import qilish"
+msgstr "Windows® hujjat va moslamalarni import qilish"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format

@@ -1387,7 +1387,7 @@ msgstr "Setting firewall pribadi untuk memproteksi komputer dan jaringan"
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Mengelola, menambah dan menghapus font. Mengimport font Windows(TM)"
+msgstr "Mengelola, menambah dan menghapus font. Mengimport font Windows®"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1534,7 +1534,7 @@ msgstr "Konfigurasi Gaya Menu"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Impor dokumen dan setting Windows(TM)"
+msgstr "Impor dokumen dan setting Windows®"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format
