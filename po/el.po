@@ -1690,12 +1690,12 @@ msgstr "Διαχείριση των υπηρεσιών του συστήματο
 #: ../lib/MDV/Control_Center.pm:592
 #, c-format
 msgid "Configure media sources for install and update"
-msgstr "Ρυθμίστε της πηγές μέσων για εγκατάσταση και ενημέρωση του λογισμικού"
+msgstr "Ρυθμίστε τις πηγές μέσων για εγκατάσταση και ενημέρωση του λογισμικού"
 
 #: ../lib/MDV/Control_Center.pm:593
 #, c-format
 msgid "Select from where software packages are downloaded "
-msgstr "Επιλέξτε της πηγές λήψης των πακέτων λογισμικού"
+msgstr "Επιλέξτε τις πηγές λήψης των πακέτων λογισμικού"
 
 #: ../lib/MDV/Control_Center.pm:603
 #, c-format
