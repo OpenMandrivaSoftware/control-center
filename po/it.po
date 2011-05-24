@@ -1,27 +1,19 @@
-# translation of it.po to Italian
-# DrakeConF 8.2 ita. ver.
-# Copyright (C) 2002,2003, 2004, 2005, 2007, 2008, 2010 Free Software Foundation, Inc.
-#
-# Ruggero Tonelli <ruggero@valtellinux.it>, 2000-2002.
-# Simone Riccio <s.riccio@aeb-informatica.it>, 2002.
-# Roberto Rosselli Del Turco <rosselli@ling.unipi.it>, 2002.
-# Daniele Pighin <daniele@dcs.it>, 2003, 2004, 2005.
-# Andrea Celli <andrea.celli@libero.it>, 2005, 2007, 2008, 2009, 2010.
-# Marcello Anni <marcello.anni@alice.it>, 2008, 2009.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: it\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-02-22 23:38+0200\n"
-"PO-Revision-Date: 2010-04-02 22:47+0200\n"
-"Last-Translator: Andrea Celli <andrea.celli@libero.it>\n"
-"Language-Team: Italian <timl@freelists.org>\n"
-"Language: it\n"
+"Project-Id-Version: control-center\n"
+"POT-Creation-Date: 2011-05-03 15:20+0200\n"
+"PO-Revision-Date: 2011-05-24 17:52+0000\n"
+"Last-Translator: Oliver Burger <oliver.bgr@googlemail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../contributors.pl:11
 #, c-format
@@ -38,9 +30,7 @@ msgstr "Per Oyvind Karlsen"
 msgid ""
 "massive packages rebuilding and cleaning, games, sparc port, proofreading of "
 "Mandriva tools"
-msgstr ""
-"consistente pulizia e riorganizzazione dei pacchetti, giochi, trasferimento "
-"su sparc, revisione degli strumenti Mandriva"
+msgstr "consistente pulizia e riorganizzazione dei pacchetti, giochi, trasferimento su sparc, revisione degli strumenti Mandriva"
 
 #: ../contributors.pl:13
 #, c-format
@@ -60,8 +50,7 @@ msgstr "Olivier Thauvin"
 #: ../contributors.pl:14
 #, c-format
 msgid "figlet introduction, Distriblint (checking rpm in the distro)"
-msgstr ""
-"introduzione a figlet, distriblint (controllo degli RPM nella distribuzione)"
+msgstr "introduzione a figlet, distriblint (controllo degli RPM nella distribuzione)"
 
 #: ../contributors.pl:15
 #, c-format
@@ -83,9 +72,7 @@ msgstr "Ben Reser"
 msgid ""
 "updated nc with debian patches, fixed some perl packages, dnotify startup "
 "script, urpmc, hddtemp, wipe, etc..."
-msgstr ""
-"aggiornamento di nc con patch di debian, correzioni ad alcuni pacchetti "
-"perl, script di avvio per dnotify, urpmc, hddtemp, wipe, etc..."
+msgstr "aggiornamento di nc con patch di debian, correzioni ad alcuni pacchetti perl, script di avvio per dnotify, urpmc, hddtemp, wipe, etc..."
 
 #: ../contributors.pl:17 ../contributors.pl:42
 #, c-format
@@ -97,9 +84,7 @@ msgstr "Thomas Backlund"
 msgid ""
 "\"deep and broad\" kernel work (many new patches before integration in "
 "official kernel)"
-msgstr ""
-"\"profondo e ampio\" lavoro sul kernel (molte nuove patch prima "
-"dell'integrazione nel kernel ufficiale)"
+msgstr "\"profondo e ampio\" lavoro sul kernel (molte nuove patch prima dell'integrazione nel kernel ufficiale)"
 
 #: ../contributors.pl:18
 #, c-format
@@ -132,10 +117,7 @@ msgid ""
 "Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
 "software (grass, mapserver), cursor_themes collection, misc server-side "
 "contributions"
-msgstr ""
-"Samba 3.0 (release preliminare) che coesiste con Samba 2.2.x, software GIS "
-"(grass, mapserver), collezione di temi di puntatori del mouse, diversi "
-"contributi sul lato server"
+msgstr "Samba 3.0 (release preliminare) che coesiste con Samba 2.2.x, software GIS (grass, mapserver), collezione di temi di puntatori del mouse, diversi contributi sul lato server"
 
 #: ../contributors.pl:21
 #, c-format
@@ -147,9 +129,7 @@ msgstr "Goetz Waschk"
 msgid ""
 "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
 "python, rox desktop"
-msgstr ""
-"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms e plugin gnome-python, "
-"rox desktop"
+msgstr "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms e plugin gnome-python, rox desktop"
 
 #: ../contributors.pl:22
 #, c-format
@@ -161,9 +141,7 @@ msgstr "Austin Acton"
 msgid ""
 "audio/video/MIDI apps, scientific apps, audio/video production howtos, "
 "bluetooth, pyqt & related"
-msgstr ""
-"applicazioni audio,video e MIDI, applicazioni scientifiche, howto "
-"sull'elaborazione audio e video, bluetooth, pyqt e derivati"
+msgstr "applicazioni audio,video e MIDI, applicazioni scientifiche, howto sull'elaborazione audio e video, bluetooth, pyqt e derivati"
 
 #: ../contributors.pl:23
 #, c-format
@@ -203,8 +181,7 @@ msgstr "Stefan VanDer Eijk"
 #: ../contributors.pl:26
 #, c-format
 msgid "slbd distro checking, devel dependencies"
-msgstr ""
-"controllo sulla distribuzione slbd, dipendenze per i pacchetti di sviluppo"
+msgstr "controllo sulla distribuzione slbd, dipendenze per i pacchetti di sviluppo"
 
 #: ../contributors.pl:27
 #, c-format
@@ -236,9 +213,7 @@ msgstr "Tibor Pittich"
 msgid ""
 "sk-i18n, contributed several packages, openldap testing and integration, "
 "bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
-msgstr ""
-"sk-18n, ha contribuito a diversi pacchetti, testato ed integrato openldap, "
-"bind-sdb-ldap, cacciatore di bug e utente di cooker da diversi anni, etc..."
+msgstr "sk-18n, ha contribuito a diversi pacchetti, testato ed integrato openldap, bind-sdb-ldap, cacciatore di bug e utente di cooker da diversi anni, etc..."
 
 #: ../contributors.pl:30
 #, c-format
@@ -280,9 +255,7 @@ msgstr "Brook Humphrey"
 msgid ""
 "testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
 "spamassassin, maildrop, clamav."
-msgstr ""
-"test e bug report, Devcot, bibletime, sword, aiuto con pure-ftpd, "
-"spamassassin, maildrop, clamav."
+msgstr "test e bug report, Devcot, bibletime, sword, aiuto con pure-ftpd, spamassassin, maildrop, clamav."
 
 #: ../contributors.pl:34
 #, c-format
@@ -295,10 +268,7 @@ msgid ""
 "http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
 "support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
 "drakxtools"
-msgstr ""
-"supporto per il proxy http durante l'installazione, supporto per il kernel "
-"2.6 in sndconfig, supporto per samba3 in LinNeighborhood, correzioni e "
-"migliorie in urpmi, bootsplash e drakxtools"
+msgstr "supporto per il proxy http durante l'installazione, supporto per il kernel 2.6 in sndconfig, supporto per samba3 in LinNeighborhood, correzioni e migliorie in urpmi, bootsplash e drakxtools"
 
 #: ../contributors.pl:35
 #, c-format
@@ -343,9 +313,7 @@ msgstr "Traduttori:"
 #: ../contributors.pl:40
 #, c-format
 msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
-msgstr ""
-"traduttore e coordinatore del team di Norvegese Bokmal (nb), lavoro di "
-"internazionalizzazione"
+msgstr "traduttore e coordinatore del team di Norvegese Bokmal (nb), lavoro di internazionalizzazione"
 
 #: ../contributors.pl:41
 #, c-format
@@ -546,455 +514,462 @@ msgstr "MD, test e bug report"
 msgid ""
 "And many unnamed and unknown beta testers and bug reporters that helped make "
 "sure it all worked right."
-msgstr ""
-"E molti beta-tester e segnalatori di bug sconosciuti e senza un nome che "
-"hanno permesso che tutto funzioni a dovere."
+msgstr "E molti beta-tester e segnalatori di bug sconosciuti e senza un nome che hanno permesso che tutto funzioni a dovere."
 
 #: ../control-center:90
 #, c-format
 msgid "Mageia"
-msgstr ""
+msgstr "Mageia"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
 msgid "%s Control Center"
 msgstr "Centro di Controllo %s"
 
-#: ../control-center:106 ../control-center:1060
+#: ../control-center:106 ../control-center:1059
 #, c-format
 msgid "Loading... Please wait"
 msgstr "Caricamento in corso... Attendi per favore"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
 #: ../control-center:151 ../control-center:155
 #, c-format
 msgid "Software Management"
 msgstr "Gestione software"
 
-#: ../control-center:167 ../control-center:355 ../control-center:390
-#: ../control-center:548
+#: ../control-center:166 ../control-center:354 ../control-center:389
+#: ../control-center:547
 #, c-format
 msgid "Others"
 msgstr "Altro"
 
-#: ../control-center:177
+#: ../control-center:176
 #, c-format
 msgid "Server wizards"
 msgstr "Configurazione assistita dei server"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:180 ../control-center:183
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:179 ../control-center:182
 #, c-format
 msgid "Sharing"
 msgstr "Condivisione"
 
-#: ../control-center:186
+#: ../control-center:185
 #, c-format
 msgid "Configure FTP"
 msgstr "Configura server FTP"
 
-#: ../control-center:187
+#: ../control-center:186
 #, c-format
 msgid "Set up an FTP server"
 msgstr "Configura un server FTP"
 
-#: ../control-center:189
+#: ../control-center:188
 #, c-format
 msgid "Configure Samba"
 msgstr "Configura server Samba"
 
-#: ../control-center:190
+#: ../control-center:189
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
-msgstr ""
-"Configura un server di file e di stampa per workstation con o senza sistemi "
-"Linux"
+msgstr "Configura un server di file e di stampa per workstation con o senza sistemi Linux"
 
-#: ../control-center:192
+#: ../control-center:191
 #, c-format
 msgid "Manage Samba share"
 msgstr "Gestisci delle condivisioni Samba"
 
-#: ../control-center:193
+#: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
 msgstr "Amministra, crea condivisioni speciali e condivisioni pubbliche/utente"
 
-#: ../control-center:195
+#: ../control-center:194
 #, c-format
 msgid "Configure web server"
 msgstr "Configura server web"
 
-#: ../control-center:196
+#: ../control-center:195
 #, c-format
 msgid "Set up a web server"
 msgstr "Configura un server web"
 
-#: ../control-center:198
+#: ../control-center:197
 #, c-format
 msgid "Configure installation server"
 msgstr "Configura server per l'installazione"
 
-#: ../control-center:199
+#: ../control-center:198
 #, c-format
 msgid "Set up server for network installations of %s"
 msgstr "Configura un server per installazioni di rete di %s"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:209 ../control-center:212
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:208 ../control-center:211
 #, c-format
 msgid "Network Services"
 msgstr "Servizi di rete"
 
-#: ../control-center:215
+#: ../control-center:214
 #, c-format
 msgid "Configure DHCP"
 msgstr "Configura server DHCP"
 
-#: ../control-center:216
+#: ../control-center:215
 #, c-format
 msgid "Set up a DHCP server"
 msgstr "Configura un server DHCP"
 
-#: ../control-center:218
+#: ../control-center:217
 #, c-format
 msgid "Configure DNS"
 msgstr "Configura DNS"
 
-#: ../control-center:219
+#: ../control-center:218
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
 msgstr "Configura un server DNS (risoluzione dei nomi della rete)"
 
-#: ../control-center:221
+#: ../control-center:220
 #, c-format
 msgid "Configure proxy"
 msgstr "Configura server proxy"
 
-#: ../control-center:222
+#: ../control-center:221
 #, c-format
 msgid "Configure a web caching proxy server"
 msgstr "Configura un server proxy web caching"
 
-#: ../control-center:224
+#: ../control-center:223
 #, c-format
 msgid "Configure time"
 msgstr "Configura time server"
 
-#: ../control-center:225
+#: ../control-center:224
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
-msgstr ""
-"Seleziona un time server remoto per la sincronizzazione dell'orologio di "
-"sistema"
+msgstr "Seleziona un time server remoto per la sincronizzazione dell'orologio di sistema"
 
-#: ../control-center:227 ../control-center:228
+#: ../control-center:226 ../control-center:227
 #, c-format
 msgid "OpenSSH daemon configuration"
 msgstr "Configurazione del demone OpenSSH"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
-#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will
+#. searchs it:
+#: ../control-center:238 ../control-center:241 ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Authentication"
 msgstr "Autenticazione"
 
-#: ../control-center:246
+#: ../control-center:245
 #, c-format
 msgid "Configure NIS and Autofs"
 msgstr "Configura server NIS e AutoFS"
 
-#: ../control-center:247
+#: ../control-center:246
 #, c-format
 msgid "Configure the NIS and Autofs services"
 msgstr "Configura i servizi NIS e AutoFS"
 
-#: ../control-center:249
+#: ../control-center:248
 #, c-format
 msgid "Configure LDAP"
 msgstr "Configura LDAP"
 
-#: ../control-center:250
+#: ../control-center:249
 #, c-format
 msgid "Configure the LDAP directory services"
 msgstr "Configura i servizi di cartelle LDAP"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:261 ../control-center:264
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:260 ../control-center:263
 #, c-format
 msgid "Groupware"
 msgstr "Groupware"
 
-#: ../control-center:267
+#: ../control-center:266
 #, c-format
 msgid "Configure news"
 msgstr "Configura news server"
 
-#: ../control-center:268
+#: ../control-center:267
 #, c-format
 msgid "Configure a newsgroup server"
 msgstr "Configura un server newsgroup"
 
-#: ../control-center:270
+#: ../control-center:269
 #, c-format
 msgid "Configure groupware"
 msgstr "Configura groupware"
 
-#: ../control-center:271
+#: ../control-center:270
 #, c-format
 msgid "Configure a groupware server"
 msgstr "Configura un server per groupware"
 
-#: ../control-center:273
+#: ../control-center:272
 #, c-format
 msgid "Configure mail"
 msgstr "Configura server mail"
 
-#: ../control-center:274
+#: ../control-center:273
 #, c-format
 msgid "Configure the Internet Mail services"
 msgstr "Configura i servizi di Internet Mail"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:286 ../control-center:289
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:285 ../control-center:288
 #, c-format
 msgid "Online Administration"
 msgstr "Amministrazione online"
 
-#: ../control-center:305
+#: ../control-center:304
 #, c-format
 msgid "Local administration"
 msgstr "Amministrazione locale"
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "Configure the local machine via web interface"
 msgstr "Configura la macchina locale mediante un'interfaccia web"
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
-msgstr ""
-"Sembra che Webmin non sia installato. Configurazione locale è disabilitata"
+msgstr "Sembra che Webmin non sia installato. Configurazione locale è disabilitata"
 
-#: ../control-center:308
+#: ../control-center:307
 #, c-format
 msgid "Remote administration"
 msgstr "Amministrazione remota"
 
-#: ../control-center:309
+#: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
 msgstr "Configura una macchina remota mediante un'interfaccia web"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:323
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:322
 #, c-format
 msgid "Hardware"
 msgstr "Hardware"
 
-#: ../control-center:326
+#: ../control-center:325
 #, c-format
 msgid "Manage your hardware"
 msgstr "Configura l'hardware"
 
-#: ../control-center:333
+#: ../control-center:332
 #, c-format
 msgid "Configure graphics"
 msgstr "Configura la grafica"
 
-#: ../control-center:340
+#: ../control-center:339
 #, c-format
 msgid "Configure mouse and keyboard"
 msgstr "Configura mouse e tastiera"
 
-#: ../control-center:347
+#: ../control-center:346
 #, c-format
 msgid "Configure printing and scanning"
 msgstr "Configura stampanti e scanner"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:365 ../drakxconf:31
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:364 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
 msgstr "Rete e Internet"
 
-#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#: ../control-center:367 ../lib/MDV/Control_Center.pm:419
 #, c-format
 msgid "Manage your network devices"
 msgstr "Gestisci i dispositivi di rete"
 
-#: ../control-center:381
+#: ../control-center:380
 #, c-format
 msgid "Personalize and Secure your network"
 msgstr "Personalizza e rendi sicura la rete"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:400
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:399
 #, c-format
 msgid "System"
 msgstr "Sistema"
 
-#: ../control-center:403
+#: ../control-center:402
 #, c-format
 msgid "Manage system services"
 msgstr "Gestisci i servizi di sistema"
 
-#: ../control-center:412
+#: ../control-center:411
 #, c-format
 msgid "Localization"
 msgstr "Localizzazione"
 
-#: ../control-center:419
+#: ../control-center:418
 #, c-format
 msgid "Administration tools"
 msgstr "Strumenti di amministrazione"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:436
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:435
 #, c-format
 msgid "Network Sharing"
 msgstr "Condivisioni in rete"
 
-#: ../control-center:439
+#: ../control-center:438
 #, c-format
 msgid "Configure Windows(R) shares"
 msgstr "Configura le condivisioni con Windows(R)"
 
-#: ../control-center:446
+#: ../control-center:445
 #, c-format
 msgid "Configure NFS shares"
 msgstr "Configura le condivisioni NFS"
 
-#: ../control-center:453
+#: ../control-center:452
 #, c-format
 msgid "Configure WebDAV shares"
 msgstr "Configura le condivisioni WebDAV"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:463 ../control-center:466
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:462 ../control-center:465
 #, c-format
 msgid "Local disks"
 msgstr "Dischi locali"
 
-#: ../control-center:490
+#: ../control-center:489
 #, c-format
 msgid "CD-ROM (%s)"
 msgstr "CD-ROM (%s)"
 
-#: ../control-center:491
+#: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
 msgstr "Configura il punto di mount del CD-ROM \"%s\""
 
-#: ../control-center:493
+#: ../control-center:492
 #, c-format
 msgid "DVD-ROM (%s)"
 msgstr "DVD-ROM (%s)"
 
-#: ../control-center:494
+#: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
 msgstr "Configura il punto di mount del DVD \"%s\""
 
-#: ../control-center:496
+#: ../control-center:495
 #, c-format
 msgid "CD/DVD burner (%s)"
 msgstr "Masterizzatore CD/DVD (%s)"
 
-#: ../control-center:497
+#: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
 msgstr "Imposta il punto di mount del masterizzatore CD/DVD \"%s\""
 
-#: ../control-center:499
+#: ../control-center:498
 #, c-format
 msgid "ZIP drive"
 msgstr "Unità Zip"
 
-#: ../control-center:500
+#: ../control-center:499
 #, c-format
 msgid "Set where your ZIP drive is mounted"
 msgstr "Configura il punto di mount del lettore ZIP"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:512 ../control-center:515
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:511 ../control-center:514
 #, c-format
 msgid "Security"
 msgstr "Sicurezza"
 
-#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:530
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:529
 #, c-format
 msgid "Boot"
 msgstr "Avvio"
 
-#: ../control-center:533
+#: ../control-center:532
 #, c-format
 msgid "Configure boot steps"
 msgstr "Configura la sequenza di avvio"
 
-#: ../control-center:542
+#: ../control-center:541
 #, c-format
 msgid "Boot look'n feel"
 msgstr "Aspetto dell'avvio"
 
-#: ../control-center:559
+#: ../control-center:558
 #, c-format
 msgid "Additional wizards"
 msgstr "Altre procedure assistite"
 
-#: ../control-center:614 ../control-center:615 ../control-center:616
-#: ../control-center:628
+#: ../control-center:613 ../control-center:614 ../control-center:615
+#: ../control-center:627
 #, c-format
 msgid "/_Options"
 msgstr "/_Opzioni"
 
-#: ../control-center:614
+#: ../control-center:613
 #, c-format
 msgid "/Display _Logs"
 msgstr "/Mostra i _log"
 
-#: ../control-center:615
+#: ../control-center:614
 #, c-format
 msgid "/_Embedded Mode"
 msgstr "/Modalità em_bedded"
 
-#: ../control-center:616
+#: ../control-center:615
 #, c-format
 msgid "/Expert mode in _wizards"
 msgstr "/_Assistente in modalità esperto"
 
-#: ../control-center:626 ../control-center:627
+#: ../control-center:625 ../control-center:626
 #, c-format
 msgid "/_File"
 msgstr "/_File"
 
-#: ../control-center:627
+#: ../control-center:626
 #, c-format
 msgid "/_Quit"
 msgstr "/_Esci"
 
-#: ../control-center:627
+#: ../control-center:626
 #, c-format
 msgid "<control>Q"
 msgstr "<control>Q"
 
-#: ../control-center:627
+#: ../control-center:626
 #, c-format
 msgid "Quit"
 msgstr "Esci"
 
-#: ../control-center:648 ../control-center:651 ../control-center:664
+#: ../control-center:647 ../control-center:650 ../control-center:663
 #, c-format
 msgid "/_Themes"
 msgstr "/_Temi"
 
-#: ../control-center:654
+#: ../control-center:653
 #, c-format
 msgid ""
 "This action will restart the control center.\n"
@@ -1003,65 +978,65 @@ msgstr ""
 "Questa azione riavvierà il Centro di Controllo.\n"
 "Ogni modifica non applicata andrà persa."
 
-#: ../control-center:664
+#: ../control-center:663
 #, c-format
 msgid "/_More themes"
 msgstr "/A_ltri temi"
 
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669 ../control-center:670 ../control-center:671
-#: ../control-center:674
+#: ../control-center:665 ../control-center:666 ../control-center:667
+#: ../control-center:668 ../control-center:669 ../control-center:670
+#: ../control-center:673
 #, c-format
 msgid "/_Help"
 msgstr "/_Aiuto"
 
-#: ../control-center:667 ../control-center:668 ../control-center:669
-#: ../control-center:670
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669
 #, c-format
 msgid "Help"
 msgstr "Aiuto"
 
-#: ../control-center:668
+#: ../control-center:667
 #, c-format
 msgid "/_Release notes"
 msgstr "/_Note di rilascio"
 
-#: ../control-center:669
+#: ../control-center:668
 #, c-format
 msgid "/What's _New?"
 msgstr "/Cosa c'è di _nuovo?"
 
-#: ../control-center:670
+#: ../control-center:669
 #, c-format
 msgid "/_Errata"
 msgstr "/_Errata"
 
-#: ../control-center:671
+#: ../control-center:670
 #, c-format
 msgid "/_Report Bug"
 msgstr "/_Segnala un bug"
 
-#: ../control-center:674
+#: ../control-center:673
 #, c-format
 msgid "/_About..."
 msgstr "/_Informazioni su..."
 
-#: ../control-center:732
+#: ../control-center:731
 #, c-format
 msgid "Cancel"
 msgstr "Annulla"
 
-#: ../control-center:752
+#: ../control-center:751
 #, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr "Centro di Controllo %s %s [su %s]"
 
-#: ../control-center:1039 ../control-center:1104
+#: ../control-center:1038 ../control-center:1103
 #, c-format
 msgid "Error"
 msgstr "Errore"
 
-#: ../control-center:1039
+#: ../control-center:1038
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1072,93 +1047,94 @@ msgstr ""
 "\n"
 "Sei pregato di segnalarlo."
 
-#: ../control-center:1104
+#: ../control-center:1103
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr "Impossibile eseguire il programma sconosciuto \"%s\""
 
-#: ../control-center:1123
+#: ../control-center:1122
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr "Le modifiche apportate al modulo corrente non verranno salvate."
 
-#: ../control-center:1210
+#: ../control-center:1209
 #, c-format
 msgid "cannot fork: %s"
 msgstr "impossibile eseguire fork: %s"
 
-#: ../control-center:1233
+#: ../control-center:1232
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
 msgstr "non si può eseguire fork ed exec per \"%s\" perché non è eseguibile"
 
-#: ../control-center:1372
+#: ../control-center:1371
 #, c-format
 msgid "This program has exited abnormally"
 msgstr "Il programma non è terminato normalmente"
 
-#: ../control-center:1381
+#: ../control-center:1380
 #, c-format
 msgid "Warning"
 msgstr "Attenzione"
 
-#: ../control-center:1391 ../drakconsole:31
+#: ../control-center:1390 ../drakconsole:31
 #, c-format
 msgid "Close"
 msgstr "Chiudi"
 
-#: ../control-center:1398
+#: ../control-center:1397
 #, c-format
 msgid "More themes"
 msgstr "Altri temi"
 
-#: ../control-center:1400
+#: ../control-center:1399
 #, c-format
 msgid "Getting new themes"
 msgstr "Ottenere altri temi"
 
-#: ../control-center:1401
+#: ../control-center:1400
 #, c-format
 msgid "Additional themes"
 msgstr "Ulteriori temi"
 
-#: ../control-center:1403
+#: ../control-center:1402
 #, c-format
 msgid "Get additional themes on www.damz.net"
 msgstr "Ottieni altri temi da www.damz.net"
 
-#: ../control-center:1411
+#: ../control-center:1410
 #, c-format
 msgid "About - %s Control Center"
 msgstr "Informazioni sul Centro di Controllo %s"
 
-#: ../control-center:1420
+#: ../control-center:1418
 #, c-format
 msgid "Authors: "
 msgstr "Autori: "
 
-#: ../control-center:1424
+#: ../control-center:1422
 #, c-format
 msgid "(perl version)"
 msgstr "(versione perl)"
 
-#: ../control-center:1429
+#: ../control-center:1427
 #, c-format
 msgid "Artwork: "
 msgstr "Grafica: "
 
-#: ../control-center:1434
+#: ../control-center:1432
 #, c-format
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
-#. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1456
+#. -PO: this is used as "language: translator" in credits part of the about
+#. dialog:
+#: ../control-center:1454
 #, c-format
 msgid "- %s: %s\n"
 msgstr "- %s: %s\n"
 
-#: ../control-center:1471
+#: ../control-center:1469
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
@@ -1168,45 +1144,46 @@ msgstr ""
 "Andrea Celli\n"
 "Marcello Anni"
 
-#: ../control-center:1473
+#: ../control-center:1471
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "marcello.anni@alice.it"
 
-#: ../control-center:1475
+#: ../control-center:1473
 #, c-format
 msgid "Translator: "
 msgstr "Traduttori: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1484
+#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free)
+#. Control Center")
+#: ../control-center:1482
 #, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "Centro di Controllo %s (%s) %s"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1489
+#: ../control-center:1487
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "Copyright (C) %s Mandriva SA"
 
-#: ../control-center:1489
-#, fuzzy, c-format
+#: ../control-center:1487
+#, c-format
 msgid "Copyright (C) %s Mageia"
-msgstr "Copyright (C) %s Mandriva SA"
+msgstr "Copyright (C) %s Mageia"
 
-#: ../control-center:1495
+#: ../control-center:1493
 #, c-format
 msgid "Authors"
 msgstr "Autori"
 
-#: ../control-center:1496
-#, fuzzy, c-format
+#: ../control-center:1494
+#, c-format
 msgid "Mageia Contributors"
-msgstr "Hanno contribuito a Mandriva Linux"
+msgstr "Collaboratori Mageia"
 
 #: ../drakconsole:27
 #, c-format
@@ -1287,9 +1264,7 @@ msgstr "Configura effetti desktop 3D"
 #, c-format
 msgid ""
 "Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
-msgstr ""
-"Seleziona il metodo di autenticazione (locale, NIS, LDAP, dominio di "
-"Windows, ...)"
+msgstr "Seleziona il metodo di autenticazione (locale, NIS, LDAP, dominio di Windows, ...)"
 
 #: ../lib/MDV/Control_Center.pm:77
 #, c-format
@@ -1299,9 +1274,7 @@ msgstr "Imposta l'accesso automatico"
 #: ../lib/MDV/Control_Center.pm:78
 #, c-format
 msgid "Enable autologin and select the user to automatically log in"
-msgstr ""
-"Abilita l'accesso automatico e seleziona l'utente da far accedere "
-"automaticamente"
+msgstr "Abilita l'accesso automatico e seleziona l'utente da far accedere automaticamente"
 
 #: ../lib/MDV/Control_Center.pm:87
 #, c-format
@@ -1376,9 +1349,7 @@ msgstr "Imposta il gestore grafico delle sessioni"
 #: ../lib/MDV/Control_Center.pm:180
 #, c-format
 msgid "Choose the display manager that enables to select which user to log in"
-msgstr ""
-"Scegli il gestore grafico degli accessi che permetterà di scegliere l'utente "
-"da collegare"
+msgstr "Scegli il gestore grafico degli accessi che permetterà di scegliere l'utente da collegare"
 
 #: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
 #, c-format
@@ -1399,7 +1370,7 @@ msgstr "Configura un firewall personale per proteggere il computer e la rete"
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Gestisci tipi di caratteri. Importa tipi di caratteri da Windows ®"
+msgstr "Gestisci tipi di caratteri. Importa tipi di caratteri da Windows (TM)"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1454,9 +1425,7 @@ msgstr "Impostazioni avanzate per le interfacce di rete ed il firewall"
 #: ../lib/MDV/Control_Center.pm:282
 #, c-format
 msgid "Set up network interfaces failover and firewall replication"
-msgstr ""
-"Impostazioni per la ridondanza delle interfacce di rete e per la replica di "
-"firewall"
+msgstr "Impostazioni per la ridondanza delle interfacce di rete e per la replica di firewall"
 
 #: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
 #, c-format
@@ -1509,18 +1478,16 @@ msgid "Manage installed software packages on a group of computers"
 msgstr "Gestisci i pacchetti software installati su un gruppo di computer"
 
 #: ../lib/MDV/Control_Center.pm:349
-#, fuzzy, c-format
+#, c-format
 msgid "Configure authentication for Mageia tools"
-msgstr "Configura l'autenticazione per gli strumenti Mandriva"
+msgstr "Configura autenticazione per strumenti Mageia"
 
 #: ../lib/MDV/Control_Center.pm:350
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "Define authentication required to access individual Mageia configuration "
 "tools "
-msgstr ""
-"Definisci L'autenticazione richiesta per accedere ai vari strumenti di "
-"configurazione Mandriva"
+msgstr "Definisci l'autenticazione richiesta per accedere ai singoli strumenti Mageia di configurazione"
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1532,9 +1499,7 @@ msgstr "Aggiorna il sistema"
 msgid ""
 "Look at available updates and apply any fixes or upgrades to installed "
 "packages"
-msgstr ""
-"Ricerca ed installa gli aggiornamenti e le correzioni disponibili per i "
-"pacchetti installati"
+msgstr "Ricerca ed installa gli aggiornamenti e le correzioni disponibili per i pacchetti installati"
 
 #: ../lib/MDV/Control_Center.pm:369
 #, c-format
@@ -1549,7 +1514,7 @@ msgstr "Configurazione dello stile del menu"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Importa i documenti e le impostazioni di Windows®"
+msgstr "Importa i documenti e le impostazioni di Windows(TM)"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format
@@ -1629,7 +1594,7 @@ msgstr "Configura la condivisione delle partizioni del disco fisso"
 #: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
 #, c-format
 msgid "Set up the printer(s), the print job queues, ..."
-msgstr "Configura stampante (i), code di stampa, ..."
+msgstr "Configura stampanti, code di stampa, ..."
 
 #: ../lib/MDV/Control_Center.pm:491
 #, c-format
@@ -1684,8 +1649,7 @@ msgstr "Accedi a dischi e cartelle condivise con Windows (SMB)"
 #: ../lib/MDV/Control_Center.pm:542
 #, c-format
 msgid "Configuration of Windows (Samba) shared drives and directories"
-msgstr ""
-"Configurazione dei dischi e delle cartelle condivise con Windows (Samba)"
+msgstr "Configurazione dei dischi e delle cartelle condivise con Windows (Samba)"
 
 #: ../lib/MDV/Control_Center.pm:551
 #, c-format
@@ -1710,9 +1674,7 @@ msgstr "Configura la sicurezza, i permessi e l'audit del sistema"
 #: ../lib/MDV/Control_Center.pm:572
 #, c-format
 msgid "Set the system security level, periodic security audit and permissions"
-msgstr ""
-"Imposta il livello di sicurezza del sistema, i controlli di sicurezza "
-"periodici e i permessi"
+msgstr "Imposta il livello di sicurezza del sistema, i controlli di sicurezza periodici e i permessi"
 
 #: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
 #, c-format
@@ -1958,12 +1920,5 @@ msgid "Screen Resolution"
 msgstr "Risoluzione schermo"
 
 #: ../drakconf.desktop.in.h:1
-#, fuzzy
 msgid "Mageia Control Center"
-msgstr "Centro di Controllo"
-
-#~ msgid "Configure Your Computer"
-#~ msgstr "Configura il computer"
-
-#~ msgid "Mandriva Linux"
-#~ msgstr "Mandriva Linux"
+msgstr "Centro di Controllo Mageia"
