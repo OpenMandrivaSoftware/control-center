@@ -1,3 +1,40 @@
+2011-05-24 15:55  
+
+	* Makefile, pixmaps/default/left-background-filler.png,
+	  pixmaps/default/left-background.png: fix left background
+
+2011-05-24 12:37  
+
+	* po/cs.po: updated Czech translation
+
+2011-05-24 12:11  
+
+	* po/cs.po: updated Czech translation
+
+2011-05-20 01:04  
+
+	* po/el.po: updated greek translation
+
+2011-05-19 23:52  
+
+	* po/zh_TW.po: 20110520 committed by Franklin: updated zh_TW"
+
+2011-05-19 13:38  
+
+	* po/ar.po, po/ro.po: Update of the Arabic and Romanian
+	  translations for almost all of the projects. Add of new Arabic
+	  translations for indexhtml, and new Romanian translations for
+	  indexhtml, drakpxelinux, identity.
+
+2011-05-19 09:39  
+
+	* ChangeLog, Makefile, NEWS: update for 12.21.8
+
+2011-05-19 09:33  
+
+	* drakconf16.png, drakconf32.png, drakconf48.png,
+	  pixmaps/default/splash_screen.png: fix drakconf icons (#1090)
+
 2011-05-19 09:33  
 
 	* drakconf16.png, drakconf32.png, drakconf48.png,
