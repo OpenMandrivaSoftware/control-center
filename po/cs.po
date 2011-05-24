@@ -558,7 +558,7 @@ msgstr ""
 #: ../control-center:100 ../control-center:105
 #, c-format
 msgid "%s Control Center"
-msgstr "Ovládací centrum %su"
+msgstr "Ovládací centrum %s"
 
 #: ../control-center:106 ../control-center:1060
 #, c-format
@@ -640,7 +640,7 @@ msgstr "Upravit nastavení instalačního serveru"
 #: ../control-center:199
 #, c-format
 msgid "Set up server for network installations of %s"
-msgstr "Nastavit server pro síťovou instalaci %su"
+msgstr "Nastavit server pro síťovou instalaci %s"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:209 ../control-center:212
@@ -1053,7 +1053,7 @@ msgstr "Zrušit"
 #: ../control-center:752
 #, c-format
 msgid "%s Control Center %s [on %s]"
-msgstr "Ovládací centrum %su %s [na %s]"
+msgstr "Ovládací centrum %s %s [na %s]"
 
 #: ../control-center:1039 ../control-center:1104
 #, c-format
@@ -1129,7 +1129,7 @@ msgstr "Získat další témata vzhledu z www.damz.net"
 #: ../control-center:1411
 #, c-format
 msgid "About - %s Control Center"
-msgstr "O aplikaci Ovládací centrum %su"
+msgstr "O aplikaci Ovládací centrum %s"
 
 #: ../control-center:1420
 #, c-format
@@ -1187,7 +1187,7 @@ msgstr "Překladatel: "
 #: ../control-center:1484
 #, c-format
 msgid "%s %s (%s) Control Center"
-msgstr "Ovládací centrum %su %s (%s)"
+msgstr "Ovládací centrum %s %s (%s)"
 
 #. -PO: here %s is eg: "1999-2008"
 #: ../control-center:1489
