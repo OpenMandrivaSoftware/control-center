@@ -1330,7 +1330,7 @@ msgstr "Налаштувати резервне копіювання систе�
 #: ../lib/MDV/Control_Center.pm:98
 #, c-format
 msgid "Snapshots"
-msgstr "Знімки"
+msgstr "Резервні копії"
 
 #: ../lib/MDV/Control_Center.pm:108
 #, c-format
@@ -1728,7 +1728,7 @@ msgstr ""
 #: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
 #, c-format
 msgid "Manage system services by enabling or disabling them"
-msgstr "Налаштування службв системи"
+msgstr "Налаштування служб системи"
 
 #: ../lib/MDV/Control_Center.pm:592
 #, c-format
@@ -1966,7 +1966,7 @@ msgstr "Монітор"
 
 #: ../data/XFDrake-Resolution.desktop.in.h:1
 msgid "Screen Resolution"
-msgstr "Роздільна здатність екрану"
+msgstr "Роздільна здатність екрана"
 
 #: ../drakconf.desktop.in.h:1
 msgid "Mageia Control Center"
