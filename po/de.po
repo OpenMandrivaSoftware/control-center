@@ -1290,7 +1290,7 @@ msgstr "Backups des Systems und der Nutzerdaten konfigurieren"
 #: ../lib/MDV/Control_Center.pm:98
 #, c-format
 msgid "Snapshots"
-msgstr "Snapshots"
+msgstr "Sicherungen"
 
 #: ../lib/MDV/Control_Center.pm:108
 #, c-format
