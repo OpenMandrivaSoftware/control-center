@@ -1041,7 +1041,7 @@ msgstr "Довідка"
 #: ../control-center:668
 #, c-format
 msgid "/_Release notes"
-msgstr "/_Нотатки випуску"
+msgstr "/_Нотатки щодо випуску"
 
 #: ../control-center:669
 #, c-format
