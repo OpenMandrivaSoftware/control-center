@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2011-05-03 15:20+0200\n"
-"PO-Revision-Date: 2011-11-14 07:04+0100\n"
+"PO-Revision-Date: 2011-12-11 07:01+0100\n"
 "Last-Translator: Dimitrios Glentadakis <dglent@gmail.com>\n"
 "Language-Team: Greek <mageia_gr@list.mageia.org.uk>\n"
 "MIME-Version: 1.0\n"
@@ -1055,7 +1055,7 @@ msgstr "/_Σημειώσεις έκδοσης"
 #: ../control-center:668
 #, c-format
 msgid "/What's _New?"
-msgstr "/Τι_νέο;"
+msgstr "/Τι _νέο;"
 
 #: ../control-center:669
 #, c-format
@@ -1296,7 +1296,7 @@ msgstr "Κατατμήσεις"
 #: ../drakxconf:42
 #, c-format
 msgid "Control Center"
-msgstr "Κέντρο ελέγχου"
+msgstr "Κέντρο Ελέγχου"
 
 #: ../drakxconf:42
 #, c-format
@@ -1998,5 +1998,6 @@ msgstr "Ανάλυση οθόνης"
 
 #: ../drakconf.desktop.in.h:1
 msgid "Mageia Control Center"
-msgstr "Κέντρο ελέγχου Mageia"
+msgstr "Κέντρο Ελέγχου Mageia"
+
 
