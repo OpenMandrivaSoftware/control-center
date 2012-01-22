@@ -913,7 +913,7 @@ msgstr "CD-ROM (%s)"
 #: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
-msgstr "Καθορίστε το σημείο προσάρτησης του οδηγού CD-ROM « %s »"
+msgstr "Καθορίστε το σημείο προσάρτησης του οδηγού CD-ROM «%s»"
 
 #: ../control-center:492
 #, c-format
@@ -923,7 +923,7 @@ msgstr "DVD-ROM (%s)"
 #: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
-msgstr "Καθορίστε το σημείο προσάρτησης του οδηγού DVD-ROM « %s »"
+msgstr "Καθορίστε το σημείο προσάρτησης του οδηγού DVD-ROM «%s»"
 
 #: ../control-center:495
 #, c-format
@@ -933,7 +933,7 @@ msgstr "Εγγραφέας CD/DVD (%s)"
 #: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
-msgstr "Καθορίστε το σημείο προσάρτησης του εγγραφέα CD/DVD « %s »"
+msgstr "Καθορίστε το σημείο προσάρτησης του εγγραφέα CD/DVD «%s»"
 
 #: ../control-center:498
 #, c-format
@@ -1101,7 +1101,7 @@ msgstr ""
 #: ../control-center:1103
 #, c-format
 msgid "Impossible to run unknown '%s' program"
-msgstr "Αδύνατη η εκτέλεση του άγνωστου προγράμματος « %s »"
+msgstr "Αδύνατη η εκτέλεση του άγνωστου προγράμματος «%s»"
 
 #: ../control-center:1122
 #, c-format
@@ -1116,7 +1116,7 @@ msgstr "αποτυχία του fork: %s"
 #: ../control-center:1232
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
-msgstr "Αδύνατη η εκκίνηση του « %s » διότι δεν είναι εκτελέσιμο"
+msgstr "Αδύνατη η εκκίνηση του «%s» διότι δεν είναι εκτελέσιμο"
 
 #: ../control-center:1371
 #, c-format
