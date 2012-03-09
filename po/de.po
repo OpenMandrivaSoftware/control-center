@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2011-05-03 15:20+0200\n"
-"PO-Revision-Date: 2012-03-07 13:52+0100\n"
+"PO-Revision-Date: 2012-03-09 08:47+0100\n"
 "Last-Translator: Oliver Burger <obgr_seneca@mageia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -286,7 +286,7 @@ msgstr "SunnyDubey"
 #: ../contributors.pl:38
 #, c-format
 msgid "wrote/edited parts of gi/docs/HACKING file"
-msgstr "schrieb/verändert Teile von gi/docs/HACKING"
+msgstr "schrieb/veränderte Teile von gi/docs/HACKING"
 
 #: ../contributors.pl:39
 #, c-format
@@ -724,7 +724,7 @@ msgstr "Konfigurieren eines Groupware-Servers"
 #: ../control-center:272
 #, c-format
 msgid "Configure mail"
-msgstr "Email konfigurieren"
+msgstr "E-Mail konfigurieren"
 
 #: ../control-center:273
 #, c-format
@@ -1211,7 +1211,7 @@ msgstr "Mageia-Beitragende"
 #: ../drakconsole:27
 #, c-format
 msgid "DrakConsole"
-msgstr "DrakKonsole"
+msgstr "Drak-Konsole"
 
 #: ../drakxconf:28
 #, c-format
