@@ -1379,7 +1379,7 @@ msgstr "Fontide haldamine, lisamine ja eemaldamine ning Windows® fontide import
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
 msgid "Set up the graphical server"
-msgstr "Graafilise serveri seadistamine"
+msgstr "Graafikaserveri seadistamine"
 
 #: ../lib/MDV/Control_Center.pm:229
 #, c-format
@@ -1913,7 +1913,7 @@ msgstr "WebDAV-i haakepunktid"
 
 #: ../data/XFDrake.desktop.in.h:1
 msgid "Graphical server"
-msgstr "Graafiline server"
+msgstr "Graafikaserver"
 
 #: ../data/XFDrake-Monitor.desktop.in.h:1
 msgid "Monitor"
