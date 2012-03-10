@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2011-05-03 15:20+0200\n"
-"PO-Revision-Date: 2011-05-24 12:36+0000\n"
+"PO-Revision-Date: 2012-03-10 14:42+0000\n"
 "Last-Translator: Petos Safarik <petos@mandrivalinux.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -27,9 +27,7 @@ msgstr "Per Øyvind Karlsen"
 
 #: ../contributors.pl:12
 #, c-format
-msgid ""
-"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
-"Mandriva tools"
+msgid "massive packages rebuilding and cleaning, games, sparc port, proofreading of Mandriva tools"
 msgstr "rozsáhlé sestavování a čištění balíčků, hry, port pro SPARC, kontrola pravopisu v nástrojích Mandriva"
 
 #: ../contributors.pl:13
@@ -69,9 +67,7 @@ msgstr "Ben Reser"
 
 #: ../contributors.pl:16
 #, c-format
-msgid ""
-"updated nc with debian patches, fixed some perl packages, dnotify startup "
-"script, urpmc, hddtemp, wipe, etc..."
+msgid "updated nc with debian patches, fixed some perl packages, dnotify startup script, urpmc, hddtemp, wipe, etc..."
 msgstr "aktualizace balíčku nc záplatami z distribuce Debian, oprava některých Perlových balíčků, spouštěcí skript dnotify, urpmc, hddtemp, wipe, atd..."
 
 #: ../contributors.pl:17 ../contributors.pl:42
@@ -81,9 +77,7 @@ msgstr "Thomas Backlund"
 
 #: ../contributors.pl:17
 #, c-format
-msgid ""
-"\"deep and broad\" kernel work (many new patches before integration in "
-"official kernel)"
+msgid "\"deep and broad\" kernel work (many new patches before integration in official kernel)"
 msgstr "\"rozsáhlá a důkladná\" práce na jádru (mnoho nových záplat před integrací do oficiálního jádra)"
 
 #: ../contributors.pl:18
@@ -113,10 +107,7 @@ msgstr "Buchan Milne"
 
 #: ../contributors.pl:20
 #, c-format
-msgid ""
-"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
-"software (grass, mapserver), cursor_themes collection, misc server-side "
-"contributions"
+msgid "Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS software (grass, mapserver), cursor_themes collection, misc server-side contributions"
 msgstr "Samba 3.0 (prerelease), která pracuje současně se verzí Samba 2.2.x, Samba 2.2.x, GIS software (grass, mapserver), sbírka témat kurzorů, další příspěvky pro server"
 
 #: ../contributors.pl:21
@@ -126,9 +117,7 @@ msgstr "Götz Waschk"
 
 #: ../contributors.pl:21
 #, c-format
-msgid ""
-"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
-"python, rox desktop"
+msgid "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-python, rox desktop"
 msgstr "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms a zásuvné moduly, gnome-python, pracovní prostředí rox"
 
 #: ../contributors.pl:22
@@ -138,9 +127,7 @@ msgstr "Austin Acton"
 
 #: ../contributors.pl:22
 #, c-format
-msgid ""
-"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
-"bluetooth, pyqt & related"
+msgid "audio/video/MIDI apps, scientific apps, audio/video production howtos, bluetooth, pyqt & related"
 msgstr "aplikace pro audio/video/MIDI, vědecké aplikace, návody pro tvorbu audia a videa, bluetooth, pyqt a související balíčky"
 
 #: ../contributors.pl:23
@@ -210,9 +197,7 @@ msgstr "Tibor Pittich"
 
 #: ../contributors.pl:29
 #, c-format
-msgid ""
-"sk-i18n, contributed several packages, openldap testing and integration, "
-"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgid "sk-i18n, contributed several packages, openldap testing and integration, bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
 msgstr "vedoucí týmu slovenských překladatelů, přispěl několika balíčky, testování a integrace openldap a bind-sdb-ldap, již několik let používá distribuci Cooker a hlásí chyby, atd..."
 
 #: ../contributors.pl:30
@@ -252,9 +237,7 @@ msgstr "Brook Humphrey"
 
 #: ../contributors.pl:33
 #, c-format
-msgid ""
-"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
-"spamassassin, maildrop, clamav."
+msgid "testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, spamassassin, maildrop, clamav."
 msgstr "testování a hlášení chyb, balíčky Dovecot, bibletime, sword, pomoc s balíčky pure-ftpd, spamassassin, maildrop, clamav."
 
 #: ../contributors.pl:34
@@ -264,10 +247,7 @@ msgstr "Olivier Blin"
 
 #: ../contributors.pl:34
 #, c-format
-msgid ""
-"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
-"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
-"drakxtools"
+msgid "http proxy support in installer, kernel 2.6 support in sndconfig, samba3 support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and drakxtools"
 msgstr "podpora HTTP proxy v instalátoru, podpora jádra 2.6 v sndconfig, podpora Samba 3 v aplikaci LinNeighborhood, opravy a rozšíření v nástrojích urpmi, bootsplash a drakxtools"
 
 #: ../contributors.pl:35
@@ -511,9 +491,7 @@ msgstr "MD, testování, hlášení chyb"
 
 #: ../contributors.pl:71
 #, c-format
-msgid ""
-"And many unnamed and unknown beta testers and bug reporters that helped make "
-"sure it all worked right."
+msgid "And many unnamed and unknown beta testers and bug reporters that helped make sure it all worked right."
 msgstr "A mnoho dalších neznámých a nejmenovaných beta testerů a těch, kteří hlásili chyby, kteří dohlíželi na to, že vše bude fungovat v pořádku."
 
 #: ../control-center:90
@@ -573,9 +551,7 @@ msgstr "Nastavit Sambu"
 
 #: ../control-center:189
 #, c-format
-msgid ""
-"Set up a file and print server for workstations running Linux and non-Linux "
-"systems"
+msgid "Set up a file and print server for workstations running Linux and non-Linux systems"
 msgstr "Nastavit souborový a tiskový server pro stanice se systémem Linux či jinými systémy"
 
 #: ../control-center:191
@@ -652,8 +628,7 @@ msgstr "Nastavit čas"
 
 #: ../control-center:224
 #, c-format
-msgid ""
-"Set the time of the server to be synchronized with an external time server"
+msgid "Set the time of the server to be synchronized with an external time server"
 msgstr "Nastavit synchronizaci času na serveru s externím časovým serverem"
 
 #: ../control-center:226 ../control-center:227
@@ -1265,8 +1240,7 @@ msgstr "Nastavit 3D efekty grafického pracovního prostředí"
 
 #: ../lib/MDV/Control_Center.pm:68
 #, c-format
-msgid ""
-"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgid "Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
 msgstr "Volba metody pro ověření (lokální, NIS, LDAP, doména Windows, ...)"
 
 #: ../lib/MDV/Control_Center.pm:77
@@ -1366,8 +1340,7 @@ msgstr "Nastavit váš osobní firewall"
 
 #: ../lib/MDV/Control_Center.pm:200
 #, c-format
-msgid ""
-"Set up a personal firewall in order to protect the computer and the network"
+msgid "Set up a personal firewall in order to protect the computer and the network"
 msgstr "Nastavit osobní firewall chránící počítač a síť"
 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
@@ -1487,9 +1460,7 @@ msgstr "Konfigurace ověřování na nástroje Mageia"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
-msgid ""
-"Define authentication required to access individual Mageia configuration "
-"tools "
+msgid "Define authentication required to access individual Mageia configuration tools "
 msgstr "Nastavení ověřování pro přístup k jednotlivým konfiguračním nástrojům Mageia"
 
 #: ../lib/MDV/Control_Center.pm:358
@@ -1499,9 +1470,7 @@ msgstr "Aktualizovat váš systém"
 
 #: ../lib/MDV/Control_Center.pm:359
 #, c-format
-msgid ""
-"Look at available updates and apply any fixes or upgrades to installed "
-"packages"
+msgid "Look at available updates and apply any fixes or upgrades to installed packages"
 msgstr "Prohlédnout a nainstalovat dostupné aktualizace a/nebo záplaty"
 
 #: ../lib/MDV/Control_Center.pm:369
