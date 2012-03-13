@@ -534,7 +534,7 @@ msgstr "以及许多不知名的 beta 测试者和 bug 报告者，帮助了这�
 #: ../control-center:90
 #, c-format
 msgid "Mageia"
-msgstr ""
+msgstr "Mageia"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -1167,9 +1167,9 @@ msgid "Copyright (C) %s Mandriva SA"
 msgstr "Mandriva SA 版权所有 (C) %s"
 
 #: ../control-center:1489
-#, fuzzy, c-format
+#, c-format
 msgid "Copyright (C) %s Mageia"
-msgstr "Mandriva SA 版权所有 (C) %s"
+msgstr "Mageia 版权所有 (C) %s"
 
 #: ../control-center:1495
 #, c-format
@@ -1177,9 +1177,9 @@ msgid "Authors"
 msgstr "作者"
 
 #: ../control-center:1496
-#, fuzzy, c-format
+#, c-format
 msgid "Mageia Contributors"
-msgstr "Mandriva Linux 贡献者"
+msgstr "Mageia 贡献者"
 
 #: ../drakconsole:27
 #, c-format
@@ -1474,16 +1474,16 @@ msgid "Manage installed software packages on a group of computers"
 msgstr "在一组计算机上管理已安装的软件包"
 
 #: ../lib/MDV/Control_Center.pm:349
-#, fuzzy, c-format
+#, c-format
 msgid "Configure authentication for Mageia tools"
-msgstr "配置 Mandriva 工具的身份验证"
+msgstr "配置 Mageia 工具的身份验证"
 
 #: ../lib/MDV/Control_Center.pm:350
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "Define authentication required to access individual Mageia configuration "
 "tools "
-msgstr "定义访问单个 Mandriva 配置工具所需的身份验证"
+msgstr "定义访问单个 Mageia 配置工具所需的身份验证"
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1916,12 +1916,5 @@ msgid "Screen Resolution"
 msgstr "屏幕分辨率"
 
 #: ../drakconf.desktop.in.h:1
-#, fuzzy
 msgid "Mageia Control Center"
-msgstr "控制中心"
-
-#~ msgid "Configure Your Computer"
-#~ msgstr "配置您的计算机"
-
-#~ msgid "Mandriva Linux"
-#~ msgstr "Mandriva Linux"
+msgstr "Mageia 控制中心"
