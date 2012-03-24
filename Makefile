@@ -48,7 +48,7 @@ dist: clean
 	rm -rf $(NAME)-$(VERSION) ../$(NAME)-$(VERSION).tar*
 	svn export -q -rBASE . $(NAME)-$(VERSION)
 	find $(NAME)-$(VERSION) -name '*.p[lm]' -o -name control-center | xargs perl -pi -e 's/\s*use\s+(diagnostics|vars|strict).*//g'
-	tar cfa ../$(NAME)-$(VERSION).tar.lzma $(NAME)-$(VERSION)
+	tar cfa ../$(NAME)-$(VERSION).tar.xz $(NAME)-$(VERSION)
 	rm -rf $(NAME)-$(VERSION)
 
 changelog:
