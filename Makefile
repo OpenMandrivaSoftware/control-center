@@ -45,6 +45,16 @@ install: all
 
 dis: dist
 dist: clean
+	rm -rf ../$(NAME)-$(VERSION).tar*
+	@if [ -e ".svn" ]; then \
+		$(MAKE) dist-svn; \
+	else \
+		echo "Unknown SCM (not SVN nor GIT)";\
+		exit 1; \
+	fi;
+	$(info $(NAME)-$(VERSION).tar.xz is ready)
+
+dist-svn:
 	rm -rf $(NAME)-$(VERSION) ../$(NAME)-$(VERSION).tar*
 	svn export -q -rBASE . $(NAME)-$(VERSION)
 	find $(NAME)-$(VERSION) -name '*.p[lm]' -o -name control-center | xargs perl -pi -e 's/\s*use\s+(diagnostics|vars|strict).*//g'
