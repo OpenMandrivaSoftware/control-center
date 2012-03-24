@@ -24,7 +24,7 @@ clean:
 
 install: all
 	$(MAKE) -C po $@
-	find -name '*.p[lm]' -o -name control-center | xargs perl -pi -e 's/\s*use\s+(diagnostics|vars|strict).*//g'
+	find -name '*.p[lm]' -o -name control-center -o -name drakconf | xargs perl -pi -e 's/\s*use\s+(diagnostics|vars|strict).*//g'
 	install -d $(DESTDIR)/usr/{bin/,share/icons}
 	install -d $(DESTDIR)/usr/sbin
 	install -d $(mcc_dir)/themes/default/
