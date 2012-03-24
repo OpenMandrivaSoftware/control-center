@@ -49,6 +49,8 @@ dist: clean
 	rm -rf ../$(NAME)-$(VERSION).tar*
 	@if [ -e ".svn" ]; then \
 		$(MAKE) dist-svn; \
+	elif [ -e ".git" ]; then \
+		$(MAKE) dist-git; \
 	else \
 		echo "Unknown SCM (not SVN nor GIT)";\
 		exit 1; \
@@ -60,6 +62,9 @@ dist-svn:
 	svn export -q -rBASE . $(NAME)-$(VERSION)
 	tar cfa ../$(NAME)-$(VERSION).tar.xz $(NAME)-$(VERSION)
 	rm -rf $(NAME)-$(VERSION)
+
+dist-git:
+	 @git archive --prefix=$(NAME)-$(VERSION)/ HEAD | xz >../$(NAME)-$(VERSION).tar.xz;
 
 changelog:
 	svn2cl --authors ../common/username.xml --accum
