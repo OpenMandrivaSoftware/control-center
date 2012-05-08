@@ -10,12 +10,12 @@
 # Additions/Corrections: Michael Menegakis <admin@www0.org>, 2002.
 # Νίκος Νύκταρης (Nick Niktaris) <niktarin@yahoo.com>, 2003.
 # nikos papadopoulos <231036448@freemail.gr>,2007-2008.
-# Dimitrios Glentadakis <dglent@gmail.com>, 2009, 2010, 2011.
+# Dimitrios Glentadakis <dglent@gmail.com>, 2009, 2010, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2011-05-03 15:20+0200\n"
-"PO-Revision-Date: 2011-12-11 07:01+0100\n"
+"PO-Revision-Date: 2012-05-08 12:23+0200\n"
 "Last-Translator: Dimitrios Glentadakis <dglent@gmail.com>\n"
 "Language-Team: Greek <i18n-el@ml.mageia.org>\n"
 "MIME-Version: 1.0\n"
@@ -1753,8 +1753,7 @@ msgstr ""
 #: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
 #, c-format
 msgid "Manage system services by enabling or disabling them"
-msgstr ""
-"Διαχείριση των υπηρεσιών του συστήματος με ενεργοποίηση ή απενεργοποίηση τους"
+msgstr "Διαχειριστείτε τις υπηρεσίες συστήματος (απεν)ενεργοποιώντας τες"
 
 #: ../lib/MDV/Control_Center.pm:592
 #, c-format
