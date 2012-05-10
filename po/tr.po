@@ -4,9 +4,9 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: urpmi\n"
-"POT-Creation-Date: 2011-09-17 21:04+0200\n"
-"PO-Revision-Date: 2012-05-10 08:04+0000\n"
+"Project-Id-Version: drakx_standalone\n"
+"POT-Creation-Date: 2011-12-04 03:44+0200\n"
+"PO-Revision-Date: 2012-05-10 08:14+0000\n"
 "Last-Translator: Atilla ÖNTAŞ <tarakbumba@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -15,3253 +15,3208 @@ msgstr ""
 "Language: tr\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: ../gurpmi:32
+#: display_help:54 display_help:59 drakbug:173 drakperm:136
 #, c-format
-msgid "RPM installation"
-msgstr "RPM Paketi Kurulumu"
+msgid "Help"
+msgstr "Yardım"
 
-#: ../gurpmi:46
+#: display_help:67 drakbug:178 drakfont:506
 #, c-format
-msgid "Error: unable to find file %s, will cancel operation"
-msgstr "Hata: %s bulunamadı, işlem iptal edilecek"
+msgid "Close"
+msgstr "Kapat"
 
-#: ../gurpmi:47 ../gurpmi2:187 ../gurpmi2:212
+#: drakauth:24 drakauth:26 draksec:164
 #, c-format
-msgid "_Ok"
-msgstr "_Tamam"
+msgid "Authentication"
+msgstr "Kimlik kanıtlama"
 
-#: ../gurpmi:67
+#: drakauth:37 drakclock:111 drakclock:125 drakdvb:74 drakfont:213
+#: drakfont:226 drakfont:264 finish-install:130 logdrake:170 logdrake:445
+#: logdrake:450 scannerdrake:59 scannerdrake:101 scannerdrake:142
+#: scannerdrake:200 scannerdrake:259 scannerdrake:729 scannerdrake:740
+#: scannerdrake:879 scannerdrake:890 scannerdrake:960
 #, c-format
-msgid ""
-"You have selected a source package:\n"
-"\n"
-"%s\n"
-"\n"
-"You probably didn't want to install it on your computer (installing it would allow you to make modifications to its sourcecode then compile it).\n"
-"\n"
-"What would you like to do?"
-msgstr ""
-"Bir kaynak paketi seçtiniz:\n"
-"\n"
-"%s\n"
-"\n"
-"Muhtemelen bu paketi yüklemek istemediniz. (bu paketi yüklemek kaynak kodunda değişiklik yaparak paketi tekrar derlemenizi sağlayacak).\n"
-"\n"
-"Ne yapmak istersiniz?"
+msgid "Error"
+msgstr "Hata"
 
-#: ../gurpmi:75 ../gurpmi:86
+#: drakboot:55
 #, c-format
-msgid ""
-"You are about to install the following software packages on your computer:\n"
-"\n"
-"%s\n"
-"\n"
-"Proceed?"
-msgstr ""
-"Şu yazılım paketlerini sisteminize kurmak üzeresiniz:\n"
-"\n"
-"%s\n"
-"\n"
-"Devam edilsin mi?"
+msgid "No bootloader found, creating a new configuration"
+msgstr "Önyükleyici bulunamadı. Yeni bir yapılandırma oluşturuluyor."
 
-#: ../gurpmi:81
+#: drakboot:88 harddrake2:199 harddrake2:200 logdrake:71
 #, c-format
-msgid ""
-"You are about to install the following software package on your computer:\n"
-"\n"
-"%s\n"
-"\n"
-"You may prefer to just save it. What is your choice?"
-msgstr ""
-"Şu yazılım paketini sisteminize kurmak üzeresiniz:\n"
-"\n"
-"%s\n"
-"\n"
-"Bunu sadece kaydetmeyi de seçebilirsiniz. Seçiminiz nedir?"
+msgid "/_File"
+msgstr "/_Dosya"
 
-#: ../gurpmi:99
+#: drakboot:89 logdrake:77
 #, c-format
-msgid "_Install"
-msgstr "_Kur"
+msgid "/File/_Quit"
+msgstr "/Dosya/Çı_kış"
 
-#: ../gurpmi:100
+#: drakboot:89 harddrake2:200 logdrake:77
 #, c-format
-msgid "_Save"
-msgstr "_Kaydet"
+msgid "<control>Q"
+msgstr "<control>K"
 
-#: ../gurpmi:101 ../gurpmi2:187
+#: drakboot:129
 #, c-format
-msgid "_Cancel"
-msgstr "İp_tal"
+msgid "Text only"
+msgstr "Sadece metin"
 
-#: ../gurpmi:109
+#: drakboot:130
 #, c-format
-msgid "Choose location to save file"
-msgstr "Dosyayı kaydetmek için bir yer seçin"
+msgid "Verbose"
+msgstr "Ayrıntılı"
 
-#: ../gurpmi.pm:39 ../urpmi:76
+#: drakboot:131
 #, c-format
-msgid ""
-"urpmi version %s\n"
-"Copyright (C) 1999-2010 Mandriva.\n"
-"This is free software and may be redistributed under the terms of the GNU GPL.\n"
-"\n"
-"usage:\n"
-msgstr ""
-"urpmi sürüm %s\n"
-"Copyright (C) 1999-2010 Mandriva.\n"
-"Bu bir özgür yazılımdır ve GNU GPL lisansı altında tekrar dağıtılabilinir.\n"
-"\n"
-"kullanımı:\n"
+msgid "Silent"
+msgstr "Sessiz"
 
-#: ../gurpmi.pm:45
-#, c-format
-msgid "Options:"
-msgstr "Seçenekler:"
-
-#: ../gurpmi.pm:46 ../urpme:46 ../urpmf:35 ../urpmi:81 ../urpmi.addmedia:55
-#: ../urpmi.recover:33 ../urpmi.removemedia:40 ../urpmi.update:32 ../urpmq:45
-#, c-format
-msgid "  --help         - print this help message.\n"
-msgstr "  --help         - bu yardım mesajını görüntüler.\n"
-
-#: ../gurpmi.pm:47 ../urpmi:88
-#, c-format
-msgid "  --auto         - non-interactive mode, assume default answers to questions.\n"
-msgstr "  --auto         - etkileşimli kip   kapalı, sorulara varsayılan cevapları ver.\n"
-
-#: ../gurpmi.pm:48 ../urpmi:89 ../urpmq:52
-#, c-format
-msgid "  --auto-select  - automatically select packages to upgrade the system.\n"
-msgstr "  --auto-select  - Sistemi güncellemek için paketleri otomatik seç.\n"
-
-#: ../gurpmi.pm:49 ../urpme:50 ../urpmi:112 ../urpmq:68
-#, c-format
-msgid "  --force        - force invocation even if some packages do not exist.\n"
-msgstr ""
-"  --force        - bazı paketlerin bulunamama durumda bile işlemin\n"
-"                   devamına zorla.\n"
-
-#: ../gurpmi.pm:50 ../urpmi:143
-#, c-format
-msgid ""
-"  --verify-rpm   - verify rpm signature before installation\n"
-"                   (--no-verify-rpm disables it, default is enabled).\n"
-msgstr ""
-"  --verify-rpm   - kurulumdan önce rpm imzasını doğrula\n"
-"                   (--no-verify-rpm bunu iptal eder, öntanımlı etkindir).\n"
-
-#: ../gurpmi.pm:52 ../urpmf:41 ../urpmi:82 ../urpmq:47
-#, c-format
-msgid "  --media        - use only the given media, separated by comma.\n"
-msgstr "  --media       - sadece belirtilen ortamları kullan (virgülle ayırın).\n"
-
-#: ../gurpmi.pm:53 ../urpmi:160
-#, c-format
-msgid "  -p             - allow search in provides to find package.\n"
-msgstr "  -p             - paketi bulmak için aramaya izin ver.\n"
-
-#: ../gurpmi.pm:54 ../urpmi:161
-#, c-format
-msgid "  -P             - do not search in provides to find package.\n"
-msgstr "  -P           - sağlanan paketlerin arasında paketi bulmak için arama yapma.\n"
-
-#: ../gurpmi.pm:55 ../urpmi:119 ../urpmq:71
-#, c-format
-msgid "  --root         - use another root for rpm installation.\n"
-msgstr "  --root         - rpm kurulmu için bir başka kök kullan.\n"
-
-#: ../gurpmi.pm:56 ../urpmi:145
-#, c-format
-msgid "  --test         - only verify if the installation can be achieved correctly.\n"
-msgstr "  --test         - kurulumun başarılı olup olmayacağını doğrula.\n"
-
-#: ../gurpmi.pm:57 ../urpmi:85
-#, c-format
-msgid "  --searchmedia  - use only the given media to search requested packages.\n"
-msgstr "  --searchmedia  - istenen paketleri sadece verilen kurulum kaynaklarında ara.\n"
-
-#: ../gurpmi.pm:100
-#, c-format
-msgid "No packages specified"
-msgstr "Herhangi bir paket belirtilmemiş."
-
-#: ../gurpmi2:54
-#, c-format
-msgid "Please wait..."
-msgstr "Lütfen bekleyiniz..."
-
-#: ../gurpmi2:63
-#, c-format
-msgid "Must be root"
-msgstr "Yetkili kullanıcı olunmalı"
-
-#: ../gurpmi2:70
-#, c-format
-msgid "Distribution Upgrade"
-msgstr "Dağıtım Yükseltmesi"
-
-#: ../gurpmi2:70
-#, c-format
-msgid "Packages installation"
-msgstr "Paket kurulumu"
-
-#: ../gurpmi2:97
-#, c-format
-msgid "Preparing packages installation..."
-msgstr "Paket kurulumuna hazırlanılıyor..."
-
-#: ../gurpmi2:111
-#, c-format
-msgid ""
-"Some requested packages cannot be installed:\n"
-"%s\n"
-"Continue installation anyway?"
-msgstr ""
-"İstenen bazı paketler kurulamıyor:\n"
-"%s\n"
-"Yine de kuruluma devam edilsin mi?"
-
-#: ../gurpmi2:146
+#: drakboot:137 drakbug:250 drakdvb:57 drakfont:681 drakperm:376 drakperm:386
+#: drakups:27 harddrake2:537 localedrake:45 scannerdrake:51 scannerdrake:54
+#: scannerdrake:297 scannerdrake:302 scannerdrake:954
 #, c-format
 msgid "Warning"
 msgstr "Uyarı"
 
-#: ../gurpmi2:146 ../urpmi:651
+#: drakboot:138
 #, c-format
-msgid "Ok"
-msgstr "Tamam"
+msgid "Your system bootloader is not in framebuffer mode. To activate graphical boot, select a graphic video mode from the bootloader configuration tool."
+msgstr "Sistem önyükleyiciniz çerçeve tampon belleği kipinde değil. Grafiksel açılışı etkinleştirmek için, önyükleyici yapılandırma aracını kullanarak grafik ekran kipi seçin."
 
-#: ../gurpmi2:183
+#: drakboot:139
 #, c-format
-msgid " (to upgrade)"
-msgstr " (güncellenecek)"
+msgid "Do you want to configure it now?"
+msgstr "Şimdi yapılandırmak ister misiniz?"
 
-#: ../gurpmi2:184
+#: drakboot:148
 #, c-format
-msgid " (to install)"
-msgstr " (yüklenecek)"
+msgid "Install themes"
+msgstr "Temaları Kur"
 
-#: ../gurpmi2:187
+#: drakboot:150
 #, c-format
-msgid "Package choice"
-msgstr "Paket seçimi"
+msgid "Graphical boot theme selection"
+msgstr "Grafiksel açılış tema seçimi"
 
-#: ../gurpmi2:188
+#: drakboot:153
 #, c-format
-msgid "One of the following packages is needed:"
-msgstr "Aşağıdaki paketlerden birine ihtiyaç var:"
+msgid "Graphical boot mode:"
+msgstr "Grafiksel açılış kipi:"
 
-#: ../gurpmi2:213
+#: drakboot:155
 #, c-format
-msgid "_Abort"
-msgstr "D_urdur"
+msgid "Theme"
+msgstr "Tema"
 
-#: ../gurpmi2:248
+#: drakboot:189
+#, c-format
+msgid "Default user"
+msgstr "Öntanımlı kullanıcı"
+
+#: drakboot:190
+#, c-format
+msgid "Default desktop"
+msgstr "Öntanımlı masaüstü"
+
+#: drakboot:193
+#, c-format
+msgid "No, I do not want autologin"
+msgstr "Hayır, Otomatik giriş istemiyorum"
+
+#: drakboot:194
+#, c-format
+msgid "Yes, I want autologin with this (user, desktop)"
+msgstr "Evet, otomatik girişi bu özelliklerle istiyorum (kullanıcı, masaüstü)"
+
+#: drakboot:201
+#, c-format
+msgid "System mode"
+msgstr "Sistem Kipi"
+
+#: drakboot:204
+#, c-format
+msgid "Launch the graphical environment when your system starts"
+msgstr "Grafiksel ortam açılışta çalıştırılsın"
+
+#: drakboot:259
+#, c-format
+msgid "Boot Style Configuration"
+msgstr "Önyükleme Yapılandırması"
+
+#: drakboot:261 drakboot:265
+#, c-format
+msgid "Video mode"
+msgstr "Ekran kipi"
+
+#: drakboot:262
 #, c-format
 msgid ""
-"The following packages have to be removed for others to be upgraded:\n"
-"%s\n"
-"Continue installation anyway?"
+"Please choose a video mode, it will be applied to each of the boot entries selected below.\n"
+"Be sure your video card supports the mode you choose."
 msgstr ""
-"Diğer paketlerin güncellenmesi için aşağıdaki paketlerin kaldırılması gerekiyor:\n"
-"%s\n"
-"Yine de devam edilsin mi?"
+"Lütfen bir ekran kipi seçin, bu kip aşağıda seçilen her bir açılış girdisine uygulanacaktır.\n"
+"Seçtiğiniz kipin ekran kartınız tarafından desteklendiğinden emin olun."
 
-#: ../gurpmi2:267 ../urpmi:616
+#: drakbug:52 drakbug:140
 #, c-format
-msgid "To satisfy dependencies, the following package is going to be installed:"
-msgstr "Bağımlılık sorununu aşabilmek için, aşağıdaki paketin kurulması gerekiyor:"
+msgid "The \"%s\" program has crashed with the following error:"
+msgstr "\"%s\" uygulaması şu hatayı vererek çöktü:"
 
-#: ../gurpmi2:268 ../urpmi:617
+#: drakbug:62
 #, c-format
-msgid "To satisfy dependencies, the following packages are going to be installed:"
-msgstr "Bağımlılık sorununu aşabilmek için, aşağıdaki paketlerin kurulması gerekiyor:"
+msgid "%s Bug Report Tool"
+msgstr "%s Hata Bildirme Aracı"
 
-#: ../gurpmi2:270
+#: drakbug:67
 #, c-format
-msgid "(%d package, %d MB)"
-msgid_plural "(%d packages, %d MB)"
-msgstr[0] "(%d adet paket, %d MB)"
+msgid "%s Control Center"
+msgstr "%s Denetim Merkezi"
 
-#: ../gurpmi2:278 ../urpm/main_loop.pm:49
+#: drakbug:68
 #, c-format
-msgid "unable to get source packages, aborting"
-msgstr "kaynak paketleri alınamadı, çıkılıyor"
+msgid "First Time Wizard"
+msgstr "İlk Açılış Sihirbazı"
 
-#: ../gurpmi2:310 ../urpm/install.pm:81
+#: drakbug:69
 #, c-format
-msgid "Preparing..."
-msgstr "Hazırlanıyor..."
+msgid "Synchronization tool"
+msgstr "Eşleştirme aracı"
 
-#: ../gurpmi2:316
+#: drakbug:70 drakbug:206
 #, c-format
-msgid "Installing package `%s' (%s/%s)..."
-msgstr "'%s' paketi kuruluyor ( %s/%s )..."
+msgid "Standalone Tools"
+msgstr "Tekli Araçlar"
 
-#: ../gurpmi2:334 ../urpmi:646
+#: drakbug:72 drakbug:73
 #, c-format
-msgid "Please insert the medium named \"%s\""
-msgstr "Lütfen \"%s\" isimli ortamı yerleştirin"
+msgid "%s Online"
+msgstr "%s Çevrimiçi"
 
-#: ../gurpmi2:348
+#: drakbug:74
 #, c-format
-msgid "Downloading package `%s'..."
-msgstr "'%s' paketi indiriliyor..."
+msgid "Remote Control"
+msgstr "Uzaktan Yönetim"
 
-#: ../gurpmi2:360 ../urpm.pm:335 ../urpm/download.pm:830
-#: ../urpm/get_pkgs.pm:262 ../urpm/media.pm:981 ../urpm/media.pm:1493
-#: ../urpm/media.pm:1644
+#: drakbug:75
 #, c-format
-msgid "...retrieving failed: %s"
-msgstr "...getirme başarısız: [%s]"
+msgid "Software Manager"
+msgstr "Yazılım Yöneticisi"
 
-#: ../gurpmi2:376
+#: drakbug:76
 #, c-format
-msgid "_Done"
-msgstr "_Bitti"
+msgid "Windows Migration tool"
+msgstr "Windows' tan Göç Aracı"
 
-#: ../gurpmi2:393
+#: drakbug:77
+#, c-format
+msgid "Configuration Wizards"
+msgstr "Yapılandırma Sihirbazı"
+
+#: drakbug:99
+#, c-format
+msgid "Select %s Tool:"
+msgstr "%s Aracını Seçin:"
+
+#: drakbug:100
 #, c-format
 msgid ""
-"Installation failed, some files are missing:\n"
-"%s\n"
-"You may want to update your urpmi database"
+"or Application Name\n"
+"(or Full Path):"
 msgstr ""
-"Kurulum başarısızlıkla sonuçlandı. Bazı dosyalar kayıp:\n"
-"%s\n"
-"Urpmi veritabanınızı güncellemek isteyebilirsiniz"
+"veya Uygulama İsmi\n"
+"(veya Tam Konum):"
 
-#: ../gurpmi2:399 ../urpm/main_loop.pm:291 ../urpm/main_loop.pm:334
+#: drakbug:103
 #, c-format
-msgid "Installation failed:"
-msgstr "Kurulum başarısız oldu"
+msgid "Find Package"
+msgstr "Paket Bul"
 
-#: ../gurpmi2:404
+#: drakbug:104
 #, c-format
-msgid "The package(s) are already installed"
-msgstr "Herşey zaten kurulu"
+msgid "Browse"
+msgstr "Gözat"
 
-#: ../gurpmi2:406
+#: drakbug:106
 #, c-format
-msgid "Installation finished"
-msgstr "Kurulum tamamlandı"
+msgid "Package: "
+msgstr "Paket:"
 
-#: ../gurpmi2:407 ../urpme:169
+#: drakbug:107
 #, c-format
-msgid "removing %s"
-msgstr "%s kaldırılıyor"
+msgid "Kernel:"
+msgstr "Çekirdek:"
 
-#: ../gurpmi2:415 ../urpmi:717
+#: drakbug:139
 #, c-format
-msgid "restarting urpmi"
-msgstr "urpmi yeniden başlatılıyor."
+msgid "The \"%s\" program has segfaulted with the following error:"
+msgstr "\"%s\" uygulaması şu hatayı vererek çöktü:"
 
-#: ../rpm-find-leaves:15
+#: drakbug:144
+#, c-format
+msgid "Used theme: %s"
+msgstr "Kullanılan tema: %s"
+
+#: drakbug:146
 #, c-format
 msgid ""
-"usage: %s [options]\n"
-"where [options] are from\n"
+"To submit a bug report, click on the report button.  \n"
+"This will open a web browser window on %s where you'll find a form to fill in.  The information displayed above will be transferred to that server"
 msgstr ""
-"kullanımı: %s [seçenekler]\n"
-"ve [seçenekler] de şunlardan biridir\n"
+"Hata bildirimi göndermek için \"bildir\" düğmesine tıklayın. \n"
+"Web tarayıcısı %s adresiyle açılacaktır. Oradaki formu doldurunca yukarıdaki bilgilerilerle birlikte oraya gönderilecektir."
 
-#: ../rpm-find-leaves:17
+#: drakbug:148
 #, c-format
-msgid "   -h|--help      - print this help message.\n"
-msgstr "   -h|--help      - bu yardım mesajını görüntüler.\n"
+msgid "It would be very useful to attach to your report the output of the following command: %s."
+msgid_plural "Things useful to attach to your report are the output of the following commands: %s."
+msgstr[0] "Şu komutların çıktısını rapora eklemeniz oldukça yararlı olacaktır: %s."
 
-#: ../rpm-find-leaves:18
+#: drakbug:151
 #, c-format
-msgid "   --root <path>  - use the given root instead of /\n"
-msgstr "   --root <yol>  - yerine, verilen kökü kullan/\n"
+msgid "'%s'"
+msgstr "'%s'"
 
-#: ../rpm-find-leaves:19
+#: drakbug:154
 #, c-format
-msgid "   -g [group]     - restrict results to specified group.\n"
-msgstr "   -g [group]     - belirtilen grup için sonuçları sınırla.\n"
+msgid "You should also attach the following files: %s as well as %s."
+msgstr "Şu dosyaları da eklemeniz gerekir: %s ve %s."
 
-#: ../rpm-find-leaves:20
+#: drakbug:161
 #, c-format
-msgid "                    defaults to %s.\n"
-msgstr "                    %s için varsayılan.\n"
+msgid "Please describe what you were doing when it crashed:"
+msgstr "Lütfen, uygulama çöktüğünde ne yapmakta olduğunuz açıklayın:"
 
-#: ../rpm-find-leaves:21
+#: drakbug:177
 #, c-format
-msgid "   -f             - output rpm full name (NVRA)\n"
-msgstr "   -f             - rpm'in tam adı çıktısı (NVRA)\n"
+msgid "Report"
+msgstr "Bildir"
 
-#: ../rurpmi:11 ../urpmi:285
+#: drakbug:213
 #, c-format
-msgid "Only superuser is allowed to install packages"
-msgstr "Paketleri kurmak için sadece sistem yöneticisi yetkilidir"
+msgid "Not installed"
+msgstr "Kurulmadı"
 
-#: ../rurpmi:18
+#: drakbug:226
 #, c-format
-msgid "Running urpmi in restricted mode..."
-msgstr "Urpmi kısıtlı kipte çalışıyor..."
+msgid "Package not installed"
+msgstr "Paket kurulu değil"
 
-#: ../urpm.pm:107
+#: drakbug:251
 #, c-format
-msgid "fail to create directory %s"
-msgstr "%s oluşturulamıyor."
+msgid "You must type in what you were doing when this bug happened in order to enable us to reproduce this bug and to increase the odds of fixing it"
+msgstr "Bizim yeniden bu hatayı oluşturabilmemiz ve düzeltebilmemiz için, bu hata oluştuğu sırada ne yaptığınız yazmanız gereklidir."
 
-#: ../urpm.pm:108
+#: drakbug:252
 #, c-format
-msgid "invalid owner for directory %s"
-msgstr "%s dizininin sahipliği geçersiz."
+msgid "Thanks."
+msgstr "Teşekkürler."
 
-#: ../urpm.pm:132
+#: drakclock:30 draksec:170
 #, c-format
-msgid "Can not download packages into %s"
-msgstr "Paketler %s içine indirilemiyor"
+msgid "Date, Clock & Time Zone Settings"
+msgstr "Tarih, Saat & Zaman Dilimi Ayarları"
 
-#: ../urpm.pm:147
+#: drakclock:39
 #, c-format
-msgid "Environment directory %s does not exist"
-msgstr "Ortam değişkenleri dizini %s mevcut değil."
+msgid "not defined"
+msgstr "belirtilmemiş"
 
-#: ../urpm.pm:148 ../urpmf:248 ../urpmq:167
+#: drakclock:41
 #, c-format
-msgid "using specific environment on %s\n"
-msgstr "%s' de belirtilen ortam kullanılıyor\n"
+msgid "Change Time Zone"
+msgstr "Zaman Dilimini Değiştir"
 
-#: ../urpm.pm:310
+#: drakclock:44
 #, c-format
-msgid "unable to open rpmdb"
-msgstr "rpm veritabanı açılamıyor"
+msgid "Timezone - DrakClock"
+msgstr "Zaman Dilimi - DrakClock"
 
-#: ../urpm.pm:324
+#: drakclock:44
 #, c-format
-msgid "invalid rpm file name [%s]"
-msgstr "rpm dosya ismi [%s] geçersiz"
+msgid "Which is your timezone?"
+msgstr "Bulunduğunuz zaman dilimi hangisi?"
 
-#: ../urpm.pm:330
+#: drakclock:45
 #, c-format
-msgid "retrieving rpm file [%s] ..."
-msgstr "Rpm dosyası [%s] getiriliyor..."
+msgid "GMT - DrakClock"
+msgstr "GMT - DrakClock"
 
-#: ../urpm.pm:332 ../urpm/get_pkgs.pm:260
+#: drakclock:45
 #, c-format
-msgid "...retrieving done"
-msgstr "...alma tamamlandı"
+msgid "Is your hardware clock set to GMT?"
+msgstr "Donanım saatiniz GMT'ye göre mi ayarlı?"
 
-#: ../urpm.pm:340
+#: drakclock:70
 #, c-format
-msgid "unable to access rpm file [%s]"
-msgstr "rpm dosyasına [%s] erişilemiyor"
+msgid "Network Time Protocol"
+msgstr "Ağ Zaman Protokolü"
 
-#: ../urpm.pm:345
-#, c-format
-msgid "unable to parse spec file %s [%s]"
-msgstr "%s [%s] spec dosyası ayrıştırılamıyor"
-
-#: ../urpm.pm:353
-#, c-format
-msgid "unable to register rpm file"
-msgstr "rpm dosyası kayıt edilemiyor"
-
-#: ../urpm.pm:355
-#, c-format
-msgid "Incompatible architecture for rpm [%s]"
-msgstr "[%s] rpm paketi için uyumsuz mimari"
-
-#: ../urpm.pm:359
-#, c-format
-msgid "error registering local packages"
-msgstr "yerel paketlerin sicil kaydı yapılırken hata"
-
-#: ../urpm.pm:447
-#, c-format
-msgid "This operation is forbidden while running in restricted mode"
-msgstr "Sınırlı kipte çalışılırken bu işlem yasaklanmıştır."
-
-#: ../urpm/args.pm:152 ../urpm/args.pm:161
-#, c-format
-msgid "bad proxy declaration on command line\n"
-msgstr "komut satırından kötü vekil sunucu bildirimi\n"
-
-#: ../urpm/args.pm:307
-#, c-format
-msgid "urpmq: cannot read rpm file \"%s\"\n"
-msgstr "urpmq: \"%s\" rpm dosyası okunamıyor\n"
-
-#: ../urpm/args.pm:389
-#, c-format
-msgid "unexpected expression %s"
-msgstr "beklenmeyen ifade %s"
-
-#: ../urpm/args.pm:390
-#, c-format
-msgid "missing expression before %s"
-msgstr "%s 'den önce kayıp ifade"
-
-#: ../urpm/args.pm:396
-#, c-format
-msgid "unexpected expression %s (suggestion: use -a or -o ?)"
-msgstr "beklenmeyen ifade %s (öneri: -a or -o kullanın ?)"
-
-#: ../urpm/args.pm:400
-#, c-format
-msgid "no expression to close"
-msgstr "kapatmak için ifade yok"
-
-#: ../urpm/args.pm:409
-#, c-format
-msgid "by default urpmf awaits a regexp. you should use option \"--literal\""
-msgstr "varsayılan olarak upmf bir regexp bekler. \"--literal\" seçeneğini kullanmalısınız."
-
-#: ../urpm/args.pm:478
-#, c-format
-msgid "chroot directory doesn't exist"
-msgstr "chroot dizini geçerli değil"
-
-#: ../urpm/args.pm:501
-#, c-format
-msgid "Can't use %s without %s"
-msgstr "%s, %s olmadan kullanılamaz"
-
-#: ../urpm/args.pm:504 ../urpm/args.pm:507 ../urpmq:159
-#, c-format
-msgid "Can't use %s with %s"
-msgstr "%s, %s ile kullanılamaz"
-
-#: ../urpm/args.pm:515
-#, c-format
-msgid "Too many arguments\n"
-msgstr "Çok fazla parametre\n"
-
-#: ../urpm/bug_report.pm:55 ../urpmi:275
-#, c-format
-msgid "Copying failed"
-msgstr "Kopyalama başarısız"
-
-#: ../urpm/cdrom.pm:67
-#, c-format
-msgid "You must mount CD-ROM yourself (or install perl-Hal-Cdroms to have it done automatically)"
-msgstr "CD-ROM'u kendiniz bağlamalısınız. (veya otomatik olarak yapılması için perl-Hal-Cdroms kurun)"
-
-#: ../urpm/cdrom.pm:69
-#, c-format
-msgid "HAL daemon (hald) is not running or not ready"
-msgstr "HAL uygulamacığı (hald) ya çalışmıyor ya da hazır değil"
-
-#: ../urpm/cdrom.pm:162 ../urpm/cdrom.pm:167
-#, c-format
-msgid "medium \"%s\" is not available"
-msgstr "\"%s\" ortamı mevcut değil"
-
-#: ../urpm/cdrom.pm:206
-#, c-format
-msgid "unable to read rpm file [%s] from medium \"%s\""
-msgstr "rpm dosyası [%s] , \"%s\" ortamından okunamıyor"
-
-#: ../urpm/cfg.pm:81
-#, c-format
-msgid "syntax error in config file at line %s"
-msgstr "Yapılandırma dosyasının %s satırında yazım hatası"
-
-#: ../urpm/cfg.pm:114
-#, c-format
-msgid "unable to read config file [%s]"
-msgstr "yapılandırma dosyasına [%s] yazılamıyor"
-
-#: ../urpm/cfg.pm:140
-#, c-format
-msgid "medium `%s' is defined twice, aborting"
-msgstr "`%s' ortamı ikinci defa tanımlandı, iptal ediliyor"
-
-#: ../urpm/cfg.pm:251 ../urpm/media.pm:541
-#, c-format
-msgid "unable to write config file [%s]"
-msgstr "yapılandırma dosyasına [%s] yazılamıyor"
-
-#: ../urpm/download.pm:82
-#, c-format
-msgid "%s is not available, falling back on %s"
-msgstr "%s mevcut değil, %s e dönülüyor"
-
-#: ../urpm/download.pm:165
-#, c-format
-msgid "can not read proxy settings (not enough rights to read %s)"
-msgstr "Vekil sunucu ayarları okunamıyor (%s okumak için yeterli yetki yok)"
-
-#: ../urpm/download.pm:190
-#, c-format
-msgid "Please enter your credentials for accessing proxy\n"
-msgstr "Lütfen proxy erişimi için gerekli bilgileri giriniz\n"
-
-#: ../urpm/download.pm:191
-#, c-format
-msgid "User name:"
-msgstr "Kullanıcı adı:"
-
-#: ../urpm/download.pm:191
-#, c-format
-msgid "Password:"
-msgstr "Parola:"
-
-#: ../urpm/download.pm:267
-#, c-format
-msgid "Unknown webfetch `%s' !!!\n"
-msgstr "Bilinmeyen webfetch `%s' !!!\n"
-
-#: ../urpm/download.pm:275
-#, c-format
-msgid "%s failed: exited with signal %d"
-msgstr "%s hatası:  %d sinayli ile çıkıldı."
-
-#: ../urpm/download.pm:276
-#, c-format
-msgid "%s failed: exited with %d"
-msgstr "%s hatası: %d ile çıkıldı."
-
-#: ../urpm/download.pm:310
-#, c-format
-msgid "copy failed"
-msgstr "Kopyalama başarısız"
-
-#: ../urpm/download.pm:316
-#, c-format
-msgid "wget is missing\n"
-msgstr "wget bulunamıyor.\n"
-
-#: ../urpm/download.pm:383
-#, c-format
-msgid "curl is missing\n"
-msgstr "curl bulunamıyor.\n"
-
-#: ../urpm/download.pm:519
-#, c-format
-msgid "curl failed: upload canceled\n"
-msgstr "curl hatası: indirme iptal edildi\n"
-
-#: ../urpm/download.pm:520
-#, c-format
-msgid "curl failed: download canceled\n"
-msgstr "curl hatası: indirme iptal edildi\n"
-
-#: ../urpm/download.pm:555
-#, c-format
-msgid "rsync is missing\n"
-msgstr "rsync bulunamıyor\n"
-
-#: ../urpm/download.pm:623
-#, c-format
-msgid "ssh is missing\n"
-msgstr "ssh bulunamıyor\n"
-
-#: ../urpm/download.pm:642
-#, c-format
-msgid "prozilla is missing\n"
-msgstr "prozilla bulunamıyor\n"
-
-#: ../urpm/download.pm:658
-#, c-format
-msgid "Couldn't execute prozilla\n"
-msgstr "Prozilla çalıştırılamadı\n"
-
-#: ../urpm/download.pm:668
-#, c-format
-msgid "aria2 is missing\n"
-msgstr "aria2 bulunamıyor\n"
-
-#: ../urpm/download.pm:712
-#, c-format
-msgid "Failed to download %s"
-msgstr "%s indirilemedi"
-
-#: ../urpm/download.pm:807
-#, c-format
-msgid "        %s%% of %s completed, ETA = %s, speed = %s"
-msgstr "        %s%% /  %s tamamlandı, Kalan Süre = %s, hız = %s"
-
-#: ../urpm/download.pm:808
-#, c-format
-msgid "        %s%% completed, speed = %s"
-msgstr "        %s%% tamamlandı, hız = %s"
-
-#: ../urpm/download.pm:882
-#, c-format
-msgid "retrieving %s"
-msgstr "%s getiriliyor"
-
-#: ../urpm/download.pm:889
-#, c-format
-msgid "retrieved %s"
-msgstr "getirildi: [%s]"
-
-#: ../urpm/download.pm:953
-#, c-format
-msgid "unknown protocol defined for %s"
-msgstr "%s için bilinmeyen protokol tanımlanmış"
-
-#: ../urpm/download.pm:965
-#, c-format
-msgid "no webfetch found, supported webfetch are: %s\n"
-msgstr "geçerli webfetch bulunamadı, desteklenen webfetch: %s\n"
-
-#: ../urpm/download.pm:982
-#, c-format
-msgid "unable to handle protocol: %s"
-msgstr "%s protokolü ile ilgilenemiyor"
-
-#: ../urpm/dudf.pm:195
+#: drakclock:72
 #, c-format
 msgid ""
-"# Here are logs of your DUDF uploads.\n"
-"# Line format is : <date time of generation> <uid>\n"
-"# You can use uids to see the content of your uploads at this url :\n"
-"# %s"
+"Your computer can synchronize its clock\n"
+" with a remote time server using NTP"
 msgstr ""
-"# DUDF gönderimleriniz günlük kayıtları buradadır.\n"
-"# Satır biçimi şöyledir : <oluşturma tarihi> <uid>\n"
-"# Bu bağlantıda gönderimlerinizin içeriğini görmek için uidleri kullanabilirsiniz :\n"
-"# %s"
+"Bilgisayarınız saatini NTP kullanarak\n"
+"bir uzak zaman sunucusya eşleştirebilir."
 
-#: ../urpm/dudf.pm:239
+#: drakclock:73
 #, c-format
-msgid "curl is missing, cannot upload DUDF file.\n"
-msgstr "curl bulunamadı. DUDF dosyası gönderilemeyecek.\n"
+msgid "Enable Network Time Protocol"
+msgstr "Ağ Zaman Protokolünü etkinleştir"
 
-#: ../urpm/dudf.pm:242
+#: drakclock:81
 #, c-format
-msgid "Compressing DUDF data... "
-msgstr "DUDF verisi sıkıştırılıyor... "
+msgid "Server:"
+msgstr "Sunucu:"
 
-#: ../urpm/dudf.pm:244 ../urpm/dudf.pm:245
+#: drakclock:95
 #, c-format
-msgid "NOT OK\n"
-msgstr "TAMAM DEĞİL\n"
+msgid "Timezone"
+msgstr "Zaman Dilimi"
 
-#: ../urpm/dudf.pm:253 ../urpm/dudf.pm:487
+#: drakclock:111
 #, c-format
-msgid "OK\n"
-msgstr "TAMAM\n"
+msgid "Please enter a valid NTP server address."
+msgstr "Lütfen geçerli bir NTP sunucu adresi girin."
 
-#: ../urpm/dudf.pm:255
+#: drakclock:126
 #, c-format
-msgid "Uploading DUDF data:\n"
-msgstr "DUDF verisi gönderiliyor:\n"
+msgid "Could not synchronize with %s."
+msgstr "%s ile eşleştirilemiyor."
 
-#: ../urpm/dudf.pm:276
+#: drakclock:127 drakdvb:149 logdrake:175 scannerdrake:491
 #, c-format
-msgid ""
-"\n"
-"You can see your DUDF report at the following URL :\n"
-"\t"
-msgstr ""
-"\n"
-"DUDF bildiriminizi aşağıdaki bağlantıdan takip edebilirsiniz:\n"
-"\t"
+msgid "Quit"
+msgstr "Çık"
 
-#: ../urpm/dudf.pm:279
+#: drakclock:128
 #, c-format
-msgid ""
-"You can access a log of your uploads in\n"
-"\t"
-msgstr ""
-"Gönderimlerinizin bir kaydını şurada bulabilirsiniz\n"
-"\t"
+msgid "Retry"
+msgstr "Yeniden dene"
 
-#: ../urpm/dudf.pm:360 ../urpm/msg.pm:76 ../urpmi:512 ../urpmi:528
-#: ../urpmi:636
+#: drakclock:151 drakclock:161
 #, c-format
-msgid "Nn"
-msgstr "HhNn"
+msgid "Reset"
+msgstr "Sıfırla"
 
-#: ../urpm/dudf.pm:361
+#: drakdvb:30
 #, c-format
-msgid ""
-"A problem has been encountered. You can help Mandriva to improve package\n"
-"installation by uploading a DUDF report file.\n"
-"This is a part of the Mancoosi european research project.\n"
-"More at http://www.mancoosi.org\n"
-msgstr ""
-"Bir sorun oluştu. Bir DUDF bildirim dosyasını göndererek paket kurulumu konusunda Mandriva' ya yardımcı olabilirsiniz.\n"
-"Bu, Mancoosi avrupa araştırma projesinin bir parçasıdır.\n"
-"Daha fazla bilgi için: http://www.mancoosi.org\n"
+msgid "DVB"
+msgstr "DVB"
 
-#: ../urpm/dudf.pm:362
+#: drakdvb:39 harddrake2:101
 #, c-format
-msgid "Do you want to upload a DUDF report to Mandriva?"
-msgstr "Mandriva' ya bir DUDF bildirimi göndermek istiyor musunuz?"
+msgid "Channel"
+msgstr "Kanal"
 
-#: ../urpm/dudf.pm:363 ../urpmi:515 ../urpmi:531 ../urpmi:637
-#: ../urpmi.addmedia:136
+#: drakdvb:57
 #, c-format
-msgid " (Y/n) "
-msgstr " (E/h) "
+msgid "%s already exists and its contents will be lost"
+msgstr "%s zaten var ve tüm içeriği kaybedilecektir."
 
-#: ../urpm/dudf.pm:364
+#: drakdvb:74
 #, c-format
-msgid ""
-"\n"
-"Generating DUDF... "
-msgstr ""
-"\n"
-"DUDF üretiliyor..."
+msgid "Could not get the list of available channels"
+msgstr "Erişilebilir kanalların listesi alınamıyor."
 
-#: ../urpm/dudf.pm:491
+#: drakdvb:80 draksec:73 drakups:99 finish-install:105 harddrake2:381
+#: scannerdrake:66 scannerdrake:70 scannerdrake:78 scannerdrake:319
+#: scannerdrake:368 scannerdrake:504 scannerdrake:508 scannerdrake:530
+#: service_harddrake:412
 #, c-format
-msgid "Cannot write DUDF file.\n"
-msgstr "DUDF dosyası yazılamıyor.\n"
+msgid "Please wait"
+msgstr "Lütfen bekleyin"
 
-#: ../urpm/get_pkgs.pm:16
+#: drakdvb:84
 #, c-format
-msgid "cleaning %s and %s"
-msgstr "%s ve %s temizleniyor"
+msgid "Detecting DVB channels, this will take a few minutes"
+msgstr "DVB kanalları algılanıyor. Bu işlem zaman alabilir."
 
-#: ../urpm/get_pkgs.pm:128
-#, c-format
-msgid "package %s is not found."
-msgstr "%s paketi bulunamadı."
-
-#: ../urpm/get_pkgs.pm:253
-#, c-format
-msgid "retrieving rpm files from medium \"%s\"..."
-msgstr "rpm dosyaları \"%s\" ortamından alınıyor..."
-
-#: ../urpm/install.pm:87
-#, c-format
-msgid "[repackaging]"
-msgstr "[tekrar paketleniyor]"
-
-#: ../urpm/install.pm:168
-#, c-format
-msgid "created transaction for installing on %s (remove=%d, install=%d, upgrade=%d)"
-msgstr "%s üzerine yükleme için işlem yaratıldı (sil=%d, yükle=%d, güncelle=%d)"
-
-#: ../urpm/install.pm:171
-#, c-format
-msgid "unable to create transaction"
-msgstr "işlem oluşturulamıyor"
-
-#: ../urpm/install.pm:196
-#, c-format
-msgid "unable to extract rpm from delta-rpm package %s"
-msgstr "rpm, %s delta-rpm paketinden çıkartılamıyor"
-
-#: ../urpm/install.pm:209
-#, c-format
-msgid "unable to install package %s"
-msgstr "%s paketi kurulamıyor"
-
-#: ../urpm/install.pm:212
-#, c-format
-msgid "removing bad rpm (%s) from %s"
-msgstr "hatalı rpm (%s), %s kaynağından kaldırılıyor"
-
-#: ../urpm/install.pm:213 ../urpm/install.pm:277
-#, c-format
-msgid "removing %s failed: %s"
-msgstr "%s 'in kaldırılması başarısız oldu: %s"
-
-#: ../urpm/install.pm:258
-#, c-format
-msgid "Removing package %s"
-msgstr "%s paketi kaldırılıyor"
-
-#: ../urpm/install.pm:259
-#, c-format
-msgid "removing package %s"
-msgstr "%s paketi kaldırılıyor"
-
-#: ../urpm/install.pm:275
-#, c-format
-msgid "removing installed rpms (%s) from %s"
-msgstr "kurulu rpm'ler (%s), %s kaynağından kaldırılıyor"
-
-#: ../urpm/install.pm:284
-#, c-format
-msgid "More information on package %s"
-msgstr "%s paketi hakkında daha fazla bilgi..."
-
-#: ../urpm/ldap.pm:71
-#, c-format
-msgid "Cannot create ldap cache directory"
-msgstr "ldap geçici dizini oluşturulamıyor"
-
-#: ../urpm/ldap.pm:73
-#, c-format
-msgid "Cannot write cache file for ldap\n"
-msgstr "ldap geçici dosyasına yazılamıyor\n"
-
-#: ../urpm/ldap.pm:162
-#, c-format
-msgid "No server defined, missing uri or host"
-msgstr "Sunucu tanımlanmamış, uri veya makine bulunamıyor"
-
-#: ../urpm/ldap.pm:163
-#, c-format
-msgid "No base defined"
-msgstr "Komut belirtmemişsiniz"
-
-#: ../urpm/ldap.pm:173 ../urpm/ldap.pm:176
-#, c-format
-msgid "Cannot connect to ldap uri:"
-msgstr "ldap uri bağlanılamıyor:"
-
-#: ../urpm/lock.pm:75
-#, c-format
-msgid "%s database is locked. Waiting..."
-msgstr "%s veri tabanı kilitlendi. Bekleniyor..."
-
-#: ../urpm/lock.pm:76
-#, c-format
-msgid "aborting"
-msgstr "iptal ediliyor"
-
-#: ../urpm/lock.pm:83
-#, c-format
-msgid "%s database is locked, process %d is already using it"
-msgstr "%s veritabanı kilitli. %d işlemi onu kullanıyor."
-
-#: ../urpm/lock.pm:85
-#, c-format
-msgid "%s database is locked (another program is already using it)"
-msgstr "%s veritabanı kilitli.(bir başka yazılım onu kullanıyor)"
-
-#: ../urpm/main_loop.pm:79
-#, c-format
-msgid "Retry?"
-msgstr "Yeniden dene?"
-
-#: ../urpm/main_loop.pm:89
-#, c-format
-msgid ""
-"Installation failed, some files are missing:\n"
-"%s"
-msgstr ""
-"Kurulum başarısız oldu. Bazı dosyalar kayıp:\n"
-"%s"
-
-#: ../urpm/main_loop.pm:92
-#, c-format
-msgid "You may need to update your urpmi database."
-msgstr "Urpmi veritabanı güncellemeniz gerekebilir."
-
-#: ../urpm/main_loop.pm:95
-#, c-format
-msgid ""
-"Installation failed, bad rpms:\n"
-"%s"
-msgstr ""
-"Kurulum başarısız oldu. Hatalı rpm'ler:\n"
-"%s"
-
-#: ../urpm/main_loop.pm:113
-#, c-format
-msgid ""
-"There is not enough space on your filesystem to download all packages (%s needed, %s available).\n"
-"Are you sure you want to continue?"
-msgstr ""
-"Tüm paketleri indirmek için dosya sisteminizde yeterli boş alan yok. (%s gerekli, %s boş alan var:)\n"
-"Devam etmek istediğinize emin misiniz?"
-
-#: ../urpm/main_loop.pm:172 ../urpm/main_loop.pm:212 ../urpm/main_loop.pm:293
-#: ../urpm/main_loop.pm:300
-#, c-format
-msgid "Installation failed"
-msgstr "Kurulum başarısız oldu."
-
-#: ../urpm/main_loop.pm:173
-#, c-format
-msgid "Try to continue anyway?"
-msgstr "Yine de devam edilsin mi?"
-
-#: ../urpm/main_loop.pm:197
-#, c-format
-msgid "The following package has bad signature"
-msgstr "Sonraki paketler hatalı imza içeriyor"
-
-#: ../urpm/main_loop.pm:198
-#, c-format
-msgid "The following packages have bad signatures"
-msgstr "Sonraki paketler hatalı imza içeriyor"
-
-#: ../urpm/main_loop.pm:199
-#, c-format
-msgid "Do you want to continue installation ?"
-msgstr "Kuruluma devam etmek istiyor musunuz ?"
-
-#: ../urpm/main_loop.pm:216
-#, c-format
-msgid "removing installed rpms (%s)"
-msgstr "kurulu rpm'ler (%s) kaldırılıyor."
-
-#: ../urpm/main_loop.pm:236
-#, c-format
-msgid "distributing %s"
-msgstr "%s dağıtılıyor"
-
-#: ../urpm/main_loop.pm:251
-#, c-format
-msgid "installing %s from %s"
-msgstr "%s, %s konumundan kuruluyor"
-
-#: ../urpm/main_loop.pm:253
-#, c-format
-msgid "installing %s"
-msgstr "%s kuruluyor"
-
-#: ../urpm/main_loop.pm:294
-#, c-format
-msgid "Try installation without checking dependencies?"
-msgstr "Paket bağımlılıklarını denetlemeksizin kurulum denensin mi?"
-
-#: ../urpm/main_loop.pm:301
-#, c-format
-msgid "Try harder to install (--force)?"
-msgstr "Belki daha zorlayıcı bir seçenek gerekebilir (--force)?"
-
-#: ../urpm/main_loop.pm:344
-#, c-format
-msgid "Packages are up to date"
-msgstr "Paketler güncel"
-
-#: ../urpm/main_loop.pm:355 ../urpm/parallel.pm:299
-#, c-format
-msgid "Installation is possible"
-msgstr "Kurulum mümkün"
-
-#: ../urpm/md5sum.pm:26
-#, c-format
-msgid "warning: md5sum for %s unavailable in MD5SUM file"
-msgstr "uyarı: %s için md5sum, MD5SUM dosyasında mevcut değil."
-
-#: ../urpm/media.pm:258
-#, c-format
-msgid "virtual medium \"%s\" should have a clear url, medium ignored"
-msgstr "\"%s\" sanal ortamı açık bir url içermeli, ortam yok sayıldı."
-
-#: ../urpm/media.pm:260
-#, c-format
-msgid "unable to access list file of \"%s\", medium ignored"
-msgstr "\"%s\" ortamının liste dosyasına erişilemiyor, yoksayıldı"
-
-#: ../urpm/media.pm:263
-#, c-format
-msgid "unable to access synthesis file of \"%s\", medium ignored"
-msgstr "\"%s\" ortamının synthesis dosyasına erişilemiyor, yoksayıldı"
-
-#: ../urpm/media.pm:289
-#, c-format
-msgid "trying to override existing medium \"%s\", skipping"
-msgstr "varolan \"%s\" ortamı atlanmaya çalışılırken engelleniyor"
-
-#: ../urpm/media.pm:505
-#, c-format
-msgid "failed to migrate removable device, ignoring media"
-msgstr "çıkartılabilir disk aktarımı başarısız oldu, kurulum kaynağı yok sayılıyor"
-
-#: ../urpm/media.pm:543
-#, c-format
-msgid "wrote config file [%s]"
-msgstr "yapılandırma dosyası [%s] yazılıyor"
-
-#: ../urpm/media.pm:586
-#, c-format
-msgid "Can't use parallel mode with use-distrib mode"
-msgstr "use-distrib modunda paralel mod kullanılamaz"
-
-#: ../urpm/media.pm:594
-#, c-format
-msgid "using associated media for parallel mode: %s"
-msgstr "paralel mod için ortak ortam kullanılıyor: %s"
-
-#: ../urpm/media.pm:610
-#, c-format
-msgid "--synthesis cannot be used with --media, --excludemedia, --sortmedia, --update, --use-distrib or --parallel"
-msgstr "--synthesis bu parametrelerle kullanılamaz --media, --excludemedia, --sortmedia, --update, --use-distrib veya --parallel"
-
-#: ../urpm/media.pm:736
-#, c-format
-msgid "skipping package %s"
-msgstr "%s paketi atlanıyor"
-
-#: ../urpm/media.pm:752
-#, c-format
-msgid "would install instead of upgrade package %s"
-msgstr "%s paketinin yükseltilmesi yerine kurulması"
-
-#: ../urpm/media.pm:828
-#, c-format
-msgid "medium \"%s\" already exists"
-msgstr "\"%s\" ortamı zaten var"
-
-#: ../urpm/media.pm:869
-#, c-format
-msgid "(ignored by default)"
-msgstr "(varsayılan olarak yok sayıldı)"
-
-#: ../urpm/media.pm:875
-#, c-format
-msgid "adding medium \"%s\" before remote medium \"%s\""
-msgstr "\"%s\" ortamı, \"%s\" uzak kaynağından önce ekleniyor"
-
-#: ../urpm/media.pm:881
-#, c-format
-msgid "adding medium \"%s\""
-msgstr "\"%s\" ortamı ekleniyor."
-
-#: ../urpm/media.pm:905
-#, c-format
-msgid "failed to copy media.cfg to %s (%d)"
-msgstr "media.cfg, %s (%d) üzerine kopyalanamıyor."
-
-#: ../urpm/media.pm:947
-#, c-format
-msgid "directory %s does not exist"
-msgstr "%s dizini mevcut değil"
-
-#: ../urpm/media.pm:955
-#, c-format
-msgid "this location doesn't seem to contain any distribution"
-msgstr "bu konum herhangi bir dağıtım içermiyor"
-
-#: ../urpm/media.pm:979
-#, c-format
-msgid "unable to parse media.cfg"
-msgstr "media.cfg dosyasının sözdizimsel analizi yapılamıyor."
-
-#: ../urpm/media.pm:982
-#, c-format
-msgid "unable to access the distribution medium (no media.cfg file found)"
-msgstr "dağıtım ortamına ulaşılamıyor. (media.cfg dosyası bulunamadı.)"
-
-#: ../urpm/media.pm:1003
-#, c-format
-msgid "skipping non compatible media `%s' (for %s)"
-msgstr "desteklenmeyen ortam atlanıyor `%s' (for %s)"
-
-#: ../urpm/media.pm:1018
-#, c-format
-msgid "ignoring non-free medium `%s'"
-msgstr "özgür olmayan `%s' ortamı yok sayılıyor"
-
-#: ../urpm/media.pm:1061
-#, c-format
-msgid "retrieving media.cfg file..."
-msgstr "media.cfg dosyası alınıyor..."
-
-#: ../urpm/media.pm:1104
-#, c-format
-msgid "trying to select nonexistent medium \"%s\""
-msgstr "var olmayan \"%s\" ortamı seçilmeye çalışılıyor"
-
-#: ../urpm/media.pm:1107
-#, c-format
-msgid "selecting multiple media: %s"
-msgstr "çoklu kurulum kaynağı seçiliyor: %s"
-
-#: ../urpm/media.pm:1166
-#, c-format
-msgid "removing medium \"%s\""
-msgstr "\"%s\" ortamı kaldırılıyor."
-
-#: ../urpm/media.pm:1249
-#, c-format
-msgid "reconfiguring urpmi for media \"%s\""
-msgstr "\"%s\" ortamı için urpmi yeniden ayarlanıyor."
-
-#: ../urpm/media.pm:1283
-#, c-format
-msgid "...reconfiguration failed"
-msgstr "yeniden ayarlama başarısız oldu."
-
-#: ../urpm/media.pm:1289
-#, c-format
-msgid "reconfiguration done"
-msgstr "yeniden ayarlama tamamlandı."
-
-#: ../urpm/media.pm:1305
-#, c-format
-msgid "Error generating names file: dependency %d not found"
-msgstr "Adlar dosyasının üretiminde hata: %d bağımlılığı bulunamadı."
-
-#: ../urpm/media.pm:1326
-#, c-format
-msgid "medium \"%s\" is up-to-date"
-msgstr "\"%s\" ortamı güncel."
-
-#: ../urpm/media.pm:1337
-#, c-format
-msgid "examining synthesis file [%s]"
-msgstr "sentez dosyası [%s] inceleniyor"
-
-#: ../urpm/media.pm:1357
-#, c-format
-msgid "problem reading synthesis file of medium \"%s\""
-msgstr "\"%s\" ortamının sentezleme dosyasının okunmasında hata"
-
-#: ../urpm/media.pm:1370 ../urpm/media.pm:1465
-#, c-format
-msgid "copying [%s] for medium \"%s\"..."
-msgstr "\"%s\" ortamı için [%s] kopyalanıyor..."
-
-#: ../urpm/media.pm:1372 ../urpm/media.pm:1442 ../urpm/media.pm:1695
-#, c-format
-msgid "...copying failed"
-msgstr "...kopyalama başarısız"
-
-#: ../urpm/media.pm:1438
-#, c-format
-msgid "copying description file of \"%s\"..."
-msgstr "\"%s\"in açıklama dosyası kopyalanıyor..."
-
-#: ../urpm/media.pm:1440 ../urpm/media.pm:1469
-#, c-format
-msgid "...copying done"
-msgstr "...kopyalama tamamlandı."
-
-#: ../urpm/media.pm:1471
-#, c-format
-msgid "copy of [%s] failed (file is suspiciously small)"
-msgstr "[%s] kopyalaması başarısız. (dosya şüphe çekecek kadar ufak)"
-
-#: ../urpm/media.pm:1519
-#, c-format
-msgid "computing md5sum of retrieved source synthesis"
-msgstr "Alınan kaynak sentezi'nin md5sum özeti hesaplanıyor."
-
-#: ../urpm/media.pm:1521 ../urpm/media.pm:1961
-#, c-format
-msgid "retrieval of [%s] failed (md5sum mismatch)"
-msgstr "[%s] alımı başarısız oldu. (md5sum eşleşmedi.)"
-
-#: ../urpm/media.pm:1536
-#, c-format
-msgid "genhdlist2 failed on %s"
-msgstr "%s üzerinde genhdlist2 başarısız oldu."
-
-#: ../urpm/media.pm:1546
-#, c-format
-msgid "comparing %s and %s"
-msgstr "%s ve %s karşılaştırılıyor."
-
-#: ../urpm/media.pm:1576
-#, c-format
-msgid "invalid hdlist file %s for medium \"%s\""
-msgstr "\"%s\" ortamı için geçersiz %s hdlist dosyası."
-
-#: ../urpm/media.pm:1602
-#, c-format
-msgid "copying MD5SUM file of \"%s\"..."
-msgstr "\"%s\"in MD5SUM dosyası kopyalanıyor..."
-
-#: ../urpm/media.pm:1642
-#, c-format
-msgid "invalid MD5SUM file (downloaded from %s)"
-msgstr "geçersiz MD5SUM dosyası (%s adresinden indirilmiş)"
-
-#: ../urpm/media.pm:1645
-#, c-format
-msgid "no metadata found for medium \"%s\""
-msgstr "\"%s\" ortamı için meta verisi bulunamadı."
-
-#: ../urpm/media.pm:1677
-#, c-format
-msgid "retrieving source synthesis of \"%s\"..."
-msgstr "\"%s\" in kaynak sentezi getiriliyor..."
-
-#: ../urpm/media.pm:1743
-#, c-format
-msgid "examining pubkey file of \"%s\"..."
-msgstr "\"%s\" pubanahtarı sınanıyor..."
-
-#: ../urpm/media.pm:1755
-#, c-format
-msgid "...imported key %s from pubkey file of \"%s\""
-msgstr "...%s anahtarı \"%s\" pubanahtarından içe aktarıldı."
-
-#: ../urpm/media.pm:1759
-#, c-format
-msgid "unable to import pubkey file of \"%s\""
-msgstr "\"%s\" pubanahtarı içe aktarılamıyor."
-
-#: ../urpm/media.pm:1800
-#, c-format
-msgid "no synthesis file found for medium \"%s\""
-msgstr "\"%s\" ortamı için sentez dosyası bulunamadı."
-
-#: ../urpm/media.pm:1833
-#, c-format
-msgid "updated medium \"%s\""
-msgstr "\"%s\" ortamı güncellendi."
-
-#: ../urpm/media.pm:1955
-#, c-format
-msgid "retrieval of [%s] failed"
-msgstr "[%s] alımı başarısız oldu"
-
-#: ../urpm/mirrors.pm:19 ../urpm/mirrors.pm:40
-#, c-format
-msgid "trying again with mirror %s"
-msgstr "%s yansısı ile tekrar deneniyor"
-
-#: ../urpm/mirrors.pm:92
-#, c-format
-msgid "Could not find a mirror from mirrorlist %s"
-msgstr "%s yansı listesinden bir yansı bulunamadı."
-
-#: ../urpm/mirrors.pm:234
-#, c-format
-msgid "found geolocalisation %s %.2f %.2f from timezone %s"
-msgstr "%s %.2f %.2f coğrafi konumu, %s zaman bölgesinden bulundu."
-
-#: ../urpm/mirrors.pm:279
-#, c-format
-msgid "getting mirror list from %s"
-msgstr "yansı listesini %s adresinden al"
-
-#. -PO: Add here the keys which might be pressed in the "Yes"-case.
-#: ../urpm/msg.pm:77 ../urpme:38 ../urpmi:566 ../urpmi:674 ../urpmi:684
-#: ../urpmi.addmedia:133
-#, c-format
-msgid "Yy"
-msgstr "EeYy"
-
-#: ../urpm/msg.pm:107 ../urpme:163 ../urpmi.addmedia:136
-#, c-format
-msgid " (y/N) "
-msgstr " ( y, e / H , N ) "
-
-#: ../urpm/msg.pm:139
-#, c-format
-msgid "Sorry, bad choice, try again\n"
-msgstr "Üzgünüm ,hatalı seçim, tekrar deneyin\n"
-
-#: ../urpm/msg.pm:170
-#, c-format
-msgid "Package"
-msgstr "Paket"
-
-#: ../urpm/msg.pm:170
-#, c-format
-msgid "Version"
-msgstr "Sürüm"
-
-#: ../urpm/msg.pm:170
-#, c-format
-msgid "Release"
-msgstr "Yayım"
-
-#: ../urpm/msg.pm:170
-#, c-format
-msgid "Arch"
-msgstr "Mimari"
-
-#: ../urpm/msg.pm:179
-#, c-format
-msgid "(suggested)"
-msgstr "(önerilen)"
-
-#: ../urpm/msg.pm:194
-#, c-format
-msgid "medium \"%s\""
-msgstr "\"%s\" ortamı"
-
-#: ../urpm/msg.pm:194
-#, c-format
-msgid "command line"
-msgstr "komut satırı"
-
-#: ../urpm/msg.pm:208
-#, c-format
-msgid "B"
-msgstr "B"
-
-#: ../urpm/msg.pm:208
-#, c-format
-msgid "KB"
-msgstr "KB"
-
-#: ../urpm/msg.pm:208
-#, c-format
-msgid "MB"
-msgstr "MB"
-
-#: ../urpm/msg.pm:208
-#, c-format
-msgid "GB"
-msgstr "GB"
-
-#: ../urpm/msg.pm:208 ../urpm/msg.pm:217
-#, c-format
-msgid "TB"
-msgstr "TB"
-
-#: ../urpm/orphans.pm:51
-#, c-format
-msgid "Marking %s as manually installed, it won't be auto-orphaned"
-msgstr "%s elle kurulmuş olarak işaretleniyor. Kendiliğinden kaldırılmayacak."
-
-#: ../urpm/orphans.pm:449
-#, c-format
-msgid ""
-"The following package:\n"
-"%s\n"
-"is now orphaned."
-msgid_plural ""
-"The following packages:\n"
-"%s\n"
-"are now orphaned."
-msgstr[0] ""
-"Şu paketler\n"
-"artık gereksiz:\n"
-"%s"
-
-#: ../urpm/orphans.pm:452
-#, c-format
-msgid "You may wish to remove it."
-msgid_plural "You may wish to remove them."
-msgstr[0] "Bunları kaldırmak isteyebilirsiniz."
-
-#: ../urpm/orphans.pm:461
-#, c-format
-msgid ""
-"The following package:\n"
-"%s\n"
-"is now orphaned, if you wish to remove it, you can use \"urpme --auto-orphans\""
-msgid_plural ""
-"The following packages:\n"
-"%s\n"
-"are now orphaned, if you wish to remove them, you can use \"urpme --auto-orphans\""
-msgstr[0] ""
-
-#: ../urpm/parallel.pm:15
-#, c-format
-msgid "unable to parse \"%s\" in file [%s]"
-msgstr "\"%2$s\" dosyasındaki \"%1$s\" ayrıştırılamıyor"
-
-#: ../urpm/parallel.pm:24
-#, c-format
-msgid "examining parallel handler in file [%s]"
-msgstr "\"%s\" dosyasındaki paralel işleyici inceleniyor"
-
-#: ../urpm/parallel.pm:35
-#, c-format
-msgid "found parallel handler for nodes: %s"
-msgstr "düğümler için paralel işleyici bulundu: %s"
-
-#: ../urpm/parallel.pm:39
-#, c-format
-msgid "unable to use parallel option \"%s\""
-msgstr "paralel seçenek \"%s\" kullanılamadı"
-
-#: ../urpm/parallel.pm:94
-#, c-format
-msgid "on node %s"
-msgstr "nod %s üzerinde"
-
-#: ../urpm/parallel.pm:294
-#, c-format
-msgid "Installation failed on node %s"
-msgstr "Nod %s üzerinde kurulum başarısız oldu."
-
-#: ../urpm/parallel_ka_run.pm:58
-#, c-format
-msgid "rshp failed, maybe a node is unreacheable"
-msgstr "rshp başarısız, belki bir noda ulaşılamıyordur"
-
-#: ../urpm/parallel_ka_run.pm:80
-#, c-format
-msgid "mput failed, maybe a node is unreacheable"
-msgstr "mput başarısız, belki bir noda ulaşılamıyordur"
-
-#: ../urpm/parallel_ssh.pm:27
-#, c-format
-msgid "scp failed on host %s (%d)"
-msgstr "%s makinesi (%d) üzerinde scp başarısız oldu"
-
-#: ../urpm/parallel_ssh.pm:39
-#, c-format
-msgid "cp failed on host %s (%d)"
-msgstr "%s makinesi (%d) üzerinde cp başarısız oldu"
-
-#: ../urpm/parallel_ssh.pm:86
-#, c-format
-msgid "%s failed on host %s (maybe it does not have a good version of urpmi?) (exit code: %d)"
-msgstr "%s, %s makinesinde başarısız oldu. (belki urpmi' nin iyi bir sürümü değildir?) (çıkış kodu: %d)"
-
-#: ../urpm/removable.pm:33
-#, c-format
-msgid "unable to access medium \"%s\"."
-msgstr "\"%s\" ortamına erişilemiyor"
-
-#: ../urpm/removable.pm:73 ../urpm/removable.pm:91
-#, c-format
-msgid "mounting %s"
-msgstr "%s bağlanıyor"
-
-#: ../urpm/removable.pm:104
-#, c-format
-msgid "unmounting %s"
-msgstr "%s ayrılıyor"
-
-#: ../urpm/select.pm:31
-#, c-format
-msgid "urpmi was restarted, and the list of priority packages did not change"
-msgstr "urpmi yeniden başlatıldı, önemli paketlerin listesi değişmedi"
-
-#: ../urpm/select.pm:33
-#, c-format
-msgid "urpmi was restarted, and the list of priority packages did change: %s vs %s"
-msgstr "urpmi yeniden başlatıldı ve önemli paketlerin listesi değişti: %s vs %s"
-
-#: ../urpm/select.pm:176
-#, c-format
-msgid "No package named %s"
-msgstr "%s adında bir paket yok"
-
-#: ../urpm/select.pm:178 ../urpme:117
-#, c-format
-msgid "The following packages contain %s: %s"
-msgstr "Bu paketler %s içeriyor: %s"
-
-#: ../urpm/select.pm:180
-#, c-format
-msgid "You should use \"-a\" to use all of them"
-msgstr "Tümünü kullanabilmek için \"-a\" kullanmalısınız"
-
-#: ../urpm/select.pm:298
-#, c-format
-msgid "found package(s) %s in urpmi db, but none are installed"
-msgstr "Urpmi veritabanında %s paket(ler)i bulundu, fakat hiçbiri kurulmamış"
-
-#: ../urpm/select.pm:545
-#, c-format
-msgid "Package %s is already installed"
-msgstr "%s paketi kurulu"
-
-#: ../urpm/select.pm:546
-#, c-format
-msgid "Packages %s are already installed"
-msgstr "%s paketleri kurulu"
-
-#: ../urpm/select.pm:563 ../urpm/select.pm:650
-#, c-format
-msgid "due to conflicts with %s"
-msgstr "%s paketi ile çelişkisinden"
-
-#: ../urpm/select.pm:564 ../urpm/select.pm:644
-#, c-format
-msgid "due to unsatisfied %s"
-msgstr "%s paketinden dolayı yetersiz"
-
-#: ../urpm/select.pm:570
-#, c-format
-msgid "trying to promote %s"
-msgstr "%s yükseltilmeye çalışılıyor."
-
-#: ../urpm/select.pm:571
-#, c-format
-msgid "in order to keep %s"
-msgstr "%s 'in tutulması sırasında"
-
-#: ../urpm/select.pm:612
-#, c-format
-msgid ""
-"The following package has to be removed for others to be upgraded:\n"
-"%s"
-msgstr ""
-"Diğer paketlerin güncellenmesi için aşağıdaki paketin kaldırılması gerekiyor:\n"
-"%s"
-
-#: ../urpm/select.pm:613
-#, c-format
-msgid ""
-"The following packages have to be removed for others to be upgraded:\n"
-"%s"
-msgstr ""
-"Diğer paketlerin güncellenmesi için aşağıdaki paketlerin kaldırılması gerekiyor:\n"
-"%s"
-
-#: ../urpm/select.pm:640
-#, c-format
-msgid "in order to install %s"
-msgstr "%s 'in kurulumu sırasında"
-
-#: ../urpm/select.pm:646
-#, c-format
-msgid "due to missing %s"
-msgstr "%s paketinin kayıplığından"
-
-#: ../urpm/signature.pm:33
-#, c-format
-msgid "Invalid signature (%s)"
-msgstr "Geçersiz imza (%s)"
-
-#: ../urpm/signature.pm:64
-#, c-format
-msgid "Invalid Key ID (%s)"
-msgstr "Geçersiz Anahtar Kimliği (%s)"
-
-#: ../urpm/signature.pm:66
-#, c-format
-msgid "Missing signature (%s)"
-msgstr "Kayıp imza (%s)"
-
-#: ../urpm/sys.pm:186
-#, c-format
-msgid "system"
-msgstr "sistem"
-
-#: ../urpm/sys.pm:223
-#, c-format
-msgid "You should restart your computer for %s"
-msgstr "%s için bilgisayarınızı yeniden başlatmalısınız"
-
-#: ../urpm/sys.pm:225
-#, c-format
-msgid "You should restart your session for %s"
-msgstr "%s için oturumunuzu yeniden başlatmalısınız"
-
-#: ../urpm/sys.pm:227
-#, c-format
-msgid "You should restart %s for %s"
-msgstr "%s'i %s için yeniden başlatmalısınız"
-
-#: ../urpm/sys.pm:331
-#, c-format
-msgid "Can't write file"
-msgstr "Dosya yazılamıyor."
-
-#: ../urpm/sys.pm:331
-#, c-format
-msgid "Can't open file"
-msgstr "Dosya açılamıyor."
-
-#: ../urpm/sys.pm:344
-#, c-format
-msgid "Can't move file %s to %s"
-msgstr "%s dosyası%s 'e taşınamıyor."
-
-#: ../urpme:41
-#, c-format
-msgid ""
-"urpme version %s\n"
-"Copyright (C) 1999-2010 Mandriva.\n"
-"This is free software and may be redistributed under the terms of the GNU GPL.\n"
-"\n"
-"usage:\n"
-msgstr ""
-"urpme sürüm %s\n"
-"Copyright (C) 1999-2010 Mandriva.\n"
-"Bu bir özgür yazılımdır ve GNU GPL lisansı altında tekrar dağıtılabilir.\n"
-"\n"
-"kullanımı:\n"
-
-#: ../urpme:47
-#, c-format
-msgid "  --auto         - automatically select a package in choices.\n"
-msgstr "  --auto         - Otomatik seçenekler arasından paketleri seç.\n"
-
-#: ../urpme:48
-#, c-format
-msgid "  --auto-orphans - remove orphans\n"
-msgstr "  --auto-orphans - gereksiz olanları kaldır\n"
-
-#: ../urpme:49
-#, c-format
-msgid "  --test         - verify if the removal can be achieved correctly.\n"
-msgstr "  --test         - kurulumun başarılı olup olmayacağını doğrula.\n"
-
-#: ../urpme:51 ../urpmi:118 ../urpmq:70
-#, c-format
-msgid "  --parallel     - distributed urpmi across machines of alias.\n"
-msgstr "  --parallel     - benzer makineler arasında dağıtılmış urpmi.\n"
-
-#: ../urpme:52 ../urpmi:152
-#, c-format
-msgid "  --repackage    - Re-package the files before erasing\n"
-msgstr "  --repackage    - Paketleri silmeden önce yeniden paketle.\n"
-
-#: ../urpme:53
-#, c-format
-msgid "  --root         - use another root for rpm removal.\n"
-msgstr "  --root         - rpm kaldırma için bir başka kök kullanıcı kullan.\n"
-
-#: ../urpme:54 ../urpmf:40 ../urpmi:120 ../urpmi.addmedia:73
-#: ../urpmi.recover:36 ../urpmi.removemedia:45 ../urpmi.update:48 ../urpmq:72
-#, c-format
-msgid "  --urpmi-root   - use another root for urpmi db & rpm installation.\n"
-msgstr "  --urpmi-root   - urpmi veritabanı ve rpm kurulumu için bir başka kök kullan.\n"
-
-#: ../urpme:55 ../urpmi:110
-#, c-format
-msgid "  --justdb       - update only the rpm db, not the filesystem.\n"
-msgstr "  --justdb       - sadece rpm veritabanını güncelle, dosya sistemini değil.\n"
-
-#: ../urpme:56
-#, c-format
-msgid "  --noscripts    - do not execute package scriptlet(s).\n"
-msgstr "  --noscripts    - paket betiklerini çalıştıma.\n"
-
-#: ../urpme:57
-#, c-format
-msgid ""
-"  --use-distrib  - configure urpme on the fly from a distrib tree, useful\n"
-"                   to (un)install a chroot with --root option.\n"
-msgstr ""
-"  --use-distrib  - urpme'yi bir dağıtım ağacından ayarla. Bir \"chroot\"u,\n"
-"                   --root seçeneğiyle (kur/kaldır)mak için yararlıdır.\n"
-
-#: ../urpme:59 ../urpmi:163 ../urpmq:91
-#, c-format
-msgid "  --verbose, -v  - verbose mode.\n"
-msgstr "  --verbose, -v  - kalabalık kipi.\n"
-
-#: ../urpme:60
-#, c-format
-msgid "  -a             - select all packages matching expression.\n"
-msgstr "  -a             - ifadeye uyan tüm paketleri seçer. \n"
-
-#: ../urpme:75
-#, c-format
-msgid "Only superuser is allowed to remove packages"
-msgstr "Paketleri kaldırmak için sadece sistem yöneticisi yetkilidir"
-
-#: ../urpme:108
-#, c-format
-msgid "unknown packages"
-msgstr "bilinmeyen paketler "
-
-#: ../urpme:108
-#, c-format
-msgid "unknown package"
-msgstr "bilinmeyen paket"
-
-#: ../urpme:123
-#, c-format
-msgid "Removing the following package will break your system:"
-msgid_plural "Removing the following packages will break your system:"
-msgstr[0] ""
-
-#: ../urpme:128
-#, c-format
-msgid "Nothing to remove"
-msgstr "Kaldırılacak bir şey yok"
-
-#: ../urpme:145
-#, c-format
-msgid "No orphans to remove"
-msgstr "Kaldırılacak gereksiz paket yok"
-
-#: ../urpme:151
-#, c-format
-msgid "To satisfy dependencies, the following package will be removed"
-msgid_plural "To satisfy dependencies, the following %d packages will be removed"
-msgstr[0] ""
-
-#: ../urpme:156
-#, c-format
-msgid "(orphan package)"
-msgid_plural "(orphan packages)"
-msgstr[0] ""
-
-#: ../urpme:163
-#, c-format
-msgid "Remove %d package?"
-msgid_plural "Remove %d packages?"
-msgstr[0] ""
-
-#: ../urpme:168
-#, c-format
-msgid "testing removal of %s"
-msgstr "%s kaldırılma işlemi deneniyor"
-
-#: ../urpme:185
-#, c-format
-msgid "Removal failed"
-msgstr "Kaldırma başarısız"
-
-#: ../urpme:187
-#, c-format
-msgid "Removal is possible"
-msgstr "Kaldırma uygulanabilir"
-
-#: ../urpmf:29
-#, c-format
-msgid ""
-"urpmf version %s\n"
-"Copyright (C) 2002-2010 Mandriva.\n"
-"This is free software and may be redistributed under the terms of the GNU GPL.\n"
-"\n"
-"usage: urpmf [options] pattern-expression\n"
-msgstr ""
-"urpmf sürüm %s\n"
-"Copyright (C) 2002-2010 Mageia.\n"
-"Bu bir özgür yazılımdır ve GNU GPL kurallarına uygun olarak dağıtılabilir.\n"
-"\n"
-"kullanım: urpmf [seçenek] ifade-kalıbı\n"
-
-#: ../urpmf:36
-#, c-format
-msgid "  --version      - print this tool's version number.\n"
-msgstr "  --version      - bu aracın sürüm numarasını yazdır.\n"
-
-#: ../urpmf:37 ../urpmi:142 ../urpmq:82
-#, c-format
-msgid "  --env          - use specific environment (typically a bug report).\n"
-msgstr "  --env          - belirli bir çevre kullan (genellikle bir hata raporu).\n"
-
-#: ../urpmf:38 ../urpmi:83 ../urpmq:49
-#, c-format
-msgid "  --excludemedia - do not use the given media, separated by comma.\n"
-msgstr "  --excludemedia - virgülle ayrılmış olan verilen kurulum kaynağını kullanma.\n"
-
-#: ../urpmf:39
-#, c-format
-msgid "  --literal, -l  - don't match patterns, use argument as a literal string.\n"
-msgstr "  --literal, -l  - örnekleri eşleştirme, argümanı bri tam satır olarak kullan.\n"
-
-#: ../urpmf:42 ../urpmi:86 ../urpmq:50
-#, c-format
-msgid "  --sortmedia    - sort media according to substrings separated by comma.\n"
-msgstr "  --sortmedia    - virgülle ayrılan alt satırlara göre kurulum kaynağı sırala.\n"
-
-#: ../urpmf:43
-#, c-format
-msgid "  --use-distrib  - use the given path to access media\n"
-msgstr "  --use-distrib  - kurulum kaynağına erişim için verilen yolu kullan.\n"
-
-#: ../urpmf:44 ../urpmi:87 ../urpmq:51
-#, c-format
-msgid "  --synthesis    - use the given synthesis instead of urpmi db.\n"
-msgstr "  --synthesis    - urpmi veri tabanı yerine belirtilen sentezi kullan.\n"
-
-#: ../urpmf:45
-#, c-format
-msgid "  --uniq         - do not print identical lines twice.\n"
-msgstr "  --uniq         - açıklayıcı satırları ikinci kez yadırma.\n"
-
-#: ../urpmf:46 ../urpmi:84 ../urpmq:46
-#, c-format
-msgid "  --update       - use only update media.\n"
-msgstr "  --update        - sadece güncelleme ortamını kullan.\n"
-
-#: ../urpmf:47
-#, c-format
-msgid "  --verbose      - verbose mode.\n"
-msgstr "  --verbose      - kalabalık kipi.\n"
-
-#: ../urpmf:48
-#, c-format
-msgid "  -i             - ignore case distinctions in patterns.\n"
-msgstr "  -i             - her örnekte büyük-küçük harf farklılığını göz ardı et.\n"
-
-#: ../urpmf:49
-#, c-format
-msgid "  -I             - honor case distinctions in patterns (default).\n"
-msgstr "  -I             -  örneklerde büyük/küçük harf ayrımını gözet.(varsayılan)\n"
-
-#: ../urpmf:50
-#, c-format
-msgid "  -F<str>        - change field separator (defaults to ':').\n"
-msgstr "  -F<str>        - alan ayracını değiştir. (':' işaretinde varsayılan).\n"
-
-#: ../urpmf:51
-#, c-format
-msgid "Pattern expressions:\n"
-msgstr "Kalıp ifadeler:\n"
-
-#: ../urpmf:52
-#, c-format
-msgid "  text           - any text is parsed as a regexp, unless -l is used.\n"
-msgstr "  text           - \"-l\" kullanılmadığı sürece regexp olarak sözdizimsel analizi yapılan herhangi bir metin.\n"
-
-#: ../urpmf:53
-#, c-format
-msgid "  -e             - include perl code directly as perl -e.\n"
-msgstr "  -e             - perl kocunu doğrudan perl olarak ekle -e.\n"
-
-#: ../urpmf:54
-#, c-format
-msgid "  -a             - binary AND operator.\n"
-msgstr "  -a             - ikili AND operatörü.\n"
-
-#: ../urpmf:55
-#, c-format
-msgid "  -o             - binary OR operator.\n"
-msgstr "  -o             - ikili OR operatör.\n"
-
-#: ../urpmf:56
-#, c-format
-msgid "  !              - unary NOT.\n"
-msgstr "  !              - tekli NOT.\n"
-
-#: ../urpmf:57
-#, c-format
-msgid "  ( )            - left and right parentheses.\n"
-msgstr "  ( )            - sol ve sağ parantezler.\n"
-
-#: ../urpmf:58
-#, c-format
-msgid "List of tags:\n"
-msgstr "Etiketlerin listesi:\n"
-
-#: ../urpmf:59
-#, c-format
-msgid "  --qf           - specify a printf-like output format\n"
-msgstr "  --qf           -  printf benzeri bir çıktı biçimi belirtir\n"
-
-#: ../urpmf:60
-#, c-format
-msgid "                   example: '%%name:%%files'\n"
-msgstr "                   örnek: '%%isim:%%dosyalar'\n"
-
-#: ../urpmf:61
-#, c-format
-msgid "  --arch         - architecture\n"
-msgstr "  --arch         - mimari\n"
-
-#: ../urpmf:62
-#, c-format
-msgid "  --buildhost    - build host\n"
-msgstr "  --buildhost    - derlendiği makine\n"
-
-#: ../urpmf:63
-#, c-format
-msgid "  --buildtime    - build time\n"
-msgstr "  --buildtime    - derlenme zamanı\n"
-
-#: ../urpmf:64
-#, c-format
-msgid "  --conffiles    - configuration files\n"
-msgstr "  --conffiles    - yapılandırma dosyaları\n"
-
-#: ../urpmf:65
-#, c-format
-msgid "  --conflicts    - conflict tags\n"
-msgstr "  --conflicts    - çakışanlar etiketi\n"
-
-#: ../urpmf:66
-#, c-format
-msgid "  --description  - package description\n"
-msgstr "  --description  - paket açıklaması\n"
-
-#: ../urpmf:67
-#, c-format
-msgid "  --distribution - distribution\n"
-msgstr "  --distribution - dağıtım\n"
-
-#: ../urpmf:68
-#, c-format
-msgid "  --epoch        - epoch\n"
-msgstr "  --epoch        - tarih\n"
-
-#: ../urpmf:69
-#, c-format
-msgid "  --filename     - filename of the package\n"
-msgstr "  --filename     - paketin dosya adı\n"
-
-#: ../urpmf:70
-#, c-format
-msgid "  --files        - list of files contained in the package\n"
-msgstr "  --files        - paketin içerdiği dosyaların listesi\n"
-
-#: ../urpmf:71
-#, c-format
-msgid "  --group        - group\n"
-msgstr "  --group        - grup\n"
-
-#: ../urpmf:72
-#, c-format
-msgid "  --license      - license\n"
-msgstr "  --license      - lisans\n"
-
-#: ../urpmf:73
-#, c-format
-msgid "  --name         - package name\n"
-msgstr "  --name         - paket adı\n"
-
-#: ../urpmf:74
-#, c-format
-msgid "  --obsoletes    - obsoletes tags\n"
-msgstr "  --obsoletes    - gereksiz kılınanlar etiketi\n"
-
-#: ../urpmf:75
-#, c-format
-msgid "  --packager     - packager\n"
-msgstr "  --packager     - paketleyen\n"
-
-#: ../urpmf:76
-#, c-format
-msgid "  --provides     - provides tags\n"
-msgstr "  --provides     - sunulanlar etiketi\n"
-
-#: ../urpmf:77
-#, c-format
-msgid "  --requires     - requires tags\n"
-msgstr "  --requires     - gereklilikler etiketi\n"
-
-#: ../urpmf:78
-#, c-format
-msgid "  --size         - installed size\n"
-msgstr "  --size         - kurulu boyut\n"
-
-#: ../urpmf:79
-#, c-format
-msgid "  --sourcerpm    - source rpm name\n"
-msgstr "  --sourcerpm    - kaynak rpm adı\n"
-
-#: ../urpmf:80
-#, c-format
-msgid "  --suggests     - suggests tags\n"
-msgstr "  --suggests     - önerilenler etiket\n"
-
-#: ../urpmf:81
-#, c-format
-msgid "  --summary      - summary\n"
-msgstr "  --summary      - özet\n"
-
-#: ../urpmf:82
-#, c-format
-msgid "  --url          - url\n"
-msgstr "  --url          - url\n"
-
-#: ../urpmf:83
-#, c-format
-msgid "  --vendor       - vendor\n"
-msgstr "  --vendor       - sağlayıcı\n"
-
-#: ../urpmf:84
-#, c-format
-msgid "  -m             - the media in which the package was found\n"
-msgstr "  -m             - paketin bulunduğu kurulum kaynağı.\n"
-
-#: ../urpmf:85 ../urpmq:101
-#, c-format
-msgid "  -f             - print version, release and arch with name.\n"
-msgstr "  -f             -  sürüm, yayımı ve mimarisini yazdırır.\n"
-
-#: ../urpmf:153
-#, c-format
-msgid "unterminated expression (%s)"
-msgstr "sonlandırılmamış ifade (%s)"
-
-#: ../urpmf:198
-#, c-format
-msgid "Incorrect format: you may use only one multi-valued tag"
-msgstr "Geçeresiz biçim: sadece multi-valued etiket kullanılabilir"
-
-#: ../urpmf:291
-#, c-format
-msgid "no hdlist available for medium \"%s\""
-msgstr "\"%s\" ortamı için hdlist mevcut değil."
-
-#: ../urpmf:298
-#, c-format
-msgid "no synthesis available for medium \"%s\""
-msgstr "\"%s\" ortamı için sentez mevcut değil."
-
-#: ../urpmf:307
-#, c-format
-msgid "no xml-info available for medium \"%s\""
-msgstr "\"%s\" ortamı için xml-info mevcut değil."
-
-#: ../urpmi:90
-#, c-format
-msgid "  --auto-update  - update media then upgrade the system.\n"
-msgstr "  --auto-update  - önce kurulum kaynağını güncelle, sonra da sistemi yükselt.\n"
-
-#: ../urpmi:91
-#, c-format
-msgid "    --no-md5sum    - disable MD5SUM file checking.\n"
-msgstr "    --no-md5sum    - MD5SUM dosya denetimini iptal et.\n"
-
-#: ../urpmi:92
-#, c-format
-msgid "    --force-key    - force update of gpg key.\n"
-msgstr "    --force-key    - gpg anahtarını güncellemeye zorla.\n"
-
-#: ../urpmi:93
-#, c-format
-msgid "  --auto-orphans - remove orphans without asking\n"
-msgstr "  --auto-orphans - gereksiz paketleri sormadan kaldır\n"
-
-#: ../urpmi:94 ../urpmq:56
-#, c-format
-msgid "  --no-suggests  - do not auto select \"suggested\" packages.\n"
-msgstr "  --no-suggests  - \"önerilen\" pkaetleri otomatikman seçme.\n"
-
-#: ../urpmi:95
-#, c-format
-msgid "  --no-uninstall - never ask to uninstall a package, abort the installation.\n"
-msgstr "  --no-uninstall - paket kaldırmayı sorma, kurulumu iptal et.\n"
-
-#: ../urpmi:96
-#, c-format
-msgid "  --no-install   - don't install packages (only download)\n"
-msgstr "  --no-install   - paketleri kurma.(sadece indir.)\n"
-
-#: ../urpmi:97 ../urpmq:58
-#, c-format
-msgid ""
-"  --keep         - keep existing packages if possible, reject requested\n"
-"                   packages that lead to removals.\n"
-msgstr "  --keep         - varolan paketleri koru, mümkünse kaldırılackaları\n"
-
-#: ../urpmi:99
-#, c-format
-msgid ""
-"  --split-level  - split in small transaction if more than given packages\n"
-"                   are going to be installed or upgraded,\n"
-"                   default is %d.\n"
-msgstr ""
-"  --split-level  - kurulacak veya güncellencek paketlerden daha\n"
-"                   fazla ise ufak işlemler böl.\n"
-"                   varsayılan %d dir.\n"
-
-#: ../urpmi:103
-#, c-format
-msgid "  --split-length - small transaction length, default is %d.\n"
-msgstr "  --split-length - ufak işlem uzunluğu, varsayılan %d dir.\n"
-
-#: ../urpmi:105
-#, c-format
-msgid "  --fuzzy, -y    - impose fuzzy search.\n"
-msgstr "  --fuzzy, -y    - bulanık aramaya zorla\n"
-
-#: ../urpmi:106
-#, c-format
-msgid "  --buildrequires - install the buildrequires of the packages\n"
-msgstr "  --buildrequires - paketlerin derleme gerekliliklerini kurar.\n"
-
-#: ../urpmi:107
-#, c-format
-msgid "  --install-src  - install only source package (no binaries).\n"
-msgstr "  --install-src  - sadece kaynak kodu paketlerini kur (ikilileri değil).\n"
-
-#: ../urpmi:108
-#, c-format
-msgid "  --clean        - remove rpm from cache before anything else.\n"
-msgstr "  --clean        - herhangi birşeyden önce rpm'yi önbellekten sil.\n"
-
-#: ../urpmi:109
-#, c-format
-msgid "  --noclean      - don't clean rpms from cache.\n"
-msgstr "  --noclean      - rpm'yi ön bellekte kullanılmadan sakla\n"
-
-#: ../urpmi:111
-#, c-format
-msgid "  --replacepkgs  - force installing packages which are already installed.\n"
-msgstr "  --replacepkgs  - sistemde yüklü paketleri yüklemeye zorla.\n"
-
-#: ../urpmi:113
-#, c-format
-msgid ""
-"  --allow-nodeps - allow asking user to install packages without\n"
-"                   dependencies checking.\n"
-msgstr ""
-"  --allow-nodeps - kullanıcıya bağımlılıkları sormadan kuruluma\n"
-"                   izin verir.\n"
-
-#: ../urpmi:115
-#, c-format
-msgid ""
-"  --allow-force  - allow asking user to install packages without\n"
-"                   dependencies checking and integrity.\n"
-msgstr ""
-"  --allow-force  - kullanıcıya bağımlılıkları ve diğer olumsuzlukları\n"
-"                   sormadan kuruluma izin verir.\n"
-
-#: ../urpmi:117
-#, c-format
-msgid "  --allow-suggests - auto select \"suggested\" packages.\n"
-msgstr "  --allow-suggests -  \"önerilen\" paketleri otomatik seç.\n"
-
-#: ../urpmi:121
-#, c-format
-msgid ""
-"  --use-distrib  - configure urpmi on the fly from a distrib tree, useful\n"
-"                   to install a chroot with --root option.\n"
-msgstr ""
-"  --use-distrib  - urpmi'yi bir dağıtım ağacından ayarla.bir \"chroot\"u,\n"
-"                   --root seçeneğiyle kurmak için yararlıdır.\n"
-
-#: ../urpmi:123 ../urpmi.addmedia:60 ../urpmi.update:37
-#, c-format
-msgid "  --metalink     - generate and use a local metalink.\n"
-msgstr "  --metalink     - bir metalink üret kullan.\n"
-
-#: ../urpmi:124
-#, c-format
-msgid "  --download-all - download all needed packages before trying to install them\n"
-msgstr "  --download-all - kurmayı denemeden önce tüm gerekli paketleri indir.\n"
-
-#: ../urpmi:125
-#, c-format
-msgid ""
-"  --downloader   - program to use to retrieve distant files. \n"
-"                   known programs: %s\n"
-msgstr ""
-"  --downloader   - dosyaları indirmek için kullanılacak yazılım. \n"
-"                   bilinen yazılımlar: %s\n"
-
-#: ../urpmi:128
-#, c-format
-msgid "  --curl-options - additional options to pass to curl\n"
-msgstr "  --curl-options - curl için ek özellikler\n"
-
-#: ../urpmi:129
-#, c-format
-msgid "  --rsync-options- additional options to pass to rsync\n"
-msgstr "  --rsync-options- rsync için ek özellikler\n"
-
-#: ../urpmi:130
-#, c-format
-msgid "  --wget-options - additional options to pass to wget\n"
-msgstr "  --wget-options - wget için ek özellikler\n"
-
-#: ../urpmi:131
-#, c-format
-msgid "  --prozilla-options - additional options to pass to prozilla\n"
-msgstr "  --prozilla-options - prozilla için ek özellikler\n"
-
-#: ../urpmi:132
-#, c-format
-msgid "  --aria2-options - additional options to pass to aria2\n"
-msgstr "  --aria2-options - aria2 için ek özellikler\n"
-
-#: ../urpmi:133 ../urpmi.addmedia:61 ../urpmi.update:38
-#, c-format
-msgid "  --limit-rate   - limit the download speed.\n"
-msgstr "  --limit-rate   - indirme hızını kısıtla.\n"
-
-#: ../urpmi:134
-#, c-format
-msgid ""
-"  --resume       - resume transfer of partially-downloaded files\n"
-"                   (--no-resume disables it, default is disabled).\n"
-msgstr ""
-"  --resume       - kısmen indirilmiş dosyaların aktarımına devam eder.\n"
-"                   (--no-resume bunu devre dışı bırakır. Varsayılan devre dışı'dır.)\n"
-
-#: ../urpmi:136 ../urpmi.addmedia:62 ../urpmi.update:39 ../urpmq:78
-#, c-format
-msgid ""
-"  --proxy        - use specified HTTP proxy, the port number is assumed\n"
-"                   to be 1080 by default (format is <proxyhost[:port]>).\n"
-msgstr ""
-"  --proxy        - belirli HTTP vekil sunucusu kullan, port numarası\n"
-"                   varsayılan olan 1080 kabul edilecek (biçim <vekilsunucu[:port]>).\n"
-
-#: ../urpmi:138 ../urpmi.addmedia:64 ../urpmi.update:41 ../urpmq:80
-#, c-format
-msgid ""
-"  --proxy-user   - specify user and password to use for proxy\n"
-"                   authentication (format is <user:password>).\n"
-msgstr ""
-"  --proxy-user   - vekil sunucu kimlik denetimi için kullanıcı adı\n"
-"                   ve parola belirtin (biçim <kullanıcıadı:parola>).\n"
-
-#: ../urpmi:140
-#, c-format
-msgid ""
-"  --bug          - output a bug report in directory indicated by\n"
-"                   next arg.\n"
-msgstr ""
-"  --bug          - sonraki argüman tarafından belirtilen dizini bir\n"
-"                   hata raporu oluştur.\n"
-
-#: ../urpmi:146
-#, c-format
-msgid "  --excludepath  - exclude path separated by comma.\n"
-msgstr "  --excludepath  - virgül ile ayrılmış yolları dahil etme.\n"
-
-#: ../urpmi:147
-#, c-format
-msgid "  --excludedocs  - exclude doc files.\n"
-msgstr "  --excludedocs  - doc dosyalarını dışla.\n"
-
-#: ../urpmi:148
-#, c-format
-msgid "  --ignoresize   - don't verify disk space before installation.\n"
-msgstr "  --ignoresize   - yüklemeden önce disk alanını kontrol etme.\n"
-
-#: ../urpmi:149
-#, c-format
-msgid "  --ignorearch   - allow to install rpms for unmatched architectures.\n"
-msgstr "  --ignorearch   -  eşleşmeyen mimarilerdeki rpm'lerin kurulmasına izin ver.\n"
-
-#: ../urpmi:150
-#, c-format
-msgid "  --noscripts    - do not execute package scriptlet(s)\n"
-msgstr "  --noscripts    - hiç bir paket betiğini çalıştırma.\n"
-
-#: ../urpmi:151
-#, c-format
-msgid "  --replacefiles - ignore file conflicts\n"
-msgstr "  --replacefiles    - çakışanları yok say\n"
-
-#: ../urpmi:153
-#, c-format
-msgid "  --skip         - packages which installation should be skipped\n"
-msgstr "  --skip         - kurulumunun atlanılması gereken paketler\n"
-
-#: ../urpmi:154
-#, c-format
-msgid "  --prefer       - packages which should be preferred\n"
-msgstr "  --prefer       - tercih edilemesi gereken paketler.\n"
-
-#: ../urpmi:155
-#, c-format
-msgid ""
-"  --more-choices - when several packages are found, propose more choices\n"
-"                   than the default.\n"
-msgstr ""
-"  --more-choices - birden çok paket bulunduğunda, varsayılan yerine daha fazla\n"
-"                   seçenek teklif et.\n"
-
-#: ../urpmi:157
-#, c-format
-msgid "  --nolock       - don't lock rpm db.\n"
-msgstr "  --nolock       - rpm veritabanını kilitleme.\n"
-
-#: ../urpmi:158
-#, c-format
-msgid "  --strict-arch  - upgrade only packages with the same architecture.\n"
-msgstr "  --strict-arch  - aynı mimaride olan paketleri güncelle.\n"
-
-#: ../urpmi:159 ../urpmq:99
-#, c-format
-msgid "  -a             - select all matches on command line.\n"
-msgstr "  -a             - komut satırındakilere uyanların tümünü seçer. \n"
-
-#: ../urpmi:162
-#, c-format
-msgid "  --quiet, -q    - quiet mode.\n"
-msgstr "  --quiet, -q             - Sessiz kipi.\n"
-
-#: ../urpmi:164
-#, c-format
-msgid "  --debug        - very verbose mode.\n"
-msgstr "  --debug             - oldukça kalabalık kip.\n"
-
-#: ../urpmi:165
-#, c-format
-msgid "  names or rpm files given on command line will be installed.\n"
-msgstr "  komut satırından isimleri veya rpm dosyaları verilenler yüklenecek.\n"
-
-#: ../urpmi:199
-#, c-format
-msgid "Error: can't use --auto-select along with package list.\n"
-msgstr "Hata: Paket listesi boyunca --auto-select parametresi kullanılamaz.\n"
-
-#: ../urpmi:206
-#, c-format
-msgid ""
-"Error: To generate a bug report, specify the usual command-line arguments\n"
-"along with --bug.\n"
-msgstr ""
-"Hata: Hata raporu oluşturmak için, kullanılan parametleri\n"
-"--bug parametresiyle çalıştırın.\n"
-
-#: ../urpmi:236
-#, c-format
-msgid "You can't install binary rpm files when using --install-src"
-msgstr "--install-src parametresi kulanılırken ikili rpm dosyalarını kuramazsınız."
-
-#: ../urpmi:237
-#, c-format
-msgid "You can't install spec files"
-msgstr "spec dosyalarını kuramazsınız."
-
-#: ../urpmi:244
-#, c-format
-msgid "defaulting to --buildrequires"
-msgstr "--buildrequires parametresine varsayılan"
-
-#: ../urpmi:249
-#, c-format
-msgid "please use --buildrequires or --install-src, defaulting to --buildrequires"
-msgstr "Lütfen, --buildrequires parametresine varsayılan olması için, --buildrequires veya --install-src parametrelerini kullanın."
-
-#: ../urpmi:269
-#, c-format
-msgid "Directory [%s] already exists, please use another directory for bug report or delete it"
-msgstr "[%s] dizini zaten var. Lütfen hata raporlaması için bir başka dizin kullanın ya da bunu silin."
-
-#: ../urpmi:270
-#, c-format
-msgid "Unable to create directory [%s] for bug report"
-msgstr "[%s] dizini hata raporu için oluşturulamıyor"
-
-#: ../urpmi:291
-#, c-format
-msgid ""
-"Error: %s appears to be mounted read-only.\n"
-"Use --allow-force to force operation."
-msgstr ""
-"Hata: %s salt okunur bağlanmış gözüküyor.\n"
-"İşlemi zorlamak için --allow-force parametresini kullanın."
-
-#. -PO: here format is "<package_name>: <summary> (to upgrade)"
-#: ../urpmi:446
-#, c-format
-msgid "%s: %s (to upgrade)"
-msgstr "%s: %s (yükseltme için)"
-
-#. -PO: here format is "<package_name> (to upgrade)"
-#: ../urpmi:448
-#, c-format
-msgid "%s (to upgrade)"
-msgstr "%s (yükseltme için)"
-
-#. -PO: here format is "<package_name>: <summary> (to install)"
-#: ../urpmi:452
-#, c-format
-msgid "%s: %s (to install)"
-msgstr "%s: %s (kurulum için)"
-
-#. -PO: here format is "<package_name> (to install)"
-#: ../urpmi:454
-#, c-format
-msgid "%s (to install)"
-msgstr "%s (kurulum için)"
-
-#: ../urpmi:460
-#, c-format
-msgid "In order to satisfy the '%s' dependency, one of the following packages is needed:"
-msgstr "'%s' bağımlılık sorununu aşabilmek için, aşağıdaki paketlerden biri gerekli:"
-
-#: ../urpmi:463
-#, c-format
-msgid "What is your choice? (1-%d) "
-msgstr "Seçiminiz nedir? (1-%d) "
-
-#: ../urpmi:505
-#, c-format
-msgid ""
-"The following package cannot be installed because it depends on packages\n"
-"that are older than the installed ones:\n"
-"%s"
-msgstr ""
-"Şu paket, kurulu olanlardan daha eski paketlere bağımlı olduğu\n"
-"için kurulamaz:\n"
-"%s"
-
-#: ../urpmi:507
-#, c-format
-msgid ""
-"The following packages can't be installed because they depend on packages\n"
-"that are older than the installed ones:\n"
-"%s"
-msgstr ""
-"Şu paketler, kurulu olanlardan daha eski paketlere bağımlı oldukları\n"
-"için kurulamazlar:\n"
-"%s"
-
-#: ../urpmi:514 ../urpmi:530
-#, c-format
-msgid ""
-"\n"
-"Continue installation anyway?"
-msgstr ""
-"\n"
-"Yine de devam edilsin mi?"
-
-#: ../urpmi:523
-#, c-format
-msgid ""
-"A requested package cannot be installed:\n"
-"%s"
-msgstr ""
-"İstenen paket kurulamaz:\n"
-"%s"
-
-#: ../urpmi:524
-#, c-format
-msgid ""
-"Some requested packages cannot be installed:\n"
-"%s"
-msgstr ""
-"İstenen bazı paketler kurulamaz:\n"
-"%s"
-
-#: ../urpmi:542
-#, c-format
-msgid "removing package %s will break your system"
-msgstr "%s paketinin kaldırılması sisteminizi çökertecektir."
-
-#: ../urpmi:550
-#, c-format
-msgid ""
-"The installation cannot continue because the following package\n"
-"has to be removed for others to be upgraded:\n"
-"%s\n"
-msgstr ""
-"Kurulum devam edemez çünkü diğer paketlerin güncellenmesi\n"
-"için aşağıdaki paketlerin kaldırılması gerekiyor:\n"
-"%s\n"
-
-#: ../urpmi:552
-#, c-format
-msgid ""
-"The installation cannot continue because the following packages\n"
-"have to be removed for others to be upgraded:\n"
-"%s\n"
-msgstr ""
-"Kurulum devam edemez çünkü diğer paketlerin güncellenmesi\n"
-"için aşağıdaki paketlerin kaldırılması gerekiyor:\n"
-"%s\n"
-
-#: ../urpmi:561
-#, c-format
-msgid "(test only, removal will not be actually done)"
-msgstr "(sadece deneme, gerçekte kaldırma yapılmayacak.)"
-
-#: ../urpmi:581
-#, c-format
-msgid ""
-"You must first call urpmi with --buildrequires to install the following dependencies:\n"
-"%s\n"
-msgstr ""
-"Şu bağımlılıkları kurabilmek için önce urpmi'yi \"--buildrequires\" ile çağırmalısınız:\n"
-"%s\n"
-
-#: ../urpmi:591
-#, c-format
-msgid "The following orphan package will be removed."
-msgid_plural "The following orphan packages will be removed."
-msgstr[0] ""
-
-#: ../urpmi:619
-#, c-format
-msgid "(test only, installation will not be actually done)"
-msgstr "(sadece deneme, gerçekte kurulum yapılmayacak.)"
-
-#: ../urpmi:625
-#, c-format
-msgid "%s of additional disk space will be used."
-msgstr "Diskin %s kadarı kullanılacak."
-
-#: ../urpmi:626
-#, c-format
-msgid "%s of disk space will be freed."
-msgstr "Diskin %s kadarı boşalacak."
-
-#: ../urpmi:627
-#, c-format
-msgid "%s of packages will be retrieved."
-msgstr "Paketler için %s alınacak"
-
-#: ../urpmi:628
-#, c-format
-msgid "Proceed with the installation of one package?"
-msgid_plural "Proceed with the installation of the %d packages?"
-msgstr[0] ""
-
-#: ../urpmi:651
+#: drakdvb:85 drakfont:571 drakfont:651 drakfont:735 drakups:217 logdrake:175
 #, c-format
 msgid "Cancel"
 msgstr "İptal"
 
-#: ../urpmi:659
+#: drakdvb:148
 #, c-format
-msgid "Press Enter when mounted..."
-msgstr "Hazır olduğunuzda Enter'a basın..."
+msgid "Detect Channels"
+msgstr "Kanalları Algıla"
 
-#. -PO: The URI types strings 'file:', 'ftp:', 'http:', and 'cdrom:' must not
-#. be translated!
-#. -PO: neither the ``with''.  Only what is between <brackets> can be
-#. translated.
-#: ../urpmi.addmedia:36
+#: drakdvb:150
+#, c-format
+msgid "View Channel"
+msgstr "Kanalı İzle"
+
+#: drakedm:41
+#, c-format
+msgid "GDM (GNOME Display Manager)"
+msgstr "GDM (GNOME Ekran Yöneticisi)"
+
+#: drakedm:42
+#, c-format
+msgid "KDM (KDE Display Manager)"
+msgstr "KDM (KDE Ekran Yöneticisi)"
+
+#: drakedm:43
+#, c-format
+msgid "XDM (X Display Manager)"
+msgstr "XDM (X Ekran Yöneticisi)"
+
+#: drakedm:54
+#, c-format
+msgid "Choosing a display manager"
+msgstr "Bir görüntü yönetici seçin"
+
+#: drakedm:55
 #, c-format
 msgid ""
-"usage: urpmi.addmedia [options] <name> <url>\n"
-"where <url> is one of\n"
-"       [file:/]/<path>\n"
-"       ftp://<login>:<password>@<host>/<path>\n"
-"       ftp://<host>/<path>\n"
-"       http://<host>/<path>\n"
-"       cdrom://<path>\n"
-"\n"
-"usage: urpmi.addmedia [options] --distrib --mirrorlist <url>\n"
-"usage: urpmi.addmedia [options] --mirrorlist <url> <name> <relative path>\n"
-"\n"
-"examples:\n"
-"\n"
-"  urpmi.addmedia --distrib --mirrorlist '$MIRRORLIST'\n"
-"  urpmi.addmedia --mirrorlist '$MIRRORLIST' backports media/main/backports\n"
-"  urpmi.addmedia --distrib --zeroconf\n"
-"\n"
-"\n"
-"and [options] are from\n"
+"X11 Display Manager allows you to graphically log\n"
+"into your system with the X Window System running and supports running\n"
+"several different X sessions on your local machine at the same time."
 msgstr ""
+"X11 Ekran Yöneticisi, sisteminize X Pencere Sistemi ile\n"
+"grafiksel giriş yapmanızı ve birden çok X oturumunu\n"
+"aynı anda çalıştırabilmenizi sağlar."
 
-#: ../urpmi.addmedia:56 ../urpmi.update:33 ../urpmq:75
+#: drakedm:74
 #, c-format
-msgid "  --wget         - use wget to retrieve distant files.\n"
-msgstr "  --wget         - uzaktaki dosyaları almak için wget kullan.\n"
+msgid "The change is done, do you want to restart the dm service?"
+msgstr "Değişiklik tamamlandı, dm hizmetini yeniden başlatmak ister misiniz?"
 
-#: ../urpmi.addmedia:57 ../urpmi.update:34 ../urpmq:76
+#: drakedm:75
 #, c-format
-msgid "  --curl         - use curl to retrieve distant files.\n"
-msgstr "  --curl         - uzak dosyaları almak için curl kullan.\n"
+msgid "You are going to close all running programs and lose your current session. Are you really sure that you want to restart the dm service?"
+msgstr "Çalışan tüm uygulamalarınızı kapatmak ve şu anki oturumu kaybetmek üzeresiniz. Gerçek ekran yöneticisi hizmetini yeniden başlatmak istiyor musnuz?"
 
-#: ../urpmi.addmedia:58 ../urpmi.update:35 ../urpmq:77
+#: drakfont:187
 #, c-format
-msgid "  --prozilla     - use prozilla to retrieve distant files.\n"
-msgstr "  --prozilla     - uzak dosyaları almak için prozilla kullan.\n"
+msgid "Search installed fonts"
+msgstr "Yüklü yazıtiplerini ara"
 
-#: ../urpmi.addmedia:59 ../urpmi.update:36
+#: drakfont:189
 #, c-format
-msgid "  --aria2        - use aria2 to retrieve distant files.\n"
-msgstr "  --aria2         - uzak dosyaları almak için aria2 kullan.\n"
+msgid "Unselect fonts installed"
+msgstr "Yüklü yazı tiplerini seçimden çıkar"
 
-#: ../urpmi.addmedia:66
+#: drakfont:213
 #, c-format
-msgid ""
-"  --update       - create an update medium, \n"
-"                   or discard non-update media (when used with --distrib)\n"
-msgstr ""
-"  --update       - bir güncelleme kaynağı oluştur,\n"
-"                   veya güncellem-olmayan kaynağı görmezden gel (--distrib ile kullanıldığında)\n"
+msgid "No fonts found"
+msgstr "Hiç yazı tipi bulunamadı"
 
-#: ../urpmi.addmedia:68
+#: drakfont:217
 #, c-format
-msgid ""
-"  --xml-info     - use the specific policy for downloading xml info files\n"
-"                   one of: never, on-demand, update-only, always. cf urpmi.cfg(5)\n"
-msgstr ""
-"  --xml-info     - xml bilgi dosyalarını indirmek için belirli bir kuralı kullan.\n"
-"                   şunlardan birini: hiç bir zaman, gerektiğinde,sadece-güncellemede, herzaman. cf urpmi. cfg (5)\n"
+msgid "parse all fonts"
+msgstr "tüm yazı tiplerini çözümle"
 
-#: ../urpmi.addmedia:70
+#: drakfont:222 drakfont:263 drakfont:338 drakfont:379 drakfont:383
+#: drakfont:409 drakfont:427 drakfont:435
 #, c-format
-msgid "  --probe-synthesis - use synthesis file.\n"
-msgstr "  --probe-synthesis - sentez dosyası kullan.\n"
+msgid "done"
+msgstr "bitti"
 
-#: ../urpmi.addmedia:71
+#: drakfont:226
 #, c-format
-msgid "  --probe-rpms   - use rpm files (instead of synthesis).\n"
-msgstr "  --probe-rpms   - rpm dosyaları kullan.(sentez yerine)\n"
+msgid "Could not find any font in your mounted partitions"
+msgstr "Bağlı disk bölümlerinizde hiç bir yazı tipi bulunamadı"
 
-#: ../urpmi.addmedia:72
+#: drakfont:261
 #, c-format
-msgid "  --no-probe     - do not try to find any synthesis file.\n"
-msgstr "  --no-probe     - herhangi bir sentez dosyası bulmaya çalışma.\n"
+msgid "Reselect correct fonts"
+msgstr "Doğru yazı tiplerini yeniden seç"
 
-#: ../urpmi.addmedia:74
+#: drakfont:264
 #, c-format
-msgid ""
-"  --distrib      - automatically create all media from an installation\n"
-"                   medium.\n"
-msgstr ""
-"  --distrib      - tüm kurulum kaynaklarını otomatik olarak bir kurulum ortamından\n"
-"                   oluştur.\n"
+msgid "Could not find any font.\n"
+msgstr "Hiç yazı tipi bulunamadı.\n"
 
-#: ../urpmi.addmedia:76
+#: drakfont:274
 #, c-format
-msgid "  --interactive  - with --distrib, ask confirmation for each media\n"
-msgstr "  --interactive  - --distirb ile, her kaynak için onaylama sorar.\n"
+msgid "Search for fonts in installed list"
+msgstr "Yüklü olanlar listesideki yazı tiplerini ara"
 
-#: ../urpmi.addmedia:77
+#: drakfont:298
 #, c-format
-msgid "  --all-media    - with --distrib, add every listed media\n"
-msgstr "  --all-media    - --distirb ile, listelenen her kaynağı ekler.\n"
+msgid "%s fonts conversion"
+msgstr "%s yazı tipi dönüşümü"
 
-#: ../urpmi.addmedia:78
+#: drakfont:336
 #, c-format
-msgid "  --virtual      - create virtual media wich are always up-to-date.\n"
-msgstr "  --virtual      -her zaman güncel olan sanal bir kaynak oluştur.\n"
+msgid "Fonts copy"
+msgstr "Yazı tipleri kopyalanıyor"
 
-#: ../urpmi.addmedia:79 ../urpmi.update:44
+#: drakfont:339
 #, c-format
-msgid "  --no-md5sum    - disable MD5SUM file checking.\n"
-msgstr "  --no-md5sum    - MD5SUM kontrolünü devre dışı bırak.\n"
+msgid "True Type fonts installation"
+msgstr "True Type yazı tipi kurulumu"
 
-#: ../urpmi.addmedia:80
+#: drakfont:347
 #, c-format
-msgid "  --nopubkey     - don't import pubkey of added media\n"
-msgstr "  --nopubkey     -eklenen  kaynağın ortak anahtarını alma.\n"
+msgid "please wait during ttmkfdir..."
+msgstr "ttmkfdir çalışıyor, lütfen bekleyiniz..."
 
-#: ../urpmi.addmedia:81
+#: drakfont:348
 #, c-format
-msgid "  --raw          - add the media in config, but don't update it.\n"
-msgstr "  --raw          - yapılandırmaya kurulum kaynağını ekle; ancak güncelleme.\n"
+msgid "True Type install done"
+msgstr "True Type kurulumu bitti"
 
-#: ../urpmi.addmedia:82 ../urpmi.removemedia:43 ../urpmi.update:53
+#: drakfont:354 drakfont:369
 #, c-format
-msgid "  -q             - quiet mode.\n"
-msgstr "  -q             - Sessiz kipi.\n"
+msgid "type1inst building"
+msgstr "type1inst kurulumu"
 
-#: ../urpmi.addmedia:83 ../urpmi.removemedia:44 ../urpmi.update:54
+#: drakfont:363
 #, c-format
-msgid "  -v             - verbose mode.\n"
-msgstr "  -v             - kalabalık kipi.\n"
+msgid "Ghostscript referencing"
+msgstr "Ghostscript başvuruları"
 
-#: ../urpmi.addmedia:96
+#: drakfont:380
 #, c-format
-msgid "known xml-info policies are %s"
-msgstr "bilinen xml-bilgisi kuralları şunlardır: %s"
+msgid "Suppress Temporary Files"
+msgstr "Geçici dosyaları engelle"
 
-#: ../urpmi.addmedia:107
+#: drakfont:425 drakfont:431
 #, c-format
-msgid "no argument needed for --distrib --mirrorlist <url>"
-msgstr "--distrib --mirrorlist <url> ile birlikte herhangi bir argüman gerekli değildir."
+msgid "Suppress Fonts Files"
+msgstr "Yazı tipi Dosyalarını Engelle"
 
-#: ../urpmi.addmedia:112
-#, c-format
-msgid "bad <url> (for local directory, the path must be absolute)"
-msgstr "hatalı <url> (yerel dizin için, yol kesin olmalıdır.)"
-
-#: ../urpmi.addmedia:116
-#, c-format
-msgid "Only superuser is allowed to add media"
-msgstr "Ortam eklemek için sadece sistem yöneticisi yetkilidir."
-
-#: ../urpmi.addmedia:119
-#, c-format
-msgid "creating config file [%s]"
-msgstr "[%s] yapılandırma dosyası oluşturuluyor."
-
-#: ../urpmi.addmedia:120
-#, c-format
-msgid "Can't create config file [%s]"
-msgstr "[%s] yapılandırma dosyası oluşturulamıyor."
-
-#: ../urpmi.addmedia:128
-#, c-format
-msgid "no need to give <relative path of synthesis> with --distrib"
-msgstr "<sentez'in göreceli konumu> --distrib ile gerekli değil "
-
-#: ../urpmi.addmedia:136
+#: drakfont:439
 #, c-format
 msgid ""
+"Before installing any fonts, be sure that you have the right to use and install them on your system.\n"
 "\n"
-"Do you want to add media '%s'?"
+"You can install the fonts the normal way. In rare cases, bogus fonts may hang up your X Server."
 msgstr ""
+"Herhangi bir yazı tipini sisteminize kurmadan önce kullanım hakkınız olduğundan emin olmalısınız.\n"
 "\n"
-"'%s' kurulum kaynağını eklemek ister misiniz?"
+"Yazı tiplerini normal yoldan kurabilirsiniz. Genellikle, sağdan soldan toplanan bozuk yazı tipleri X sunucunuzun çökmesine sebep olur."
 
-#: ../urpmi.addmedia:155 ../urpmi.addmedia:179
+#: drakfont:478
 #, c-format
-msgid "unable to add medium"
-msgstr "ortam eklenemiyor."
+msgid "Font Installation"
+msgstr "Yazı Tipi Kurulumu"
 
-#: ../urpmi.addmedia:163
+#: drakfont:489
 #, c-format
-msgid "<relative path of synthesis> missing\n"
-msgstr "<sentez'in göreli yolu> eksik\n"
+msgid "DrakFont"
+msgstr "DrakFont"
 
-#: ../urpmi.addmedia:166
+#: drakfont:490 drakfont:641
 #, c-format
-msgid "Can't use %s with remote medium"
-msgstr "%s , uzak ortam ile birlikte kullanılamıyor."
+msgid "Font List"
+msgstr "Yazı tipi Listesi"
 
-#: ../urpmi.recover:28
+#: drakfont:493
+#, c-format
+msgid "Get Windows Fonts"
+msgstr "Windows Yazı Tiplerini Al"
+
+#: drakfont:499
+#, c-format
+msgid "About"
+msgstr "Hakkında"
+
+#: drakfont:500 drakfont:540
+#, c-format
+msgid "Options"
+msgstr "Seçenekler"
+
+#: drakfont:501 drakfont:720
+#, c-format
+msgid "Uninstall"
+msgstr "Kaldır"
+
+#: drakfont:502
+#, c-format
+msgid "Import"
+msgstr "Al"
+
+#: drakfont:520
+#, c-format
+msgid "Drakfont"
+msgstr "Drakfont"
+
+#: drakfont:522 harddrake2:237
+#, c-format
+msgid "Copyright (C) %s by %s"
+msgstr "Copyright (C) %s bir %s ürünüdür"
+
+#: drakfont:522 drakfont:526 harddrake2:241
+#, c-format
+msgid "Mageia"
+msgstr "Mageia"
+
+#: drakfont:524
+#, c-format
+msgid "Font installer."
+msgstr "Yazı tipi kurucusu."
+
+#. -PO: put here name(s) and email(s) of translator(s) (eg: "John Smith
+#. <jsmith@nowhere.com>")
+#. -PO: put here name(s) and email(s) of translator(s) (eg: "John Smith
+#. <jsmith@nowhere.com>")
+#: drakfont:532 harddrake2:245
+#, c-format
+msgid "_: Translator(s) name(s) & email(s)\n"
+msgstr ""
+"Ömer Fadıl USTA <omer_fad@hotmail.com> , 1999-2003.\n"
+"Tuncay YENİAY <tuncayyeniay@mynet.com> , 2002.\n"
+"Nazmi Savga<nsavga@doruk.net.tr> , 2001.\n"
+"Durmuş Celep <durmusc_tr@yahoo.com> , 2002.\n"
+"Erçin EKER <erc.caldera@gmx.net> , 2003.\n"
+"Taha Özket <taha.ozket@obss.net> , 2007\n"
+"Atilla ÖNTAŞ <atilla_ontas@mandriva.org> , 2008-2011\n"
+
+#: drakfont:542
+#, c-format
+msgid "Choose the applications that will support the fonts:"
+msgstr "Yazıtiplerini destekleyen uygulamaları seçiniz:"
+
+#: drakfont:553
+#, c-format
+msgid "Ghostscript"
+msgstr "Ghostscript"
+
+#: drakfont:554
+#, c-format
+msgid "LibreOffice"
+msgstr "LibreOffice"
+
+#: drakfont:555
+#, c-format
+msgid "Abiword"
+msgstr "Abiword"
+
+#: drakfont:556
+#, c-format
+msgid "Generic Printers"
+msgstr "Temel Yazıcı"
+
+#: drakfont:561 drakfont:571 drakups:210
+#, c-format
+msgid "Ok"
+msgstr "Tamam"
+
+#: drakfont:570
+#, c-format
+msgid "Select the font file or directory and click on 'Add'"
+msgstr "Yazı tipi dosyasını ya da dizinini seçtikten sonra 'Ekle' ye tıklayınız."
+
+#: drakfont:571
+#, c-format
+msgid "File Selection"
+msgstr "Dosya Seçimi"
+
+#: drakfont:575
+#, c-format
+msgid "Fonts"
+msgstr "Yazı tipleri"
+
+#: drakfont:639 draksec:166
+#, c-format
+msgid "Import fonts"
+msgstr "Yazı tipi al"
+
+#: drakfont:645 drakups:299 drakups:361 drakups:381
+#, c-format
+msgid "Add"
+msgstr "Ekle"
+
+#: drakfont:646 drakfont:734 drakups:301 drakups:363 drakups:383
+#, c-format
+msgid "Remove"
+msgstr "Kaldır"
+
+#: drakfont:652
+#, c-format
+msgid "Install"
+msgstr "Kur"
+
+#: drakfont:683
+#, c-format
+msgid "Are you sure you want to uninstall the following fonts?"
+msgstr "Aşağıdaki yazı tiplerini kaldırmak istediğinizden emin misiniz?"
+
+#: drakfont:687 draksec:60 harddrake2:326
+#, c-format
+msgid "Yes"
+msgstr "Evet"
+
+#: drakfont:689 draksec:59 harddrake2:327
+#, c-format
+msgid "No"
+msgstr "Hayır"
+
+#: drakfont:728
+#, c-format
+msgid "Unselect All"
+msgstr "Tümünü Seçimden Çıkar"
+
+#: drakfont:731
+#, c-format
+msgid "Select All"
+msgstr "Tümünü Seç"
+
+#: drakfont:748
+#, c-format
+msgid "Importing fonts"
+msgstr "Yazı tipi alınıyor"
+
+#: drakfont:752 drakfont:772
+#, c-format
+msgid "Initial tests"
+msgstr "Denetimler başlıyor"
+
+#: drakfont:753
+#, c-format
+msgid "Copy fonts on your system"
+msgstr "Yazı tipleri sisteminize kopyalanıyor"
+
+#: drakfont:754
+#, c-format
+msgid "Install & convert Fonts"
+msgstr "Yazı tiplerini kur ve dönüştür"
+
+#: drakfont:755
+#, c-format
+msgid "Post Install"
+msgstr "Kurulum Sonrası"
+
+#: drakfont:767
+#, c-format
+msgid "Removing fonts"
+msgstr "Yazı tipi kaldırılıyor"
+
+#: drakfont:773
+#, c-format
+msgid "Remove fonts on your system"
+msgstr "Yazı tipleri siseminizden kaldırılıyor"
+
+#: drakfont:774
+#, c-format
+msgid "Post Uninstall"
+msgstr "Kurulumun kaldırılması Sonrası"
+
+#: drakhelp:17
 #, c-format
 msgid ""
-"urpmi.recover version %s\n"
-"Copyright (C) 2006-2010 Mandriva.\n"
+" drakhelp 0.1\n"
+"Copyright (C) %s Mandriva.\n"
+"Copyright (C) %s Mageia.\n"
 "This is free software and may be redistributed under the terms of the GNU GPL.\n"
 "\n"
-"usage:\n"
+"Usage: \n"
 msgstr ""
-
-#: ../urpmi.recover:34
-#, c-format
-msgid "  --checkpoint   - set repackaging start now\n"
-msgstr ""
-
-#: ../urpmi.recover:35
-#, c-format
-msgid "  --noclean      - don't clean repackage directory on checkpoint\n"
-msgstr ""
-
-#: ../urpmi.recover:37
-#, c-format
-msgid "  --list         - list transactions since provided date/duration argument\n"
-msgstr ""
-
-#: ../urpmi.recover:38
-#, c-format
-msgid "  --list-all     - list all transactions in rpmdb (long)\n"
-msgstr ""
-
-#: ../urpmi.recover:39
-#, c-format
-msgid "  --list-safe    - list transactions since checkpoint\n"
-msgstr ""
-
-#: ../urpmi.recover:40
-#, c-format
-msgid ""
-"  --rollback     - rollback until specified date,\n"
-"                   or rollback the specified number of transactions\n"
-msgstr ""
-
-#: ../urpmi.recover:42
-#, c-format
-msgid "  --disable      - turn off repackaging\n"
-msgstr ""
-
-#: ../urpmi.recover:57
-#, c-format
-msgid "Invalid date or duration [%s]\n"
-msgstr ""
-
-#: ../urpmi.recover:65
-#, c-format
-msgid "Repackage directory not defined\n"
-msgstr ""
-
-#: ../urpmi.recover:68
-#, c-format
-msgid "Can't write to repackage directory [%s]\n"
-msgstr ""
-
-#: ../urpmi.recover:70
-#, c-format
-msgid "Cleaning up repackage directory [%s]...\n"
-msgstr ""
-
-#: ../urpmi.recover:72
-#, c-format
-msgid "%d file removed\n"
-msgid_plural "%d files removed\n"
-msgstr[0] ""
-
-#: ../urpmi.recover:82
-#, c-format
-msgid "Spurious command-line arguments [%s]\n"
-msgstr ""
-
-#: ../urpmi.recover:84
-#, c-format
-msgid "You can't specify --checkpoint and --rollback at the same time\n"
-msgstr ""
-
-#: ../urpmi.recover:86
-#, c-format
-msgid "You can't specify --checkpoint and --list at the same time\n"
-msgstr ""
-
-#: ../urpmi.recover:88
-#, c-format
-msgid "You can't specify --rollback and --list at the same time\n"
-msgstr ""
-
-#: ../urpmi.recover:90
-#, c-format
-msgid "You can't specify --disable along with another option"
-msgstr ""
-
-#: ../urpmi.recover:115
-#, c-format
-msgid "No transaction found since %s\n"
-msgstr ""
-
-#: ../urpmi.recover:130
-#, c-format
-msgid "You must be superuser to do this"
-msgstr ""
-
-#: ../urpmi.recover:143 ../urpmi.recover:209
-#, c-format
-msgid "Writing rpm macros file [%s]...\n"
-msgstr ""
-
-#: ../urpmi.recover:185
-#, c-format
-msgid "No rollback date found\n"
-msgstr ""
-
-#: ../urpmi.recover:188
-#, c-format
-msgid "Rollback until %s...\n"
-msgstr ""
-
-#: ../urpmi.recover:195
-#, c-format
-msgid "Disabling repackaging\n"
-msgstr ""
-
-#: ../urpmi.removemedia:38
-#, c-format
-msgid ""
-"usage: urpmi.removemedia (-a | <name> ...)\n"
-"where <name> is a medium name to remove.\n"
-msgstr ""
-"kullanımı: urpmi.removemedia (-a | <isim> ...)\n"
-"  <isim>      kaldırılacak ortamın ismidir.\n"
-
-#: ../urpmi.removemedia:41
-#, c-format
-msgid "  -a             - select all media.\n"
-msgstr "  -a             - tüm kaynakları seçer.\n"
-
-#: ../urpmi.removemedia:42
-#, c-format
-msgid "  -y             - fuzzy match on media names.\n"
-msgstr "  -y             - kurulum kaynağı isimleri üzerinde bulanık eşleşme.\n"
-
-#: ../urpmi.removemedia:59
-#, c-format
-msgid "Only superuser is allowed to remove media"
-msgstr "Paketleri kurmak için sadece sistem yöneticisi yetkilidir"
-
-#: ../urpmi.removemedia:71
-#, c-format
-msgid "nothing to remove (use urpmi.addmedia to add a media)\n"
-msgstr "Kaldırılacak bir şey yok. (yeni bir kurulum kaynağı eklemek için \"urpmi.addmedia\" kullanın)\n"
-
-#: ../urpmi.removemedia:77
-#, c-format
-msgid ""
-"the entry to remove is missing\n"
-"(one of %s)\n"
-msgstr ""
-"Silme için girdi eksik\n"
-"(bunlardan biri %s)\n"
-
-#: ../urpmi.update:30
-#, c-format
-msgid ""
-"usage: urpmi.update [options] <name> ...\n"
-"where <name> is a medium name to update.\n"
-msgstr ""
-"kullanımı: urpmi.update [seçenekler] <isim> ...\n"
-"  <isim>      güncellenecek kurulum kaynağının ismidir.\n"
-
-#: ../urpmi.update:43
-#, c-format
-msgid "  --update       - update only update media.\n"
-msgstr "  --update       - sadece güncelleme kaynağını güncelle.\n"
-
-#: ../urpmi.update:45
-#, c-format
-msgid "  --force-key    - force update of gpg key.\n"
-msgstr "  --force-key    -  gpg anahtarını güncellemeye zorla.\n"
-
-#: ../urpmi.update:46
-#, c-format
-msgid "  --ignore       - don't update, mark the media as ignored.\n"
-msgstr "  --ignore       - güncelleme, kaynağı yok sayılan olarak işaretle.\n"
-
-#: ../urpmi.update:47
-#, c-format
-msgid "  --no-ignore    - don't update, mark the media as enabled.\n"
-msgstr "  --no-ignore    - güncelleme, kaynağı etkinleştirilmiş olarak işaretle.\n"
-
-#: ../urpmi.update:49
-#, c-format
-msgid "  --probe-rpms   - do not use synthesis, use rpm files directly\n"
-msgstr "  --probe-rpms   - sentez dosyalarını kullanma, doğrudan rpm dosyalarını kullan.\n"
-
-#: ../urpmi.update:50
-#, c-format
-msgid "  -a             - select all non-removable media.\n"
-msgstr "  -a             - tüm kaldırılamaz kaynakları seçer.\n"
-
-#: ../urpmi.update:51
-#, c-format
-msgid "  -f             - force updating synthesis\n"
-msgstr "  -f              - sentez dosyalarını oluşum için zorla.\n"
-
-#: ../urpmi.update:52
-#, c-format
-msgid "  -ff            - really force updating synthesis\n"
-msgstr "  -ff            - gerçekten sentez dosyalarını güncellemeye zorla.\n"
-
-#: ../urpmi.update:69
-#, c-format
-msgid "Only superuser is allowed to update media"
-msgstr "Paketleri kurmak için sadece sistem yöneticisi yetkilidir"
-
-#: ../urpmi.update:86
-#, c-format
-msgid "nothing to update (use urpmi.addmedia to add a media)\n"
-msgstr "Güncellenecek hiç birşey yok. (yeni ortam eklemek için \"urpmi.addmedia\" kullanın).\n"
-
-#: ../urpmi.update:87
-#, c-format
-msgid ""
-"the entry to update is missing\n"
-"(one of %s)\n"
-msgstr ""
-"Güncelleme için girdi eksik\n"
-"(bunlardan biri %s)\n"
-
-#: ../urpmi.update:98
-#, c-format
-msgid "\"%s\""
-msgstr "\"%s\""
-
-#: ../urpmi.update:99
-#, c-format
-msgid "ignoring media %s"
-msgstr "%s ortamı yoksayılıyor."
-
-#: ../urpmi.update:99
-#, c-format
-msgid "enabling media %s"
-msgstr "\"%s\"  kurulum kaynağı etkinleştiriliyor."
-
-#: ../urpmq:40
-#, c-format
-msgid ""
-"urpmq version %s\n"
-"Copyright (C) 2000-2010 Mandriva.\n"
-"This is free software and may be redistributed under the terms of the GNU GPL.\n"
+"drakhelp 0.1\n"
+"Copyright (C) %s Mandriva.\n"
+"Copyright (C) %s Mageia.\n"
+"Bu bir özgür yazılım olup GNU GPL koşulları altında yeniden dağıtılabilirL.\n"
 "\n"
-"usage:\n"
-msgstr ""
+"Kullanımı: \n"
 
-#: ../urpmq:48
+#: drakhelp:23
 #, c-format
-msgid "  --searchmedia  - use only the given media to search requested (or updated) packages.\n"
-msgstr "  --searchmedia  - istenen (veya güncellenen) paketleri aramak için sdece verilen kurulum kaynağını kullan.\n"
+msgid "  --help                - display this help     \n"
+msgstr "  --help                - bu yardımı görüntüle   \n"
 
-#: ../urpmq:53
+#: drakhelp:24
 #, c-format
-msgid "  --auto-orphans - list orphans\n"
-msgstr "  --auto-orphans - gereksiz paketleri listele\n"
+msgid " --id <id_label>       - load the html help page which refers to id_label\n"
+msgstr " --id <id_label>       - id_label'e başvuran html yardım dosyasını yükle\n"
 
-#: ../urpmq:54
+#: drakhelp:25
 #, c-format
-msgid ""
-"  --not-available\n"
-"                 - list installed packages not available on any media.\n"
-msgstr ""
-"  --not-available\n"
-"                 - hiçbir veri kaynağında bulunmayan kurulu paketleri listele.\n"
+msgid " --doc <link>          - link to another web page ( for WM welcome frontend)\n"
+msgstr " --doc <link>          - diğer web sayfasına bağlantıla ( WM hoşgeldiniz ön yüzü için)\n"
 
-#: ../urpmq:57
+#: drakhelp:53
 #, c-format
-msgid "  --fuzzy        - impose fuzzy search (same as -y).\n"
-msgstr "  --fuzzy         - hatalı aramaya zorla (-y ile aynı)\n"
+msgid "%s Help Center"
+msgstr "%s Yardım Merkezi"
 
-#: ../urpmq:60
+#: drakhelp:53
 #, c-format
-msgid "  --list         - list available packages.\n"
-msgstr "  --list           - erişilebilir paketleri göster\n"
+msgid "No Help entry for %s\n"
+msgstr "%s için Yardım girdisi yok\n"
 
-#: ../urpmq:61
+#: drakperm:23
 #, c-format
-msgid "  --list-media   - list available media.\n"
-msgstr "  --list-media   - erişilebilir kurulum kaynaklarını listele\n"
+msgid "System settings"
+msgstr "Sistem ayarları"
 
-#: ../urpmq:62
+#: drakperm:24
 #, c-format
-msgid "  --list-url     - list available media and their url.\n"
-msgstr "  --list-url     - erişilebilir kurulum kaynaklarını ve bağlantılarını gösterir.\n"
+msgid "Custom settings"
+msgstr "Özel ayarlar"
 
-#: ../urpmq:63
+#: drakperm:25
 #, c-format
-msgid "  --list-nodes   - list available nodes when using --parallel.\n"
-msgstr "  --list-nodes   - --parallel kullanırken erişilebilir düğümleri listele.\n"
+msgid "Custom & system settings"
+msgstr "Özel & sistem ayarları"
 
-#: ../urpmq:64
+#: drakperm:33
 #, c-format
-msgid "  --list-aliases - list available parallel aliases.\n"
-msgstr "  --list-aliases   - mevcut parelel alias'lari listele.\n"
+msgid "Security Permissions"
+msgstr "Güvenlik İzinleri"
 
-#: ../urpmq:65
+#: drakperm:45
 #, c-format
-msgid "  --dump-config  - dump the config in form of urpmi.addmedia argument.\n"
-msgstr "  --dump-config  - yapılandırmayı urpmi.addmedia argümanı biçiminde boşalt.\n"
+msgid "Editable"
+msgstr "Düzenlenebilir"
 
-#: ../urpmq:66
+#: drakperm:50 drakperm:320
 #, c-format
-msgid "  --src          - next package is a source package (same as -s).\n"
-msgstr "  --src          -  ardından gelen paket bir kaynak paketi ( -s ile aynı).\n"
+msgid "Path"
+msgstr "Konum"
 
-#: ../urpmq:67
+#: drakperm:50 drakperm:249
 #, c-format
-msgid "  --sources      - print source URLs of selected packages\n"
-msgstr ""
+msgid "User"
+msgstr "Kullanıcı"
 
-#: ../urpmq:69
+#: drakperm:50 drakperm:249
 #, c-format
-msgid "  --ignorearch   - allow to query rpms for unmatched architectures.\n"
-msgstr "  --ignorearch   - eşleşmeyen mimariler için rpm'leri sorgulamaya izin verir.\n"
+msgid "Group"
+msgstr "Grup"
 
-#: ../urpmq:73
+#: drakperm:50 drakperm:109 drakperm:332 draksec:181
 #, c-format
-msgid ""
-"  --use-distrib  - configure urpmi on the fly from a distrib tree.\n"
-"                   This permit to querying a distro.\n"
-msgstr ""
-"  --use-distrib  - urpmi'yi dağıtım ağacından yapılandır.\n"
-"                   Bu, bir dağıtımı sorgulamaya izin verir.\n"
+msgid "Permissions"
+msgstr "Yetkiler"
 
-#: ../urpmq:83
+#: drakperm:60
 #, c-format
-msgid "  --changelog    - print changelog.\n"
-msgstr "  --changelog    - değişiklik günlüklerini yazdır.\n"
+msgid "Add a new rule"
+msgstr "Yeni bir kural ekle"
 
-#: ../urpmq:84
+#: drakperm:67 drakperm:102 drakperm:128
 #, c-format
-msgid "  --conflicts    - print conflicts.\n"
-msgstr "  --conflicts    - çakışanları yazdır.\n"
+msgid "Edit current rule"
+msgstr "Geçerli kuralı düzenle"
 
-#: ../urpmq:85
-#, c-format
-msgid "  --obsoletes    - print obsoletes.\n"
-msgstr "  --obsoletes    - gereksiz kılınanları yazdır.\n"
-
-#: ../urpmq:86
-#, c-format
-msgid "  --provides     - print provides.\n"
-msgstr "  --provides     - sağladıklarını yazdır.\n"
-
-#: ../urpmq:87
-#, c-format
-msgid "  --requires     - print requires.\n"
-msgstr "  --requires     - gereklilikleri yazdırır.\n"
-
-#: ../urpmq:88
-#, c-format
-msgid "  --suggests     - print suggests.\n"
-msgstr "  --suggests     - önerilenleri yazdır.\n"
-
-#: ../urpmq:89
-#, c-format
-msgid "  --sourcerpm    - print sourcerpm.\n"
-msgstr "  --sourcerpm    - sourcerpm yazdırır.\n"
-
-#: ../urpmq:90
-#, c-format
-msgid "  --summary, -S  - print summary.\n"
-msgstr "  --summary, -S  - özeti yazdırır.\n"
-
-#: ../urpmq:92
+#: drakperm:110
 #, c-format
 msgid ""
-"  --requires-recursive, -d\n"
-"                   - query package dependencies.\n"
+"Here you can see files to use in order to fix permissions, owners, and groups via msec.\n"
+"You can also edit your own rules which will overwrite the default rules."
 msgstr ""
-"  --requires-recursive, -d\n"
-"                   - paket bağımlılıklarını sorgula.\n"
+"Burada, msec yoluyla yetkileri, sahipleri ve grupları düzeltmek amacıyla kullanılacak dosyaları görebilirsiniz.\n"
+"Ayrıca ön tanımlı kuralları değiştirerek kendi kurallarınızı da düzenleyebilirsiniz."
 
-#: ../urpmq:94
-#, c-format
-msgid "  --whatrequires - reverse search to what requires package.\n"
-msgstr "  --whatrequires - gerekli paketler için ters arama.\n"
-
-#: ../urpmq:95
+#: drakperm:112
 #, c-format
 msgid ""
-"  --whatrequires-recursive\n"
-"                   - extended reverse search (includes virtual packages).\n"
+"The current security level is %s.\n"
+"Select permissions to see/edit"
 msgstr ""
-"  --whatrequires-recursive\n"
-"                   - gelişmiş testen arama (sanal paketleri de içerir).\n"
+"Şu anki güvenlik seviyesi %s.\n"
+"Görmek/ düzenlemek için izinleri seçin"
 
-#: ../urpmq:97
+#: drakperm:124
+#, c-format
+msgid "Up"
+msgstr "Yukarı"
+
+#: drakperm:124
+#, c-format
+msgid "Move selected rule up one level"
+msgstr "Seçili kuralı bir seviye yükselt"
+
+#: drakperm:125
+#, c-format
+msgid "Down"
+msgstr "Aşağı"
+
+#: drakperm:125
+#, c-format
+msgid "Move selected rule down one level"
+msgstr "Seçili kuralı bir seviye düşür"
+
+#: drakperm:126
+#, c-format
+msgid "Add a rule"
+msgstr "Bir kural ekle"
+
+#: drakperm:126
+#, c-format
+msgid "Add a new rule at the end"
+msgstr "Sona yeni bir kural ekle"
+
+#: drakperm:127
+#, c-format
+msgid "Delete"
+msgstr "Sil"
+
+#: drakperm:127
+#, c-format
+msgid "Delete selected rule"
+msgstr "Seçili kuralı sil"
+
+#: drakperm:128 drakups:300 drakups:362 drakups:382
+#, c-format
+msgid "Edit"
+msgstr "Düzenle"
+
+#: drakperm:241
+#, c-format
+msgid "browse"
+msgstr "gözat"
+
+#: drakperm:246
+#, c-format
+msgid "user"
+msgstr "kullanıcı"
+
+#: drakperm:246
+#, c-format
+msgid "group"
+msgstr "grup"
+
+#: drakperm:246
+#, c-format
+msgid "other"
+msgstr "diğer"
+
+#: drakperm:249
+#, c-format
+msgid "Other"
+msgstr "Diğer"
+
+#: drakperm:251
+#, c-format
+msgid "Read"
+msgstr "Oku"
+
+#. -PO: here %s will be either "user", "group" or "other"
+#: drakperm:254
+#, c-format
+msgid "Enable \"%s\" to read the file"
+msgstr "Dosya okumak için \"%s\" etkinleştir"
+
+#: drakperm:258
+#, c-format
+msgid "Write"
+msgstr "Yaz"
+
+#. -PO: here %s will be either "user", "group" or "other"
+#: drakperm:261
+#, c-format
+msgid "Enable \"%s\" to write the file"
+msgstr "Dosyaya yazmak için \"%s\" etkinleştir"
+
+#: drakperm:265
+#, c-format
+msgid "Execute"
+msgstr "Çalıştır"
+
+#. -PO: here %s will be either "user", "group" or "other"
+#: drakperm:268
+#, c-format
+msgid "Enable \"%s\" to execute the file"
+msgstr "Dosya yürütmek için \"%s\" etkinleştir"
+
+#: drakperm:271
+#, c-format
+msgid "Sticky-bit"
+msgstr "Yapışkan-bit"
+
+#: drakperm:271
 #, c-format
 msgid ""
-"  --whatprovides, -p\n"
-"                   - search in provides to find package.\n"
+"Used for directory:\n"
+" only owner of directory or file in this directory can delete it"
 msgstr ""
-"  --whatprovides, -p\n"
-"                   - paketi bulmak için sağlar içinde aramaya izin ver.\n"
+"Dizin için kullanılır:\n"
+" sadece dizinin veya bu dizindeki dosyanın sahibi silebilir"
 
-#: ../urpmq:100
+#: drakperm:272
 #, c-format
-msgid "  -c             - complete output with package to be removed.\n"
-msgstr "  -c             - kaldırılacak paketlerin toplu çıktısı.\n"
+msgid "Set-UID"
+msgstr "UID ayarla"
 
-#: ../urpmq:102
+#: drakperm:272
 #, c-format
-msgid "  -g             - print groups with name also.\n"
-msgstr "  -g             - isminin yanında grupları da yazar.\n"
+msgid "Use owner id for execution"
+msgstr "Çalıştırma için kullanıcı id'ini kullan"
 
-#: ../urpmq:103
+#: drakperm:273
 #, c-format
-msgid "  -i             - print useful information in human readable form.\n"
-msgstr "  -i             - okunabilir biçimde yararlı bilgiyi yazdırır.\n"
+msgid "Set-GID"
+msgstr "GID ayarla"
 
-#: ../urpmq:104
+#: drakperm:273
 #, c-format
-msgid "  -l             - list files in package.\n"
-msgstr "  --l           - paket içindeki dosyaları listeler.\n"
+msgid "Use group id for execution"
+msgstr "Çalıştırma için grup id'ini kullan"
 
-#: ../urpmq:105
+#: drakperm:290
 #, c-format
-msgid "  -m             - equivalent to -du\n"
-msgstr "  -m             - du'nun eşiti.\n"
+msgid "User:"
+msgstr "Kullanıcı :"
 
-#: ../urpmq:106
+#: drakperm:291
 #, c-format
-msgid "  -r             - print version and release with name also.\n"
-msgstr "  -r             - isminin yanıda sürüm numarasını ve dağıtımını da yazar.\n"
+msgid "Group:"
+msgstr "Grup :"
 
-#: ../urpmq:107
+#: drakperm:295
 #, c-format
-msgid "  -s             - next package is a source package (same as --src).\n"
-msgstr "  -s             - bir sonraki paket bir kaynak paketidir(--src ile aynı).\n"
+msgid "Current user"
+msgstr "Geçerli kullanıcı"
 
-#: ../urpmq:108
+#: drakperm:296
 #, c-format
-msgid "  -u             - remove package if a more recent version is already installed.\n"
-msgstr "  -u             - daha güncel bir sürümü yüklü ise paketi kaldır.\n"
+msgid "When checked, owner and group will not be changed"
+msgstr "İşaretli ise, sahip ve grup değişmeyecektir"
 
-#: ../urpmq:109
+#: drakperm:306
 #, c-format
-msgid "  -y             - impose fuzzy search (same as --fuzzy).\n"
-msgstr "  -y             - hatalı aramayı uygulamaya koy ( --fuzzy ile aynı)\n"
+msgid "Path selection"
+msgstr "Yol seçimi"
 
-#: ../urpmq:110
+#: drakperm:326
 #, c-format
-msgid "  -Y             - like -y, but forces to match case-insensitively.\n"
-msgstr "  -Y             - y'ye benzer; fakat büyük/küçük harf duyarsız olanları eşleştirmeye zorlar. \n"
+msgid "Property"
+msgstr "Özellik"
 
-#: ../urpmq:111
+#: drakperm:376
 #, c-format
-msgid "  names or rpm files given on command line are queried.\n"
-msgstr "  komut satırından isimleri veya rpm dosyaları verilenler sorgulandı.\n"
+msgid ""
+"The first character of the path must be a slash (\"/\"):\n"
+"\"%s\""
+msgstr ""
+"Konumun ilk karakteri bir eğik çizgi olmalıdır (\"/\"):\n"
+"\"%s\""
 
-#: ../urpmq:158
+#: drakperm:386
 #, c-format
-msgid "usage: \"urpmq --auto-orphans\" with no argument"
-msgstr "kullanım: \"urpmq --auto-orphans\" argümansız"
+msgid "Both the username and the group must valid!"
+msgstr "Hem kullanıcı adı hem de grup geçerli olmalıdır!"
 
-#: ../urpmq:211
+#: drakperm:387
 #, c-format
-msgid "--list-nodes can only be used with --parallel"
-msgstr "--list-nodes sadece --parallel ile kullanılabilir"
+msgid "User: %s"
+msgstr "Kullanıcı: %s"
 
-#: ../urpmq:235
+#: drakperm:388
 #, c-format
-msgid "use -l to list files"
-msgstr "dosyaları listelemek için -l kullanın"
+msgid "Group: %s"
+msgstr "Grup: %s"
 
-#: ../urpmq:424
+#: draksec:54
 #, c-format
-msgid "no xml info for medium \"%s\", only partial result for package %s"
-msgstr "\"%s\" ortamı için xml bilgisi bulunamadı. %s paketi için herhangi bir kısmi sonuç döndürülemedi."
+msgid "ALL"
+msgstr "HEPSİ"
 
-#: ../urpmq:425
+#: draksec:55
 #, c-format
-msgid "no xml info for medium \"%s\", only partial result for packages %s"
-msgstr "\"%s\" ortamı için xml bilgisi bulunamadı. %s paketleri için herhangi bir kısmi sonuç döndürülemedi."
+msgid "LOCAL"
+msgstr "YEREL"
 
-#: ../urpmq:428
+#: draksec:56
 #, c-format
-msgid "no xml info for medium \"%s\", unable to return any result for package %s"
-msgstr "\"%s\" ortamı için xml bilgisi bulunamadı. %s paketi için herhangi bir sonuç döndürülemedi."
+msgid "NONE"
+msgstr "HİÇBİRİ"
 
-#: ../urpmq:429
+#: draksec:57
 #, c-format
-msgid "no xml info for medium \"%s\", unable to return any result for packages %s"
-msgstr "\"%s\" ortamı için xml bilgisi bulunamadı. %s paketleri için herhangi bir sonuç döndürülemedi."
+msgid "Default"
+msgstr "Öntanımlı"
 
-#: ../urpmq:496
+#: draksec:58
 #, c-format
-msgid "No changelog found\n"
-msgstr "Değişiklik günlüğü bulunamadı!\n"
+msgid "Ignore"
+msgstr "Yoksay"
 
-#: ../gurpmi.desktop.in.h:1
-msgid "Graphical front end to install RPM files"
-msgstr "RPM dosyaların kurulumu için bir grafik önyüz"
+#: draksec:91
+#, c-format
+msgid "Security Level and Checks"
+msgstr "Güvenlik Seviyesi ve Denetlemeler"
 
-#: ../gurpmi.desktop.in.h:2
-msgid "Software Installer"
-msgstr "Yazılım Yükleyici"
+#: draksec:114
+#, c-format
+msgid "Configure authentication required to access %s tools"
+msgstr "%s araçlarına erişim için gereken kimlik doğrulamayı yapılandırın"
+
+#: draksec:117
+#, c-format
+msgid "No password"
+msgstr "Parola yok"
+
+#: draksec:118
+#, c-format
+msgid "Root password"
+msgstr "Kök parolası"
+
+#: draksec:119
+#, c-format
+msgid "User password"
+msgstr "Kullanıcı parolası"
+
+#: draksec:149 draksec:204
+#, c-format
+msgid "Software Management"
+msgstr "Yazılım Yöneticisi"
+
+#: draksec:150
+#, c-format
+msgid "%s Update"
+msgstr "%s Güncellemesi"
+
+#: draksec:151
+#, c-format
+msgid "Software Media Manager"
+msgstr "Yazılım Kaynak Yöneticisi"
+
+#: draksec:152
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "3 Boyutlu masaüstü özelliklerini yapılandır."
+
+#: draksec:153
+#, c-format
+msgid "Graphical Server Configuration"
+msgstr "Grafiksel Sunucu Yapılandırması"
+
+#: draksec:154
+#, c-format
+msgid "Mouse Configuration"
+msgstr "Fare Yapılandırması"
+
+#: draksec:155
+#, c-format
+msgid "Keyboard Configuration"
+msgstr "Klavye Yapılandırması"
+
+#: draksec:156
+#, c-format
+msgid "UPS Configuration"
+msgstr "UPS Yapılandırması"
+
+#: draksec:157
+#, c-format
+msgid "Network Configuration"
+msgstr "Ağ Yapılandırması"
+
+#: draksec:158
+#, c-format
+msgid "Hosts definitions"
+msgstr "Makine adları"
+
+#: draksec:159
+#, c-format
+msgid "Network Center"
+msgstr "Ağ Merkezi"
+
+#: draksec:160
+#, c-format
+msgid "Wireless Network Roaming"
+msgstr "Kablosuz Ağ Dolaşımı"
+
+#: draksec:161
+#, c-format
+msgid "VPN"
+msgstr "VPN"
+
+#: draksec:162
+#, c-format
+msgid "Proxy Configuration"
+msgstr "Vekil Sunucu Yapılandırması"
+
+#: draksec:163
+#, c-format
+msgid "Connection Sharing"
+msgstr "Bağlantı Paylaşımı"
+
+#: draksec:165
+#, c-format
+msgid "Backups"
+msgstr "Yedekler"
+
+#: draksec:167 logdrake:52
+#, c-format
+msgid "Logs"
+msgstr "Kayıtlar"
+
+#: draksec:168
+#, c-format
+msgid "Services"
+msgstr "Hizmetler"
+
+#: draksec:169
+#, c-format
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: draksec:171
+#, c-format
+msgid "Boot Configuration"
+msgstr "Önyükleme Yapılandırması"
+
+#: draksec:205
+#, c-format
+msgid "Hardware"
+msgstr "Donanım"
+
+#: draksec:206
+#, c-format
+msgid "Network"
+msgstr "Ağ"
+
+#: draksec:207
+#, c-format
+msgid "System"
+msgstr "Sistem"
+
+#: draksec:208
+#, c-format
+msgid "Boot"
+msgstr "Önyükleme"
+
+#: draksound:48
+#, c-format
+msgid "No Sound Card detected!"
+msgstr "Ses kartı bulunamadı!"
+
+#. -PO: keep the double empty lines between sections, this is formatted a la
+#. LaTeX
+#: draksound:51
+#, c-format
+msgid "No Sound Card has been detected on your machine. Please verify that a Linux-supported Sound Card is correctly plugged in"
+msgstr "Makinenizde hiçbir Ses Kartı algılanamadı. Lütfen, bilgisayarınıza Linux destekli bir Ses Kartı takılı olduğundan emin olun."
+
+#: draksound:54
+#, c-format
+msgid ""
+"\n"
+"\n"
+"\n"
+"Note: if you've an ISA PnP sound card, you'll have to use the alsaconf or the sndconfig program.  Just type \"alsaconf\" or \"sndconfig\" in a console."
+msgstr ""
+"\n"
+"\n"
+"\n"
+"Not: Eğer Tak Kullan(PnP) tipinde bir ISA ses kartınız var ise, sndconfig veya alsaconf uygulamalarını kullanmalısınız.  Sadece konsolda \"sndconfig\"veya \"alsaconf\" yazınız."
+
+#: drakups:71
+#, c-format
+msgid "Connected through a serial port or an usb cable"
+msgstr "Bir seri port veya usb kablo aracılığıyla bağlandı"
+
+#: drakups:72
+#, c-format
+msgid "Manual configuration"
+msgstr "Elle yapılandır"
+
+#: drakups:78
+#, c-format
+msgid "Add an UPS device"
+msgstr "Bir UPS aygıtı ekle"
+
+#: drakups:81
+#, c-format
+msgid ""
+"Welcome to the UPS configuration utility.\n"
+"\n"
+"Here, you'll add a new UPS to your system.\n"
+msgstr ""
+"UPS yapılandırma aracına Hoşgeldiniz.\n"
+"\n"
+"Burada, sisteminize yeni bir UPS ekleyebilirsiniz.\n"
+
+#: drakups:88
+#, c-format
+msgid ""
+"We're going to add an UPS device.\n"
+"\n"
+"Do you want to autodetect UPS devices connected to this machine or to manually select them?"
+msgstr ""
+"Bir UPS aygıtı ekleyeceğiz.\n"
+"\n"
+"Bu makineye bağlı UPS aygıtlarının otomatik algılanmasını mı yoksa kendiniz seçmeyi mi istersiniz?"
+
+#: drakups:91
+#, c-format
+msgid "Autodetection"
+msgstr "Otomatik algıla"
+
+#: drakups:99 harddrake2:381
+#, c-format
+msgid "Detection in progress"
+msgstr "Algılama sürüyor"
+
+#: drakups:118 drakups:157 logdrake:457 logdrake:463
+#, c-format
+msgid "Congratulations"
+msgstr "Tebrikler"
+
+#: drakups:119
+#, c-format
+msgid "The wizard successfully added the following UPS devices:"
+msgstr "Sihirbaz aşağıdaki UPS aygıtları başarıyla ekledi:"
+
+#: drakups:121
+#, c-format
+msgid "No new UPS devices was found"
+msgstr "Yeni bir UPS aygıt bulunamadı"
+
+#: drakups:126 drakups:138
+#, c-format
+msgid "UPS driver configuration"
+msgstr "UPS sürücü yapılandırması"
+
+#: drakups:126
+#, c-format
+msgid "Please select your UPS model."
+msgstr "Lütfen UPS modelinizi seçin."
+
+#: drakups:127
+#, c-format
+msgid "Manufacturer / Model:"
+msgstr "Üreticisi / Modeli"
+
+#: drakups:138
+#, c-format
+msgid ""
+"We are configuring the \"%s\" UPS from \"%s\".\n"
+"Please fill in its name, its driver and its port."
+msgstr ""
+"\"%s\" UPS aygıtını \"%s\" üzerinden yapılandırıyoruz.\n"
+"Lütfen adını, sürücüsünü ve portunu yazın."
+
+#: drakups:143
+#, c-format
+msgid "Name:"
+msgstr "İsim:"
+
+#: drakups:143
+#, c-format
+msgid "The name of your ups"
+msgstr "UPS aygıtınızın ismi"
+
+#: drakups:144
+#, c-format
+msgid "Driver:"
+msgstr "Sürücü:"
+
+#: drakups:144
+#, c-format
+msgid "The driver that manages your ups"
+msgstr "UPS aygıtınızı yönetecek sürücü"
+
+#: drakups:145
+#, c-format
+msgid "Port:"
+msgstr "Kapı:"
+
+#: drakups:147
+#, c-format
+msgid "The port on which is connected your ups"
+msgstr "UPS aygıtınızın bağlı olduğu port"
+
+#: drakups:157
+#, c-format
+msgid "The wizard successfully configured the new \"%s\" UPS device."
+msgstr "Sihirbaz başarıyla yeni \"%s\" UPS aygıtını yapılandırdı."
+
+#: drakups:248
+#, c-format
+msgid "UPS devices"
+msgstr "UPS aygıtları"
+
+#: drakups:249 drakups:268 drakups:284 harddrake2:89 harddrake2:116
+#: harddrake2:123
+#, c-format
+msgid "Name"
+msgstr "İsim"
+
+#: drakups:249 harddrake2:139
+#, c-format
+msgid "Driver"
+msgstr "Sürücü"
+
+#: drakups:249 harddrake2:56
+#, c-format
+msgid "Port"
+msgstr "Kapı"
+
+#: drakups:267
+#, c-format
+msgid "UPS users"
+msgstr "UPS kullanıcıları"
+
+#: drakups:283
+#, c-format
+msgid "Access Control Lists"
+msgstr "Erişim Denetim Listeleri"
+
+#: drakups:284
+#, c-format
+msgid "IP address"
+msgstr "IP adresi:"
+
+#: drakups:284
+#, c-format
+msgid "IP mask"
+msgstr "IP maskesi"
+
+#: drakups:296
+#, c-format
+msgid "Rules"
+msgstr "Kurallar"
+
+#: drakups:297
+#, c-format
+msgid "Action"
+msgstr "Hareket"
+
+#: drakups:297 harddrake2:85
+#, c-format
+msgid "Level"
+msgstr "Seviye"
+
+#: drakups:297
+#, c-format
+msgid "ACL name"
+msgstr "ACL ismi"
+
+#: drakups:297 finish-install:195
+#, c-format
+msgid "Password"
+msgstr "Parola"
+
+#: drakups:329
+#, c-format
+msgid "UPS Management"
+msgstr "UPS Yönetimi"
+
+#: drakups:333 drakups:342
+#, c-format
+msgid "DrakUPS"
+msgstr "DrakUPS"
+
+#: drakups:339
+#, c-format
+msgid "Welcome to the UPS configuration tools"
+msgstr "UPS yapılandırma araçlarına hoşgeldiniz"
+
+#: drakxtv:67
+#, c-format
+msgid "No TV Card detected!"
+msgstr "TV kartı bulunamadı."
+
+#. -PO: keep the double empty lines between sections, this is formatted a la
+#. LaTeX
+#: drakxtv:69
+#, c-format
+msgid "No TV Card has been detected on your machine. Please verify that a Linux-supported Video/TV Card is correctly plugged in."
+msgstr "Makinenizde hiçbir TV Kartı algılanamadı. Lütfen, bilgisayarınıza Linux destekli bir Video/TV Kartı takılı olduğundan emin olun."
+
+#: finish-install:57
+#, c-format
+msgid "Keyboard"
+msgstr "Klavye"
+
+#: finish-install:58
+#, c-format
+msgid "Please, choose your keyboard layout."
+msgstr "Lütfen, klavye yerleşimini seçiniz."
+
+#: finish-install:105
+#, c-format
+msgid "Testing your connection..."
+msgstr "Bağlantınız test ediliyor..."
+
+#: finish-install:193 finish-install:211 finish-install:223
+#, c-format
+msgid "Encrypted home partition"
+msgstr "Şifrelenmiş ev bölümü"
+
+#: finish-install:193
+#, c-format
+msgid "Please enter a password for the %s user"
+msgstr "Lütfen, %s kullanıcısı için parolayı girin"
+
+#: finish-install:196
+#, c-format
+msgid "Password (again)"
+msgstr "Parola (tekrar)"
+
+#: finish-install:211
+#, c-format
+msgid "Creating encrypted home partition"
+msgstr "Şifrelenmiş ev bölümü oluşturuluyor"
+
+#: finish-install:223
+#, c-format
+msgid "Formatting encrypted home partition"
+msgstr "Şifrelenmiş ev bölümü biçimlendiriliyor"
+
+#: harddrake2:30
+#, c-format
+msgid "Alternative drivers"
+msgstr "Altarnatif sürücüler"
+
+#: harddrake2:31
+#, c-format
+msgid "the list of alternative drivers for this sound card"
+msgstr "bu ses kartı için sürücü seçenekleri"
+
+#: harddrake2:33 harddrake2:125
+#, c-format
+msgid "Bus"
+msgstr "Veriyolu"
+
+#: harddrake2:34
+#, c-format
+msgid "this is the physical bus on which the device is plugged (eg: PCI, USB, ...)"
+msgstr "bu, aygıtın takılı olduğu fiziksel veriyoludur (örn. PCI, USB, ...)"
+
+#: harddrake2:36 harddrake2:151
+#, c-format
+msgid "Bus identification"
+msgstr "Veriyolu tanımlaması"
+
+#: harddrake2:37
+#, c-format
+msgid "- PCI and USB devices: this lists the vendor, device, subvendor and subdevice PCI/USB ids"
+msgstr "- PCI ve USB aygıtları : bu liste üretici, aygıt, alt-üretici ve alt-aygıt  PCI/USB kimliklerini göstermektedir"
+
+#: harddrake2:39
+#, c-format
+msgid "Location on the bus"
+msgstr "Veriyolundaki konum"
+
+#: harddrake2:40
+#, c-format
+msgid ""
+"- pci devices: this gives the PCI slot, device and function of this card\n"
+"- eide devices: the device is either a slave or a master device\n"
+"- scsi devices: the scsi bus and the scsi device ids"
+msgstr ""
+"- PCI aygıtlar: kartın PCI slotunu, aygıtını ve işlevini verir\n"
+"- EIDE aygıtlar: aygıt master ya da slave'dir\n"
+"- SCSI aygıtlar: SCSI veriyolu ve SCSI aygıt kimlikleri"
+
+#: harddrake2:43
+#, c-format
+msgid "Drive capacity"
+msgstr "Sürücü kapasitesi"
+
+#: harddrake2:43
+#, c-format
+msgid "special capacities of the driver (burning ability and or DVD support)"
+msgstr "Sürücünün özel kapasiteleri ( yazma desteği ve/veya DVD support"
+
+#: harddrake2:44
+#, c-format
+msgid "Description"
+msgstr "Tanım"
+
+#: harddrake2:44
+#, c-format
+msgid "this field describes the device"
+msgstr "bu alan aygıtı tanıtır"
+
+#: harddrake2:45
+#, c-format
+msgid "Old device file"
+msgstr "Eski aygıt dosyası"
+
+#: harddrake2:46
+#, c-format
+msgid "old static device name used in dev package"
+msgstr "'dev' paketinde kullanılan eski, duruk aygıt adı"
+
+#. -PO: here "module" is the "jargon term" for a kernel driver
+#: harddrake2:49
+#, c-format
+msgid "Module"
+msgstr "Modül"
+
+#: harddrake2:49
+#, c-format
+msgid "the module of the GNU/Linux kernel that handles the device"
+msgstr "O aygıtı işleyecek GNU/Linux çekirdek modülü"
+
+#: harddrake2:50
+#, c-format
+msgid "Extended partitions"
+msgstr "Uzatılmış bölümler"
+
+#: harddrake2:50
+#, c-format
+msgid "the number of extended partitions"
+msgstr "uzatılmış bölüm sayısı"
+
+#: harddrake2:51
+#, c-format
+msgid "Geometry"
+msgstr "Geometri"
+
+#: harddrake2:51
+#, c-format
+msgid "Cylinder/head/sectors geometry of the disk"
+msgstr "Diskin silindir/ kafa/ sektör geometrisi"
+
+#: harddrake2:52
+#, c-format
+msgid "Disk controller"
+msgstr "Disk denetleyici"
+
+#: harddrake2:52
+#, c-format
+msgid "the disk controller on the host side"
+msgstr "sunucu yanındaki disk denetleyici"
+
+#: harddrake2:53
+#, c-format
+msgid "Identifier"
+msgstr "Tanıtıcı"
+
+#: harddrake2:53
+#, c-format
+msgid "usually the device serial number"
+msgstr "genellikle aygıt seri numarasıdır"
+
+#: harddrake2:54
+#, c-format
+msgid "Media class"
+msgstr "Ortam sınıfı"
+
+#: harddrake2:54
+#, c-format
+msgid "class of hardware device"
+msgstr "donanım aygıtının sınıfı"
+
+#: harddrake2:55 harddrake2:86
+#, c-format
+msgid "Model"
+msgstr "Model"
+
+#: harddrake2:55
+#, c-format
+msgid "hard disk model"
+msgstr "sabit disk modeli"
+
+#: harddrake2:56
+#, c-format
+msgid "network printer port"
+msgstr "ağ yazıcısı portu"
+
+#: harddrake2:57
+#, c-format
+msgid "Primary partitions"
+msgstr "Birincil bölümler"
+
+#: harddrake2:57
+#, c-format
+msgid "the number of the primary partitions"
+msgstr "birincil bölüm sayısı"
+
+#: harddrake2:58 harddrake2:92
+#, c-format
+msgid "Vendor"
+msgstr "Üretici"
+
+#: harddrake2:58
+#, c-format
+msgid "the vendor name of the device"
+msgstr "aygıtın üreticisinin adı"
+
+#: harddrake2:59
+#, c-format
+msgid "PCI domain"
+msgstr "PCI etki alanı"
+
+#: harddrake2:59 harddrake2:60
+#, c-format
+msgid "the PCI domain of the device"
+msgstr "aygıtının PCI etki alanı"
+
+#: harddrake2:60
+#, c-format
+msgid "PCI revision"
+msgstr "PCI gözden geçirme"
+
+#: harddrake2:61
+#, c-format
+msgid "Bus PCI #"
+msgstr "Yol PCI #"
+
+#: harddrake2:61
+#, c-format
+msgid "the PCI bus on which the device is plugged"
+msgstr "bu, aygıtın takılı olduğu PCI veri yoludur"
+
+#: harddrake2:62
+#, c-format
+msgid "PCI device #"
+msgstr "PCI aygıtı #"
+
+#: harddrake2:62
+#, c-format
+msgid "PCI device number"
+msgstr "PCI aygıt numarası"
+
+#: harddrake2:63
+#, c-format
+msgid "PCI function #"
+msgstr "PCI görevi #"
+
+#: harddrake2:63
+#, c-format
+msgid "PCI function number"
+msgstr "PCI görev numarası"
+
+#: harddrake2:64
+#, c-format
+msgid "Vendor ID"
+msgstr "Üretici Kimliği"
+
+#: harddrake2:64
+#, c-format
+msgid "this is the standard numerical identifier of the vendor"
+msgstr "bu, standart üretici rakamsal tanıtıcısıdır"
+
+#: harddrake2:65
+#, c-format
+msgid "Device ID"
+msgstr "Aygıt Kimliği"
+
+#: harddrake2:65
+#, c-format
+msgid "this is the numerical identifier of the device"
+msgstr "bu, aygıtın rakamsal tanıtıcısıdır"
+
+#: harddrake2:66
+#, c-format
+msgid "Sub vendor ID"
+msgstr "Alt üretici Kimliği"
+
+#: harddrake2:66
+#, c-format
+msgid "this is the minor numerical identifier of the vendor"
+msgstr "bu, küçük üretici rakamsal tanıtıcısıdır"
+
+#: harddrake2:67
+#, c-format
+msgid "Sub device ID"
+msgstr "Alt aygıt Kimliği"
+
+#: harddrake2:67
+#, c-format
+msgid "this is the minor numerical identifier of the device"
+msgstr "bu, küçük aygıt rakamsal tanıtıcısıdır"
+
+#: harddrake2:68
+#, c-format
+msgid "Device USB ID"
+msgstr "Aygıt USB Kimliği"
+
+#: harddrake2:68
+#, c-format
+msgid ".."
+msgstr ".."
+
+#: harddrake2:73 harddrake2:74
+#, c-format
+msgid "Bogomips"
+msgstr "Bogomips"
+
+#: harddrake2:73 harddrake2:74
+#, c-format
+msgid "the GNU/Linux kernel needs to run a calculation loop at boot time to initialize a timer counter.  Its result is stored as bogomips as a way to \"benchmark\" the cpu."
+msgstr "GNU/Linux çekirdeğinin bir zamanlayıcı sayacı çalıştırabilmesi için açılış sırasında bir hesaplama döngü yürütmesi gerekli.  Bunun sonucu, işlemci \"derecelendirmesi\"   için bogomip şeklinde saklanacaktır."
+
+#: harddrake2:75
+#, c-format
+msgid "Cache size"
+msgstr "Önbellek boyutu"
+
+#: harddrake2:75
+#, c-format
+msgid "size of the (second level) cpu cache"
+msgstr "İşlemci önbelleğinin (ikinci seviye) boyutu"
+
+#: harddrake2:76
+#, c-format
+msgid "Cpuid family"
+msgstr "Cpuid ailesi"
+
+#: harddrake2:76
+#, c-format
+msgid "family of the cpu (eg: 6 for i686 class)"
+msgstr "işlemci ailesi (örn: i686 sınıfı için 6)"
+
+#: harddrake2:77
+#, c-format
+msgid "Cpuid level"
+msgstr "Cpuid seviyesi"
+
+#: harddrake2:77
+#, c-format
+msgid "information level that can be obtained through the cpuid instruction"
+msgstr "cpuid talimatı ile elde edilebilecek bilgi seviyesi"
+
+#: harddrake2:78
+#, c-format
+msgid "Frequency (MHz)"
+msgstr "Frekans (MHz)"
+
+#: harddrake2:78
+#, c-format
+msgid "the CPU frequency in MHz (Megahertz which in first approximation may be coarsely assimilated to number of instructions the cpu is able to execute per second)"
+msgstr "MHz cinsinden İşlemci frekansı (İşlemcinin saniyede yürütebileceği talimat sayısına kabaca benzeşen ilk yaklaşık Megahertz değeri)"
+
+#: harddrake2:79
+#, c-format
+msgid "Flags"
+msgstr "Bayraklar"
+
+#: harddrake2:79
+#, c-format
+msgid "CPU flags reported by the kernel"
+msgstr "Çekirdek tarafından işlemci bayrakları raporlandı"
+
+#: harddrake2:80 harddrake2:144
+#, c-format
+msgid "Cores"
+msgstr "Çekirdekler"
+
+#: harddrake2:80
+#, c-format
+msgid "CPU cores"
+msgstr "İşlemci çekirdekleri"
+
+#: harddrake2:81
+#, c-format
+msgid "Core ID"
+msgstr "Çekirdek Kimliği"
+
+#: harddrake2:82
+#, c-format
+msgid "Physical ID"
+msgstr "Fiziksel Kimlik"
+
+#: harddrake2:83
+#, c-format
+msgid "ACPI ID"
+msgstr "ACPI Kimliği"
+
+#: harddrake2:84
+#, c-format
+msgid "Siblings"
+msgstr "Kardeşler"
+
+#: harddrake2:85
+#, c-format
+msgid "sub generation of the cpu"
+msgstr "İşlemcinin alt nesli"
+
+#: harddrake2:86
+#, c-format
+msgid "generation of the cpu (eg: 8 for Pentium III, ...)"
+msgstr "İşlemci nesli (örn: Pentium III için 8, ...)"
+
+#: harddrake2:87 harddrake2:88
+#, c-format
+msgid "Model name"
+msgstr "Model adı"
+
+#: harddrake2:87 harddrake2:88
+#, c-format
+msgid "official vendor name of the cpu"
+msgstr "İşlemcinin resmi üreticisinin adı"
+
+#: harddrake2:89
+#, c-format
+msgid "the name of the CPU"
+msgstr "İşlemcinin ismi"
+
+#: harddrake2:90
+#, c-format
+msgid "Processor ID"
+msgstr "İşlemci Kimliği"
+
+#: harddrake2:90
+#, c-format
+msgid "the number of the processor"
+msgstr "işlemci sayısı"
+
+#: harddrake2:91
+#, c-format
+msgid "Model stepping"
+msgstr "Model numarası"
+
+#: harddrake2:91
+#, c-format
+msgid "stepping of the cpu (sub model (generation) number)"
+msgstr "İşlemci basamağı (alt model (nesil) numarası)"
+
+#: harddrake2:92
+#, c-format
+msgid "the vendor name of the processor"
+msgstr "işlemcinin üreticisinin adı"
+
+#: harddrake2:93
+#, c-format
+msgid "Write protection"
+msgstr "Yazma koruması"
+
+#: harddrake2:93
+#, c-format
+msgid "the WP flag in the CR0 register of the cpu enforce write protection at the memory page level, thus enabling the processor to prevent unchecked kernel accesses to user memory (aka this is a bug guard)"
+msgstr "Hafıza sayfalama seviyesinde işlemci yazma korumasına zorlaması CR0 kaydındaki WP bayrağı; ki kullanıcı hafızasına çekirdeğin denetlenmemiş erişimlerini engeller (yani bir hata korumasıdır.)"
+
+#: harddrake2:97
+#, c-format
+msgid "Floppy format"
+msgstr "Disket biçimi"
+
+#: harddrake2:97
+#, c-format
+msgid "format of floppies supported by the drive"
+msgstr "Sürücü tarafından desteklenilen biçimlendirme tarzları"
+
+#: harddrake2:101
+#, c-format
+msgid "EIDE/SCSI channel"
+msgstr "EIDE/SCSI kanal"
+
+#: harddrake2:102
+#, c-format
+msgid "Disk identifier"
+msgstr "Disk belirleyicisi"
+
+#: harddrake2:102
+#, c-format
+msgid "usually the disk serial number"
+msgstr "genellikle disk numarası"
+
+#: harddrake2:103
+#, c-format
+msgid "Target id number"
+msgstr "Hedef kimlik numarası"
+
+#: harddrake2:103
+#, c-format
+msgid "the SCSI target identifier"
+msgstr "SCSI hedef belirleyici"
+
+#: harddrake2:104
+#, c-format
+msgid "Logical unit number"
+msgstr "Mantıksal bölüm numarası"
+
+#: harddrake2:104
+#, c-format
+msgid ""
+"the SCSI Logical Unit Number (LUN). SCSI devices connected to a host are uniquely identified by a\n"
+"channel number, a target id and a logical unit number"
+msgstr ""
+"SCSI hedef numarası (LUN). Bir makineye bağlanan SCSI aygıtlar benzersiz bir kanal numarası,\n"
+"hedef kimliği ve bir mantıksal birim numarası ile algılanırlar."
+
+#. -PO: here, "size" is the size of the ram chip (eg: 128Mo, 256Mo, ...)
+#: harddrake2:111
+#, c-format
+msgid "Installed size"
+msgstr "Kurulu boyut"
+
+#: harddrake2:111
+#, c-format
+msgid "Installed size of the memory bank"
+msgstr "Hafıza bankasının kurulu boyutu"
+
+#: harddrake2:112
+#, c-format
+msgid "Enabled Size"
+msgstr "Etkinleştirilmiş Boyut"
+
+#: harddrake2:112
+#, c-format
+msgid "Enabled size of the memory bank"
+msgstr "Hafıza bankasının etkinleştirilmiş boyutu"
+
+#: harddrake2:113 harddrake2:122
+#, c-format
+msgid "Type"
+msgstr "Türü"
+
+#: harddrake2:113
+#, c-format
+msgid "type of the memory device"
+msgstr "hafıza aygıtının türü"
+
+#: harddrake2:114
+#, c-format
+msgid "Speed"
+msgstr "Hızı"
+
+#: harddrake2:114
+#, c-format
+msgid "Speed of the memory bank"
+msgstr "hafıza bankasının hızı"
+
+#: harddrake2:115
+#, c-format
+msgid "Bank connections"
+msgstr "Banka bağlantıları"
+
+#: harddrake2:116
+#, c-format
+msgid "Socket designation of the memory bank"
+msgstr "Hafıza bankasının soket tasarımı"
+
+#: harddrake2:120
+#, c-format
+msgid "Device file"
+msgstr "Aygıt dosyası"
+
+#: harddrake2:120
+#, c-format
+msgid "the device file used to communicate with the kernel driver for the mouse"
+msgstr "aygıt dosyası, fare için çekirdek sürücüsü ile iletişimde kullanılır."
+
+#: harddrake2:121
+#, c-format
+msgid "Emulated wheel"
+msgstr "Taklit edilmiş tekerlek"
+
+#: harddrake2:121
+#, c-format
+msgid "whether the wheel is emulated or not"
+msgstr "tekerlek taklidi yapılıp yapılmayacağı"
+
+#: harddrake2:122
+#, c-format
+msgid "the type of the mouse"
+msgstr "fare türü"
+
+#: harddrake2:123
+#, c-format
+msgid "the name of the mouse"
+msgstr "Farenin ismi"
+
+#: harddrake2:124
+#, c-format
+msgid "Number of buttons"
+msgstr "Tuş sayısı"
+
+#: harddrake2:124
+#, c-format
+msgid "the number of buttons the mouse has"
+msgstr "farenin sahip olduğu tuş sayısı"
+
+#: harddrake2:125
+#, c-format
+msgid "the type of bus on which the mouse is connected"
+msgstr "farenizin bağlı olduğu veri yolu türü"
+
+#: harddrake2:126
+#, c-format
+msgid "Mouse protocol used by X11"
+msgstr "X11 tarafından kullanılan fare protokolü"
+
+#: harddrake2:126
+#, c-format
+msgid "the protocol that the graphical desktop use with the mouse"
+msgstr "grafik masaüstünün fare ile kullanacağı protokol"
+
+#: harddrake2:130
+#, c-format
+msgid "Identification"
+msgstr "Tanımlama Ekle"
+
+#: harddrake2:135 harddrake2:150
+#, c-format
+msgid "Connection"
+msgstr "Bağlantı"
+
+#: harddrake2:145
+#, c-format
+msgid "Performances"
+msgstr "Verimlilik"
+
+#: harddrake2:152
+#, c-format
+msgid "Device"
+msgstr "Aygıt"
+
+#: harddrake2:153
+#, c-format
+msgid "Partitions"
+msgstr "Disk Bölümleri"
+
+#: harddrake2:158
+#, c-format
+msgid "Features"
+msgstr "Özellikler"
+
+#. -PO: please keep all "/" characters !!!
+#: harddrake2:181 logdrake:78
+#, c-format
+msgid "/_Options"
+msgstr "/_Seçenekler"
+
+#: harddrake2:182 harddrake2:211 logdrake:80
+#, c-format
+msgid "/_Help"
+msgstr "/_Yardım"
+
+#: harddrake2:186
+#, c-format
+msgid "/Autodetect _printers"
+msgstr "/_Yazıcıları otomatik algıla"
+
+#: harddrake2:187
+#, c-format
+msgid "/Autodetect _modems"
+msgstr "/_Modemleri otomatik algıla"
+
+#: harddrake2:188
+#, c-format
+msgid "/Autodetect _jaz drives"
+msgstr "/_jaz sürücülerini otomatik algıla"
+
+#: harddrake2:189
+#, c-format
+msgid "/Autodetect parallel _zip drives"
+msgstr "/paralel _zip sürücüleri otomatik algıla"
+
+#: harddrake2:193
+#, c-format
+msgid "Hardware Configuration"
+msgstr "Donanım Yapılandırması"
+
+#: harddrake2:200
+#, c-format
+msgid "/_Quit"
+msgstr "/_Çık"
+
+#: harddrake2:213
+#, c-format
+msgid "/_Fields description"
+msgstr "/_Alan açıklamaları"
+
+#: harddrake2:215
+#, c-format
+msgid "Harddrake help"
+msgstr "Harddrake yardımı"
+
+#: harddrake2:216
+#, c-format
+msgid ""
+"Description of the fields:\n"
+"\n"
+msgstr ""
+"Alanların açıklamalarıı:\n"
+"\n"
+
+#: harddrake2:224
+#, c-format
+msgid "Select a device!"
+msgstr "Bir aygıt seçiniz"
+
+#: harddrake2:224
+#, c-format
+msgid "Once you've selected a device, you'll be able to see the device information in fields displayed on the right frame (\"Information\")"
+msgstr "Bir aygıt seçtiğinizde, sağ yandaki tablada (\"Bilgi\") aygıt hakkındaki bilgileri görebilirsiniz."
+
+#: harddrake2:230
+#, c-format
+msgid "/_Report Bug"
+msgstr "/_Hata Bildir"
+
+#: harddrake2:232
+#, c-format
+msgid "/_About..."
+msgstr "/_Hakkında..."
+
+#: harddrake2:235
+#, c-format
+msgid "Harddrake"
+msgstr "HardDrake"
+
+#: harddrake2:239
+#, c-format
+msgid "This is HardDrake, a %s hardware configuration tool."
+msgstr "Bu HardDrake' tir. Bir %s donanım yapılandırma aracıdır."
+
+#: harddrake2:271
+#, c-format
+msgid "Detected hardware"
+msgstr "Bulunan donanımlar"
+
+#: harddrake2:274 scannerdrake:286
+#, c-format
+msgid "Information"
+msgstr "Bilgiler"
+
+#: harddrake2:276
+#, c-format
+msgid "Set current driver options"
+msgstr "Şu anki sürücü seçeneklerini ayarla"
+
+#: harddrake2:283
+#, c-format
+msgid "Run config tool"
+msgstr "Yapılandırma aracını çalıştır"
+
+#: harddrake2:303
+#, c-format
+msgid "Click on a device in the left tree in order to display its information here."
+msgstr "Hakkında bilgi edinmek istediğiniz aygıtı sol ağaçtan tıklayınız."
+
+#: harddrake2:324 notify-x11-free-driver-switch:13
+#, c-format
+msgid "unknown"
+msgstr "bilinmeyen"
+
+#: harddrake2:325
+#, c-format
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: harddrake2:345
+#, c-format
+msgid "Misc"
+msgstr "Çeşitli"
+
+#: harddrake2:429
+#, c-format
+msgid "secondary"
+msgstr "ikincil"
+
+#: harddrake2:429
+#, c-format
+msgid "primary"
+msgstr "birincil"
+
+#: harddrake2:433
+#, c-format
+msgid "burner"
+msgstr "disk yakıcı"
+
+#: harddrake2:433
+#, c-format
+msgid "DVD"
+msgstr "DVD"
+
+#: harddrake2:537
+#, c-format
+msgid "The following packages need to be installed:\n"
+msgstr "Bu paketlerinde kurulu olması gerekiyor:\n"
+
+#: localedrake:38
+#, c-format
+msgid "LocaleDrake"
+msgstr "LocaleDrake"
+
+#: localedrake:46
+#, c-format
+msgid "You should install the following packages: %s"
+msgstr "Şu paketleri kurmalısınız: %s"
+
+#. -PO: the following is used to combine packages names. eg: "initscripts,
+#. harddrake, yudit"
+#: localedrake:49
+#, c-format
+msgid ", "
+msgstr ", "
+
+#: logdrake:51
+#, c-format
+msgid "%s Tools Logs"
+msgstr "%s Araçları Günlük Kayıtları"
+
+#: logdrake:65
+#, c-format
+msgid "Show only for the selected day"
+msgstr "Sadece bugünlük olanları göster"
+
+#: logdrake:72
+#, c-format
+msgid "/File/_New"
+msgstr "/Dosya/_Yeni"
+
+#: logdrake:72
+#, c-format
+msgid "<control>N"
+msgstr "<control>Y"
+
+#: logdrake:73
+#, c-format
+msgid "/File/_Open"
+msgstr "/Dosya/_Aç"
+
+#: logdrake:73
+#, c-format
+msgid "<control>O"
+msgstr "<control>A"
+
+#: logdrake:74
+#, c-format
+msgid "/File/_Save"
+msgstr "/Dosya/_Kaydet"
+
+#: logdrake:74
+#, c-format
+msgid "<control>S"
+msgstr "<control>K"
+
+#: logdrake:75
+#, c-format
+msgid "/File/Save _As"
+msgstr "/Dosya/_Farklı kaydet"
+
+#: logdrake:76
+#, c-format
+msgid "/File/-"
+msgstr "/Dosya/-"
+
+#: logdrake:79
+#, c-format
+msgid "/Options/Test"
+msgstr "/Ayarlar/Test"
+
+#: logdrake:81
+#, c-format
+msgid "/Help/_About..."
+msgstr "/Yardım/_Hakkında..."
+
+#: logdrake:110
+#, c-format
+msgid ""
+"_:this is the auth.log log file\n"
+"Authentication"
+msgstr "Kimlik Kanıtlama"
+
+#: logdrake:111
+#, c-format
+msgid ""
+"_:this is the user.log log file\n"
+"User"
+msgstr "Kullanıcı"
+
+#: logdrake:112
+#, c-format
+msgid ""
+"_:this is the /var/log/messages log file\n"
+"Messages"
+msgstr "İletiler"
+
+#: logdrake:113
+#, c-format
+msgid ""
+"_:this is the /var/log/syslog log file\n"
+"Syslog"
+msgstr "Syslog"
+
+#: logdrake:117
+#, c-format
+msgid "search"
+msgstr "ara"
+
+#: logdrake:129
+#, c-format
+msgid "A tool to monitor your logs"
+msgstr "Günlük kayıtlarınızı görüntüleyen bir araç"
+
+#: logdrake:131
+#, c-format
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: logdrake:134
+#, c-format
+msgid "Matching"
+msgstr "Birbiriyle Eşleşiyor"
+
+#: logdrake:135
+#, c-format
+msgid "but not matching"
+msgstr "fakat uymuyor"
+
+#: logdrake:138
+#, c-format
+msgid "Choose file"
+msgstr "Dosya seçin"
+
+#: logdrake:150
+#, c-format
+msgid "Calendar"
+msgstr "Takvim"
+
+#: logdrake:159
+#, c-format
+msgid "Content of the file"
+msgstr "Dosya içeriği"
+
+#: logdrake:163 logdrake:407
+#, c-format
+msgid "Mail alert"
+msgstr "Posta uyarısı"
+
+#: logdrake:170
+#, c-format
+msgid "The alert wizard has failed unexpectedly:"
+msgstr "Uyarı sihirbazı beklenmeyen biçimde başarısız oldu:"
+
+#: logdrake:174
+#, c-format
+msgid "Save"
+msgstr "Kaydet"
+
+#: logdrake:222
+#, c-format
+msgid "please wait, parsing file: %s"
+msgstr "Lütfen dosya ayrıştırılırken bekleyiniz: %s"
+
+#: logdrake:244
+#, c-format
+msgid "Sorry, log file isn't available!"
+msgstr "Üzgünüm, günlük kaydına erişilemez!"
+
+#: logdrake:292
+#, c-format
+msgid "Error while opening \"%s\" log file: %s\n"
+msgstr "\"%s\" günlük kaydı açılırken hata oluştu: %s\n"
+
+#: logdrake:385
+#, c-format
+msgid "Apache World Wide Web Server"
+msgstr "Apache WWW Sunucusu"
+
+#: logdrake:386
+#, c-format
+msgid "Domain Name Resolver"
+msgstr "Alan Adı Çözücüsü"
+
+#: logdrake:387
+#, c-format
+msgid "Ftp Server"
+msgstr "Ftp Sunucu"
+
+#: logdrake:388
+#, c-format
+msgid "Postfix Mail Server"
+msgstr "Postfix Post Sunucu"
+
+#: logdrake:389
+#, c-format
+msgid "Samba Server"
+msgstr "Samba Sunucu"
+
+#: logdrake:390
+#, c-format
+msgid "SSH Server"
+msgstr "SSH Sunucu"
+
+#: logdrake:391
+#, c-format
+msgid "Webmin Service"
+msgstr "Webmin Servisi"
+
+#: logdrake:392
+#, c-format
+msgid "Xinetd Service"
+msgstr "Xinetd Servisi"
+
+#: logdrake:401
+#, c-format
+msgid "Configure the mail alert system"
+msgstr "E-posta uyarı sistemini yapılandır"
+
+#: logdrake:402
+#, c-format
+msgid "Stop the mail alert system"
+msgstr "E-posta uyarı sistemini durdur."
+
+#: logdrake:410
+#, c-format
+msgid "Mail alert configuration"
+msgstr "Posta uyarı yapılandırması"
+
+#: logdrake:411
+#, c-format
+msgid ""
+"Welcome to the mail configuration utility.\n"
+"\n"
+"Here, you'll be able to set up the alert system.\n"
+msgstr ""
+"Posta yapılandırma aracına hoş geldiniz.\n"
+"\n"
+"Burada, uyarı sistemini yapılandırabilirsiniz\n"
+
+#: logdrake:414
+#, c-format
+msgid "What do you want to do?"
+msgstr "Ne yapmak istersiniz ?"
+
+#: logdrake:421
+#, c-format
+msgid "Services settings"
+msgstr "Hizmet ayarları"
+
+#: logdrake:422
+#, c-format
+msgid "You will receive an alert if one of the selected services is no longer running"
+msgstr "Eğer seçili servislerden biri artık çalışmıyorsa bir uyarı alacaksınız"
+
+#: logdrake:429
+#, c-format
+msgid "Load setting"
+msgstr "Ayarları yükle"
+
+#: logdrake:430
+#, c-format
+msgid "You will receive an alert if the load is higher than this value"
+msgstr "Yükleme bu değerden fazlaysa bir uyarı alacaksınız"
+
+#: logdrake:431
+#, c-format
+msgid ""
+"_: load here is a noun, the load of the system\n"
+"Load"
+msgstr "Yük"
+
+#: logdrake:436
+#, c-format
+msgid "Alert configuration"
+msgstr "Uyarı yapılandırması"
+
+#: logdrake:437
+#, c-format
+msgid "Please enter your email address below "
+msgstr "Lütfen e-posta adresinizi aşağıya giriniz "
+
+#: logdrake:438
+#, c-format
+msgid "and enter the name (or the IP) of the SMTP server you wish to use"
+msgstr "ve kullanmak istediğiniz SMTP sunucu adını (veya IP) girin"
+
+#: logdrake:445
+#, c-format
+msgid "\"%s\" neither is a valid email nor is an existing local user!"
+msgstr "\"%s\" ne geçerli bir e-posta adresi ne de varolan bir yerel kullanıcı!"
+
+#: logdrake:450
+#, c-format
+msgid "\"%s\" is a local user, but you did not select a local smtp, so you must use a complete email address!"
+msgstr "\"%s\" bir yerel kullanıcı; ancak bir yerel smtp seçmemiştiniz. Yani, tam bir e-posta adresi kullanmak durumundasınız!"
+
+#: logdrake:457
+#, c-format
+msgid "The wizard successfully configured the mail alert."
+msgstr "Sihirbaz başarıyla posta uyarısını yapılandırdı."
+
+#: logdrake:463
+#, c-format
+msgid "The wizard successfully disabled the mail alert."
+msgstr "Sihirbaz başarıyla e-posta uyarısını devredışı bıraktı."
+
+#: logdrake:522
+#, c-format
+msgid "Save as.."
+msgstr "Farklı Kaydet..."
+
+#: notify-x11-free-driver-switch:18 service_harddrake:454
+#, c-format
+msgid "Display driver setup"
+msgstr "Ekran kartı sürücüsü kurulumu"
+
+#: notify-x11-free-driver-switch:20
+#, c-format
+msgid "The display driver has been automatically switched to '%s'."
+msgstr "Ekran kartı sürücüsü olarak kendiliğinden '%s' seçildi."
+
+#: notify-x11-free-driver-switch:21
+#, c-format
+msgid "Reason: %s."
+msgstr "Sebep: %s."
+
+#: scannerdrake:51
+#, c-format
+msgid ""
+"SANE packages need to be installed to use scanners.\n"
+"\n"
+"Do you want to install the SANE packages?"
+msgstr ""
+"Tarayıcıların kullanılabilmesi için SANE paketlerinin kurulması gerekiyor.\n"
+"\n"
+"SANE paketlerinin kurulmasını ister misiniz?"
+
+#: scannerdrake:55
+#, c-format
+msgid "Aborting Scannerdrake."
+msgstr "Scannerdrake iptal ediliyor."
+
+#: scannerdrake:60
+#, c-format
+msgid "Could not install the packages needed to set up a scanner with Scannerdrake."
+msgstr "Scannerdrake ile bir tarayıcı kurabilmek için gerekli paketler kurulamıyor."
+
+#: scannerdrake:61
+#, c-format
+msgid "Scannerdrake will not be started now."
+msgstr "Scannerdrake şimdi başlatılmayacak."
+
+#: scannerdrake:67 scannerdrake:505
+#, c-format
+msgid "Searching for configured scanners..."
+msgstr "Yapılandırılmış tarayıcılar aranıyor ..."
+
+#: scannerdrake:71 scannerdrake:509
+#, c-format
+msgid "Searching for new scanners..."
+msgstr "Yeni tarayıcılar aranıyor ..."
+
+#: scannerdrake:79 scannerdrake:531
+#, c-format
+msgid "Re-generating list of configured scanners..."
+msgstr "Yapılandırılmış tarayıcıların listesi yeniden oluşturuluyor ..."
+
+#: scannerdrake:101
+#, c-format
+msgid "The %s is not supported by this version of %s."
+msgstr "%s aygıtı %s sürümlü dağıtımca desteklenmiyor."
+
+#: scannerdrake:104 scannerdrake:115
+#, c-format
+msgid "Confirmation"
+msgstr "Onayla"
+
+#: scannerdrake:104
+#, c-format
+msgid "%s found on %s, configure it automatically?"
+msgstr "%s, %s üzerinde bulundu, otomatik olarak yapılandırayım mı?"
+
+#: scannerdrake:116
+#, c-format
+msgid "%s is not in the scanner database, configure it manually?"
+msgstr "%s tarayıcı veritabanında değil, elle yapılandırmak ister misiniz?"
+
+#: scannerdrake:130
+#, c-format
+msgid "Scanner configuration"
+msgstr "Tarayıcı yapılandırması"
+
+#: scannerdrake:131
+#, c-format
+msgid "Select a scanner model (Detected model: %s, Port: %s)"
+msgstr "Bir tarayıcı modeli seçin (Algılanan model %s, Port: %s)"
+
+#: scannerdrake:133
+#, c-format
+msgid "Select a scanner model (Detected model: %s)"
+msgstr "Bir tarayıcı modeli seçin (Algılanan model %s)"
+
+#: scannerdrake:134
+#, c-format
+msgid "Select a scanner model (Port: %s)"
+msgstr "Bir tarayıcı modeli seçin (Port: %s)"
+
+#: scannerdrake:136 scannerdrake:139
+#, c-format
+msgid " (UNSUPPORTED)"
+msgstr " (DESTEKLENMİYOR)"
+
+#: scannerdrake:142
+#, c-format
+msgid "The %s is not supported under Linux."
+msgstr "%s aygıtı Linux tarafından desteklenmiyor."
+
+#: scannerdrake:169 scannerdrake:183
+#, c-format
+msgid "Do not install firmware file"
+msgstr "Donanım yazılımı dosyasını kurma"
+
+#: scannerdrake:172 scannerdrake:222
+#, c-format
+msgid "Scanner Firmware"
+msgstr "Tarayıcı donanımsal yazılımı"
+
+#: scannerdrake:173 scannerdrake:225
+#, c-format
+msgid "It is possible that your %s needs its firmware to be uploaded everytime when it is turned on."
+msgstr "%s için her çalıştırılmasında bir donanım yazılımı yüklenmesi gerekebilir."
+
+#: scannerdrake:174 scannerdrake:226
+#, c-format
+msgid "If this is the case, you can make this be done automatically."
+msgstr "Durum buysa; bunun otomatikman yapılmasını sağlayabilirsiniz."
+
+#: scannerdrake:175 scannerdrake:229
+#, c-format
+msgid "To do so, you need to supply the firmware file for your scanner so that it can be installed."
+msgstr "Bunu yapmak için; tarayıcınız için bir donanım yazılımı dosyası sağlamalısınız ki aygıt kurulabilsin."
+
+#: scannerdrake:176 scannerdrake:230
+#, c-format
+msgid "You find the file on the CD or floppy coming with the scanner, on the manufacturer's home page, or on your Windows partition."
+msgstr "Dosyayı tarayıcı ile verilen CD veya disket üzerinde, üreticinin internet sitesinde veya bilgisayarınızın Windows bölümünde bulabilirsiniz."
+
+#: scannerdrake:178 scannerdrake:237
+#, c-format
+msgid "Install firmware file from"
+msgstr "Donanım yazılımını şu kaynaklardan birinden kurun:"
+
+#: scannerdrake:180 scannerdrake:188 scannerdrake:239 scannerdrake:246
+#, c-format
+msgid "CD-ROM"
+msgstr "CD-ROM"
+
+#: scannerdrake:181 scannerdrake:190 scannerdrake:240 scannerdrake:248
+#, c-format
+msgid "Floppy Disk"
+msgstr "Disket"
+
+#: scannerdrake:182 scannerdrake:192 scannerdrake:241 scannerdrake:250
+#, c-format
+msgid "Other place"
+msgstr "Diğer konum"
+
+#: scannerdrake:198
+#, c-format
+msgid "Select firmware file"
+msgstr "Donanım yazılımı dosyasını seçin"
+
+#: scannerdrake:201 scannerdrake:260
+#, c-format
+msgid "The firmware file %s does not exist or is unreadable!"
+msgstr "%s donanım yazılımı dosyası ya hiç yok ya da okunamaz durumda!"
+
+#: scannerdrake:224
+#, c-format
+msgid "It is possible that your scanners need their firmware to be uploaded everytime when they are turned on."
+msgstr "Tarayıcılarınız için her çalıştırılmalarında bir donanım yazılımı yüklenmesi gerekebilir."
+
+#: scannerdrake:228
+#, c-format
+msgid "To do so, you need to supply the firmware files for your scanners so that it can be installed."
+msgstr "Bunu yapmak için; tarayıcılarınız için birer donanım yazılımı dosyası sağlamalısınız ki aygıtlar kurulabilsin."
+
+#: scannerdrake:231
+#, c-format
+msgid "If you have already installed your scanner's firmware you can update the firmware here by supplying the new firmware file."
+msgstr "Tarayıcınız için bir donanım yazılımını önceden kurduysanız, yeni bir donanım yazılımı dosyası sağlayarak burada güncelleyebilirsiniz."
+
+#: scannerdrake:233
+#, c-format
+msgid "Install firmware for the"
+msgstr "Şunun için donanım yazılımı kur:"
+
+#: scannerdrake:256
+#, c-format
+msgid "Select firmware file for the %s"
+msgstr "%s için firmware dosyasını seçin"
+
+#: scannerdrake:274
+#, c-format
+msgid "Could not install the firmware file for the %s!"
+msgstr "%s için donanım yazılımı kurulamıyor!"
+
+#: scannerdrake:287
+#, c-format
+msgid "The firmware file for your %s was successfully installed."
+msgstr "%s için sağlanan donanım yazılımı başarıyla kuruldu."
+
+#: scannerdrake:297
+#, c-format
+msgid "The %s is unsupported"
+msgstr "%s desteklenmiyor"
+
+#: scannerdrake:302
+#, c-format
+msgid ""
+"The %s must be configured by system-config-printer.\n"
+"You can launch system-config-printer from the %s Control Center in Hardware section."
+msgstr ""
+"%s system-config-printer ile yapılandırılmalı.\n"
+"system-config-printer uygulamasını %s Denetim Merkezinin Donanım bölümünden çalıştırabilirsiniz."
+
+#: scannerdrake:320
+#, c-format
+msgid "Setting up kernel modules..."
+msgstr "Çekirdek modülleri kuruluyor..."
+
+#: scannerdrake:330 scannerdrake:337 scannerdrake:367
+#, c-format
+msgid "Auto-detect available ports"
+msgstr "Mevcut limanları otomatik algıla"
+
+#: scannerdrake:331 scannerdrake:377
+#, c-format
+msgid "Device choice"
+msgstr "Aygıt seçimi"
+
+#: scannerdrake:332 scannerdrake:378
+#, c-format
+msgid "Please select the device where your %s is attached"
+msgstr "Lütfen %s limanına eklediğiniz aygıtı seçiniz"
+
+#: scannerdrake:333
+#, c-format
+msgid "(Note: Parallel ports cannot be auto-detected)"
+msgstr "(Not: Paralel portlar otomatik olarak algılanamıyor)"
+
+#: scannerdrake:335 scannerdrake:380
+#, c-format
+msgid "choose device"
+msgstr "agıtı seç"
+
+#: scannerdrake:369
+#, c-format
+msgid "Searching for scanners..."
+msgstr "Tarayıcılar aranıyor ..."
+
+#: scannerdrake:405 scannerdrake:412
+#, c-format
+msgid "Attention!"
+msgstr "Dikkat!"
+
+#: scannerdrake:406
+#, c-format
+msgid ""
+"Your %s cannot be configured fully automatically.\n"
+"\n"
+"Manual adjustments are required. Please edit the configuration file /etc/sane.d/%s.conf. "
+msgstr ""
+"%s tamamen otomatik olarak yapılandırılamaz.\n"
+"\n"
+"Elle ayarlama gerekli. Lütfen, /etc/sane.d/%s.conf dosyasını düzenleyin."
+
+#: scannerdrake:407 scannerdrake:416
+#, c-format
+msgid "More info in the driver's manual page. Run the command \"man sane-%s\" to read it."
+msgstr "Daha fazla bilgi sürücünün el kitabında bulunmaktadır. \"man sane-%s\" komutunu çalıştırarak okuyabilirsiniz."
+
+#: scannerdrake:409 scannerdrake:418
+#, c-format
+msgid "After that you may scan documents using \"XSane\" or \"%s\" from Multimedia/Graphics in the applications menu."
+msgstr "Bundan sonra, uygulamalar menüsünde Çokluortam/Grafikler sekmesinden \"XSane\" veya \"%s\" kullanarak belgelerinizi taratabilirsiniz."
+
+#: scannerdrake:413
+#, c-format
+msgid "Your %s has been configured, but it is possible that additional manual adjustments are needed to get it to work. "
+msgstr "%s yapılandırıldı. Ancak, çalışabilmesi için elle ek ayarlamalar yapmanız gerekebilir."
+
+#: scannerdrake:414
+#, c-format
+msgid "If it does not appear in the list of configured scanners in the main window of Scannerdrake or if it does not work correctly, "
+msgstr "Scannerdrake ana penceresindeki yapılandırılan tarayıcılar arasında göremezseniz veya düzgün biçimde çalışmazsa, "
+
+#: scannerdrake:415
+#, c-format
+msgid "edit the configuration file /etc/sane.d/%s.conf. "
+msgstr "/etc/sane.d/%s.conf yapılandırma dosyasını düzenleyin. "
+
+#: scannerdrake:420
+#, c-format
+msgid "Congratulations!"
+msgstr "Tebrikler!"
+
+#: scannerdrake:421
+#, c-format
+msgid ""
+"Your %s has been configured.\n"
+"You may now scan documents using \"XSane\" or \"%s\" from Multimedia/Graphics in the applications menu."
+msgstr ""
+"%s yapılandırıldı.\n"
+"Uygulamalar menüsünde Çokluortam/Grafikler sekmesinden \"XSane\" veya \"%s\" kullanarak belgelerinizi taratabilirsiniz."
+
+#: scannerdrake:446
+#, c-format
+msgid ""
+"The following scanners\n"
+"\n"
+"%s\n"
+"are available on your system.\n"
+msgstr ""
+"Şui tarayıcılar\n"
+"\n"
+"%s\n"
+"sisteminizde mevcut.\n"
+
+#: scannerdrake:447
+#, c-format
+msgid ""
+"The following scanner\n"
+"\n"
+"%s\n"
+"is available on your system.\n"
+msgstr ""
+"Şu tarayıcı\n"
+"\n"
+"%s\n"
+"sisteminizde mevcut.\n"
+
+#: scannerdrake:449 scannerdrake:452
+#, c-format
+msgid "There are no scanners found which are available on your system.\n"
+msgstr "Bilgisayarınızda hiçbir mevcut tarayıcı bulunamadı.\n"
+
+#: scannerdrake:460
+#, c-format
+msgid "Scanner Management"
+msgstr "Tarayıcı Yönetimi"
+
+#: scannerdrake:466
+#, c-format
+msgid "Search for new scanners"
+msgstr "Yeni tarayıcıları ara"
+
+#: scannerdrake:472
+#, c-format
+msgid "Add a scanner manually"
+msgstr "Tarayıcıyı elle ekle"
+
+#: scannerdrake:479
+#, c-format
+msgid "Install/Update firmware files"
+msgstr "Firmware dosyalarını Kur/Güncelle"
+
+#: scannerdrake:485
+#, c-format
+msgid "Scanner sharing"
+msgstr "Tarayıcı paylaşımı"
+
+#: scannerdrake:544 scannerdrake:709
+#, c-format
+msgid "All remote machines"
+msgstr "Tüm uzak makineler"
+
+#: scannerdrake:556 scannerdrake:859
+#, c-format
+msgid "This machine"
+msgstr "Bu makine"
+
+#: scannerdrake:595
+#, c-format
+msgid "Scanner Sharing"
+msgstr "Tarayıcı Paylaşımı"
+
+#: scannerdrake:596
+#, c-format
+msgid "Here you can choose whether the scanners connected to this machine should be accessible by remote machines and by which remote machines."
+msgstr "Burada, bu makineye bağlanan tarayıcılara uzak makinelerden erişilip erişilemeyeceğini ve hangi uzak makinelerden erişilebileceğini ayarlayabilirsiniz."
+
+#: scannerdrake:597
+#, c-format
+msgid "You can also decide here whether scanners on remote machines should be made available on this machine."
+msgstr "Ayrıca, uzak makinelerdeki tarayıcıların bu makine tarafından kullanılıp kullanılmayacağına karar verebilirsiniz."
+
+#: scannerdrake:600
+#, c-format
+msgid "The scanners on this machine are available to other computers"
+msgstr "Bu makinedeki mevcut tarayıcılara diğer bilgisayarlardan da erişilebilir"
+
+#: scannerdrake:602
+#, c-format
+msgid "Scanner sharing to hosts: "
+msgstr "Şu makinelere tarayıcı paylaştırılıyor: "
+
+#: scannerdrake:607 scannerdrake:624
+#, c-format
+msgid "No remote machines"
+msgstr "Uzak makine yok"
+
+#: scannerdrake:616
+#, c-format
+msgid "Use scanners on remote computers"
+msgstr "Uzak makinelerdeki tarayıcıları kullan"
+
+#: scannerdrake:619
+#, c-format
+msgid "Use the scanners on hosts: "
+msgstr "Şu makinelerdeki tarayıcıları kullan: "
+
+#: scannerdrake:646 scannerdrake:718 scannerdrake:868
+#, c-format
+msgid "Sharing of local scanners"
+msgstr "Yerel tarayıcıların paylaşımı"
+
+#: scannerdrake:647
+#, c-format
+msgid "These are the machines on which the locally connected scanner(s) should be available:"
+msgstr "Bunlar yerel bağlanmış tarayıcı(lar)ın kullanılabileceği makineler ve ağlardır:"
+
+#: scannerdrake:658 scannerdrake:808
+#, c-format
+msgid "Add host"
+msgstr "Makine Ekle"
+
+#: scannerdrake:664 scannerdrake:814
+#, c-format
+msgid "Edit selected host"
+msgstr "Seçili makineyi düzenle"
+
+#: scannerdrake:673 scannerdrake:823
+#, c-format
+msgid "Remove selected host"
+msgstr "Seçili makineleri kaldır"
+
+#: scannerdrake:682 scannerdrake:832
+#, c-format
+msgid "Done"
+msgstr "Bitti"
+
+#: scannerdrake:697 scannerdrake:705 scannerdrake:710 scannerdrake:756
+#: scannerdrake:847 scannerdrake:855 scannerdrake:860 scannerdrake:906
+#, c-format
+msgid "Name/IP address of host:"
+msgstr "Makinenin adı/IP adresi:"
+
+#: scannerdrake:719 scannerdrake:869
+#, c-format
+msgid "Choose the host on which the local scanners should be made available:"
+msgstr "Yerel tarayıcıların kullanılabileceği ağ veya makineleri seçin:"
+
+#: scannerdrake:730 scannerdrake:880
+#, c-format
+msgid "You must enter a host name or an IP address.\n"
+msgstr "Makina adı ya da IP numarası girmelisiniz.\n"
+
+#: scannerdrake:741 scannerdrake:891
+#, c-format
+msgid "This host is already in the list, it cannot be added again.\n"
+msgstr "Bu makine listede zaten mevcut, tekrar eklenemez.\n"
+
+#: scannerdrake:796
+#, c-format
+msgid "Usage of remote scanners"
+msgstr "Uzak (makinedeki) tarayıcıların kullanımı"
+
+#: scannerdrake:797
+#, c-format
+msgid "These are the machines from which the scanners should be used:"
+msgstr "Liste tarayıcısı kullanılabilecek makineler gösteriliyor:"
+
+#: scannerdrake:954
+#, c-format
+msgid ""
+"saned needs to be installed to share the local scanner(s).\n"
+"\n"
+"Do you want to install the saned package?"
+msgstr ""
+"Yerel tatarıcı(lar)ın paylaştırılabilmesi için saned paketinin kurulması gerekiyor.\n"
+"\n"
+"Saned paketinin kurulmasını ister misiniz?"
+
+#: scannerdrake:958 scannerdrake:962
+#, c-format
+msgid "Your scanner(s) will not be available on the network."
+msgstr "Tarayıcıları(nız) ağda görünmeyecek."
+
+#: scannerdrake:961
+#, c-format
+msgid "Could not install the packages needed to share your scanner(s)."
+msgstr "Tarayıcı(ları)nızı paylaştırmanız için gerekli paketler yüklenemedi."
+
+#: service_harddrake:153
+#, c-format
+msgid "The graphics card '%s' is no longer supported by driver '%s'"
+msgstr "'%s ' ekran kartı artık '%s' sürücüsü tarafından desteklenmemektedir."
+
+#: service_harddrake:163
+#, c-format
+msgid "New release, reconfiguring X for %s"
+msgstr "Yeni yayın, X %s için yeniden yapılandırılıyor"
+
+#: service_harddrake:254
+#, c-format
+msgid "The proprietary kernel driver was not found for X.org driver '%s'"
+msgstr "'%s' X.org sürücüsü için müseccel çekirdek sürücüsü bulunamadı"
+
+#: service_harddrake:293
+#, c-format
+msgid "Some devices in the \"%s\" hardware class were removed:\n"
+msgstr "\"%s\" donanım sınıfındaki bazı aygıtlar kaldırıldı:\n"
+
+#: service_harddrake:294
+#, c-format
+msgid "- %s was removed\n"
+msgstr "- %s kaldırıldı.\n"
+
+#: service_harddrake:297
+#, c-format
+msgid "Some devices were added: %s\n"
+msgstr "Bazı aygıtlar eklendi: %s\n"
+
+#: service_harddrake:298
+#, c-format
+msgid "- %s was added\n"
+msgstr "- %s eklendi.\n"
+
+#: service_harddrake:386
+#, c-format
+msgid "Hardware changes in \"%s\" class (%s seconds to answer)"
+msgstr "\"%s\" sınıfında donanım değişikliği (%s saniyede cevap veriyor)"
+
+#: service_harddrake:387
+#, c-format
+msgid "Do you want to run the appropriate config tool?"
+msgstr "Buna uygun yapılandırma aracını çalıştırmak ister misiniz?"
+
+#: service_harddrake:412
+#, c-format
+msgid "Hardware probing in progress"
+msgstr "Donanım Algılama sürüyor"
+
+#: service_harddrake:433 service_harddrake:438
+#, c-format
+msgid "Display driver issue"
+msgstr "Ekran kartı sürücüsü sorunu"
+
+#: service_harddrake:434
+#, c-format
+msgid "The display driver currently configured requires you to use the 'nokmsboot' boot option to prevent the KMS driver of the kernel from being loaded in the boot process. Startup of the X server may now fail as that option was not specified."
+msgstr "Yapılandırılmış olan ekran kartı sürücüsü, önyükleme sırasında çekirdektiki KMS sürücüsünün yüklenmesini önlemek için önyükleme seçeneklerinde 'nokmsboot' kullanılmasını gerektiriyor. Bu seçenek ayarlanmazsa X sunucusu başlatılamayabilir."
+
+#: service_harddrake:439
+#, c-format
+msgid "Detected a loaded display driver kernel module which conflicts with the driver the X server is configured to use. Startup of the X server may now fail."
+msgstr "X sunucusunun kullanmak üzere ayarlandığı sürücü ile çakışan bir ekran kartı çekirdek modülünün yüklendiği algılandı. X sunucusu başlayamayabilir."
+
+#: service_harddrake:454
+#, c-format
+msgid "The system has to be rebooted due to a display driver change."
+msgstr "Ekran kartı sürücüsü değişikliği nedeniyle sistem yeniden başlatılmalı."
+
+#: service_harddrake:455
+#, c-format
+msgid "Press Cancel within %d seconds to abort."
+msgstr "Durdurmak için %d saniye içinde İptal düğmesine tıklayın."
+
+#: ../menu/localedrake-system.desktop.in.h:1
+msgid "System Regional Settings"
+msgstr "Sistem Bölgesel Ayarları"
+
+#: ../menu/localedrake-system.desktop.in.h:2
+msgid "System wide language & country configurator"
+msgstr "Sistem geneli dil ve ülke yapılandırıcı"
+
+#: ../menu/harddrake.desktop.in.h:1
+msgid "HardDrake"
+msgstr "HardDrake"
+
+#: ../menu/harddrake.desktop.in.h:2
+msgid "Hardware Central Configuration/information tool"
+msgstr "Donanım Merkezi Yapılandırma/Bilgilendirme aracı"
+
+#: ../menu/harddrake.desktop.in.h:3
+msgid "Hardware Configuration Tool"
+msgstr "Donanım Yapılandırma Aracı"
+
+#: ../menu/localedrake-user.desktop.in.h:1
+msgid "Language & country configuration"
+msgstr "Dil ve Ülke yapılandırması"
+
+#: ../menu/localedrake-user.desktop.in.h:2
+msgid "Regional Settings"
+msgstr "Bölgesel Ayarlar"
