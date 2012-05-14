@@ -4,9 +4,9 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: drakx_standalone\n"
-"POT-Creation-Date: 2011-12-04 03:44+0200\n"
-"PO-Revision-Date: 2012-05-10 08:14+0000\n"
+"Project-Id-Version: control-center\n"
+"POT-Creation-Date: 2011-05-03 15:20+0200\n"
+"PO-Revision-Date: 2012-01-16 14:34+0000\n"
 "Last-Translator: Atilla ÖNTAŞ <tarakbumba@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -15,3208 +15,1907 @@ msgstr ""
 "Language: tr\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
-#: display_help:54 display_help:59 drakbug:173 drakperm:136
+#: ../contributors.pl:11
 #, c-format
-msgid "Help"
-msgstr "Yardım"
+msgid "Packagers"
+msgstr "Paketleyiciler"
 
-#: display_help:67 drakbug:178 drakfont:506
+#: ../contributors.pl:12 ../contributors.pl:40
 #, c-format
-msgid "Close"
-msgstr "Kapat"
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
 
-#: drakauth:24 drakauth:26 draksec:164
-#, c-format
-msgid "Authentication"
-msgstr "Kimlik kanıtlama"
-
-#: drakauth:37 drakclock:111 drakclock:125 drakdvb:74 drakfont:213
-#: drakfont:226 drakfont:264 finish-install:130 logdrake:170 logdrake:445
-#: logdrake:450 scannerdrake:59 scannerdrake:101 scannerdrake:142
-#: scannerdrake:200 scannerdrake:259 scannerdrake:729 scannerdrake:740
-#: scannerdrake:879 scannerdrake:890 scannerdrake:960
-#, c-format
-msgid "Error"
-msgstr "Hata"
-
-#: drakboot:55
-#, c-format
-msgid "No bootloader found, creating a new configuration"
-msgstr "Önyükleyici bulunamadı. Yeni bir yapılandırma oluşturuluyor."
-
-#: drakboot:88 harddrake2:199 harddrake2:200 logdrake:71
-#, c-format
-msgid "/_File"
-msgstr "/_Dosya"
-
-#: drakboot:89 logdrake:77
-#, c-format
-msgid "/File/_Quit"
-msgstr "/Dosya/Çı_kış"
-
-#: drakboot:89 harddrake2:200 logdrake:77
-#, c-format
-msgid "<control>Q"
-msgstr "<control>K"
-
-#: drakboot:129
-#, c-format
-msgid "Text only"
-msgstr "Sadece metin"
-
-#: drakboot:130
-#, c-format
-msgid "Verbose"
-msgstr "Ayrıntılı"
-
-#: drakboot:131
-#, c-format
-msgid "Silent"
-msgstr "Sessiz"
-
-#: drakboot:137 drakbug:250 drakdvb:57 drakfont:681 drakperm:376 drakperm:386
-#: drakups:27 harddrake2:537 localedrake:45 scannerdrake:51 scannerdrake:54
-#: scannerdrake:297 scannerdrake:302 scannerdrake:954
-#, c-format
-msgid "Warning"
-msgstr "Uyarı"
-
-#: drakboot:138
-#, c-format
-msgid "Your system bootloader is not in framebuffer mode. To activate graphical boot, select a graphic video mode from the bootloader configuration tool."
-msgstr "Sistem önyükleyiciniz çerçeve tampon belleği kipinde değil. Grafiksel açılışı etkinleştirmek için, önyükleyici yapılandırma aracını kullanarak grafik ekran kipi seçin."
-
-#: drakboot:139
-#, c-format
-msgid "Do you want to configure it now?"
-msgstr "Şimdi yapılandırmak ister misiniz?"
-
-#: drakboot:148
-#, c-format
-msgid "Install themes"
-msgstr "Temaları Kur"
-
-#: drakboot:150
-#, c-format
-msgid "Graphical boot theme selection"
-msgstr "Grafiksel açılış tema seçimi"
-
-#: drakboot:153
-#, c-format
-msgid "Graphical boot mode:"
-msgstr "Grafiksel açılış kipi:"
-
-#: drakboot:155
-#, c-format
-msgid "Theme"
-msgstr "Tema"
-
-#: drakboot:189
-#, c-format
-msgid "Default user"
-msgstr "Öntanımlı kullanıcı"
-
-#: drakboot:190
-#, c-format
-msgid "Default desktop"
-msgstr "Öntanımlı masaüstü"
-
-#: drakboot:193
-#, c-format
-msgid "No, I do not want autologin"
-msgstr "Hayır, Otomatik giriş istemiyorum"
-
-#: drakboot:194
-#, c-format
-msgid "Yes, I want autologin with this (user, desktop)"
-msgstr "Evet, otomatik girişi bu özelliklerle istiyorum (kullanıcı, masaüstü)"
-
-#: drakboot:201
-#, c-format
-msgid "System mode"
-msgstr "Sistem Kipi"
-
-#: drakboot:204
-#, c-format
-msgid "Launch the graphical environment when your system starts"
-msgstr "Grafiksel ortam açılışta çalıştırılsın"
-
-#: drakboot:259
-#, c-format
-msgid "Boot Style Configuration"
-msgstr "Önyükleme Yapılandırması"
-
-#: drakboot:261 drakboot:265
-#, c-format
-msgid "Video mode"
-msgstr "Ekran kipi"
-
-#: drakboot:262
+#: ../contributors.pl:12
 #, c-format
 msgid ""
-"Please choose a video mode, it will be applied to each of the boot entries selected below.\n"
-"Be sure your video card supports the mode you choose."
-msgstr ""
-"Lütfen bir ekran kipi seçin, bu kip aşağıda seçilen her bir açılış girdisine uygulanacaktır.\n"
-"Seçtiğiniz kipin ekran kartınız tarafından desteklendiğinden emin olun."
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr "çok sayıda paket yeniden derleme ve temizleme, oyunlar, sparc mimarisine aktarım, Mandriva araçları yazımını doğrulama"
 
-#: drakbug:52 drakbug:140
+#: ../contributors.pl:13
 #, c-format
-msgid "The \"%s\" program has crashed with the following error:"
-msgstr "\"%s\" uygulaması şu hatayı vererek çöktü:"
+msgid "Guillaume Rousse"
+msgstr "Guillaume Rousse"
 
-#: drakbug:62
+#: ../contributors.pl:13
 #, c-format
-msgid "%s Bug Report Tool"
-msgstr "%s Hata Bildirme Aracı"
+msgid "cowsay introduction"
+msgstr "cowsay sunumu"
 
-#: drakbug:67
+#: ../contributors.pl:14
 #, c-format
-msgid "%s Control Center"
-msgstr "%s Denetim Merkezi"
+msgid "Olivier Thauvin"
+msgstr "Olivier Thauvin"
 
-#: drakbug:68
+#: ../contributors.pl:14
 #, c-format
-msgid "First Time Wizard"
-msgstr "İlk Açılış Sihirbazı"
+msgid "figlet introduction, Distriblint (checking rpm in the distro)"
+msgstr "figlet sunumu, Distriblint (dağıtımdaki rpm denetimi)"
 
-#: drakbug:69
+#: ../contributors.pl:15
 #, c-format
-msgid "Synchronization tool"
-msgstr "Eşleştirme aracı"
+msgid "Marcel Pol"
+msgstr "Marcel Pol"
 
-#: drakbug:70 drakbug:206
+#: ../contributors.pl:15
 #, c-format
-msgid "Standalone Tools"
-msgstr "Tekli Araçlar"
+msgid "xfce4, updated abiword, mono"
+msgstr "xfce4, güncellenmiş abiword, mono"
 
-#: drakbug:72 drakbug:73
+#: ../contributors.pl:16
 #, c-format
-msgid "%s Online"
-msgstr "%s Çevrimiçi"
+msgid "Ben Reser"
+msgstr "Ben Reser"
 
-#: drakbug:74
-#, c-format
-msgid "Remote Control"
-msgstr "Uzaktan Yönetim"
-
-#: drakbug:75
-#, c-format
-msgid "Software Manager"
-msgstr "Yazılım Yöneticisi"
-
-#: drakbug:76
-#, c-format
-msgid "Windows Migration tool"
-msgstr "Windows' tan Göç Aracı"
-
-#: drakbug:77
-#, c-format
-msgid "Configuration Wizards"
-msgstr "Yapılandırma Sihirbazı"
-
-#: drakbug:99
-#, c-format
-msgid "Select %s Tool:"
-msgstr "%s Aracını Seçin:"
-
-#: drakbug:100
+#: ../contributors.pl:16
 #, c-format
 msgid ""
-"or Application Name\n"
-"(or Full Path):"
-msgstr ""
-"veya Uygulama İsmi\n"
-"(veya Tam Konum):"
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr "debian yamaları ile güncellenmiş nc, bazı perl paketlerinde hata giderme, dnotify başlangıç betiği, urpmc, hddtemp,wipe v.b."
 
-#: drakbug:103
+#: ../contributors.pl:17 ../contributors.pl:42
 #, c-format
-msgid "Find Package"
-msgstr "Paket Bul"
+msgid "Thomas Backlund"
+msgstr "Thomas Backlund"
 
-#: drakbug:104
-#, c-format
-msgid "Browse"
-msgstr "Gözat"
-
-#: drakbug:106
-#, c-format
-msgid "Package: "
-msgstr "Paket:"
-
-#: drakbug:107
-#, c-format
-msgid "Kernel:"
-msgstr "Çekirdek:"
-
-#: drakbug:139
-#, c-format
-msgid "The \"%s\" program has segfaulted with the following error:"
-msgstr "\"%s\" uygulaması şu hatayı vererek çöktü:"
-
-#: drakbug:144
-#, c-format
-msgid "Used theme: %s"
-msgstr "Kullanılan tema: %s"
-
-#: drakbug:146
+#: ../contributors.pl:17
 #, c-format
 msgid ""
-"To submit a bug report, click on the report button.  \n"
-"This will open a web browser window on %s where you'll find a form to fill in.  The information displayed above will be transferred to that server"
-msgstr ""
-"Hata bildirimi göndermek için \"bildir\" düğmesine tıklayın. \n"
-"Web tarayıcısı %s adresiyle açılacaktır. Oradaki formu doldurunca yukarıdaki bilgilerilerle birlikte oraya gönderilecektir."
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr "\"derin ve etkin\" çekirdek çalışması (resmi çekirdeğe katılmadan önce bir çok yama)"
 
-#: drakbug:148
+#: ../contributors.pl:18
 #, c-format
-msgid "It would be very useful to attach to your report the output of the following command: %s."
-msgid_plural "Things useful to attach to your report are the output of the following commands: %s."
-msgstr[0] "Şu komutların çıktısını rapora eklemeniz oldukça yararlı olacaktır: %s."
+msgid "Svetoslav Slavtchev"
+msgstr "Svetoslav Slavtchev"
 
-#: drakbug:151
+#: ../contributors.pl:18
 #, c-format
-msgid "'%s'"
-msgstr "'%s'"
+msgid "kernel work (audio- and video-related patches)"
+msgstr "çekirdek çalışması (ses ve video ilişkin yamalar)"
 
-#: drakbug:154
+#: ../contributors.pl:19
 #, c-format
-msgid "You should also attach the following files: %s as well as %s."
-msgstr "Şu dosyaları da eklemeniz gerekir: %s ve %s."
+msgid "Danny Tholen"
+msgstr "Danny Tholen"
 
-#: drakbug:161
+#: ../contributors.pl:19
 #, c-format
-msgid "Please describe what you were doing when it crashed:"
-msgstr "Lütfen, uygulama çöktüğünde ne yapmakta olduğunuz açıklayın:"
+msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
+msgstr "bazı paketleri yamalama, kfiresaver, xwine.ppc kernel-benh."
 
-#: drakbug:177
+#: ../contributors.pl:20
 #, c-format
-msgid "Report"
-msgstr "Bildir"
+msgid "Buchan Milne"
+msgstr "Buchan Milne"
 
-#: drakbug:213
-#, c-format
-msgid "Not installed"
-msgstr "Kurulmadı"
-
-#: drakbug:226
-#, c-format
-msgid "Package not installed"
-msgstr "Paket kurulu değil"
-
-#: drakbug:251
-#, c-format
-msgid "You must type in what you were doing when this bug happened in order to enable us to reproduce this bug and to increase the odds of fixing it"
-msgstr "Bizim yeniden bu hatayı oluşturabilmemiz ve düzeltebilmemiz için, bu hata oluştuğu sırada ne yaptığınız yazmanız gereklidir."
-
-#: drakbug:252
-#, c-format
-msgid "Thanks."
-msgstr "Teşekkürler."
-
-#: drakclock:30 draksec:170
-#, c-format
-msgid "Date, Clock & Time Zone Settings"
-msgstr "Tarih, Saat & Zaman Dilimi Ayarları"
-
-#: drakclock:39
-#, c-format
-msgid "not defined"
-msgstr "belirtilmemiş"
-
-#: drakclock:41
-#, c-format
-msgid "Change Time Zone"
-msgstr "Zaman Dilimini Değiştir"
-
-#: drakclock:44
-#, c-format
-msgid "Timezone - DrakClock"
-msgstr "Zaman Dilimi - DrakClock"
-
-#: drakclock:44
-#, c-format
-msgid "Which is your timezone?"
-msgstr "Bulunduğunuz zaman dilimi hangisi?"
-
-#: drakclock:45
-#, c-format
-msgid "GMT - DrakClock"
-msgstr "GMT - DrakClock"
-
-#: drakclock:45
-#, c-format
-msgid "Is your hardware clock set to GMT?"
-msgstr "Donanım saatiniz GMT'ye göre mi ayarlı?"
-
-#: drakclock:70
-#, c-format
-msgid "Network Time Protocol"
-msgstr "Ağ Zaman Protokolü"
-
-#: drakclock:72
+#: ../contributors.pl:20
 #, c-format
 msgid ""
-"Your computer can synchronize its clock\n"
-" with a remote time server using NTP"
-msgstr ""
-"Bilgisayarınız saatini NTP kullanarak\n"
-"bir uzak zaman sunucusya eşleştirebilir."
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr "Samba 2.2.x ile birlikte yer alan Samba 3.0 (yayın öncesi), Samba-2.2.x, CBS yazılımları (grass, mapserver), cursor_themes toplanması, çeşitli sunucu tarafı katkıları"
 
-#: drakclock:73
+#: ../contributors.pl:21
 #, c-format
-msgid "Enable Network Time Protocol"
-msgstr "Ağ Zaman Protokolünü etkinleştir"
+msgid "Goetz Waschk"
+msgstr "Goetz Waschk"
 
-#: drakclock:81
-#, c-format
-msgid "Server:"
-msgstr "Sunucu:"
-
-#: drakclock:95
-#, c-format
-msgid "Timezone"
-msgstr "Zaman Dilimi"
-
-#: drakclock:111
-#, c-format
-msgid "Please enter a valid NTP server address."
-msgstr "Lütfen geçerli bir NTP sunucu adresi girin."
-
-#: drakclock:126
-#, c-format
-msgid "Could not synchronize with %s."
-msgstr "%s ile eşleştirilemiyor."
-
-#: drakclock:127 drakdvb:149 logdrake:175 scannerdrake:491
-#, c-format
-msgid "Quit"
-msgstr "Çık"
-
-#: drakclock:128
-#, c-format
-msgid "Retry"
-msgstr "Yeniden dene"
-
-#: drakclock:151 drakclock:161
-#, c-format
-msgid "Reset"
-msgstr "Sıfırla"
-
-#: drakdvb:30
-#, c-format
-msgid "DVB"
-msgstr "DVB"
-
-#: drakdvb:39 harddrake2:101
-#, c-format
-msgid "Channel"
-msgstr "Kanal"
-
-#: drakdvb:57
-#, c-format
-msgid "%s already exists and its contents will be lost"
-msgstr "%s zaten var ve tüm içeriği kaybedilecektir."
-
-#: drakdvb:74
-#, c-format
-msgid "Could not get the list of available channels"
-msgstr "Erişilebilir kanalların listesi alınamıyor."
-
-#: drakdvb:80 draksec:73 drakups:99 finish-install:105 harddrake2:381
-#: scannerdrake:66 scannerdrake:70 scannerdrake:78 scannerdrake:319
-#: scannerdrake:368 scannerdrake:504 scannerdrake:508 scannerdrake:530
-#: service_harddrake:412
-#, c-format
-msgid "Please wait"
-msgstr "Lütfen bekleyin"
-
-#: drakdvb:84
-#, c-format
-msgid "Detecting DVB channels, this will take a few minutes"
-msgstr "DVB kanalları algılanıyor. Bu işlem zaman alabilir."
-
-#: drakdvb:85 drakfont:571 drakfont:651 drakfont:735 drakups:217 logdrake:175
-#, c-format
-msgid "Cancel"
-msgstr "İptal"
-
-#: drakdvb:148
-#, c-format
-msgid "Detect Channels"
-msgstr "Kanalları Algıla"
-
-#: drakdvb:150
-#, c-format
-msgid "View Channel"
-msgstr "Kanalı İzle"
-
-#: drakedm:41
-#, c-format
-msgid "GDM (GNOME Display Manager)"
-msgstr "GDM (GNOME Ekran Yöneticisi)"
-
-#: drakedm:42
-#, c-format
-msgid "KDM (KDE Display Manager)"
-msgstr "KDM (KDE Ekran Yöneticisi)"
-
-#: drakedm:43
-#, c-format
-msgid "XDM (X Display Manager)"
-msgstr "XDM (X Ekran Yöneticisi)"
-
-#: drakedm:54
-#, c-format
-msgid "Choosing a display manager"
-msgstr "Bir görüntü yönetici seçin"
-
-#: drakedm:55
+#: ../contributors.pl:21
 #, c-format
 msgid ""
-"X11 Display Manager allows you to graphically log\n"
-"into your system with the X Window System running and supports running\n"
-"several different X sessions on your local machine at the same time."
-msgstr ""
-"X11 Ekran Yöneticisi, sisteminize X Pencere Sistemi ile\n"
-"grafiksel giriş yapmanızı ve birden çok X oturumunu\n"
-"aynı anda çalıştırabilmenizi sağlar."
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms ve eklentileri gnome-python, rox desktop"
 
-#: drakedm:74
+#: ../contributors.pl:22
 #, c-format
-msgid "The change is done, do you want to restart the dm service?"
-msgstr "Değişiklik tamamlandı, dm hizmetini yeniden başlatmak ister misiniz?"
+msgid "Austin Acton"
+msgstr "Austin Acton"
 
-#: drakedm:75
-#, c-format
-msgid "You are going to close all running programs and lose your current session. Are you really sure that you want to restart the dm service?"
-msgstr "Çalışan tüm uygulamalarınızı kapatmak ve şu anki oturumu kaybetmek üzeresiniz. Gerçek ekran yöneticisi hizmetini yeniden başlatmak istiyor musnuz?"
-
-#: drakfont:187
-#, c-format
-msgid "Search installed fonts"
-msgstr "Yüklü yazıtiplerini ara"
-
-#: drakfont:189
-#, c-format
-msgid "Unselect fonts installed"
-msgstr "Yüklü yazı tiplerini seçimden çıkar"
-
-#: drakfont:213
-#, c-format
-msgid "No fonts found"
-msgstr "Hiç yazı tipi bulunamadı"
-
-#: drakfont:217
-#, c-format
-msgid "parse all fonts"
-msgstr "tüm yazı tiplerini çözümle"
-
-#: drakfont:222 drakfont:263 drakfont:338 drakfont:379 drakfont:383
-#: drakfont:409 drakfont:427 drakfont:435
-#, c-format
-msgid "done"
-msgstr "bitti"
-
-#: drakfont:226
-#, c-format
-msgid "Could not find any font in your mounted partitions"
-msgstr "Bağlı disk bölümlerinizde hiç bir yazı tipi bulunamadı"
-
-#: drakfont:261
-#, c-format
-msgid "Reselect correct fonts"
-msgstr "Doğru yazı tiplerini yeniden seç"
-
-#: drakfont:264
-#, c-format
-msgid "Could not find any font.\n"
-msgstr "Hiç yazı tipi bulunamadı.\n"
-
-#: drakfont:274
-#, c-format
-msgid "Search for fonts in installed list"
-msgstr "Yüklü olanlar listesideki yazı tiplerini ara"
-
-#: drakfont:298
-#, c-format
-msgid "%s fonts conversion"
-msgstr "%s yazı tipi dönüşümü"
-
-#: drakfont:336
-#, c-format
-msgid "Fonts copy"
-msgstr "Yazı tipleri kopyalanıyor"
-
-#: drakfont:339
-#, c-format
-msgid "True Type fonts installation"
-msgstr "True Type yazı tipi kurulumu"
-
-#: drakfont:347
-#, c-format
-msgid "please wait during ttmkfdir..."
-msgstr "ttmkfdir çalışıyor, lütfen bekleyiniz..."
-
-#: drakfont:348
-#, c-format
-msgid "True Type install done"
-msgstr "True Type kurulumu bitti"
-
-#: drakfont:354 drakfont:369
-#, c-format
-msgid "type1inst building"
-msgstr "type1inst kurulumu"
-
-#: drakfont:363
-#, c-format
-msgid "Ghostscript referencing"
-msgstr "Ghostscript başvuruları"
-
-#: drakfont:380
-#, c-format
-msgid "Suppress Temporary Files"
-msgstr "Geçici dosyaları engelle"
-
-#: drakfont:425 drakfont:431
-#, c-format
-msgid "Suppress Fonts Files"
-msgstr "Yazı tipi Dosyalarını Engelle"
-
-#: drakfont:439
+#: ../contributors.pl:22
 #, c-format
 msgid ""
-"Before installing any fonts, be sure that you have the right to use and install them on your system.\n"
-"\n"
-"You can install the fonts the normal way. In rare cases, bogus fonts may hang up your X Server."
-msgstr ""
-"Herhangi bir yazı tipini sisteminize kurmadan önce kullanım hakkınız olduğundan emin olmalısınız.\n"
-"\n"
-"Yazı tiplerini normal yoldan kurabilirsiniz. Genellikle, sağdan soldan toplanan bozuk yazı tipleri X sunucunuzun çökmesine sebep olur."
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr "ses/video/MIDI uygulamaları, bilimsel uygulamalar, ses/video üretim belgeleri, mavidiş, pyqt & ilişkililer"
 
-#: drakfont:478
+#: ../contributors.pl:23
 #, c-format
-msgid "Font Installation"
-msgstr "Yazı Tipi Kurulumu"
+msgid "Spencer Anderson"
+msgstr "Spencer Anderson"
 
-#: drakfont:489
+#: ../contributors.pl:23
 #, c-format
-msgid "DrakFont"
-msgstr "DrakFont"
+msgid "ATI/gatos/DRM stuff, opengroupware.org"
+msgstr "ATI/gatos/DRM paketleri, opengroupware.org"
 
-#: drakfont:490 drakfont:641
+#: ../contributors.pl:24
 #, c-format
-msgid "Font List"
-msgstr "Yazı tipi Listesi"
+msgid "Andrey Borzenkov"
+msgstr "Andrey Borzenkov"
 
-#: drakfont:493
+#: ../contributors.pl:24
 #, c-format
-msgid "Get Windows Fonts"
-msgstr "Windows Yazı Tiplerini Al"
+msgid "supermount-ng and other kernel work"
+msgstr "supermount-ng ve diğer çekirdek çalışmaları"
 
-#: drakfont:499
+#: ../contributors.pl:25
 #, c-format
-msgid "About"
-msgstr "Hakkında"
+msgid "Oden Eriksson"
+msgstr "Oden Eriksson"
 
-#: drakfont:500 drakfont:540
+#: ../contributors.pl:25
 #, c-format
-msgid "Options"
-msgstr "Seçenekler"
+msgid "most web-based packages and many security-related packages"
+msgstr "web-temelli paketlerin çoğu ve bir çok güvenlik ile ilgili paket"
 
-#: drakfont:501 drakfont:720
+#: ../contributors.pl:26
 #, c-format
-msgid "Uninstall"
-msgstr "Kaldır"
+msgid "Stefan VanDer Eijk"
+msgstr "Stefan VanDer Eijk"
 
-#: drakfont:502
+#: ../contributors.pl:26
 #, c-format
-msgid "Import"
-msgstr "Al"
+msgid "slbd distro checking, devel dependencies"
+msgstr "slbd dağıtım kontrolü, devel bağımlılıkları"
 
-#: drakfont:520
+#: ../contributors.pl:27
 #, c-format
-msgid "Drakfont"
-msgstr "Drakfont"
+msgid "David Walser"
+msgstr "David Walser"
 
-#: drakfont:522 harddrake2:237
+#: ../contributors.pl:27
 #, c-format
-msgid "Copyright (C) %s by %s"
-msgstr "Copyright (C) %s bir %s ürünüdür"
+msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
+msgstr "rpmsync betiği, hatasız MIDI oynatımı, geliştirilmiş libao"
 
-#: drakfont:522 drakfont:526 harddrake2:241
+#: ../contributors.pl:28
+#, c-format
+msgid "Andi Payn"
+msgstr "Andi Payn"
+
+#: ../contributors.pl:28
+#, c-format
+msgid "many extra gnome applets and python modules"
+msgstr "bir çok ek gnome uygulamacıkları ve python modülleri"
+
+#: ../contributors.pl:29 ../contributors.pl:41
+#, c-format
+msgid "Tibor Pittich"
+msgstr "Tibor Pittich"
+
+#: ../contributors.pl:29
+#, c-format
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr "sk-i18n, bir çok paket katkısı, openldap deneme ve "
+
+#: ../contributors.pl:30
+#, c-format
+msgid "Pascal Terjan"
+msgstr "Pascal Terjan"
+
+#: ../contributors.pl:30
+#, c-format
+msgid "some ruby stuff, php-pear packages, various other stuff."
+msgstr "Bazı ruby, php-pear paketleri, çeşitli katkılar."
+
+#: ../contributors.pl:31
+#, c-format
+msgid "Michael Reinsch"
+msgstr "Michael Reinsch"
+
+#: ../contributors.pl:31
+#, c-format
+msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
+msgstr "moin wiki klonu, beep-medya-çalar, im-ja ve diğer bazı paketler"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "Christophe Guilloux"
+msgstr "Christophe Guilloux"
+
+#: ../contributors.pl:32
+#, c-format
+msgid "bug reports, help with thunderbird package,..."
+msgstr "hata raporları, thunderbird paketi ile yardım ..."
+
+#: ../contributors.pl:33
+#, c-format
+msgid "Brook Humphrey"
+msgstr "Brook Humphrey"
+
+#: ../contributors.pl:33
+#, c-format
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr "test ve hata raporları, Dovecot, bibletime, sword, saf, ftpd spamassassin, maildrop, clamav ile ilgili yardımlar"
+
+#: ../contributors.pl:34
+#, c-format
+msgid "Olivier Blin"
+msgstr "Olivier Blin"
+
+#: ../contributors.pl:34
+#, c-format
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr "kurulum aracı http vekil sunucu desteği, sndconfig içinde kernel 2.6 desteği,LinNeighborhood içinde samba3 desteği, urpmi, bootsplash ve drakxtools üzerinde düzeltmeler ve geliştirmeler. "
+
+#: ../contributors.pl:35
+#, c-format
+msgid "Emmanuel Blindauer"
+msgstr "Emmanuel Blindauer"
+
+#: ../contributors.pl:35
+#, c-format
+msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
+msgstr "2.6 çekirdeği için lm_sensors desteği, test, bazı contrib paketleri."
+
+#: ../contributors.pl:36
+#, c-format
+msgid "Matthias Debus"
+msgstr "Matthias Debus"
+
+#: ../contributors.pl:36
+#, c-format
+msgid "sim, pine and some other contrib packages."
+msgstr "sim, pine ve diğer bazı contrib paketleri."
+
+#: ../contributors.pl:37
+#, c-format
+msgid "Documentation"
+msgstr "Belgeleme"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "SunnyDubey"
+msgstr "SunnyDubey"
+
+#: ../contributors.pl:38
+#, c-format
+msgid "wrote/edited parts of gi/docs/HACKING file"
+msgstr "gi/docs/HACKING dosyasında kısım yazımı ve düzenlemesi"
+
+#: ../contributors.pl:39
+#, c-format
+msgid "Translators"
+msgstr "Çevirmenler"
+
+#: ../contributors.pl:40
+#, c-format
+msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
+msgstr "Norveç Bokmal (nb) çevirmeni ve koordinatörü, i18n çalışma"
+
+#: ../contributors.pl:41
+#, c-format
+msgid "\"one-man\" mdk sk-i18n team"
+msgstr "\"Tek kişilik\" mdk sk-i18n takımı"
+
+#: ../contributors.pl:42
+#, c-format
+msgid "Finnish translator and coordinator"
+msgstr "Fince çevirmeni ve koordinatörü"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Reinout Van Schouwen"
+msgstr "Reinout Van Schouwen"
+
+#: ../contributors.pl:43
+#, c-format
+msgid "Dutch translator and coordinator"
+msgstr "Felemenkçe çevirmeni ve koordinatörü"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Keld Simonsen"
+msgstr "Keld Simonsen"
+
+#: ../contributors.pl:44
+#, c-format
+msgid "Danish translator (and some Bokmal too:-)"
+msgstr "Danca çevirmeni (ve biraz Bokmal...)"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Karl Ove Hufthammer"
+msgstr "Karl Ove Hufthammer"
+
+#: ../contributors.pl:45
+#, c-format
+msgid "Norwegian Nynorsk (nn) translator and coordinator"
+msgstr "Noveç Nynorsk (nn) çevirmeni ve koordinatörü"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Marek Laane"
+msgstr "Marek Laane"
+
+#: ../contributors.pl:46
+#, c-format
+msgid "Estonian translator"
+msgstr "Estonca çevirmeni"
+
+#: ../contributors.pl:47
+#, c-format
+msgid "Andrea Celli"
+msgstr "Andrea Celli"
+
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
+#, c-format
+msgid "Italian Translator"
+msgstr "İtalyanca Çevirmeni"
+
+#: ../contributors.pl:48 ../contributors.pl:64
+#, c-format
+msgid "Simone Riccio"
+msgstr "Simone Riccio"
+
+#: ../contributors.pl:49 ../contributors.pl:65
+#, c-format
+msgid "Daniele Pighin"
+msgstr "Daniele Pighin"
+
+#: ../contributors.pl:50 ../contributors.pl:68
+#, c-format
+msgid "Vedran Ljubovic"
+msgstr "Vedran Ljubovic"
+
+#: ../contributors.pl:50
+#, c-format
+msgid "Bosnian translator"
+msgstr "Boşnakça çevirmeni"
+
+#: ../contributors.pl:51
+#, c-format
+msgid "Testers"
+msgstr "Deneyiciler"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "Benoit Audouard"
+msgstr "Benoit Audouard"
+
+#: ../contributors.pl:52
+#, c-format
+msgid "testing and bug reporting, integration of eagle-usb driver"
+msgstr "deneme ve hata raporlama, eagle-usb sürücüsü entegrasyonu"
+
+#: ../contributors.pl:53
+#, c-format
+msgid "Bernhard Gruen"
+msgstr "Bernhard Gruen"
+
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
+#: ../contributors.pl:62
+#, c-format
+msgid "testing and bug reporting"
+msgstr "deneme ve hata raporlama"
+
+#: ../contributors.pl:54
+#, c-format
+msgid "Jure Repinc"
+msgstr "Jure Repinc"
+
+#: ../contributors.pl:55
+#, c-format
+msgid "Felix Miata"
+msgstr "Felix Miata"
+
+#: ../contributors.pl:56
+#, c-format
+msgid "Tim Sawchuck"
+msgstr "Tim Sawchuck"
+
+#: ../contributors.pl:57
+#, c-format
+msgid "Eric Fernandez"
+msgstr "Eric Fernandez"
+
+#: ../contributors.pl:58
+#, c-format
+msgid "Ricky Ng-Adam"
+msgstr "Ricky Ng-Adam"
+
+#: ../contributors.pl:59
+#, c-format
+msgid "Pierre Jarillon"
+msgstr "Pierre Jarillon"
+
+#: ../contributors.pl:60
+#, c-format
+msgid "Michael Brower"
+msgstr "Michael Brower"
+
+#: ../contributors.pl:61
+#, c-format
+msgid "Frederik Himpe"
+msgstr "Frederik Himpe"
+
+#: ../contributors.pl:62
+#, c-format
+msgid "Jason Komar"
+msgstr "Jason Komar"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "Raphael Gertz"
+msgstr "Raphael Gertz"
+
+#: ../contributors.pl:63
+#, c-format
+msgid "testing, bug report, Nvidia package try"
+msgstr "test, hata raporu, Nvidia paket deneyimi"
+
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
+#, c-format
+msgid "testing, bug reporting"
+msgstr "test, hata raporlama"
+
+#: ../contributors.pl:66
+#, c-format
+msgid "Fabrice FACORAT"
+msgstr "Fabrice FACORAT"
+
+#: ../contributors.pl:67
+#, c-format
+msgid "Mihai Dobrescu"
+msgstr "Mihai Dobrescu"
+
+#: ../contributors.pl:69
+#, c-format
+msgid "Mary V. Jones-Giampalo"
+msgstr "Mary V. Jones-Giampalo"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "Vincent Meyer"
+msgstr "Vincent Meyer"
+
+#: ../contributors.pl:70
+#, c-format
+msgid "MD, testing, bug reporting"
+msgstr "MD, test, hata raporlama"
+
+#: ../contributors.pl:71
+#, c-format
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr "Ve her şeyin düzgün çalıştığından emin olmamıza yardımcı olan birçok isimsiz ve bilinmeyen beta testçisi ve hata raporlayıcısı"
+
+#: ../control-center:90
 #, c-format
 msgid "Mageia"
 msgstr "Mageia"
 
-#: drakfont:524
+#: ../control-center:100 ../control-center:105
 #, c-format
-msgid "Font installer."
-msgstr "Yazı tipi kurucusu."
+msgid "%s Control Center"
+msgstr "%s CDenetim Merkezi"
 
-#. -PO: put here name(s) and email(s) of translator(s) (eg: "John Smith
-#. <jsmith@nowhere.com>")
-#. -PO: put here name(s) and email(s) of translator(s) (eg: "John Smith
-#. <jsmith@nowhere.com>")
-#: drakfont:532 harddrake2:245
+#: ../control-center:106 ../control-center:1059
 #, c-format
-msgid "_: Translator(s) name(s) & email(s)\n"
-msgstr ""
-"Ömer Fadıl USTA <omer_fad@hotmail.com> , 1999-2003.\n"
-"Tuncay YENİAY <tuncayyeniay@mynet.com> , 2002.\n"
-"Nazmi Savga<nsavga@doruk.net.tr> , 2001.\n"
-"Durmuş Celep <durmusc_tr@yahoo.com> , 2002.\n"
-"Erçin EKER <erc.caldera@gmx.net> , 2003.\n"
-"Taha Özket <taha.ozket@obss.net> , 2007\n"
-"Atilla ÖNTAŞ <atilla_ontas@mandriva.org> , 2008-2011\n"
+msgid "Loading... Please wait"
+msgstr "Yükleniyor ... Lütfen bekleyin"
 
-#: drakfont:542
-#, c-format
-msgid "Choose the applications that will support the fonts:"
-msgstr "Yazıtiplerini destekleyen uygulamaları seçiniz:"
-
-#: drakfont:553
-#, c-format
-msgid "Ghostscript"
-msgstr "Ghostscript"
-
-#: drakfont:554
-#, c-format
-msgid "LibreOffice"
-msgstr "LibreOffice"
-
-#: drakfont:555
-#, c-format
-msgid "Abiword"
-msgstr "Abiword"
-
-#: drakfont:556
-#, c-format
-msgid "Generic Printers"
-msgstr "Temel Yazıcı"
-
-#: drakfont:561 drakfont:571 drakups:210
-#, c-format
-msgid "Ok"
-msgstr "Tamam"
-
-#: drakfont:570
-#, c-format
-msgid "Select the font file or directory and click on 'Add'"
-msgstr "Yazı tipi dosyasını ya da dizinini seçtikten sonra 'Ekle' ye tıklayınız."
-
-#: drakfont:571
-#, c-format
-msgid "File Selection"
-msgstr "Dosya Seçimi"
-
-#: drakfont:575
-#, c-format
-msgid "Fonts"
-msgstr "Yazı tipleri"
-
-#: drakfont:639 draksec:166
-#, c-format
-msgid "Import fonts"
-msgstr "Yazı tipi al"
-
-#: drakfont:645 drakups:299 drakups:361 drakups:381
-#, c-format
-msgid "Add"
-msgstr "Ekle"
-
-#: drakfont:646 drakfont:734 drakups:301 drakups:363 drakups:383
-#, c-format
-msgid "Remove"
-msgstr "Kaldır"
-
-#: drakfont:652
-#, c-format
-msgid "Install"
-msgstr "Kur"
-
-#: drakfont:683
-#, c-format
-msgid "Are you sure you want to uninstall the following fonts?"
-msgstr "Aşağıdaki yazı tiplerini kaldırmak istediğinizden emin misiniz?"
-
-#: drakfont:687 draksec:60 harddrake2:326
-#, c-format
-msgid "Yes"
-msgstr "Evet"
-
-#: drakfont:689 draksec:59 harddrake2:327
-#, c-format
-msgid "No"
-msgstr "Hayır"
-
-#: drakfont:728
-#, c-format
-msgid "Unselect All"
-msgstr "Tümünü Seçimden Çıkar"
-
-#: drakfont:731
-#, c-format
-msgid "Select All"
-msgstr "Tümünü Seç"
-
-#: drakfont:748
-#, c-format
-msgid "Importing fonts"
-msgstr "Yazı tipi alınıyor"
-
-#: drakfont:752 drakfont:772
-#, c-format
-msgid "Initial tests"
-msgstr "Denetimler başlıyor"
-
-#: drakfont:753
-#, c-format
-msgid "Copy fonts on your system"
-msgstr "Yazı tipleri sisteminize kopyalanıyor"
-
-#: drakfont:754
-#, c-format
-msgid "Install & convert Fonts"
-msgstr "Yazı tiplerini kur ve dönüştür"
-
-#: drakfont:755
-#, c-format
-msgid "Post Install"
-msgstr "Kurulum Sonrası"
-
-#: drakfont:767
-#, c-format
-msgid "Removing fonts"
-msgstr "Yazı tipi kaldırılıyor"
-
-#: drakfont:773
-#, c-format
-msgid "Remove fonts on your system"
-msgstr "Yazı tipleri siseminizden kaldırılıyor"
-
-#: drakfont:774
-#, c-format
-msgid "Post Uninstall"
-msgstr "Kurulumun kaldırılması Sonrası"
-
-#: drakhelp:17
-#, c-format
-msgid ""
-" drakhelp 0.1\n"
-"Copyright (C) %s Mandriva.\n"
-"Copyright (C) %s Mageia.\n"
-"This is free software and may be redistributed under the terms of the GNU GPL.\n"
-"\n"
-"Usage: \n"
-msgstr ""
-"drakhelp 0.1\n"
-"Copyright (C) %s Mandriva.\n"
-"Copyright (C) %s Mageia.\n"
-"Bu bir özgür yazılım olup GNU GPL koşulları altında yeniden dağıtılabilirL.\n"
-"\n"
-"Kullanımı: \n"
-
-#: drakhelp:23
-#, c-format
-msgid "  --help                - display this help     \n"
-msgstr "  --help                - bu yardımı görüntüle   \n"
-
-#: drakhelp:24
-#, c-format
-msgid " --id <id_label>       - load the html help page which refers to id_label\n"
-msgstr " --id <id_label>       - id_label'e başvuran html yardım dosyasını yükle\n"
-
-#: drakhelp:25
-#, c-format
-msgid " --doc <link>          - link to another web page ( for WM welcome frontend)\n"
-msgstr " --doc <link>          - diğer web sayfasına bağlantıla ( WM hoşgeldiniz ön yüzü için)\n"
-
-#: drakhelp:53
-#, c-format
-msgid "%s Help Center"
-msgstr "%s Yardım Merkezi"
-
-#: drakhelp:53
-#, c-format
-msgid "No Help entry for %s\n"
-msgstr "%s için Yardım girdisi yok\n"
-
-#: drakperm:23
-#, c-format
-msgid "System settings"
-msgstr "Sistem ayarları"
-
-#: drakperm:24
-#, c-format
-msgid "Custom settings"
-msgstr "Özel ayarlar"
-
-#: drakperm:25
-#, c-format
-msgid "Custom & system settings"
-msgstr "Özel & sistem ayarları"
-
-#: drakperm:33
-#, c-format
-msgid "Security Permissions"
-msgstr "Güvenlik İzinleri"
-
-#: drakperm:45
-#, c-format
-msgid "Editable"
-msgstr "Düzenlenebilir"
-
-#: drakperm:50 drakperm:320
-#, c-format
-msgid "Path"
-msgstr "Konum"
-
-#: drakperm:50 drakperm:249
-#, c-format
-msgid "User"
-msgstr "Kullanıcı"
-
-#: drakperm:50 drakperm:249
-#, c-format
-msgid "Group"
-msgstr "Grup"
-
-#: drakperm:50 drakperm:109 drakperm:332 draksec:181
-#, c-format
-msgid "Permissions"
-msgstr "Yetkiler"
-
-#: drakperm:60
-#, c-format
-msgid "Add a new rule"
-msgstr "Yeni bir kural ekle"
-
-#: drakperm:67 drakperm:102 drakperm:128
-#, c-format
-msgid "Edit current rule"
-msgstr "Geçerli kuralı düzenle"
-
-#: drakperm:110
-#, c-format
-msgid ""
-"Here you can see files to use in order to fix permissions, owners, and groups via msec.\n"
-"You can also edit your own rules which will overwrite the default rules."
-msgstr ""
-"Burada, msec yoluyla yetkileri, sahipleri ve grupları düzeltmek amacıyla kullanılacak dosyaları görebilirsiniz.\n"
-"Ayrıca ön tanımlı kuralları değiştirerek kendi kurallarınızı da düzenleyebilirsiniz."
-
-#: drakperm:112
-#, c-format
-msgid ""
-"The current security level is %s.\n"
-"Select permissions to see/edit"
-msgstr ""
-"Şu anki güvenlik seviyesi %s.\n"
-"Görmek/ düzenlemek için izinleri seçin"
-
-#: drakperm:124
-#, c-format
-msgid "Up"
-msgstr "Yukarı"
-
-#: drakperm:124
-#, c-format
-msgid "Move selected rule up one level"
-msgstr "Seçili kuralı bir seviye yükselt"
-
-#: drakperm:125
-#, c-format
-msgid "Down"
-msgstr "Aşağı"
-
-#: drakperm:125
-#, c-format
-msgid "Move selected rule down one level"
-msgstr "Seçili kuralı bir seviye düşür"
-
-#: drakperm:126
-#, c-format
-msgid "Add a rule"
-msgstr "Bir kural ekle"
-
-#: drakperm:126
-#, c-format
-msgid "Add a new rule at the end"
-msgstr "Sona yeni bir kural ekle"
-
-#: drakperm:127
-#, c-format
-msgid "Delete"
-msgstr "Sil"
-
-#: drakperm:127
-#, c-format
-msgid "Delete selected rule"
-msgstr "Seçili kuralı sil"
-
-#: drakperm:128 drakups:300 drakups:362 drakups:382
-#, c-format
-msgid "Edit"
-msgstr "Düzenle"
-
-#: drakperm:241
-#, c-format
-msgid "browse"
-msgstr "gözat"
-
-#: drakperm:246
-#, c-format
-msgid "user"
-msgstr "kullanıcı"
-
-#: drakperm:246
-#, c-format
-msgid "group"
-msgstr "grup"
-
-#: drakperm:246
-#, c-format
-msgid "other"
-msgstr "diğer"
-
-#: drakperm:249
-#, c-format
-msgid "Other"
-msgstr "Diğer"
-
-#: drakperm:251
-#, c-format
-msgid "Read"
-msgstr "Oku"
-
-#. -PO: here %s will be either "user", "group" or "other"
-#: drakperm:254
-#, c-format
-msgid "Enable \"%s\" to read the file"
-msgstr "Dosya okumak için \"%s\" etkinleştir"
-
-#: drakperm:258
-#, c-format
-msgid "Write"
-msgstr "Yaz"
-
-#. -PO: here %s will be either "user", "group" or "other"
-#: drakperm:261
-#, c-format
-msgid "Enable \"%s\" to write the file"
-msgstr "Dosyaya yazmak için \"%s\" etkinleştir"
-
-#: drakperm:265
-#, c-format
-msgid "Execute"
-msgstr "Çalıştır"
-
-#. -PO: here %s will be either "user", "group" or "other"
-#: drakperm:268
-#, c-format
-msgid "Enable \"%s\" to execute the file"
-msgstr "Dosya yürütmek için \"%s\" etkinleştir"
-
-#: drakperm:271
-#, c-format
-msgid "Sticky-bit"
-msgstr "Yapışkan-bit"
-
-#: drakperm:271
-#, c-format
-msgid ""
-"Used for directory:\n"
-" only owner of directory or file in this directory can delete it"
-msgstr ""
-"Dizin için kullanılır:\n"
-" sadece dizinin veya bu dizindeki dosyanın sahibi silebilir"
-
-#: drakperm:272
-#, c-format
-msgid "Set-UID"
-msgstr "UID ayarla"
-
-#: drakperm:272
-#, c-format
-msgid "Use owner id for execution"
-msgstr "Çalıştırma için kullanıcı id'ini kullan"
-
-#: drakperm:273
-#, c-format
-msgid "Set-GID"
-msgstr "GID ayarla"
-
-#: drakperm:273
-#, c-format
-msgid "Use group id for execution"
-msgstr "Çalıştırma için grup id'ini kullan"
-
-#: drakperm:290
-#, c-format
-msgid "User:"
-msgstr "Kullanıcı :"
-
-#: drakperm:291
-#, c-format
-msgid "Group:"
-msgstr "Grup :"
-
-#: drakperm:295
-#, c-format
-msgid "Current user"
-msgstr "Geçerli kullanıcı"
-
-#: drakperm:296
-#, c-format
-msgid "When checked, owner and group will not be changed"
-msgstr "İşaretli ise, sahip ve grup değişmeyecektir"
-
-#: drakperm:306
-#, c-format
-msgid "Path selection"
-msgstr "Yol seçimi"
-
-#: drakperm:326
-#, c-format
-msgid "Property"
-msgstr "Özellik"
-
-#: drakperm:376
-#, c-format
-msgid ""
-"The first character of the path must be a slash (\"/\"):\n"
-"\"%s\""
-msgstr ""
-"Konumun ilk karakteri bir eğik çizgi olmalıdır (\"/\"):\n"
-"\"%s\""
-
-#: drakperm:386
-#, c-format
-msgid "Both the username and the group must valid!"
-msgstr "Hem kullanıcı adı hem de grup geçerli olmalıdır!"
-
-#: drakperm:387
-#, c-format
-msgid "User: %s"
-msgstr "Kullanıcı: %s"
-
-#: drakperm:388
-#, c-format
-msgid "Group: %s"
-msgstr "Grup: %s"
-
-#: draksec:54
-#, c-format
-msgid "ALL"
-msgstr "HEPSİ"
-
-#: draksec:55
-#, c-format
-msgid "LOCAL"
-msgstr "YEREL"
-
-#: draksec:56
-#, c-format
-msgid "NONE"
-msgstr "HİÇBİRİ"
-
-#: draksec:57
-#, c-format
-msgid "Default"
-msgstr "Öntanımlı"
-
-#: draksec:58
-#, c-format
-msgid "Ignore"
-msgstr "Yoksay"
-
-#: draksec:91
-#, c-format
-msgid "Security Level and Checks"
-msgstr "Güvenlik Seviyesi ve Denetlemeler"
-
-#: draksec:114
-#, c-format
-msgid "Configure authentication required to access %s tools"
-msgstr "%s araçlarına erişim için gereken kimlik doğrulamayı yapılandırın"
-
-#: draksec:117
-#, c-format
-msgid "No password"
-msgstr "Parola yok"
-
-#: draksec:118
-#, c-format
-msgid "Root password"
-msgstr "Kök parolası"
-
-#: draksec:119
-#, c-format
-msgid "User password"
-msgstr "Kullanıcı parolası"
-
-#: draksec:149 draksec:204
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:151 ../control-center:155
 #, c-format
 msgid "Software Management"
-msgstr "Yazılım Yöneticisi"
+msgstr "Yazılım Yönetimi"
 
-#: draksec:150
+#: ../control-center:166 ../control-center:354 ../control-center:389
+#: ../control-center:547
 #, c-format
-msgid "%s Update"
-msgstr "%s Güncellemesi"
+msgid "Others"
+msgstr "Diğerleri"
 
-#: draksec:151
+#: ../control-center:176
 #, c-format
-msgid "Software Media Manager"
-msgstr "Yazılım Kaynak Yöneticisi"
+msgid "Server wizards"
+msgstr "Sunucu sihirbazları"
 
-#: draksec:152
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:179 ../control-center:182
 #, c-format
-msgid "Configure 3D Desktop effects"
-msgstr "3 Boyutlu masaüstü özelliklerini yapılandır."
+msgid "Sharing"
+msgstr "Paylaşım"
 
-#: draksec:153
+#: ../control-center:185
 #, c-format
-msgid "Graphical Server Configuration"
-msgstr "Grafiksel Sunucu Yapılandırması"
+msgid "Configure FTP"
+msgstr "FTP yapılandırın"
 
-#: draksec:154
+#: ../control-center:186
 #, c-format
-msgid "Mouse Configuration"
-msgstr "Fare Yapılandırması"
+msgid "Set up an FTP server"
+msgstr "Bir FTP sunucusu kurun"
 
-#: draksec:155
+#: ../control-center:188
 #, c-format
-msgid "Keyboard Configuration"
-msgstr "Klavye Yapılandırması"
+msgid "Configure Samba"
+msgstr "Samba yapılandırın"
 
-#: draksec:156
+#: ../control-center:189
 #, c-format
-msgid "UPS Configuration"
-msgstr "UPS Yapılandırması"
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr "Linux ve Linux-dışı sistemleri çalıştıran iş istasyonları için bir dosya ve yazıcı sunucusu kurun"
 
-#: draksec:157
+#: ../control-center:191
 #, c-format
-msgid "Network Configuration"
-msgstr "Ağ Yapılandırması"
+msgid "Manage Samba share"
+msgstr "Samba Paylaşımı Yönetin"
 
-#: draksec:158
+#: ../control-center:192
 #, c-format
-msgid "Hosts definitions"
-msgstr "Makine adları"
+msgid "Manage, create special share, create public/user share"
+msgstr "Özel paylaşım oluşturun, kamu/kişisel paylaşım oluşturun, yönetin"
 
-#: draksec:159
+#: ../control-center:194
 #, c-format
-msgid "Network Center"
-msgstr "Ağ Merkezi"
+msgid "Configure web server"
+msgstr "Web sunucusu yapılandırın"
 
-#: draksec:160
+#: ../control-center:195
 #, c-format
-msgid "Wireless Network Roaming"
-msgstr "Kablosuz Ağ Dolaşımı"
+msgid "Set up a web server"
+msgstr "Bir web sunucusu kurun"
 
-#: draksec:161
+#: ../control-center:197
 #, c-format
-msgid "VPN"
-msgstr "VPN"
+msgid "Configure installation server"
+msgstr "Kurulum sunucusu yapılandırın"
 
-#: draksec:162
+#: ../control-center:198
 #, c-format
-msgid "Proxy Configuration"
-msgstr "Vekil Sunucu Yapılandırması"
+msgid "Set up server for network installations of %s"
+msgstr "%s ağ kurulumu için sunucu ayarlayın"
 
-#: draksec:163
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:208 ../control-center:211
 #, c-format
-msgid "Connection Sharing"
-msgstr "Bağlantı Paylaşımı"
+msgid "Network Services"
+msgstr "Ağ Hizmetleri"
 
-#: draksec:165
+#: ../control-center:214
 #, c-format
-msgid "Backups"
-msgstr "Yedekler"
+msgid "Configure DHCP"
+msgstr "DHCP yapılandırın"
 
-#: draksec:167 logdrake:52
+#: ../control-center:215
 #, c-format
-msgid "Logs"
-msgstr "Kayıtlar"
+msgid "Set up a DHCP server"
+msgstr "Bir DHCP sunucusu kurun"
 
-#: draksec:168
+#: ../control-center:217
 #, c-format
-msgid "Services"
-msgstr "Hizmetler"
+msgid "Configure DNS"
+msgstr "DNS ayarlayın"
 
-#: draksec:169
+#: ../control-center:218
 #, c-format
-msgid "Users"
-msgstr "Kullanıcılar"
+msgid "Set up a DNS server (network name resolution)"
+msgstr "Bir DNS sunucusu kurun (ağ adı çözümleme)"
 
-#: draksec:171
+#: ../control-center:220
 #, c-format
-msgid "Boot Configuration"
-msgstr "Önyükleme Yapılandırması"
+msgid "Configure proxy"
+msgstr "Vekil sunucu yapılandırın"
 
-#: draksec:205
+#: ../control-center:221
+#, c-format
+msgid "Configure a web caching proxy server"
+msgstr "Web önbellekli vekil sunucu yapılandırın"
+
+#: ../control-center:223
+#, c-format
+msgid "Configure time"
+msgstr "Zamanı yapılandırın"
+
+#: ../control-center:224
+#, c-format
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr "Bir harici sunucu ile eşleştirilme yapılması için sunucunun zamanını ayarlayın"
+
+#: ../control-center:226 ../control-center:227
+#, c-format
+msgid "OpenSSH daemon configuration"
+msgstr "OpenSSH artsüreci yapılandırması"
+
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will
+#. searchs it:
+#: ../control-center:238 ../control-center:241 ../lib/MDV/Control_Center.pm:67
+#, c-format
+msgid "Authentication"
+msgstr "Kimlik doğrulama"
+
+#: ../control-center:245
+#, c-format
+msgid "Configure NIS and Autofs"
+msgstr "NIS ve Autofs yapılandırın"
+
+#: ../control-center:246
+#, c-format
+msgid "Configure the NIS and Autofs services"
+msgstr "NIS ve Autofs hizmetlerini yapılandırın"
+
+#: ../control-center:248
+#, c-format
+msgid "Configure LDAP"
+msgstr "LDAP yapılandırın"
+
+#: ../control-center:249
+#, c-format
+msgid "Configure the LDAP directory services"
+msgstr "LDAP dizin hizmetlerini yapılandırın"
+
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:260 ../control-center:263
+#, c-format
+msgid "Groupware"
+msgstr "Grup yazılımı"
+
+#: ../control-center:266
+#, c-format
+msgid "Configure news"
+msgstr "Haberleri yapılandırın"
+
+#: ../control-center:267
+#, c-format
+msgid "Configure a newsgroup server"
+msgstr "Bir haber grubu sunucusu yapılandırın"
+
+#: ../control-center:269
+#, c-format
+msgid "Configure groupware"
+msgstr "Grup yazılımını yapılandırın"
+
+#: ../control-center:270
+#, c-format
+msgid "Configure a groupware server"
+msgstr "Bir grup yazılımı sunucusu yapılandırın"
+
+#: ../control-center:272
+#, c-format
+msgid "Configure mail"
+msgstr "Posta yapılandırın"
+
+#: ../control-center:273
+#, c-format
+msgid "Configure the Internet Mail services"
+msgstr "İnternet Postası hizmetlerini yapılandırın"
+
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:285 ../control-center:288
+#, c-format
+msgid "Online Administration"
+msgstr "Çevrimiçi Yönetim"
+
+#: ../control-center:304
+#, c-format
+msgid "Local administration"
+msgstr "Yerel yönetim"
+
+#: ../control-center:305
+#, c-format
+msgid "Configure the local machine via web interface"
+msgstr "Web arayüzü üzerinden yerel makine yapılandırın"
+
+#: ../control-center:305
+#, c-format
+msgid "You don't seem to have webmin installed. Local config is disabled"
+msgstr "Webmin kurulu gözükmüyor. Yerel yapılandırma devredışı."
+
+#: ../control-center:307
+#, c-format
+msgid "Remote administration"
+msgstr "Uzaktan yönetim"
+
+#: ../control-center:308
+#, c-format
+msgid "Click here if you want to configure a remote box via Web interface"
+msgstr "Web arayüzü üzerinden uzak bir makine yapılandırmak isterseniz burayı tıklayın"
+
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:322
 #, c-format
 msgid "Hardware"
 msgstr "Donanım"
 
-#: draksec:206
+#: ../control-center:325
 #, c-format
-msgid "Network"
-msgstr "Ağ"
+msgid "Manage your hardware"
+msgstr "Donanımınızı yönetin"
 
-#: draksec:207
+#: ../control-center:332
+#, c-format
+msgid "Configure graphics"
+msgstr "Ekran kartı yapılandırın"
+
+#: ../control-center:339
+#, c-format
+msgid "Configure mouse and keyboard"
+msgstr "Fare ve klavye yapılandırın"
+
+#: ../control-center:346
+#, c-format
+msgid "Configure printing and scanning"
+msgstr "Yazdırma ve tarama yapılandırın"
+
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:364 ../drakxconf:31
+#, c-format
+msgid "Network & Internet"
+msgstr "Ağ ve Internet"
+
+#: ../control-center:367 ../lib/MDV/Control_Center.pm:419
+#, c-format
+msgid "Manage your network devices"
+msgstr "Ağ aygıtları yönetin"
+
+#: ../control-center:380
+#, c-format
+msgid "Personalize and Secure your network"
+msgstr "Ağınızı Kişiselleştirin ve Güvenli hale getirin"
+
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:399
 #, c-format
 msgid "System"
 msgstr "Sistem"
 
-#: draksec:208
+#: ../control-center:402
+#, c-format
+msgid "Manage system services"
+msgstr "Sistem hizmetlerini yönetin"
+
+#: ../control-center:411
+#, c-format
+msgid "Localization"
+msgstr "Yerelleştirme"
+
+#: ../control-center:418
+#, c-format
+msgid "Administration tools"
+msgstr "Yönetim araçları"
+
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:435
+#, c-format
+msgid "Network Sharing"
+msgstr "Ağ Paylaşımı"
+
+#: ../control-center:438
+#, c-format
+msgid "Configure Windows(R) shares"
+msgstr "Windows(R)paylaşımlarını yapılandırın"
+
+#: ../control-center:445
+#, c-format
+msgid "Configure NFS shares"
+msgstr "NFS paylaşımlarını yapılandırın"
+
+#: ../control-center:452
+#, c-format
+msgid "Configure WebDAV shares"
+msgstr "WebDAV paylaşımlarını yapılandırın"
+
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:462 ../control-center:465
+#, c-format
+msgid "Local disks"
+msgstr "Yerel diskler"
+
+#: ../control-center:489
+#, c-format
+msgid "CD-ROM (%s)"
+msgstr "CD-ROM (%s)"
+
+#: ../control-center:490
+#, c-format
+msgid "Set where your \"%s\" CD-ROM drive is mounted"
+msgstr "\"%s\" CD-ROM' unuzun nereye bağlanacağını ayarlayın"
+
+#: ../control-center:492
+#, c-format
+msgid "DVD-ROM (%s)"
+msgstr "DVD-ROM (%s)"
+
+#: ../control-center:493
+#, c-format
+msgid "Set where your \"%s\" DVD-ROM drive is mounted"
+msgstr "\"%s\" DVD-ROM' unuzun nereye bağlanacağını ayarlayın"
+
+#: ../control-center:495
+#, c-format
+msgid "CD/DVD burner (%s)"
+msgstr "CD/DVD yazıcı(%s)"
+
+#: ../control-center:496
+#, c-format
+msgid "Set where your \"%s\" CD/DVD burner is mounted"
+msgstr "\"%s\" CD/DVD yazıcınızın nereye bağlandığını ayarlayın"
+
+#: ../control-center:498
+#, c-format
+msgid "ZIP drive"
+msgstr "ZIP sürücüsü"
+
+#: ../control-center:499
+#, c-format
+msgid "Set where your ZIP drive is mounted"
+msgstr "ZIP sürücünüzün nereye bağlandığını ayarlayın"
+
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:511 ../control-center:514
+#, c-format
+msgid "Security"
+msgstr "Güvenlik"
+
+#. -PO: please keep the following message very short: it must fit in the left
+#. list of MCC!!!
+#: ../control-center:529
 #, c-format
 msgid "Boot"
 msgstr "Önyükleme"
 
-#: draksound:48
+#: ../control-center:532
 #, c-format
-msgid "No Sound Card detected!"
-msgstr "Ses kartı bulunamadı!"
+msgid "Configure boot steps"
+msgstr "Önyükleme aşamalarını yapılandırın"
 
-#. -PO: keep the double empty lines between sections, this is formatted a la
-#. LaTeX
-#: draksound:51
+#: ../control-center:541
 #, c-format
-msgid "No Sound Card has been detected on your machine. Please verify that a Linux-supported Sound Card is correctly plugged in"
-msgstr "Makinenizde hiçbir Ses Kartı algılanamadı. Lütfen, bilgisayarınıza Linux destekli bir Ses Kartı takılı olduğundan emin olun."
+msgid "Boot look'n feel"
+msgstr "Önyükleme görünümü"
 
-#: draksound:54
+#: ../control-center:558
 #, c-format
-msgid ""
-"\n"
-"\n"
-"\n"
-"Note: if you've an ISA PnP sound card, you'll have to use the alsaconf or the sndconfig program.  Just type \"alsaconf\" or \"sndconfig\" in a console."
-msgstr ""
-"\n"
-"\n"
-"\n"
-"Not: Eğer Tak Kullan(PnP) tipinde bir ISA ses kartınız var ise, sndconfig veya alsaconf uygulamalarını kullanmalısınız.  Sadece konsolda \"sndconfig\"veya \"alsaconf\" yazınız."
+msgid "Additional wizards"
+msgstr "Ek sihirbazlar"
 
-#: drakups:71
-#, c-format
-msgid "Connected through a serial port or an usb cable"
-msgstr "Bir seri port veya usb kablo aracılığıyla bağlandı"
-
-#: drakups:72
-#, c-format
-msgid "Manual configuration"
-msgstr "Elle yapılandır"
-
-#: drakups:78
-#, c-format
-msgid "Add an UPS device"
-msgstr "Bir UPS aygıtı ekle"
-
-#: drakups:81
-#, c-format
-msgid ""
-"Welcome to the UPS configuration utility.\n"
-"\n"
-"Here, you'll add a new UPS to your system.\n"
-msgstr ""
-"UPS yapılandırma aracına Hoşgeldiniz.\n"
-"\n"
-"Burada, sisteminize yeni bir UPS ekleyebilirsiniz.\n"
-
-#: drakups:88
-#, c-format
-msgid ""
-"We're going to add an UPS device.\n"
-"\n"
-"Do you want to autodetect UPS devices connected to this machine or to manually select them?"
-msgstr ""
-"Bir UPS aygıtı ekleyeceğiz.\n"
-"\n"
-"Bu makineye bağlı UPS aygıtlarının otomatik algılanmasını mı yoksa kendiniz seçmeyi mi istersiniz?"
-
-#: drakups:91
-#, c-format
-msgid "Autodetection"
-msgstr "Otomatik algıla"
-
-#: drakups:99 harddrake2:381
-#, c-format
-msgid "Detection in progress"
-msgstr "Algılama sürüyor"
-
-#: drakups:118 drakups:157 logdrake:457 logdrake:463
-#, c-format
-msgid "Congratulations"
-msgstr "Tebrikler"
-
-#: drakups:119
-#, c-format
-msgid "The wizard successfully added the following UPS devices:"
-msgstr "Sihirbaz aşağıdaki UPS aygıtları başarıyla ekledi:"
-
-#: drakups:121
-#, c-format
-msgid "No new UPS devices was found"
-msgstr "Yeni bir UPS aygıt bulunamadı"
-
-#: drakups:126 drakups:138
-#, c-format
-msgid "UPS driver configuration"
-msgstr "UPS sürücü yapılandırması"
-
-#: drakups:126
-#, c-format
-msgid "Please select your UPS model."
-msgstr "Lütfen UPS modelinizi seçin."
-
-#: drakups:127
-#, c-format
-msgid "Manufacturer / Model:"
-msgstr "Üreticisi / Modeli"
-
-#: drakups:138
-#, c-format
-msgid ""
-"We are configuring the \"%s\" UPS from \"%s\".\n"
-"Please fill in its name, its driver and its port."
-msgstr ""
-"\"%s\" UPS aygıtını \"%s\" üzerinden yapılandırıyoruz.\n"
-"Lütfen adını, sürücüsünü ve portunu yazın."
-
-#: drakups:143
-#, c-format
-msgid "Name:"
-msgstr "İsim:"
-
-#: drakups:143
-#, c-format
-msgid "The name of your ups"
-msgstr "UPS aygıtınızın ismi"
-
-#: drakups:144
-#, c-format
-msgid "Driver:"
-msgstr "Sürücü:"
-
-#: drakups:144
-#, c-format
-msgid "The driver that manages your ups"
-msgstr "UPS aygıtınızı yönetecek sürücü"
-
-#: drakups:145
-#, c-format
-msgid "Port:"
-msgstr "Kapı:"
-
-#: drakups:147
-#, c-format
-msgid "The port on which is connected your ups"
-msgstr "UPS aygıtınızın bağlı olduğu port"
-
-#: drakups:157
-#, c-format
-msgid "The wizard successfully configured the new \"%s\" UPS device."
-msgstr "Sihirbaz başarıyla yeni \"%s\" UPS aygıtını yapılandırdı."
-
-#: drakups:248
-#, c-format
-msgid "UPS devices"
-msgstr "UPS aygıtları"
-
-#: drakups:249 drakups:268 drakups:284 harddrake2:89 harddrake2:116
-#: harddrake2:123
-#, c-format
-msgid "Name"
-msgstr "İsim"
-
-#: drakups:249 harddrake2:139
-#, c-format
-msgid "Driver"
-msgstr "Sürücü"
-
-#: drakups:249 harddrake2:56
-#, c-format
-msgid "Port"
-msgstr "Kapı"
-
-#: drakups:267
-#, c-format
-msgid "UPS users"
-msgstr "UPS kullanıcıları"
-
-#: drakups:283
-#, c-format
-msgid "Access Control Lists"
-msgstr "Erişim Denetim Listeleri"
-
-#: drakups:284
-#, c-format
-msgid "IP address"
-msgstr "IP adresi:"
-
-#: drakups:284
-#, c-format
-msgid "IP mask"
-msgstr "IP maskesi"
-
-#: drakups:296
-#, c-format
-msgid "Rules"
-msgstr "Kurallar"
-
-#: drakups:297
-#, c-format
-msgid "Action"
-msgstr "Hareket"
-
-#: drakups:297 harddrake2:85
-#, c-format
-msgid "Level"
-msgstr "Seviye"
-
-#: drakups:297
-#, c-format
-msgid "ACL name"
-msgstr "ACL ismi"
-
-#: drakups:297 finish-install:195
-#, c-format
-msgid "Password"
-msgstr "Parola"
-
-#: drakups:329
-#, c-format
-msgid "UPS Management"
-msgstr "UPS Yönetimi"
-
-#: drakups:333 drakups:342
-#, c-format
-msgid "DrakUPS"
-msgstr "DrakUPS"
-
-#: drakups:339
-#, c-format
-msgid "Welcome to the UPS configuration tools"
-msgstr "UPS yapılandırma araçlarına hoşgeldiniz"
-
-#: drakxtv:67
-#, c-format
-msgid "No TV Card detected!"
-msgstr "TV kartı bulunamadı."
-
-#. -PO: keep the double empty lines between sections, this is formatted a la
-#. LaTeX
-#: drakxtv:69
-#, c-format
-msgid "No TV Card has been detected on your machine. Please verify that a Linux-supported Video/TV Card is correctly plugged in."
-msgstr "Makinenizde hiçbir TV Kartı algılanamadı. Lütfen, bilgisayarınıza Linux destekli bir Video/TV Kartı takılı olduğundan emin olun."
-
-#: finish-install:57
-#, c-format
-msgid "Keyboard"
-msgstr "Klavye"
-
-#: finish-install:58
-#, c-format
-msgid "Please, choose your keyboard layout."
-msgstr "Lütfen, klavye yerleşimini seçiniz."
-
-#: finish-install:105
-#, c-format
-msgid "Testing your connection..."
-msgstr "Bağlantınız test ediliyor..."
-
-#: finish-install:193 finish-install:211 finish-install:223
-#, c-format
-msgid "Encrypted home partition"
-msgstr "Şifrelenmiş ev bölümü"
-
-#: finish-install:193
-#, c-format
-msgid "Please enter a password for the %s user"
-msgstr "Lütfen, %s kullanıcısı için parolayı girin"
-
-#: finish-install:196
-#, c-format
-msgid "Password (again)"
-msgstr "Parola (tekrar)"
-
-#: finish-install:211
-#, c-format
-msgid "Creating encrypted home partition"
-msgstr "Şifrelenmiş ev bölümü oluşturuluyor"
-
-#: finish-install:223
-#, c-format
-msgid "Formatting encrypted home partition"
-msgstr "Şifrelenmiş ev bölümü biçimlendiriliyor"
-
-#: harddrake2:30
-#, c-format
-msgid "Alternative drivers"
-msgstr "Altarnatif sürücüler"
-
-#: harddrake2:31
-#, c-format
-msgid "the list of alternative drivers for this sound card"
-msgstr "bu ses kartı için sürücü seçenekleri"
-
-#: harddrake2:33 harddrake2:125
-#, c-format
-msgid "Bus"
-msgstr "Veriyolu"
-
-#: harddrake2:34
-#, c-format
-msgid "this is the physical bus on which the device is plugged (eg: PCI, USB, ...)"
-msgstr "bu, aygıtın takılı olduğu fiziksel veriyoludur (örn. PCI, USB, ...)"
-
-#: harddrake2:36 harddrake2:151
-#, c-format
-msgid "Bus identification"
-msgstr "Veriyolu tanımlaması"
-
-#: harddrake2:37
-#, c-format
-msgid "- PCI and USB devices: this lists the vendor, device, subvendor and subdevice PCI/USB ids"
-msgstr "- PCI ve USB aygıtları : bu liste üretici, aygıt, alt-üretici ve alt-aygıt  PCI/USB kimliklerini göstermektedir"
-
-#: harddrake2:39
-#, c-format
-msgid "Location on the bus"
-msgstr "Veriyolundaki konum"
-
-#: harddrake2:40
-#, c-format
-msgid ""
-"- pci devices: this gives the PCI slot, device and function of this card\n"
-"- eide devices: the device is either a slave or a master device\n"
-"- scsi devices: the scsi bus and the scsi device ids"
-msgstr ""
-"- PCI aygıtlar: kartın PCI slotunu, aygıtını ve işlevini verir\n"
-"- EIDE aygıtlar: aygıt master ya da slave'dir\n"
-"- SCSI aygıtlar: SCSI veriyolu ve SCSI aygıt kimlikleri"
-
-#: harddrake2:43
-#, c-format
-msgid "Drive capacity"
-msgstr "Sürücü kapasitesi"
-
-#: harddrake2:43
-#, c-format
-msgid "special capacities of the driver (burning ability and or DVD support)"
-msgstr "Sürücünün özel kapasiteleri ( yazma desteği ve/veya DVD support"
-
-#: harddrake2:44
-#, c-format
-msgid "Description"
-msgstr "Tanım"
-
-#: harddrake2:44
-#, c-format
-msgid "this field describes the device"
-msgstr "bu alan aygıtı tanıtır"
-
-#: harddrake2:45
-#, c-format
-msgid "Old device file"
-msgstr "Eski aygıt dosyası"
-
-#: harddrake2:46
-#, c-format
-msgid "old static device name used in dev package"
-msgstr "'dev' paketinde kullanılan eski, duruk aygıt adı"
-
-#. -PO: here "module" is the "jargon term" for a kernel driver
-#: harddrake2:49
-#, c-format
-msgid "Module"
-msgstr "Modül"
-
-#: harddrake2:49
-#, c-format
-msgid "the module of the GNU/Linux kernel that handles the device"
-msgstr "O aygıtı işleyecek GNU/Linux çekirdek modülü"
-
-#: harddrake2:50
-#, c-format
-msgid "Extended partitions"
-msgstr "Uzatılmış bölümler"
-
-#: harddrake2:50
-#, c-format
-msgid "the number of extended partitions"
-msgstr "uzatılmış bölüm sayısı"
-
-#: harddrake2:51
-#, c-format
-msgid "Geometry"
-msgstr "Geometri"
-
-#: harddrake2:51
-#, c-format
-msgid "Cylinder/head/sectors geometry of the disk"
-msgstr "Diskin silindir/ kafa/ sektör geometrisi"
-
-#: harddrake2:52
-#, c-format
-msgid "Disk controller"
-msgstr "Disk denetleyici"
-
-#: harddrake2:52
-#, c-format
-msgid "the disk controller on the host side"
-msgstr "sunucu yanındaki disk denetleyici"
-
-#: harddrake2:53
-#, c-format
-msgid "Identifier"
-msgstr "Tanıtıcı"
-
-#: harddrake2:53
-#, c-format
-msgid "usually the device serial number"
-msgstr "genellikle aygıt seri numarasıdır"
-
-#: harddrake2:54
-#, c-format
-msgid "Media class"
-msgstr "Ortam sınıfı"
-
-#: harddrake2:54
-#, c-format
-msgid "class of hardware device"
-msgstr "donanım aygıtının sınıfı"
-
-#: harddrake2:55 harddrake2:86
-#, c-format
-msgid "Model"
-msgstr "Model"
-
-#: harddrake2:55
-#, c-format
-msgid "hard disk model"
-msgstr "sabit disk modeli"
-
-#: harddrake2:56
-#, c-format
-msgid "network printer port"
-msgstr "ağ yazıcısı portu"
-
-#: harddrake2:57
-#, c-format
-msgid "Primary partitions"
-msgstr "Birincil bölümler"
-
-#: harddrake2:57
-#, c-format
-msgid "the number of the primary partitions"
-msgstr "birincil bölüm sayısı"
-
-#: harddrake2:58 harddrake2:92
-#, c-format
-msgid "Vendor"
-msgstr "Üretici"
-
-#: harddrake2:58
-#, c-format
-msgid "the vendor name of the device"
-msgstr "aygıtın üreticisinin adı"
-
-#: harddrake2:59
-#, c-format
-msgid "PCI domain"
-msgstr "PCI etki alanı"
-
-#: harddrake2:59 harddrake2:60
-#, c-format
-msgid "the PCI domain of the device"
-msgstr "aygıtının PCI etki alanı"
-
-#: harddrake2:60
-#, c-format
-msgid "PCI revision"
-msgstr "PCI gözden geçirme"
-
-#: harddrake2:61
-#, c-format
-msgid "Bus PCI #"
-msgstr "Yol PCI #"
-
-#: harddrake2:61
-#, c-format
-msgid "the PCI bus on which the device is plugged"
-msgstr "bu, aygıtın takılı olduğu PCI veri yoludur"
-
-#: harddrake2:62
-#, c-format
-msgid "PCI device #"
-msgstr "PCI aygıtı #"
-
-#: harddrake2:62
-#, c-format
-msgid "PCI device number"
-msgstr "PCI aygıt numarası"
-
-#: harddrake2:63
-#, c-format
-msgid "PCI function #"
-msgstr "PCI görevi #"
-
-#: harddrake2:63
-#, c-format
-msgid "PCI function number"
-msgstr "PCI görev numarası"
-
-#: harddrake2:64
-#, c-format
-msgid "Vendor ID"
-msgstr "Üretici Kimliği"
-
-#: harddrake2:64
-#, c-format
-msgid "this is the standard numerical identifier of the vendor"
-msgstr "bu, standart üretici rakamsal tanıtıcısıdır"
-
-#: harddrake2:65
-#, c-format
-msgid "Device ID"
-msgstr "Aygıt Kimliği"
-
-#: harddrake2:65
-#, c-format
-msgid "this is the numerical identifier of the device"
-msgstr "bu, aygıtın rakamsal tanıtıcısıdır"
-
-#: harddrake2:66
-#, c-format
-msgid "Sub vendor ID"
-msgstr "Alt üretici Kimliği"
-
-#: harddrake2:66
-#, c-format
-msgid "this is the minor numerical identifier of the vendor"
-msgstr "bu, küçük üretici rakamsal tanıtıcısıdır"
-
-#: harddrake2:67
-#, c-format
-msgid "Sub device ID"
-msgstr "Alt aygıt Kimliği"
-
-#: harddrake2:67
-#, c-format
-msgid "this is the minor numerical identifier of the device"
-msgstr "bu, küçük aygıt rakamsal tanıtıcısıdır"
-
-#: harddrake2:68
-#, c-format
-msgid "Device USB ID"
-msgstr "Aygıt USB Kimliği"
-
-#: harddrake2:68
-#, c-format
-msgid ".."
-msgstr ".."
-
-#: harddrake2:73 harddrake2:74
-#, c-format
-msgid "Bogomips"
-msgstr "Bogomips"
-
-#: harddrake2:73 harddrake2:74
-#, c-format
-msgid "the GNU/Linux kernel needs to run a calculation loop at boot time to initialize a timer counter.  Its result is stored as bogomips as a way to \"benchmark\" the cpu."
-msgstr "GNU/Linux çekirdeğinin bir zamanlayıcı sayacı çalıştırabilmesi için açılış sırasında bir hesaplama döngü yürütmesi gerekli.  Bunun sonucu, işlemci \"derecelendirmesi\"   için bogomip şeklinde saklanacaktır."
-
-#: harddrake2:75
-#, c-format
-msgid "Cache size"
-msgstr "Önbellek boyutu"
-
-#: harddrake2:75
-#, c-format
-msgid "size of the (second level) cpu cache"
-msgstr "İşlemci önbelleğinin (ikinci seviye) boyutu"
-
-#: harddrake2:76
-#, c-format
-msgid "Cpuid family"
-msgstr "Cpuid ailesi"
-
-#: harddrake2:76
-#, c-format
-msgid "family of the cpu (eg: 6 for i686 class)"
-msgstr "işlemci ailesi (örn: i686 sınıfı için 6)"
-
-#: harddrake2:77
-#, c-format
-msgid "Cpuid level"
-msgstr "Cpuid seviyesi"
-
-#: harddrake2:77
-#, c-format
-msgid "information level that can be obtained through the cpuid instruction"
-msgstr "cpuid talimatı ile elde edilebilecek bilgi seviyesi"
-
-#: harddrake2:78
-#, c-format
-msgid "Frequency (MHz)"
-msgstr "Frekans (MHz)"
-
-#: harddrake2:78
-#, c-format
-msgid "the CPU frequency in MHz (Megahertz which in first approximation may be coarsely assimilated to number of instructions the cpu is able to execute per second)"
-msgstr "MHz cinsinden İşlemci frekansı (İşlemcinin saniyede yürütebileceği talimat sayısına kabaca benzeşen ilk yaklaşık Megahertz değeri)"
-
-#: harddrake2:79
-#, c-format
-msgid "Flags"
-msgstr "Bayraklar"
-
-#: harddrake2:79
-#, c-format
-msgid "CPU flags reported by the kernel"
-msgstr "Çekirdek tarafından işlemci bayrakları raporlandı"
-
-#: harddrake2:80 harddrake2:144
-#, c-format
-msgid "Cores"
-msgstr "Çekirdekler"
-
-#: harddrake2:80
-#, c-format
-msgid "CPU cores"
-msgstr "İşlemci çekirdekleri"
-
-#: harddrake2:81
-#, c-format
-msgid "Core ID"
-msgstr "Çekirdek Kimliği"
-
-#: harddrake2:82
-#, c-format
-msgid "Physical ID"
-msgstr "Fiziksel Kimlik"
-
-#: harddrake2:83
-#, c-format
-msgid "ACPI ID"
-msgstr "ACPI Kimliği"
-
-#: harddrake2:84
-#, c-format
-msgid "Siblings"
-msgstr "Kardeşler"
-
-#: harddrake2:85
-#, c-format
-msgid "sub generation of the cpu"
-msgstr "İşlemcinin alt nesli"
-
-#: harddrake2:86
-#, c-format
-msgid "generation of the cpu (eg: 8 for Pentium III, ...)"
-msgstr "İşlemci nesli (örn: Pentium III için 8, ...)"
-
-#: harddrake2:87 harddrake2:88
-#, c-format
-msgid "Model name"
-msgstr "Model adı"
-
-#: harddrake2:87 harddrake2:88
-#, c-format
-msgid "official vendor name of the cpu"
-msgstr "İşlemcinin resmi üreticisinin adı"
-
-#: harddrake2:89
-#, c-format
-msgid "the name of the CPU"
-msgstr "İşlemcinin ismi"
-
-#: harddrake2:90
-#, c-format
-msgid "Processor ID"
-msgstr "İşlemci Kimliği"
-
-#: harddrake2:90
-#, c-format
-msgid "the number of the processor"
-msgstr "işlemci sayısı"
-
-#: harddrake2:91
-#, c-format
-msgid "Model stepping"
-msgstr "Model numarası"
-
-#: harddrake2:91
-#, c-format
-msgid "stepping of the cpu (sub model (generation) number)"
-msgstr "İşlemci basamağı (alt model (nesil) numarası)"
-
-#: harddrake2:92
-#, c-format
-msgid "the vendor name of the processor"
-msgstr "işlemcinin üreticisinin adı"
-
-#: harddrake2:93
-#, c-format
-msgid "Write protection"
-msgstr "Yazma koruması"
-
-#: harddrake2:93
-#, c-format
-msgid "the WP flag in the CR0 register of the cpu enforce write protection at the memory page level, thus enabling the processor to prevent unchecked kernel accesses to user memory (aka this is a bug guard)"
-msgstr "Hafıza sayfalama seviyesinde işlemci yazma korumasına zorlaması CR0 kaydındaki WP bayrağı; ki kullanıcı hafızasına çekirdeğin denetlenmemiş erişimlerini engeller (yani bir hata korumasıdır.)"
-
-#: harddrake2:97
-#, c-format
-msgid "Floppy format"
-msgstr "Disket biçimi"
-
-#: harddrake2:97
-#, c-format
-msgid "format of floppies supported by the drive"
-msgstr "Sürücü tarafından desteklenilen biçimlendirme tarzları"
-
-#: harddrake2:101
-#, c-format
-msgid "EIDE/SCSI channel"
-msgstr "EIDE/SCSI kanal"
-
-#: harddrake2:102
-#, c-format
-msgid "Disk identifier"
-msgstr "Disk belirleyicisi"
-
-#: harddrake2:102
-#, c-format
-msgid "usually the disk serial number"
-msgstr "genellikle disk numarası"
-
-#: harddrake2:103
-#, c-format
-msgid "Target id number"
-msgstr "Hedef kimlik numarası"
-
-#: harddrake2:103
-#, c-format
-msgid "the SCSI target identifier"
-msgstr "SCSI hedef belirleyici"
-
-#: harddrake2:104
-#, c-format
-msgid "Logical unit number"
-msgstr "Mantıksal bölüm numarası"
-
-#: harddrake2:104
-#, c-format
-msgid ""
-"the SCSI Logical Unit Number (LUN). SCSI devices connected to a host are uniquely identified by a\n"
-"channel number, a target id and a logical unit number"
-msgstr ""
-"SCSI hedef numarası (LUN). Bir makineye bağlanan SCSI aygıtlar benzersiz bir kanal numarası,\n"
-"hedef kimliği ve bir mantıksal birim numarası ile algılanırlar."
-
-#. -PO: here, "size" is the size of the ram chip (eg: 128Mo, 256Mo, ...)
-#: harddrake2:111
-#, c-format
-msgid "Installed size"
-msgstr "Kurulu boyut"
-
-#: harddrake2:111
-#, c-format
-msgid "Installed size of the memory bank"
-msgstr "Hafıza bankasının kurulu boyutu"
-
-#: harddrake2:112
-#, c-format
-msgid "Enabled Size"
-msgstr "Etkinleştirilmiş Boyut"
-
-#: harddrake2:112
-#, c-format
-msgid "Enabled size of the memory bank"
-msgstr "Hafıza bankasının etkinleştirilmiş boyutu"
-
-#: harddrake2:113 harddrake2:122
-#, c-format
-msgid "Type"
-msgstr "Türü"
-
-#: harddrake2:113
-#, c-format
-msgid "type of the memory device"
-msgstr "hafıza aygıtının türü"
-
-#: harddrake2:114
-#, c-format
-msgid "Speed"
-msgstr "Hızı"
-
-#: harddrake2:114
-#, c-format
-msgid "Speed of the memory bank"
-msgstr "hafıza bankasının hızı"
-
-#: harddrake2:115
-#, c-format
-msgid "Bank connections"
-msgstr "Banka bağlantıları"
-
-#: harddrake2:116
-#, c-format
-msgid "Socket designation of the memory bank"
-msgstr "Hafıza bankasının soket tasarımı"
-
-#: harddrake2:120
-#, c-format
-msgid "Device file"
-msgstr "Aygıt dosyası"
-
-#: harddrake2:120
-#, c-format
-msgid "the device file used to communicate with the kernel driver for the mouse"
-msgstr "aygıt dosyası, fare için çekirdek sürücüsü ile iletişimde kullanılır."
-
-#: harddrake2:121
-#, c-format
-msgid "Emulated wheel"
-msgstr "Taklit edilmiş tekerlek"
-
-#: harddrake2:121
-#, c-format
-msgid "whether the wheel is emulated or not"
-msgstr "tekerlek taklidi yapılıp yapılmayacağı"
-
-#: harddrake2:122
-#, c-format
-msgid "the type of the mouse"
-msgstr "fare türü"
-
-#: harddrake2:123
-#, c-format
-msgid "the name of the mouse"
-msgstr "Farenin ismi"
-
-#: harddrake2:124
-#, c-format
-msgid "Number of buttons"
-msgstr "Tuş sayısı"
-
-#: harddrake2:124
-#, c-format
-msgid "the number of buttons the mouse has"
-msgstr "farenin sahip olduğu tuş sayısı"
-
-#: harddrake2:125
-#, c-format
-msgid "the type of bus on which the mouse is connected"
-msgstr "farenizin bağlı olduğu veri yolu türü"
-
-#: harddrake2:126
-#, c-format
-msgid "Mouse protocol used by X11"
-msgstr "X11 tarafından kullanılan fare protokolü"
-
-#: harddrake2:126
-#, c-format
-msgid "the protocol that the graphical desktop use with the mouse"
-msgstr "grafik masaüstünün fare ile kullanacağı protokol"
-
-#: harddrake2:130
-#, c-format
-msgid "Identification"
-msgstr "Tanımlama Ekle"
-
-#: harddrake2:135 harddrake2:150
-#, c-format
-msgid "Connection"
-msgstr "Bağlantı"
-
-#: harddrake2:145
-#, c-format
-msgid "Performances"
-msgstr "Verimlilik"
-
-#: harddrake2:152
-#, c-format
-msgid "Device"
-msgstr "Aygıt"
-
-#: harddrake2:153
-#, c-format
-msgid "Partitions"
-msgstr "Disk Bölümleri"
-
-#: harddrake2:158
-#, c-format
-msgid "Features"
-msgstr "Özellikler"
-
-#. -PO: please keep all "/" characters !!!
-#: harddrake2:181 logdrake:78
+#: ../control-center:613 ../control-center:614 ../control-center:615
+#: ../control-center:627
 #, c-format
 msgid "/_Options"
 msgstr "/_Seçenekler"
 
-#: harddrake2:182 harddrake2:211 logdrake:80
+#: ../control-center:613
 #, c-format
-msgid "/_Help"
-msgstr "/_Yardım"
+msgid "/Display _Logs"
+msgstr "/Günlük Kayıtlarını Görüntü_le"
 
-#: harddrake2:186
+#: ../control-center:614
 #, c-format
-msgid "/Autodetect _printers"
-msgstr "/_Yazıcıları otomatik algıla"
+msgid "/_Embedded Mode"
+msgstr "/Gömülü Kip"
 
-#: harddrake2:187
+#: ../control-center:615
 #, c-format
-msgid "/Autodetect _modems"
-msgstr "/_Modemleri otomatik algıla"
+msgid "/Expert mode in _wizards"
+msgstr "/Sihirbazlarda _uzman kipi"
 
-#: harddrake2:188
+#: ../control-center:625 ../control-center:626
 #, c-format
-msgid "/Autodetect _jaz drives"
-msgstr "/_jaz sürücülerini otomatik algıla"
+msgid "/_File"
+msgstr "/_Dosya"
 
-#: harddrake2:189
-#, c-format
-msgid "/Autodetect parallel _zip drives"
-msgstr "/paralel _zip sürücüleri otomatik algıla"
-
-#: harddrake2:193
-#, c-format
-msgid "Hardware Configuration"
-msgstr "Donanım Yapılandırması"
-
-#: harddrake2:200
+#: ../control-center:626
 #, c-format
 msgid "/_Quit"
 msgstr "/_Çık"
 
-#: harddrake2:213
+#: ../control-center:626
 #, c-format
-msgid "/_Fields description"
-msgstr "/_Alan açıklamaları"
+msgid "<control>Q"
+msgstr "<control>Q"
 
-#: harddrake2:215
+#: ../control-center:626
 #, c-format
-msgid "Harddrake help"
-msgstr "Harddrake yardımı"
+msgid "Quit"
+msgstr "Çık"
 
-#: harddrake2:216
+#: ../control-center:647 ../control-center:650 ../control-center:663
+#, c-format
+msgid "/_Themes"
+msgstr "/_Temalar"
+
+#: ../control-center:653
 #, c-format
 msgid ""
-"Description of the fields:\n"
-"\n"
+"This action will restart the control center.\n"
+"Any change not applied will be lost."
 msgstr ""
-"Alanların açıklamalarıı:\n"
-"\n"
+"Bu eylem denetim merkezini yeniden başlatacaktır.\n"
+"Kaydedilmeyen değişiklikler kaybolacaktır."
 
-#: harddrake2:224
+#: ../control-center:663
 #, c-format
-msgid "Select a device!"
-msgstr "Bir aygıt seçiniz"
+msgid "/_More themes"
+msgstr "/_Daha fazla tema"
 
-#: harddrake2:224
+#: ../control-center:665 ../control-center:666 ../control-center:667
+#: ../control-center:668 ../control-center:669 ../control-center:670
+#: ../control-center:673
 #, c-format
-msgid "Once you've selected a device, you'll be able to see the device information in fields displayed on the right frame (\"Information\")"
-msgstr "Bir aygıt seçtiğinizde, sağ yandaki tablada (\"Bilgi\") aygıt hakkındaki bilgileri görebilirsiniz."
+msgid "/_Help"
+msgstr "/_Yardım"
 
-#: harddrake2:230
+#: ../control-center:666 ../control-center:667 ../control-center:668
+#: ../control-center:669
+#, c-format
+msgid "Help"
+msgstr "Yardım"
+
+#: ../control-center:667
+#, c-format
+msgid "/_Release notes"
+msgstr "/_Yayın notları"
+
+#: ../control-center:668
+#, c-format
+msgid "/What's _New?"
+msgstr "/Ne _Yeni?"
+
+#: ../control-center:669
+#, c-format
+msgid "/_Errata"
+msgstr "/_Bilinen Sorunlar"
+
+#: ../control-center:670
 #, c-format
 msgid "/_Report Bug"
 msgstr "/_Hata Bildir"
 
-#: harddrake2:232
+#: ../control-center:673
 #, c-format
 msgid "/_About..."
 msgstr "/_Hakkında..."
 
-#: harddrake2:235
+#: ../control-center:731
 #, c-format
-msgid "Harddrake"
-msgstr "HardDrake"
+msgid "Cancel"
+msgstr "İptal"
 
-#: harddrake2:239
+#: ../control-center:751
 #, c-format
-msgid "This is HardDrake, a %s hardware configuration tool."
-msgstr "Bu HardDrake' tir. Bir %s donanım yapılandırma aracıdır."
+msgid "%s Control Center %s [on %s]"
+msgstr "%s Denetim Merkezi %s (%s üzerinde)"
 
-#: harddrake2:271
+#: ../control-center:1038 ../control-center:1103
 #, c-format
-msgid "Detected hardware"
-msgstr "Bulunan donanımlar"
+msgid "Error"
+msgstr "Hata"
 
-#: harddrake2:274 scannerdrake:286
-#, c-format
-msgid "Information"
-msgstr "Bilgiler"
-
-#: harddrake2:276
-#, c-format
-msgid "Set current driver options"
-msgstr "Şu anki sürücü seçeneklerini ayarla"
-
-#: harddrake2:283
-#, c-format
-msgid "Run config tool"
-msgstr "Yapılandırma aracını çalıştır"
-
-#: harddrake2:303
-#, c-format
-msgid "Click on a device in the left tree in order to display its information here."
-msgstr "Hakkında bilgi edinmek istediğiniz aygıtı sol ağaçtan tıklayınız."
-
-#: harddrake2:324 notify-x11-free-driver-switch:13
-#, c-format
-msgid "unknown"
-msgstr "bilinmeyen"
-
-#: harddrake2:325
-#, c-format
-msgid "Unknown"
-msgstr "Bilinmeyen"
-
-#: harddrake2:345
-#, c-format
-msgid "Misc"
-msgstr "Çeşitli"
-
-#: harddrake2:429
-#, c-format
-msgid "secondary"
-msgstr "ikincil"
-
-#: harddrake2:429
-#, c-format
-msgid "primary"
-msgstr "birincil"
-
-#: harddrake2:433
-#, c-format
-msgid "burner"
-msgstr "disk yakıcı"
-
-#: harddrake2:433
-#, c-format
-msgid "DVD"
-msgstr "DVD"
-
-#: harddrake2:537
-#, c-format
-msgid "The following packages need to be installed:\n"
-msgstr "Bu paketlerinde kurulu olması gerekiyor:\n"
-
-#: localedrake:38
-#, c-format
-msgid "LocaleDrake"
-msgstr "LocaleDrake"
-
-#: localedrake:46
-#, c-format
-msgid "You should install the following packages: %s"
-msgstr "Şu paketleri kurmalısınız: %s"
-
-#. -PO: the following is used to combine packages names. eg: "initscripts,
-#. harddrake, yudit"
-#: localedrake:49
-#, c-format
-msgid ", "
-msgstr ", "
-
-#: logdrake:51
-#, c-format
-msgid "%s Tools Logs"
-msgstr "%s Araçları Günlük Kayıtları"
-
-#: logdrake:65
-#, c-format
-msgid "Show only for the selected day"
-msgstr "Sadece bugünlük olanları göster"
-
-#: logdrake:72
-#, c-format
-msgid "/File/_New"
-msgstr "/Dosya/_Yeni"
-
-#: logdrake:72
-#, c-format
-msgid "<control>N"
-msgstr "<control>Y"
-
-#: logdrake:73
-#, c-format
-msgid "/File/_Open"
-msgstr "/Dosya/_Aç"
-
-#: logdrake:73
-#, c-format
-msgid "<control>O"
-msgstr "<control>A"
-
-#: logdrake:74
-#, c-format
-msgid "/File/_Save"
-msgstr "/Dosya/_Kaydet"
-
-#: logdrake:74
-#, c-format
-msgid "<control>S"
-msgstr "<control>K"
-
-#: logdrake:75
-#, c-format
-msgid "/File/Save _As"
-msgstr "/Dosya/_Farklı kaydet"
-
-#: logdrake:76
-#, c-format
-msgid "/File/-"
-msgstr "/Dosya/-"
-
-#: logdrake:79
-#, c-format
-msgid "/Options/Test"
-msgstr "/Ayarlar/Test"
-
-#: logdrake:81
-#, c-format
-msgid "/Help/_About..."
-msgstr "/Yardım/_Hakkında..."
-
-#: logdrake:110
+#: ../control-center:1038
 #, c-format
 msgid ""
-"_:this is the auth.log log file\n"
-"Authentication"
-msgstr "Kimlik Kanıtlama"
-
-#: logdrake:111
-#, c-format
-msgid ""
-"_:this is the user.log log file\n"
-"User"
-msgstr "Kullanıcı"
-
-#: logdrake:112
-#, c-format
-msgid ""
-"_:this is the /var/log/messages log file\n"
-"Messages"
-msgstr "İletiler"
-
-#: logdrake:113
-#, c-format
-msgid ""
-"_:this is the /var/log/syslog log file\n"
-"Syslog"
-msgstr "Syslog"
-
-#: logdrake:117
-#, c-format
-msgid "search"
-msgstr "ara"
-
-#: logdrake:129
-#, c-format
-msgid "A tool to monitor your logs"
-msgstr "Günlük kayıtlarınızı görüntüleyen bir araç"
-
-#: logdrake:131
-#, c-format
-msgid "Settings"
-msgstr "Ayarlar"
-
-#: logdrake:134
-#, c-format
-msgid "Matching"
-msgstr "Birbiriyle Eşleşiyor"
-
-#: logdrake:135
-#, c-format
-msgid "but not matching"
-msgstr "fakat uymuyor"
-
-#: logdrake:138
-#, c-format
-msgid "Choose file"
-msgstr "Dosya seçin"
-
-#: logdrake:150
-#, c-format
-msgid "Calendar"
-msgstr "Takvim"
-
-#: logdrake:159
-#, c-format
-msgid "Content of the file"
-msgstr "Dosya içeriği"
-
-#: logdrake:163 logdrake:407
-#, c-format
-msgid "Mail alert"
-msgstr "Posta uyarısı"
-
-#: logdrake:170
-#, c-format
-msgid "The alert wizard has failed unexpectedly:"
-msgstr "Uyarı sihirbazı beklenmeyen biçimde başarısız oldu:"
-
-#: logdrake:174
-#, c-format
-msgid "Save"
-msgstr "Kaydet"
-
-#: logdrake:222
-#, c-format
-msgid "please wait, parsing file: %s"
-msgstr "Lütfen dosya ayrıştırılırken bekleyiniz: %s"
-
-#: logdrake:244
-#, c-format
-msgid "Sorry, log file isn't available!"
-msgstr "Üzgünüm, günlük kaydına erişilemez!"
-
-#: logdrake:292
-#, c-format
-msgid "Error while opening \"%s\" log file: %s\n"
-msgstr "\"%s\" günlük kaydı açılırken hata oluştu: %s\n"
-
-#: logdrake:385
-#, c-format
-msgid "Apache World Wide Web Server"
-msgstr "Apache WWW Sunucusu"
-
-#: logdrake:386
-#, c-format
-msgid "Domain Name Resolver"
-msgstr "Alan Adı Çözücüsü"
-
-#: logdrake:387
-#, c-format
-msgid "Ftp Server"
-msgstr "Ftp Sunucu"
-
-#: logdrake:388
-#, c-format
-msgid "Postfix Mail Server"
-msgstr "Postfix Post Sunucu"
-
-#: logdrake:389
-#, c-format
-msgid "Samba Server"
-msgstr "Samba Sunucu"
-
-#: logdrake:390
-#, c-format
-msgid "SSH Server"
-msgstr "SSH Sunucu"
-
-#: logdrake:391
-#, c-format
-msgid "Webmin Service"
-msgstr "Webmin Servisi"
-
-#: logdrake:392
-#, c-format
-msgid "Xinetd Service"
-msgstr "Xinetd Servisi"
-
-#: logdrake:401
-#, c-format
-msgid "Configure the mail alert system"
-msgstr "E-posta uyarı sistemini yapılandır"
-
-#: logdrake:402
-#, c-format
-msgid "Stop the mail alert system"
-msgstr "E-posta uyarı sistemini durdur."
-
-#: logdrake:410
-#, c-format
-msgid "Mail alert configuration"
-msgstr "Posta uyarı yapılandırması"
-
-#: logdrake:411
-#, c-format
-msgid ""
-"Welcome to the mail configuration utility.\n"
+"There's a bug in translations of your language (%s)\n"
 "\n"
-"Here, you'll be able to set up the alert system.\n"
+"Please report that bug."
 msgstr ""
-"Posta yapılandırma aracına hoş geldiniz.\n"
+"Dilinize (%s) yapılan çeviride bir hata mevcut.\n"
 "\n"
-"Burada, uyarı sistemini yapılandırabilirsiniz\n"
+"Lütfen bu hatayı raporlayın."
 
-#: logdrake:414
+#: ../control-center:1103
 #, c-format
-msgid "What do you want to do?"
-msgstr "Ne yapmak istersiniz ?"
+msgid "Impossible to run unknown '%s' program"
+msgstr "Bilinmeyen '%s' uygulamasını çalıştırmak mümkün değil"
 
-#: logdrake:421
+#: ../control-center:1122
 #, c-format
-msgid "Services settings"
-msgstr "Hizmet ayarları"
+msgid "The modifications done in the current module won't be saved."
+msgstr "Geçerli modülde yapılan değişiklikler kaydedilmeyecek."
 
-#: logdrake:422
+#: ../control-center:1209
 #, c-format
-msgid "You will receive an alert if one of the selected services is no longer running"
-msgstr "Eğer seçili servislerden biri artık çalışmıyorsa bir uyarı alacaksınız"
+msgid "cannot fork: %s"
+msgstr "çatallanamıyor:%s"
 
-#: logdrake:429
+#: ../control-center:1232
 #, c-format
-msgid "Load setting"
-msgstr "Ayarları yükle"
+msgid "cannot fork and exec \"%s\" since it is not executable"
+msgstr "\"%s\" çalıştırılabilir olmadığından çatallanamıyor ve çalıştırılamıyor"
 
-#: logdrake:430
+#: ../control-center:1371
 #, c-format
-msgid "You will receive an alert if the load is higher than this value"
-msgstr "Yükleme bu değerden fazlaysa bir uyarı alacaksınız"
+msgid "This program has exited abnormally"
+msgstr "Bu uygulama olağan dışı biçimde kapandı"
 
-#: logdrake:431
+#: ../control-center:1380
+#, c-format
+msgid "Warning"
+msgstr "Uyarı"
+
+#: ../control-center:1390 ../drakconsole:31
+#, c-format
+msgid "Close"
+msgstr "Kapat"
+
+#: ../control-center:1397
+#, c-format
+msgid "More themes"
+msgstr "Daha fazla tema"
+
+#: ../control-center:1399
+#, c-format
+msgid "Getting new themes"
+msgstr "Yeni temalar alınıyor"
+
+#: ../control-center:1400
+#, c-format
+msgid "Additional themes"
+msgstr "Ek temalar"
+
+#: ../control-center:1402
+#, c-format
+msgid "Get additional themes on www.damz.net"
+msgstr "www.damz.net üzerinden ek temaları al"
+
+#: ../control-center:1410
+#, c-format
+msgid "About - %s Control Center"
+msgstr "Hakkında - %s Denetim Merkezi"
+
+#: ../control-center:1418
+#, c-format
+msgid "Authors: "
+msgstr "Yazarlar: "
+
+#: ../control-center:1422
+#, c-format
+msgid "(perl version)"
+msgstr "(perl sürümü)"
+
+#: ../control-center:1427
+#, c-format
+msgid "Artwork: "
+msgstr "Sanatsal Çalışma: "
+
+#: ../control-center:1432
+#, c-format
+msgid "Helene Durosini"
+msgstr "Helene Durosini"
+
+#. -PO: this is used as "language: translator" in credits part of the about
+#. dialog:
+#: ../control-center:1454
+#, c-format
+msgid "- %s: %s\n"
+msgstr "- %s: %s\n"
+
+#: ../control-center:1469
 #, c-format
 msgid ""
-"_: load here is a noun, the load of the system\n"
-"Load"
-msgstr "Yük"
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Atilla ÖNTAŞ"
 
-#: logdrake:436
-#, c-format
-msgid "Alert configuration"
-msgstr "Uyarı yapılandırması"
-
-#: logdrake:437
-#, c-format
-msgid "Please enter your email address below "
-msgstr "Lütfen e-posta adresinizi aşağıya giriniz "
-
-#: logdrake:438
-#, c-format
-msgid "and enter the name (or the IP) of the SMTP server you wish to use"
-msgstr "ve kullanmak istediğiniz SMTP sunucu adını (veya IP) girin"
-
-#: logdrake:445
-#, c-format
-msgid "\"%s\" neither is a valid email nor is an existing local user!"
-msgstr "\"%s\" ne geçerli bir e-posta adresi ne de varolan bir yerel kullanıcı!"
-
-#: logdrake:450
-#, c-format
-msgid "\"%s\" is a local user, but you did not select a local smtp, so you must use a complete email address!"
-msgstr "\"%s\" bir yerel kullanıcı; ancak bir yerel smtp seçmemiştiniz. Yani, tam bir e-posta adresi kullanmak durumundasınız!"
-
-#: logdrake:457
-#, c-format
-msgid "The wizard successfully configured the mail alert."
-msgstr "Sihirbaz başarıyla posta uyarısını yapılandırdı."
-
-#: logdrake:463
-#, c-format
-msgid "The wizard successfully disabled the mail alert."
-msgstr "Sihirbaz başarıyla e-posta uyarısını devredışı bıraktı."
-
-#: logdrake:522
-#, c-format
-msgid "Save as.."
-msgstr "Farklı Kaydet..."
-
-#: notify-x11-free-driver-switch:18 service_harddrake:454
-#, c-format
-msgid "Display driver setup"
-msgstr "Ekran kartı sürücüsü kurulumu"
-
-#: notify-x11-free-driver-switch:20
-#, c-format
-msgid "The display driver has been automatically switched to '%s'."
-msgstr "Ekran kartı sürücüsü olarak kendiliğinden '%s' seçildi."
-
-#: notify-x11-free-driver-switch:21
-#, c-format
-msgid "Reason: %s."
-msgstr "Sebep: %s."
-
-#: scannerdrake:51
+#: ../control-center:1471
 #, c-format
 msgid ""
-"SANE packages need to be installed to use scanners.\n"
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "tarakbumba@gmail.com"
+
+#: ../control-center:1473
+#, c-format
+msgid "Translator: "
+msgstr "Çevirmen: "
+
+#. -PO: Here, first %s will be replaced by 'Mageia'
+#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free)
+#. Control Center")
+#: ../control-center:1482
+#, c-format
+msgid "%s %s (%s) Control Center"
+msgstr "%s %s (%s) Denetim Merkezi"
+
+#. -PO: here %s is eg: "1999-2008"
+#: ../control-center:1487
+#, c-format
+msgid "Copyright (C) %s Mandriva SA"
+msgstr "Tel'if Hakkı (C) %s Mandriva SA"
+
+#: ../control-center:1487
+#, c-format
+msgid "Copyright (C) %s Mageia"
+msgstr "Copyright (C) %s Mageia"
+
+#: ../control-center:1493
+#, c-format
+msgid "Authors"
+msgstr "Yazarlar"
+
+#: ../control-center:1494
+#, c-format
+msgid "Mageia Contributors"
+msgstr "Mageia' ya Katkıda Bulunanlar"
+
+#: ../drakconsole:27
+#, c-format
+msgid "DrakConsole"
+msgstr "DrakConsole"
+
+#: ../drakxconf:28
+#, c-format
+msgid "Display"
+msgstr "Ekran"
+
+#: ../drakxconf:29
+#, c-format
+msgid "Keyboard"
+msgstr "Klavye"
+
+#: ../drakxconf:30
+#, c-format
+msgid "Mouse"
+msgstr "Fare"
+
+#: ../drakxconf:32
+#, c-format
+msgid "Users and groups"
+msgstr "Kullanıcılar ve gruplar"
+
+#: ../drakxconf:33
+#, c-format
+msgid "Services"
+msgstr "Hizmetler"
+
+#: ../drakxconf:34
+#, c-format
+msgid "Firewall"
+msgstr "Güvenlik Duvarı"
+
+#: ../drakxconf:35
+#, c-format
+msgid "Boot loader"
+msgstr "Ön yükleyici"
+
+#: ../drakxconf:36
+#, c-format
+msgid "Auto Install"
+msgstr "Otomatik Kurulum"
+
+#: ../drakxconf:37
+#, c-format
+msgid "Internet connection sharing"
+msgstr "İnternet bağlantı paylaşımı"
+
+#: ../drakxconf:38
+#, c-format
+msgid "3D Desktop effects"
+msgstr "3B Masaüstü efektleri"
+
+#: ../drakxconf:39
+#, c-format
+msgid "Partitions"
+msgstr "Disk bölümleri"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Control Center"
+msgstr "Denetim Merkezi"
+
+#: ../drakxconf:42
+#, c-format
+msgid "Choose the tool you want to use"
+msgstr "Kullanmak istediğiniz aracı seçiniz"
+
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
+#, c-format
+msgid "Configure 3D Desktop effects"
+msgstr "3 Boyutlu Masaüstü Özelliklerini Yapılandır."
+
+#: ../lib/MDV/Control_Center.pm:68
+#, c-format
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr "Kimlik doğrulama yöntemini seçiniz. (local, NIS, LDAP, Windows Domain, ...)"
+
+#: ../lib/MDV/Control_Center.pm:77
+#, c-format
+msgid "Set up autologin to automatically log in"
+msgstr "Otomatik oturm açmayı ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:78
+#, c-format
+msgid "Enable autologin and select the user to automatically log in"
+msgstr "Otomatik oturum açmayı etkinleştirin ve otomatik oturum açacak kullanıcıyı seçin."
+
+#: ../lib/MDV/Control_Center.pm:87
+#, c-format
+msgid "Backups"
+msgstr "Yedekler"
+
+#: ../lib/MDV/Control_Center.pm:88
+#, c-format
+msgid "Configure backups of the system and of the users' data"
+msgstr "Sistem ve kullanıcı bilgilerini yedeklemek için gerekli ayarlamaları yapın"
+
+#: ../lib/MDV/Control_Center.pm:98
+#, c-format
+msgid "Snapshots"
+msgstr "Anlık Durum Yedekleri"
+
+#: ../lib/MDV/Control_Center.pm:108
+#, c-format
+msgid "Set up boot system"
+msgstr "Önyükleme sistemini ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:109
+#, c-format
+msgid "Set up how the system boots"
+msgstr "Sistemin nasıl önyükleme yapılacağını ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:118
+#, c-format
+msgid "Set up boot graphical theme of system"
+msgstr "Sistem için grafiksel önyükleme teması ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:119
+#, c-format
+msgid "Select the graphical theme of the system while booting"
+msgstr "Sistem önyüklenirken kullanılacak grafiksel temayı seçin"
+
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
+#, c-format
+msgid "Share the Internet connection with other local machines"
+msgstr "İnternet bağlantısını diğer yerel makinelerle paylaşın"
+
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
+#, c-format
+msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
+msgstr "Yeni bir ağ arayüzü ayarlayın (LAN,ISDN,ADSL...)"
+
+#: ../lib/MDV/Control_Center.pm:148
+#, c-format
+msgid "Internet access"
+msgstr "İnternet erişimi"
+
+#: ../lib/MDV/Control_Center.pm:149
+#, c-format
+msgid "Alter miscellaneous internet settings"
+msgstr "Bir çok internet ayarını değiştirin"
+
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
+#, c-format
+msgid "Open a console as administrator"
+msgstr "Yönetici olarak bir komut satırı açın"
+
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
+#, c-format
+msgid "Manage date and time"
+msgstr "Gün ve saati yönetin"
+
+#: ../lib/MDV/Control_Center.pm:179
+#, c-format
+msgid "Set up display manager"
+msgstr "Oturum yöneticisini ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:180
+#, c-format
+msgid "Choose the display manager that enables to select which user to log in"
+msgstr "Hangi kullanıcının oturum açabileceğini seçmeye imkan veren oturum yöneticisini seçin"
+
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
+#, c-format
+msgid "Configure a fax server"
+msgstr "Bir faks sunucusu yapılandırın"
+
+#: ../lib/MDV/Control_Center.pm:199
+#, c-format
+msgid "Set up your personal firewall"
+msgstr "Kişisel güvenlik duvarınızı ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:200
+#, c-format
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr "Bilgisayarı ve ağı korumak için bir kişisel güvenlik duvarı ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
+#, c-format
+msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
+msgstr "Yazıtiplerini ekleyin, silin ve yönetin. Windows (TM) yazıtiplerini içe aktarın"
+
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
+#, c-format
+msgid "Set up the graphical server"
+msgstr "Grafiksel sunucu ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:229
+#, c-format
+msgid "Manage disk partitions"
+msgstr "Disk bölümlerini yönetin"
+
+#: ../lib/MDV/Control_Center.pm:230
+#, c-format
+msgid "Create, delete and resize hard disk partitions"
+msgstr "Sabit disk bölümlerini oluşturun, silin ve yeniden boyutlandırın"
+
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
+#, c-format
+msgid "Browse and configure hardware"
+msgstr "Donanıma gözatın ve yapılandırın"
+
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
+#, c-format
+msgid "Sound Configuration"
+msgstr "Ses Yapılandırması"
+
+#: ../lib/MDV/Control_Center.pm:260
+#, c-format
+msgid "Hosts definitions"
+msgstr "Makine açıklamaları"
+
+#: ../lib/MDV/Control_Center.pm:261
+#, c-format
+msgid "Manage hosts definitions"
+msgstr "Makine açıklamalarını yönetin"
+
+#: ../lib/MDV/Control_Center.pm:270
+#, c-format
+msgid "Install & Remove Software"
+msgstr "Yazılım Kurun veya Kaldırın"
+
+#: ../lib/MDV/Control_Center.pm:271
+#, c-format
+msgid "Install, uninstall software"
+msgstr "Yazılım kurun veya kaldırın"
+
+#: ../lib/MDV/Control_Center.pm:281
+#, c-format
+msgid "Advanced setup for network interfaces and firewall"
+msgstr "Ağ arayüzleri ve güvenlik duvarı için gelşmiş kurulum"
+
+#: ../lib/MDV/Control_Center.pm:282
+#, c-format
+msgid "Set up network interfaces failover and firewall replication"
+msgstr "Ağ arayüzleri ayrıntılı ayarları ve güvenlik duvarı yinelemesini kurun"
+
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
+#, c-format
+msgid "Set up the keyboard layout"
+msgstr "Kılavye düzenini ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:301
+#, c-format
+msgid "Kolab"
+msgstr "Kolab"
+
+#: ../lib/MDV/Control_Center.pm:302
+#, c-format
+msgid "Set up a groupware server"
+msgstr "Bir grup yazılımı sunucusu kurun"
+
+#: ../lib/MDV/Control_Center.pm:311
+#, c-format
+msgid "Manage localization for your system"
+msgstr "Sisteminizin yerelleştirmesini yönetin"
+
+#: ../lib/MDV/Control_Center.pm:312
+#, c-format
+msgid "Select the language and the country or region of the system"
+msgstr "Sisteminizde kullanılacak dil ve ülke/bölge ayarlarını yapın"
+
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
+#, c-format
+msgid "View and search system logs"
+msgstr "Sistem günlük kayıtlarını görüntüleyin, bunlarda arama yapın"
+
+#: ../lib/MDV/Control_Center.pm:330
+#, c-format
+msgid "Manage connections"
+msgstr "Bağlantıları yönetin"
+
+#: ../lib/MDV/Control_Center.pm:331
+#, c-format
+msgid "Reconfigure a network interface"
+msgstr "Bir ağ arayüzünü yeniden yapılandırın"
+
+#: ../lib/MDV/Control_Center.pm:340
+#, c-format
+msgid "Manage computer group"
+msgstr "Bilgisayar grubunu yönetin"
+
+#: ../lib/MDV/Control_Center.pm:341
+#, c-format
+msgid "Manage installed software packages on a group of computers"
+msgstr "Bir bilgisayar grubunda, kurulu olan yazılım paketlerini yönetin"
+
+#: ../lib/MDV/Control_Center.pm:349
+#, c-format
+msgid "Configure authentication for Mageia tools"
+msgstr "Mageia araçları için kimlik doğrulama biçimini yapılandırın"
+
+#: ../lib/MDV/Control_Center.pm:350
+#, c-format
+msgid ""
+"Define authentication required to access individual Mageia configuration "
+"tools "
+msgstr "Farklı Mageia yapılandırma araçlarına erişim için gerekli kimlik doğrulama yöntemini tanımlayın "
+
+#: ../lib/MDV/Control_Center.pm:358
+#, c-format
+msgid "Update your system"
+msgstr "Sisteminizi güncelleştirin"
+
+#: ../lib/MDV/Control_Center.pm:359
+#, c-format
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr "Erişilebilir güncellemelere göz atın ve iyileştirmeler veya yükseltmeleri uygulayın"
+
+#: ../lib/MDV/Control_Center.pm:369
+#, c-format
+msgid "Menu Style"
+msgstr "Menü Biçimi"
+
+#: ../lib/MDV/Control_Center.pm:370
+#, c-format
+msgid "Menu Style Configuration"
+msgstr "Menü biçimi yapılandırması"
+
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
+#, c-format
+msgid "Import Windows(TM) documents and settings"
+msgstr "Windows (TM) belge ve ayarlarını aktar"
+
+#: ../lib/MDV/Control_Center.pm:389
+#, c-format
+msgid "Monitor connections"
+msgstr "Bağlantıları izle"
+
+#: ../lib/MDV/Control_Center.pm:390
+#, c-format
+msgid "Monitor the network connections"
+msgstr "Ağ Bağlantılarını izle "
+
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
+#, c-format
+msgid "Set up the pointer device (mouse, touchpad)"
+msgstr "İşaretleme aracı (fare, touchpad) yapılandır"
+
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
+#, c-format
+msgid "Parental Controls"
+msgstr "Ebeveyn Denetimi"
+
+#: ../lib/MDV/Control_Center.pm:418
+#, c-format
+msgid "Network Center"
+msgstr "Ağ Merkezi"
+
+#: ../lib/MDV/Control_Center.pm:428
+#, c-format
+msgid "Manage different network profiles"
+msgstr "Ağ profillerini yönet."
+
+#: ../lib/MDV/Control_Center.pm:429
+#, c-format
+msgid "Activate and manage network profiles"
+msgstr "Ağ profillerini etkinleştirin ve yönetin"
+
+#: ../lib/MDV/Control_Center.pm:438
+#, c-format
+msgid "Access NFS shared drives and directories"
+msgstr "NFS paylaşımları ve dizinlerine erişim"
+
+#: ../lib/MDV/Control_Center.pm:439
+#, c-format
+msgid "Set NFS mount points"
+msgstr "NFS bağlama noktaları yapılandır"
+
+#: ../lib/MDV/Control_Center.pm:448
+#, c-format
+msgid "Share drives and directories using NFS"
+msgstr "Sürücü ve dizinleri NFS kullanarak paylaşın"
+
+#: ../lib/MDV/Control_Center.pm:449
+#, c-format
+msgid "Manage NFS shares"
+msgstr "NFS paylaşımlarını yönetin"
+
+#: ../lib/MDV/Control_Center.pm:459
+#, c-format
+msgid "Package Stats"
+msgstr "Paket İstatistikleri"
+
+#: ../lib/MDV/Control_Center.pm:460
+#, c-format
+msgid "Show statistics about usage of installed software packages"
+msgstr "Kurulu paketlerin kullanım istatistiklerini göster"
+
+#: ../lib/MDV/Control_Center.pm:469
+#, c-format
+msgid "Share your hard disk partitions"
+msgstr "Sabit disk bölümlerini paylaşın"
+
+#: ../lib/MDV/Control_Center.pm:470
+#, c-format
+msgid "Set up sharing of your hard disk partitions"
+msgstr "Sabit disk bölümlerinin paylaşımını ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
+#, c-format
+msgid "Set up the printer(s), the print job queues, ..."
+msgstr "Yazıcıları ve yazıcı arayüzlerini yönetin..."
+
+#: ../lib/MDV/Control_Center.pm:491
+#, c-format
+msgid "Scheduled tasks"
+msgstr "Zamanlanmış görevler"
+
+#: ../lib/MDV/Control_Center.pm:492
+#, c-format
+msgid "Schedule programs to run periodically or at given times"
+msgstr "Uygulamaları belirtilen gün ve saatlerde çalıştırın"
+
+#: ../lib/MDV/Control_Center.pm:501
+#, c-format
+msgid "Proxy"
+msgstr "Vekil Sunucu"
+
+#: ../lib/MDV/Control_Center.pm:502
+#, c-format
+msgid "Set up a proxy server for files and web browsing"
+msgstr "Dosyalar ve webde gezinme için bir vekil sunucu kurun"
+
+#: ../lib/MDV/Control_Center.pm:510
+#, c-format
+msgid "Remote Control (Linux/Unix, Windows)"
+msgstr "Uzaktan kontrol (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:511
+#, c-format
+msgid "Remote Control of another machine (Linux/Unix, Windows)"
+msgstr "Başka bir makinenin uzaktan denetimi (Linux/Unix, Windows)"
+
+#: ../lib/MDV/Control_Center.pm:520
+#, c-format
+msgid "Remove a connection"
+msgstr "Bir bağlantıyı kaldırın"
+
+#: ../lib/MDV/Control_Center.pm:521
+#, c-format
+msgid "Delete a network interface"
+msgstr "Bir ağ ara birimini silin"
+
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
+#, c-format
+msgid "Wireless connection"
+msgstr "Kablosuz bağlantı"
+
+#: ../lib/MDV/Control_Center.pm:541
+#, c-format
+msgid "Access Windows (SMB) shared drives and directories"
+msgstr "Windows (SMB) paylaşımları ve dizinlerine erişim"
+
+#: ../lib/MDV/Control_Center.pm:542
+#, c-format
+msgid "Configuration of Windows (Samba) shared drives and directories"
+msgstr "Windows (Samba) paylaşımları ve dizinleri yapılandırması"
+
+#: ../lib/MDV/Control_Center.pm:551
+#, c-format
+msgid "Share drives and directories with Windows (SMB) systems"
+msgstr "Windows (SMB) sistemleri ile sürücü ve dizinleri paylaşın"
+
+#: ../lib/MDV/Control_Center.pm:552
+#, c-format
+msgid "Manage configuration of Samba"
+msgstr "Samba yapılandırmasını yönetin"
+
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
+#, c-format
+msgid "Set up scanner"
+msgstr "Tarayıcı kurun"
+
+#: ../lib/MDV/Control_Center.pm:571
+#, c-format
+msgid "Configure system security, permissions and audit"
+msgstr "Sistem güvenliğini, izinleri ve yetkileri yönetin"
+
+#: ../lib/MDV/Control_Center.pm:572
+#, c-format
+msgid "Set the system security level, periodic security audit and permissions"
+msgstr "Sistem güvenlik seviyesi, aralıklı güvenlik denetimi ve izinleri ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
+#, c-format
+msgid "Manage system services by enabling or disabling them"
+msgstr "Sistem hizmetlerini etkinleştirmek veya devre dışı bırakmak suretiyle yönetin"
+
+#: ../lib/MDV/Control_Center.pm:592
+#, c-format
+msgid "Configure media sources for install and update"
+msgstr "Kurulum ve güncelleştirme için kurulum kaynağı seçin"
+
+#: ../lib/MDV/Control_Center.pm:593
+#, c-format
+msgid "Select from where software packages are downloaded "
+msgstr "Yazılım paketlerinin nereden indirileceğini seçin"
+
+#: ../lib/MDV/Control_Center.pm:603
+#, c-format
+msgid "Configure updates frequency"
+msgstr "Güncelleme sıklığını yapılandırın"
+
+#: ../lib/MDV/Control_Center.pm:612
+#, c-format
+msgid "Access to extended maintenance"
+msgstr "Genişletilmiş bakıma giriş"
+
+#: ../lib/MDV/Control_Center.pm:621
+#, c-format
+msgid "Configure TOMOYO Linux policy"
+msgstr "TOMOYO Linux kuralını yapılandırın"
+
+#: ../lib/MDV/Control_Center.pm:622
+#, c-format
+msgid "View and configure TOMOYO Linux security policy"
+msgstr "TOMOYO Linux güvenlik kuralını görüntüleyin ve yapılandırın"
+
+#. -PO: here power means electrical power
+#. -PO: UPS==Uninterruptible power supply
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
+#, c-format
+msgid "Set up a UPS for power monitoring"
+msgstr "Güç yönetimi için UPS ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:647
+#, c-format
+msgid "Manage users on system"
+msgstr "Sistemdeki kullanıcıları ayarlayın"
+
+#: ../lib/MDV/Control_Center.pm:648
+#, c-format
+msgid "Add, remove or change users of the system"
+msgstr "Kullanıcı ekleyin, çıkarın, düzenleyin."
+
+#: ../lib/MDV/Control_Center.pm:658
+#, c-format
+msgid "Virtualization"
+msgstr "Sanallaştırma"
+
+#: ../lib/MDV/Control_Center.pm:659
+#, c-format
+msgid "Virtual machines management"
+msgstr "Sanal makine yönetimi"
+
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
+#, c-format
+msgid "Configure VPN connection to secure network access"
+msgstr "Güvenli uzaktan erişim için vpn yapılandırması"
+
+#: ../lib/MDV/Control_Center.pm:678
+#, c-format
+msgid "Access WebDAV shared drives and directories"
+msgstr "WebDAV paylaşımlı sürücü ve dizinlere erişim"
+
+#: ../lib/MDV/Control_Center.pm:679
+#, c-format
+msgid "Set WebDAV mount points"
+msgstr "WebDAV bağlama noktalarını ayarlayın"
+
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
+#, c-format
+msgid "Menu Configuration Center"
+msgstr "Menü Yapılandırma Merkezi"
+
+#: ../menus_launcher.pl:28
+#, c-format
+msgid "System menu"
+msgstr "Sistem menüsü"
+
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
+#, c-format
+msgid "Configure..."
+msgstr "Yapılandır..."
+
+#: ../menus_launcher.pl:31
+#, c-format
+msgid "User menu"
+msgstr "Kullanıcı menüsü"
+
+#: ../menus_launcher.pl:41
+#, c-format
+msgid ""
 "\n"
-"Do you want to install the SANE packages?"
+"\n"
+"Choose which menu you want to configure"
 msgstr ""
-"Tarayıcıların kullanılabilmesi için SANE paketlerinin kurulması gerekiyor.\n"
 "\n"
-"SANE paketlerinin kurulmasını ister misiniz?"
-
-#: scannerdrake:55
-#, c-format
-msgid "Aborting Scannerdrake."
-msgstr "Scannerdrake iptal ediliyor."
-
-#: scannerdrake:60
-#, c-format
-msgid "Could not install the packages needed to set up a scanner with Scannerdrake."
-msgstr "Scannerdrake ile bir tarayıcı kurabilmek için gerekli paketler kurulamıyor."
-
-#: scannerdrake:61
-#, c-format
-msgid "Scannerdrake will not be started now."
-msgstr "Scannerdrake şimdi başlatılmayacak."
-
-#: scannerdrake:67 scannerdrake:505
-#, c-format
-msgid "Searching for configured scanners..."
-msgstr "Yapılandırılmış tarayıcılar aranıyor ..."
-
-#: scannerdrake:71 scannerdrake:509
-#, c-format
-msgid "Searching for new scanners..."
-msgstr "Yeni tarayıcılar aranıyor ..."
-
-#: scannerdrake:79 scannerdrake:531
-#, c-format
-msgid "Re-generating list of configured scanners..."
-msgstr "Yapılandırılmış tarayıcıların listesi yeniden oluşturuluyor ..."
-
-#: scannerdrake:101
-#, c-format
-msgid "The %s is not supported by this version of %s."
-msgstr "%s aygıtı %s sürümlü dağıtımca desteklenmiyor."
-
-#: scannerdrake:104 scannerdrake:115
-#, c-format
-msgid "Confirmation"
-msgstr "Onayla"
-
-#: scannerdrake:104
-#, c-format
-msgid "%s found on %s, configure it automatically?"
-msgstr "%s, %s üzerinde bulundu, otomatik olarak yapılandırayım mı?"
-
-#: scannerdrake:116
-#, c-format
-msgid "%s is not in the scanner database, configure it manually?"
-msgstr "%s tarayıcı veritabanında değil, elle yapılandırmak ister misiniz?"
-
-#: scannerdrake:130
-#, c-format
-msgid "Scanner configuration"
-msgstr "Tarayıcı yapılandırması"
-
-#: scannerdrake:131
-#, c-format
-msgid "Select a scanner model (Detected model: %s, Port: %s)"
-msgstr "Bir tarayıcı modeli seçin (Algılanan model %s, Port: %s)"
-
-#: scannerdrake:133
-#, c-format
-msgid "Select a scanner model (Detected model: %s)"
-msgstr "Bir tarayıcı modeli seçin (Algılanan model %s)"
-
-#: scannerdrake:134
-#, c-format
-msgid "Select a scanner model (Port: %s)"
-msgstr "Bir tarayıcı modeli seçin (Port: %s)"
-
-#: scannerdrake:136 scannerdrake:139
-#, c-format
-msgid " (UNSUPPORTED)"
-msgstr " (DESTEKLENMİYOR)"
-
-#: scannerdrake:142
-#, c-format
-msgid "The %s is not supported under Linux."
-msgstr "%s aygıtı Linux tarafından desteklenmiyor."
-
-#: scannerdrake:169 scannerdrake:183
-#, c-format
-msgid "Do not install firmware file"
-msgstr "Donanım yazılımı dosyasını kurma"
-
-#: scannerdrake:172 scannerdrake:222
-#, c-format
-msgid "Scanner Firmware"
-msgstr "Tarayıcı donanımsal yazılımı"
-
-#: scannerdrake:173 scannerdrake:225
-#, c-format
-msgid "It is possible that your %s needs its firmware to be uploaded everytime when it is turned on."
-msgstr "%s için her çalıştırılmasında bir donanım yazılımı yüklenmesi gerekebilir."
-
-#: scannerdrake:174 scannerdrake:226
-#, c-format
-msgid "If this is the case, you can make this be done automatically."
-msgstr "Durum buysa; bunun otomatikman yapılmasını sağlayabilirsiniz."
-
-#: scannerdrake:175 scannerdrake:229
-#, c-format
-msgid "To do so, you need to supply the firmware file for your scanner so that it can be installed."
-msgstr "Bunu yapmak için; tarayıcınız için bir donanım yazılımı dosyası sağlamalısınız ki aygıt kurulabilsin."
-
-#: scannerdrake:176 scannerdrake:230
-#, c-format
-msgid "You find the file on the CD or floppy coming with the scanner, on the manufacturer's home page, or on your Windows partition."
-msgstr "Dosyayı tarayıcı ile verilen CD veya disket üzerinde, üreticinin internet sitesinde veya bilgisayarınızın Windows bölümünde bulabilirsiniz."
-
-#: scannerdrake:178 scannerdrake:237
-#, c-format
-msgid "Install firmware file from"
-msgstr "Donanım yazılımını şu kaynaklardan birinden kurun:"
-
-#: scannerdrake:180 scannerdrake:188 scannerdrake:239 scannerdrake:246
-#, c-format
-msgid "CD-ROM"
-msgstr "CD-ROM"
-
-#: scannerdrake:181 scannerdrake:190 scannerdrake:240 scannerdrake:248
-#, c-format
-msgid "Floppy Disk"
-msgstr "Disket"
-
-#: scannerdrake:182 scannerdrake:192 scannerdrake:241 scannerdrake:250
-#, c-format
-msgid "Other place"
-msgstr "Diğer konum"
-
-#: scannerdrake:198
-#, c-format
-msgid "Select firmware file"
-msgstr "Donanım yazılımı dosyasını seçin"
-
-#: scannerdrake:201 scannerdrake:260
-#, c-format
-msgid "The firmware file %s does not exist or is unreadable!"
-msgstr "%s donanım yazılımı dosyası ya hiç yok ya da okunamaz durumda!"
-
-#: scannerdrake:224
-#, c-format
-msgid "It is possible that your scanners need their firmware to be uploaded everytime when they are turned on."
-msgstr "Tarayıcılarınız için her çalıştırılmalarında bir donanım yazılımı yüklenmesi gerekebilir."
-
-#: scannerdrake:228
-#, c-format
-msgid "To do so, you need to supply the firmware files for your scanners so that it can be installed."
-msgstr "Bunu yapmak için; tarayıcılarınız için birer donanım yazılımı dosyası sağlamalısınız ki aygıtlar kurulabilsin."
-
-#: scannerdrake:231
-#, c-format
-msgid "If you have already installed your scanner's firmware you can update the firmware here by supplying the new firmware file."
-msgstr "Tarayıcınız için bir donanım yazılımını önceden kurduysanız, yeni bir donanım yazılımı dosyası sağlayarak burada güncelleyebilirsiniz."
-
-#: scannerdrake:233
-#, c-format
-msgid "Install firmware for the"
-msgstr "Şunun için donanım yazılımı kur:"
-
-#: scannerdrake:256
-#, c-format
-msgid "Select firmware file for the %s"
-msgstr "%s için firmware dosyasını seçin"
-
-#: scannerdrake:274
-#, c-format
-msgid "Could not install the firmware file for the %s!"
-msgstr "%s için donanım yazılımı kurulamıyor!"
-
-#: scannerdrake:287
-#, c-format
-msgid "The firmware file for your %s was successfully installed."
-msgstr "%s için sağlanan donanım yazılımı başarıyla kuruldu."
-
-#: scannerdrake:297
-#, c-format
-msgid "The %s is unsupported"
-msgstr "%s desteklenmiyor"
-
-#: scannerdrake:302
-#, c-format
-msgid ""
-"The %s must be configured by system-config-printer.\n"
-"You can launch system-config-printer from the %s Control Center in Hardware section."
-msgstr ""
-"%s system-config-printer ile yapılandırılmalı.\n"
-"system-config-printer uygulamasını %s Denetim Merkezinin Donanım bölümünden çalıştırabilirsiniz."
-
-#: scannerdrake:320
-#, c-format
-msgid "Setting up kernel modules..."
-msgstr "Çekirdek modülleri kuruluyor..."
-
-#: scannerdrake:330 scannerdrake:337 scannerdrake:367
-#, c-format
-msgid "Auto-detect available ports"
-msgstr "Mevcut limanları otomatik algıla"
-
-#: scannerdrake:331 scannerdrake:377
-#, c-format
-msgid "Device choice"
-msgstr "Aygıt seçimi"
-
-#: scannerdrake:332 scannerdrake:378
-#, c-format
-msgid "Please select the device where your %s is attached"
-msgstr "Lütfen %s limanına eklediğiniz aygıtı seçiniz"
-
-#: scannerdrake:333
-#, c-format
-msgid "(Note: Parallel ports cannot be auto-detected)"
-msgstr "(Not: Paralel portlar otomatik olarak algılanamıyor)"
-
-#: scannerdrake:335 scannerdrake:380
-#, c-format
-msgid "choose device"
-msgstr "agıtı seç"
-
-#: scannerdrake:369
-#, c-format
-msgid "Searching for scanners..."
-msgstr "Tarayıcılar aranıyor ..."
-
-#: scannerdrake:405 scannerdrake:412
-#, c-format
-msgid "Attention!"
-msgstr "Dikkat!"
-
-#: scannerdrake:406
-#, c-format
-msgid ""
-"Your %s cannot be configured fully automatically.\n"
 "\n"
-"Manual adjustments are required. Please edit the configuration file /etc/sane.d/%s.conf. "
-msgstr ""
-"%s tamamen otomatik olarak yapılandırılamaz.\n"
-"\n"
-"Elle ayarlama gerekli. Lütfen, /etc/sane.d/%s.conf dosyasını düzenleyin."
+"Hangi menüyü düzenleyeceğinizi seçiniz"
 
-#: scannerdrake:407 scannerdrake:416
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
 #, c-format
-msgid "More info in the driver's manual page. Run the command \"man sane-%s\" to read it."
-msgstr "Daha fazla bilgi sürücünün el kitabında bulunmaktadır. \"man sane-%s\" komutunu çalıştırarak okuyabilirsiniz."
+msgid "Printing configuration"
+msgstr "Yazdırma yapılandırması"
 
-#: scannerdrake:409 scannerdrake:418
+#: ../print_launcher.pl:30
 #, c-format
-msgid "After that you may scan documents using \"XSane\" or \"%s\" from Multimedia/Graphics in the applications menu."
-msgstr "Bundan sonra, uygulamalar menüsünde Çokluortam/Grafikler sekmesinden \"XSane\" veya \"%s\" kullanarak belgelerinizi taratabilirsiniz."
+msgid "Click here to configure the printing system"
+msgstr "Yazdırma sistemini yapılandırmak için buraya tıklayın"
 
-#: scannerdrake:413
-#, c-format
-msgid "Your %s has been configured, but it is possible that additional manual adjustments are needed to get it to work. "
-msgstr "%s yapılandırıldı. Ancak, çalışabilmesi için elle ek ayarlamalar yapmanız gerekebilir."
-
-#: scannerdrake:414
-#, c-format
-msgid "If it does not appear in the list of configured scanners in the main window of Scannerdrake or if it does not work correctly, "
-msgstr "Scannerdrake ana penceresindeki yapılandırılan tarayıcılar arasında göremezseniz veya düzgün biçimde çalışmazsa, "
-
-#: scannerdrake:415
-#, c-format
-msgid "edit the configuration file /etc/sane.d/%s.conf. "
-msgstr "/etc/sane.d/%s.conf yapılandırma dosyasını düzenleyin. "
-
-#: scannerdrake:420
-#, c-format
-msgid "Congratulations!"
-msgstr "Tebrikler!"
-
-#: scannerdrake:421
-#, c-format
-msgid ""
-"Your %s has been configured.\n"
-"You may now scan documents using \"XSane\" or \"%s\" from Multimedia/Graphics in the applications menu."
-msgstr ""
-"%s yapılandırıldı.\n"
-"Uygulamalar menüsünde Çokluortam/Grafikler sekmesinden \"XSane\" veya \"%s\" kullanarak belgelerinizi taratabilirsiniz."
-
-#: scannerdrake:446
-#, c-format
-msgid ""
-"The following scanners\n"
-"\n"
-"%s\n"
-"are available on your system.\n"
-msgstr ""
-"Şui tarayıcılar\n"
-"\n"
-"%s\n"
-"sisteminizde mevcut.\n"
-
-#: scannerdrake:447
-#, c-format
-msgid ""
-"The following scanner\n"
-"\n"
-"%s\n"
-"is available on your system.\n"
-msgstr ""
-"Şu tarayıcı\n"
-"\n"
-"%s\n"
-"sisteminizde mevcut.\n"
-
-#: scannerdrake:449 scannerdrake:452
-#, c-format
-msgid "There are no scanners found which are available on your system.\n"
-msgstr "Bilgisayarınızda hiçbir mevcut tarayıcı bulunamadı.\n"
-
-#: scannerdrake:460
-#, c-format
-msgid "Scanner Management"
-msgstr "Tarayıcı Yönetimi"
-
-#: scannerdrake:466
-#, c-format
-msgid "Search for new scanners"
-msgstr "Yeni tarayıcıları ara"
-
-#: scannerdrake:472
-#, c-format
-msgid "Add a scanner manually"
-msgstr "Tarayıcıyı elle ekle"
-
-#: scannerdrake:479
-#, c-format
-msgid "Install/Update firmware files"
-msgstr "Firmware dosyalarını Kur/Güncelle"
-
-#: scannerdrake:485
-#, c-format
-msgid "Scanner sharing"
-msgstr "Tarayıcı paylaşımı"
-
-#: scannerdrake:544 scannerdrake:709
-#, c-format
-msgid "All remote machines"
-msgstr "Tüm uzak makineler"
-
-#: scannerdrake:556 scannerdrake:859
-#, c-format
-msgid "This machine"
-msgstr "Bu makine"
-
-#: scannerdrake:595
-#, c-format
-msgid "Scanner Sharing"
-msgstr "Tarayıcı Paylaşımı"
-
-#: scannerdrake:596
-#, c-format
-msgid "Here you can choose whether the scanners connected to this machine should be accessible by remote machines and by which remote machines."
-msgstr "Burada, bu makineye bağlanan tarayıcılara uzak makinelerden erişilip erişilemeyeceğini ve hangi uzak makinelerden erişilebileceğini ayarlayabilirsiniz."
-
-#: scannerdrake:597
-#, c-format
-msgid "You can also decide here whether scanners on remote machines should be made available on this machine."
-msgstr "Ayrıca, uzak makinelerdeki tarayıcıların bu makine tarafından kullanılıp kullanılmayacağına karar verebilirsiniz."
-
-#: scannerdrake:600
-#, c-format
-msgid "The scanners on this machine are available to other computers"
-msgstr "Bu makinedeki mevcut tarayıcılara diğer bilgisayarlardan da erişilebilir"
-
-#: scannerdrake:602
-#, c-format
-msgid "Scanner sharing to hosts: "
-msgstr "Şu makinelere tarayıcı paylaştırılıyor: "
-
-#: scannerdrake:607 scannerdrake:624
-#, c-format
-msgid "No remote machines"
-msgstr "Uzak makine yok"
-
-#: scannerdrake:616
-#, c-format
-msgid "Use scanners on remote computers"
-msgstr "Uzak makinelerdeki tarayıcıları kullan"
-
-#: scannerdrake:619
-#, c-format
-msgid "Use the scanners on hosts: "
-msgstr "Şu makinelerdeki tarayıcıları kullan: "
-
-#: scannerdrake:646 scannerdrake:718 scannerdrake:868
-#, c-format
-msgid "Sharing of local scanners"
-msgstr "Yerel tarayıcıların paylaşımı"
-
-#: scannerdrake:647
-#, c-format
-msgid "These are the machines on which the locally connected scanner(s) should be available:"
-msgstr "Bunlar yerel bağlanmış tarayıcı(lar)ın kullanılabileceği makineler ve ağlardır:"
-
-#: scannerdrake:658 scannerdrake:808
-#, c-format
-msgid "Add host"
-msgstr "Makine Ekle"
-
-#: scannerdrake:664 scannerdrake:814
-#, c-format
-msgid "Edit selected host"
-msgstr "Seçili makineyi düzenle"
-
-#: scannerdrake:673 scannerdrake:823
-#, c-format
-msgid "Remove selected host"
-msgstr "Seçili makineleri kaldır"
-
-#: scannerdrake:682 scannerdrake:832
+#: ../print_launcher.pl:37
 #, c-format
 msgid "Done"
 msgstr "Bitti"
 
-#: scannerdrake:697 scannerdrake:705 scannerdrake:710 scannerdrake:756
-#: scannerdrake:847 scannerdrake:855 scannerdrake:860 scannerdrake:906
-#, c-format
-msgid "Name/IP address of host:"
-msgstr "Makinenin adı/IP adresi:"
+#: ../data/autologin.desktop.in.h:1
+msgid "Autologin"
+msgstr "Otomatik Oturum Açma"
 
-#: scannerdrake:719 scannerdrake:869
-#, c-format
-msgid "Choose the host on which the local scanners should be made available:"
-msgstr "Yerel tarayıcıların kullanılabileceği ağ veya makineleri seçin:"
+#: ../data/clock.desktop.in.h:1
+msgid "Date and time"
+msgstr "Tarih ve saat"
 
-#: scannerdrake:730 scannerdrake:880
-#, c-format
-msgid "You must enter a host name or an IP address.\n"
-msgstr "Makina adı ya da IP numarası girmelisiniz.\n"
+#: ../data/connection.desktop.in.h:1
+msgid "New connection"
+msgstr "Yeni bağlantı"
 
-#: scannerdrake:741 scannerdrake:891
-#, c-format
-msgid "This host is already in the list, it cannot be added again.\n"
-msgstr "Bu makine listede zaten mevcut, tekrar eklenemez.\n"
+#: ../data/drakautoinst.desktop.in.h:1
+msgid "Auto Install floppy"
+msgstr "Otomatik Kurulum disketi"
 
-#: scannerdrake:796
-#, c-format
-msgid "Usage of remote scanners"
-msgstr "Uzak (makinedeki) tarayıcıların kullanımı"
+#: ../data/drakboot.desktop.in.h:1
+msgid "Boot Loading"
+msgstr "Açılış Yükleyicisi"
 
-#: scannerdrake:797
-#, c-format
-msgid "These are the machines from which the scanners should be used:"
-msgstr "Liste tarayıcısı kullanılabilecek makineler gösteriliyor:"
+#: ../data/drakcronat.desktop.in.h:1
+msgid "Programs scheduling"
+msgstr "Zamanlanmış görevler"
 
-#: scannerdrake:954
-#, c-format
-msgid ""
-"saned needs to be installed to share the local scanner(s).\n"
-"\n"
-"Do you want to install the saned package?"
-msgstr ""
-"Yerel tatarıcı(lar)ın paylaştırılabilmesi için saned paketinin kurulması gerekiyor.\n"
-"\n"
-"Saned paketinin kurulmasını ister misiniz?"
+#: ../data/drakdm.desktop.in.h:1
+msgid "Display manager"
+msgstr "Ekran yöneticisi"
 
-#: scannerdrake:958 scannerdrake:962
-#, c-format
-msgid "Your scanner(s) will not be available on the network."
-msgstr "Tarayıcıları(nız) ağda görünmeyecek."
+#: ../data/drakfloppy.desktop.in.h:1
+msgid "Boot floppy"
+msgstr "Açılış disketi"
 
-#: scannerdrake:961
-#, c-format
-msgid "Could not install the packages needed to share your scanner(s)."
-msgstr "Tarayıcı(ları)nızı paylaştırmanız için gerekli paketler yüklenemedi."
+#: ../data/drakfont.desktop.in.h:1
+msgid "Fonts"
+msgstr "Yazı Tipleri"
 
-#: service_harddrake:153
-#, c-format
-msgid "The graphics card '%s' is no longer supported by driver '%s'"
-msgstr "'%s ' ekran kartı artık '%s' sürücüsü tarafından desteklenmemektedir."
+#: ../data/drakperm.desktop.in.h:1
+msgid "Permissions"
+msgstr "İzinler"
 
-#: service_harddrake:163
-#, c-format
-msgid "New release, reconfiguring X for %s"
-msgstr "Yeni yayın, X %s için yeniden yapılandırılıyor"
+#: ../data/draksec.desktop.in.h:1
+msgid "Levels and Checks"
+msgstr "Seviyeler ve Denetimler"
 
-#: service_harddrake:254
-#, c-format
-msgid "The proprietary kernel driver was not found for X.org driver '%s'"
-msgstr "'%s' X.org sürücüsü için müseccel çekirdek sürücüsü bulunamadı"
+#: ../data/drakxtv.desktop.in.h:1
+msgid "TV Cards"
+msgstr "TV Kartları"
 
-#: service_harddrake:293
-#, c-format
-msgid "Some devices in the \"%s\" hardware class were removed:\n"
-msgstr "\"%s\" donanım sınıfındaki bazı aygıtlar kaldırıldı:\n"
+#: ../data/fileshare.desktop.in.h:1
+msgid "Partition Sharing"
+msgstr "Disk Bölümü Paylaşımı"
 
-#: service_harddrake:294
-#, c-format
-msgid "- %s was removed\n"
-msgstr "- %s kaldırıldı.\n"
+#: ../data/harddrive.desktop.in.h:1
+msgid "Hard Drives"
+msgstr "Sabit Diskler"
 
-#: service_harddrake:297
-#, c-format
-msgid "Some devices were added: %s\n"
-msgstr "Bazı aygıtlar eklendi: %s\n"
+#: ../data/logdrake.desktop.in.h:1
+msgid "Logs"
+msgstr "Günlük Kayıtları"
 
-#: service_harddrake:298
-#, c-format
-msgid "- %s was added\n"
-msgstr "- %s eklendi.\n"
+#: ../data/menudrake.desktop.in.h:1
+msgid "Menus"
+msgstr "Menüler"
 
-#: service_harddrake:386
-#, c-format
-msgid "Hardware changes in \"%s\" class (%s seconds to answer)"
-msgstr "\"%s\" sınıfında donanım değişikliği (%s saniyede cevap veriyor)"
+#: ../data/MountPoints.directory.in.h:1
+msgid "Mount Points"
+msgstr "Bağlama Noktaları"
 
-#: service_harddrake:387
-#, c-format
-msgid "Do you want to run the appropriate config tool?"
-msgstr "Buna uygun yapılandırma aracını çalıştırmak ister misiniz?"
+#: ../data/nfs.desktop.in.h:1
+msgid "NFS mount points"
+msgstr "NFS bağlama noktaları"
 
-#: service_harddrake:412
-#, c-format
-msgid "Hardware probing in progress"
-msgstr "Donanım Algılama sürüyor"
+#: ../data/printerdrake.desktop.in.h:1
+msgid "Printers"
+msgstr "Yazıcılar"
 
-#: service_harddrake:433 service_harddrake:438
-#, c-format
-msgid "Display driver issue"
-msgstr "Ekran kartı sürücüsü sorunu"
+#: ../data/proxy.desktop.in.h:1
+msgid "Proxy Configuration"
+msgstr "Vekil Sunucu Yapılandırması"
 
-#: service_harddrake:434
-#, c-format
-msgid "The display driver currently configured requires you to use the 'nokmsboot' boot option to prevent the KMS driver of the kernel from being loaded in the boot process. Startup of the X server may now fail as that option was not specified."
-msgstr "Yapılandırılmış olan ekran kartı sürücüsü, önyükleme sırasında çekirdektiki KMS sürücüsünün yüklenmesini önlemek için önyükleme seçeneklerinde 'nokmsboot' kullanılmasını gerektiriyor. Bu seçenek ayarlanmazsa X sunucusu başlatılamayabilir."
+#: ../data/removable.desktop.in.h:1
+msgid "Removable devices"
+msgstr "Ayrılabilir aygıtlar"
 
-#: service_harddrake:439
-#, c-format
-msgid "Detected a loaded display driver kernel module which conflicts with the driver the X server is configured to use. Startup of the X server may now fail."
-msgstr "X sunucusunun kullanmak üzere ayarlandığı sürücü ile çakışan bir ekran kartı çekirdek modülünün yüklendiği algılandı. X sunucusu başlayamayabilir."
+#: ../data/remove-connection.desktop.in.h:1
+msgid "Remove Connection"
+msgstr "Bağlantı Kaldır"
 
-#: service_harddrake:454
-#, c-format
-msgid "The system has to be rebooted due to a display driver change."
-msgstr "Ekran kartı sürücüsü değişikliği nedeniyle sistem yeniden başlatılmalı."
+#: ../data/samba.desktop.in.h:1
+msgid "Samba mount points"
+msgstr "Samba bağlama noktaları"
 
-#: service_harddrake:455
-#, c-format
-msgid "Press Cancel within %d seconds to abort."
-msgstr "Durdurmak için %d saniye içinde İptal düğmesine tıklayın."
+#: ../data/scannerdrake.desktop.in.h:1
+msgid "Scanners"
+msgstr "Tarayıcılar"
 
-#: ../menu/localedrake-system.desktop.in.h:1
-msgid "System Regional Settings"
-msgstr "Sistem Bölgesel Ayarları"
+#: ../data/SystemConfig.directory.in.h:1
+msgid "System Settings"
+msgstr "Sistem Ayarları"
 
-#: ../menu/localedrake-system.desktop.in.h:2
-msgid "System wide language & country configurator"
-msgstr "Sistem geneli dil ve ülke yapılandırıcı"
+#: ../data/userdrake.desktop.in.h:1
+msgid "Users and Groups"
+msgstr "Kullanıcı ve Gruplar"
 
-#: ../menu/harddrake.desktop.in.h:1
-msgid "HardDrake"
-msgstr "HardDrake"
+#: ../data/webdav.desktop.in.h:1
+msgid "WebDAV mount points"
+msgstr "WebDAV bağlama noktaları"
 
-#: ../menu/harddrake.desktop.in.h:2
-msgid "Hardware Central Configuration/information tool"
-msgstr "Donanım Merkezi Yapılandırma/Bilgilendirme aracı"
+#: ../data/XFDrake.desktop.in.h:1
+msgid "Graphical server"
+msgstr "Grafiksel sunucu"
 
-#: ../menu/harddrake.desktop.in.h:3
-msgid "Hardware Configuration Tool"
-msgstr "Donanım Yapılandırma Aracı"
+#: ../data/XFDrake-Monitor.desktop.in.h:1
+msgid "Monitor"
+msgstr "Monitör"
 
-#: ../menu/localedrake-user.desktop.in.h:1
-msgid "Language & country configuration"
-msgstr "Dil ve Ülke yapılandırması"
+#: ../data/XFDrake-Resolution.desktop.in.h:1
+msgid "Screen Resolution"
+msgstr "Ekran Çözünürlüğü"
 
-#: ../menu/localedrake-user.desktop.in.h:2
-msgid "Regional Settings"
-msgstr "Bölgesel Ayarlar"
+#: ../drakconf.desktop.in.h:1
+msgid "Mageia Control Center"
+msgstr "Mageia Denetim Merkezi"
