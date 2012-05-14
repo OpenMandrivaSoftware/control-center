@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2011-05-03 15:20+0200\n"
-"PO-Revision-Date: 2012-01-16 14:34+0000\n"
-"Last-Translator: Atilla ÖNTAŞ <tarakbumba@gmail.com>\n"
+"PO-Revision-Date: 2012-05-14 18:30+0000\n"
+"Last-Translator: numan d <if.gnu.linux@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,9 +27,7 @@ msgstr "Per Oyvind Karlsen"
 
 #: ../contributors.pl:12
 #, c-format
-msgid ""
-"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
-"Mandriva tools"
+msgid "massive packages rebuilding and cleaning, games, sparc port, proofreading of Mandriva tools"
 msgstr "çok sayıda paket yeniden derleme ve temizleme, oyunlar, sparc mimarisine aktarım, Mandriva araçları yazımını doğrulama"
 
 #: ../contributors.pl:13
@@ -69,9 +67,7 @@ msgstr "Ben Reser"
 
 #: ../contributors.pl:16
 #, c-format
-msgid ""
-"updated nc with debian patches, fixed some perl packages, dnotify startup "
-"script, urpmc, hddtemp, wipe, etc..."
+msgid "updated nc with debian patches, fixed some perl packages, dnotify startup script, urpmc, hddtemp, wipe, etc..."
 msgstr "debian yamaları ile güncellenmiş nc, bazı perl paketlerinde hata giderme, dnotify başlangıç betiği, urpmc, hddtemp,wipe v.b."
 
 #: ../contributors.pl:17 ../contributors.pl:42
@@ -81,9 +77,7 @@ msgstr "Thomas Backlund"
 
 #: ../contributors.pl:17
 #, c-format
-msgid ""
-"\"deep and broad\" kernel work (many new patches before integration in "
-"official kernel)"
+msgid "\"deep and broad\" kernel work (many new patches before integration in official kernel)"
 msgstr "\"derin ve etkin\" çekirdek çalışması (resmi çekirdeğe katılmadan önce bir çok yama)"
 
 #: ../contributors.pl:18
@@ -113,10 +107,7 @@ msgstr "Buchan Milne"
 
 #: ../contributors.pl:20
 #, c-format
-msgid ""
-"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
-"software (grass, mapserver), cursor_themes collection, misc server-side "
-"contributions"
+msgid "Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS software (grass, mapserver), cursor_themes collection, misc server-side contributions"
 msgstr "Samba 2.2.x ile birlikte yer alan Samba 3.0 (yayın öncesi), Samba-2.2.x, CBS yazılımları (grass, mapserver), cursor_themes toplanması, çeşitli sunucu tarafı katkıları"
 
 #: ../contributors.pl:21
@@ -126,9 +117,7 @@ msgstr "Goetz Waschk"
 
 #: ../contributors.pl:21
 #, c-format
-msgid ""
-"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
-"python, rox desktop"
+msgid "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-python, rox desktop"
 msgstr "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms ve eklentileri gnome-python, rox desktop"
 
 #: ../contributors.pl:22
@@ -138,9 +127,7 @@ msgstr "Austin Acton"
 
 #: ../contributors.pl:22
 #, c-format
-msgid ""
-"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
-"bluetooth, pyqt & related"
+msgid "audio/video/MIDI apps, scientific apps, audio/video production howtos, bluetooth, pyqt & related"
 msgstr "ses/video/MIDI uygulamaları, bilimsel uygulamalar, ses/video üretim belgeleri, mavidiş, pyqt & ilişkililer"
 
 #: ../contributors.pl:23
@@ -210,9 +197,7 @@ msgstr "Tibor Pittich"
 
 #: ../contributors.pl:29
 #, c-format
-msgid ""
-"sk-i18n, contributed several packages, openldap testing and integration, "
-"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgid "sk-i18n, contributed several packages, openldap testing and integration, bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
 msgstr "sk-i18n, bir çok paket katkısı, openldap deneme ve "
 
 #: ../contributors.pl:30
@@ -252,9 +237,7 @@ msgstr "Brook Humphrey"
 
 #: ../contributors.pl:33
 #, c-format
-msgid ""
-"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
-"spamassassin, maildrop, clamav."
+msgid "testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, spamassassin, maildrop, clamav."
 msgstr "test ve hata raporları, Dovecot, bibletime, sword, saf, ftpd spamassassin, maildrop, clamav ile ilgili yardımlar"
 
 #: ../contributors.pl:34
@@ -264,10 +247,7 @@ msgstr "Olivier Blin"
 
 #: ../contributors.pl:34
 #, c-format
-msgid ""
-"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
-"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
-"drakxtools"
+msgid "http proxy support in installer, kernel 2.6 support in sndconfig, samba3 support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and drakxtools"
 msgstr "kurulum aracı http vekil sunucu desteği, sndconfig içinde kernel 2.6 desteği,LinNeighborhood içinde samba3 desteği, urpmi, bootsplash ve drakxtools üzerinde düzeltmeler ve geliştirmeler. "
 
 #: ../contributors.pl:35
@@ -511,9 +491,7 @@ msgstr "MD, test, hata raporlama"
 
 #: ../contributors.pl:71
 #, c-format
-msgid ""
-"And many unnamed and unknown beta testers and bug reporters that helped make "
-"sure it all worked right."
+msgid "And many unnamed and unknown beta testers and bug reporters that helped make sure it all worked right."
 msgstr "Ve her şeyin düzgün çalıştığından emin olmamıza yardımcı olan birçok isimsiz ve bilinmeyen beta testçisi ve hata raporlayıcısı"
 
 #: ../control-center:90
@@ -524,7 +502,7 @@ msgstr "Mageia"
 #: ../control-center:100 ../control-center:105
 #, c-format
 msgid "%s Control Center"
-msgstr "%s CDenetim Merkezi"
+msgstr "%s Denetim Merkezi"
 
 #: ../control-center:106 ../control-center:1059
 #, c-format
@@ -573,9 +551,7 @@ msgstr "Samba yapılandırın"
 
 #: ../control-center:189
 #, c-format
-msgid ""
-"Set up a file and print server for workstations running Linux and non-Linux "
-"systems"
+msgid "Set up a file and print server for workstations running Linux and non-Linux systems"
 msgstr "Linux ve Linux-dışı sistemleri çalıştıran iş istasyonları için bir dosya ve yazıcı sunucusu kurun"
 
 #: ../control-center:191
@@ -652,8 +628,7 @@ msgstr "Zamanı yapılandırın"
 
 #: ../control-center:224
 #, c-format
-msgid ""
-"Set the time of the server to be synchronized with an external time server"
+msgid "Set the time of the server to be synchronized with an external time server"
 msgstr "Bir harici sunucu ile eşleştirilme yapılması için sunucunun zamanını ayarlayın"
 
 #: ../control-center:226 ../control-center:227
@@ -1259,8 +1234,7 @@ msgstr "3 Boyutlu Masaüstü Özelliklerini Yapılandır."
 
 #: ../lib/MDV/Control_Center.pm:68
 #, c-format
-msgid ""
-"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgid "Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
 msgstr "Kimlik doğrulama yöntemini seçiniz. (local, NIS, LDAP, Windows Domain, ...)"
 
 #: ../lib/MDV/Control_Center.pm:77
@@ -1360,8 +1334,7 @@ msgstr "Kişisel güvenlik duvarınızı ayarlayın"
 
 #: ../lib/MDV/Control_Center.pm:200
 #, c-format
-msgid ""
-"Set up a personal firewall in order to protect the computer and the network"
+msgid "Set up a personal firewall in order to protect the computer and the network"
 msgstr "Bilgisayarı ve ağı korumak için bir kişisel güvenlik duvarı ayarlayın"
 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
@@ -1481,9 +1454,7 @@ msgstr "Mageia araçları için kimlik doğrulama biçimini yapılandırın"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
-msgid ""
-"Define authentication required to access individual Mageia configuration "
-"tools "
+msgid "Define authentication required to access individual Mageia configuration tools "
 msgstr "Farklı Mageia yapılandırma araçlarına erişim için gerekli kimlik doğrulama yöntemini tanımlayın "
 
 #: ../lib/MDV/Control_Center.pm:358
@@ -1493,9 +1464,7 @@ msgstr "Sisteminizi güncelleştirin"
 
 #: ../lib/MDV/Control_Center.pm:359
 #, c-format
-msgid ""
-"Look at available updates and apply any fixes or upgrades to installed "
-"packages"
+msgid "Look at available updates and apply any fixes or upgrades to installed packages"
 msgstr "Erişilebilir güncellemelere göz atın ve iyileştirmeler veya yükseltmeleri uygulayın"
 
 #: ../lib/MDV/Control_Center.pm:369
