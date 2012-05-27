@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2011-05-03 15:20+0200\n"
-"PO-Revision-Date: 2012-05-08 12:23+0200\n"
+"PO-Revision-Date: 2012-05-27 10:13+0200\n"
 "Last-Translator: Dimitrios Glentadakis <dglent@gmail.com>\n"
 "Language-Team: Greek <i18n-el@ml.mageia.org>\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8-bit\n"
 "Language: el\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"X-Generator: Lokalize 1.2\n"
+"X-Generator: Lokalize 1.4\n"
 
 #: ../contributors.pl:11
 #, c-format
@@ -1266,7 +1266,7 @@ msgstr "Υπηρεσίες"
 #: ../drakxconf:34
 #, c-format
 msgid "Firewall"
-msgstr "Τοίχος προστασίας"
+msgstr "Τείχος προστασίας"
 
 #: ../drakxconf:35
 #, c-format
@@ -1413,14 +1413,14 @@ msgstr "Ρυθμίστε έναν εξυπηρετητή φαξ"
 #: ../lib/MDV/Control_Center.pm:199
 #, c-format
 msgid "Set up your personal firewall"
-msgstr "Ρυθμίστε το προσωπικό σας τοίχος προστασίας"
+msgstr "Ρυθμίστε το προσωπικό σας τείχος προστασίας"
 
 #: ../lib/MDV/Control_Center.pm:200
 #, c-format
 msgid ""
 "Set up a personal firewall in order to protect the computer and the network"
 msgstr ""
-"Ρυθμίστε ένα προσωπικό τοίχος προστασίας ώστε να προστατέψετε τον υπολογιστή "
+"Ρυθμίστε ένα προσωπικό τείχος προστασίας ώστε να προστατέψετε τον υπολογιστή "
 "και το δίκτυο"
 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
@@ -1481,7 +1481,7 @@ msgstr "Εγκατάσταση, απεγκατάσταση λογισμικού"
 #, c-format
 msgid "Advanced setup for network interfaces and firewall"
 msgstr ""
-"Προχωρημένες ρυθμίσεις για τις διεπαφές δικτύου και το τοίχος προστασίας"
+"Προχωρημένες ρυθμίσεις για τις διεπαφές δικτύου και το τείχος προστασίας"
 
 #: ../lib/MDV/Control_Center.pm:282
 #, c-format
