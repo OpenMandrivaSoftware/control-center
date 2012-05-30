@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2011-05-19 03:14+0200\n"
+"POT-Creation-Date: 2012-05-30 20:27+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -526,7 +526,7 @@ msgstr ""
 msgid "%s Control Center"
 msgstr ""
 
-#: ../control-center:106 ../control-center:1059
+#: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
 msgstr ""
@@ -910,7 +910,7 @@ msgid "Additional wizards"
 msgstr ""
 
 #: ../control-center:613 ../control-center:614 ../control-center:615
-#: ../control-center:627
+#: ../control-center:630
 #, c-format
 msgid "/_Options"
 msgstr ""
@@ -940,87 +940,89 @@ msgstr ""
 msgid "/_Quit"
 msgstr ""
 
-#: ../control-center:626
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:629
 #, c-format
 msgid "<control>Q"
 msgstr ""
 
-#: ../control-center:626
+#: ../control-center:629
 #, c-format
 msgid "Quit"
 msgstr ""
 
-#: ../control-center:647 ../control-center:650 ../control-center:663
+#: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
 msgid "/_Themes"
 msgstr ""
 
-#: ../control-center:653
+#: ../control-center:656
 #, c-format
 msgid ""
 "This action will restart the control center.\n"
 "Any change not applied will be lost."
 msgstr ""
 
-#: ../control-center:663
+#: ../control-center:666
 #, c-format
 msgid "/_More themes"
 msgstr ""
 
-#: ../control-center:665 ../control-center:666 ../control-center:667
 #: ../control-center:668 ../control-center:669 ../control-center:670
-#: ../control-center:673
+#: ../control-center:671 ../control-center:672 ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_Help"
 msgstr ""
 
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:672
 #, c-format
 msgid "Help"
 msgstr ""
 
-#: ../control-center:667
+#: ../control-center:670
 #, c-format
 msgid "/_Release notes"
 msgstr ""
 
-#: ../control-center:668
+#: ../control-center:671
 #, c-format
 msgid "/What's _New?"
 msgstr ""
 
-#: ../control-center:669
+#: ../control-center:672
 #, c-format
 msgid "/_Errata"
 msgstr ""
 
-#: ../control-center:670
+#: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
 msgstr ""
 
-#: ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_About..."
 msgstr ""
 
-#: ../control-center:731
+#: ../control-center:732
 #, c-format
 msgid "Cancel"
 msgstr ""
 
-#: ../control-center:751
+#: ../control-center:752
 #, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr ""
 
-#: ../control-center:1038 ../control-center:1103
+#: ../control-center:1039 ../control-center:1104
 #, c-format
 msgid "Error"
 msgstr ""
 
-#: ../control-center:1038
+#: ../control-center:1039
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1028,135 +1030,135 @@ msgid ""
 "Please report that bug."
 msgstr ""
 
-#: ../control-center:1103
+#: ../control-center:1104
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr ""
 
-#: ../control-center:1122
+#: ../control-center:1123
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr ""
 
-#: ../control-center:1209
+#: ../control-center:1210
 #, c-format
 msgid "cannot fork: %s"
 msgstr ""
 
-#: ../control-center:1232
+#: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
 msgstr ""
 
-#: ../control-center:1371
+#: ../control-center:1372
 #, c-format
 msgid "This program has exited abnormally"
 msgstr ""
 
-#: ../control-center:1380
+#: ../control-center:1381
 #, c-format
 msgid "Warning"
 msgstr ""
 
-#: ../control-center:1390 ../drakconsole:31
+#: ../control-center:1391 ../drakconsole:31
 #, c-format
 msgid "Close"
 msgstr ""
 
-#: ../control-center:1397
+#: ../control-center:1398
 #, c-format
 msgid "More themes"
 msgstr ""
 
-#: ../control-center:1399
+#: ../control-center:1400
 #, c-format
 msgid "Getting new themes"
 msgstr ""
 
-#: ../control-center:1400
+#: ../control-center:1401
 #, c-format
 msgid "Additional themes"
 msgstr ""
 
-#: ../control-center:1402
+#: ../control-center:1403
 #, c-format
 msgid "Get additional themes on www.damz.net"
 msgstr ""
 
-#: ../control-center:1410
+#: ../control-center:1411
 #, c-format
 msgid "About - %s Control Center"
 msgstr ""
 
-#: ../control-center:1418
+#: ../control-center:1419
 #, c-format
 msgid "Authors: "
 msgstr ""
 
-#: ../control-center:1422
+#: ../control-center:1423
 #, c-format
 msgid "(perl version)"
 msgstr ""
 
-#: ../control-center:1427
+#: ../control-center:1428
 #, c-format
 msgid "Artwork: "
 msgstr ""
 
-#: ../control-center:1432
+#: ../control-center:1433
 #, c-format
 msgid "Helene Durosini"
 msgstr ""
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1454
+#: ../control-center:1455
 #, c-format
 msgid "- %s: %s\n"
 msgstr ""
 
-#: ../control-center:1469
+#: ../control-center:1470
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr ""
 
-#: ../control-center:1471
+#: ../control-center:1472
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr ""
 
-#: ../control-center:1473
+#: ../control-center:1474
 #, c-format
 msgid "Translator: "
 msgstr ""
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1482
+#: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
 msgstr ""
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1487
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr ""
 
-#: ../control-center:1487
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr ""
 
-#: ../control-center:1493
+#: ../control-center:1494
 #, c-format
 msgid "Authors"
 msgstr ""
 
-#: ../control-center:1494
+#: ../control-center:1495
 #, c-format
 msgid "Mageia Contributors"
 msgstr ""

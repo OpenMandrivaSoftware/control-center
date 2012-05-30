@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drakconf 0.96\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-02-22 23:38+0200\n"
+"POT-Creation-Date: 2012-05-30 20:27+0200\n"
 "PO-Revision-Date: 2002-09-05 19:08+0900\n"
 "Last-Translator: Jaegeum Cze <baedaron@hanafos.com>\n"
 "Language-Team: Korean <baedaron@hanafos.com>\n"
@@ -539,425 +539,427 @@ msgstr "읽는 중, 기다려 주세요."
 msgid "Software Management"
 msgstr "소프트웨어 관리"
 
-#: ../control-center:167 ../control-center:355 ../control-center:390
-#: ../control-center:548
+#: ../control-center:166 ../control-center:354 ../control-center:389
+#: ../control-center:547
 #, fuzzy, c-format
 msgid "Others"
 msgstr "사용자들"
 
-#: ../control-center:177
+#: ../control-center:176
 #, c-format
 msgid "Server wizards"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:180 ../control-center:183
+#: ../control-center:179 ../control-center:182
 #, c-format
 msgid "Sharing"
 msgstr "공유"
 
-#: ../control-center:186
+#: ../control-center:185
 #, fuzzy, c-format
 msgid "Configure FTP"
 msgstr "설정..."
 
-#: ../control-center:187
+#: ../control-center:186
 #, c-format
 msgid "Set up an FTP server"
 msgstr ""
 
-#: ../control-center:189
+#: ../control-center:188
 #, fuzzy, c-format
 msgid "Configure Samba"
 msgstr "설정..."
 
-#: ../control-center:190
+#: ../control-center:189
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
 msgstr ""
 
-#: ../control-center:192
+#: ../control-center:191
 #, fuzzy, c-format
 msgid "Manage Samba share"
 msgstr "삼바 서비스 허용"
 
-#: ../control-center:193
+#: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
 msgstr ""
 
-#: ../control-center:195
+#: ../control-center:194
 #, fuzzy, c-format
 msgid "Configure web server"
 msgstr "설정..."
 
-#: ../control-center:196
+#: ../control-center:195
 #, fuzzy, c-format
 msgid "Set up a web server"
 msgstr "설정..."
 
-#: ../control-center:198
+#: ../control-center:197
 #, fuzzy, c-format
 msgid "Configure installation server"
 msgstr "메뉴 설정 센터"
 
-#: ../control-center:199
+#: ../control-center:198
 #, c-format
 msgid "Set up server for network installations of %s"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:209 ../control-center:212
+#: ../control-center:208 ../control-center:211
 #, fuzzy, c-format
 msgid "Network Services"
 msgstr "네트웍 인터페이스"
 
-#: ../control-center:215
+#: ../control-center:214
 #, fuzzy, c-format
 msgid "Configure DHCP"
 msgstr "설정..."
 
-#: ../control-center:216
+#: ../control-center:215
 #, c-format
 msgid "Set up a DHCP server"
 msgstr ""
 
-#: ../control-center:218
+#: ../control-center:217
 #, fuzzy, c-format
 msgid "Configure DNS"
 msgstr "설정..."
 
-#: ../control-center:219
+#: ../control-center:218
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
 msgstr ""
 
-#: ../control-center:221
+#: ../control-center:220
 #, fuzzy, c-format
 msgid "Configure proxy"
 msgstr "설정..."
 
-#: ../control-center:222
+#: ../control-center:221
 #, fuzzy, c-format
 msgid "Configure a web caching proxy server"
 msgstr "설정..."
 
-#: ../control-center:224
+#: ../control-center:223
 #, fuzzy, c-format
 msgid "Configure time"
 msgstr "설정..."
 
-#: ../control-center:225
+#: ../control-center:224
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
 msgstr ""
 
-#: ../control-center:227 ../control-center:228
+#: ../control-center:226 ../control-center:227
 #, fuzzy, c-format
 msgid "OpenSSH daemon configuration"
 msgstr "설정 마법사"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #. -PO: this message is already translated in drakx domain from which MCC will searchs it:
-#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#: ../control-center:238 ../control-center:241 ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Authentication"
 msgstr "사용자 인증"
 
-#: ../control-center:246
+#: ../control-center:245
 #, fuzzy, c-format
 msgid "Configure NIS and Autofs"
 msgstr "설정..."
 
-#: ../control-center:247
+#: ../control-center:246
 #, fuzzy, c-format
 msgid "Configure the NIS and Autofs services"
 msgstr "설정..."
 
-#: ../control-center:249
+#: ../control-center:248
 #, fuzzy, c-format
 msgid "Configure LDAP"
 msgstr "설정..."
 
-#: ../control-center:250
+#: ../control-center:249
 #, c-format
 msgid "Configure the LDAP directory services"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:261 ../control-center:264
+#: ../control-center:260 ../control-center:263
 #, fuzzy, c-format
 msgid "Groupware"
 msgstr "그룹"
 
-#: ../control-center:267
+#: ../control-center:266
 #, fuzzy, c-format
 msgid "Configure news"
 msgstr "설정..."
 
-#: ../control-center:268
+#: ../control-center:267
 #, fuzzy, c-format
 msgid "Configure a newsgroup server"
 msgstr "설정..."
 
-#: ../control-center:270
+#: ../control-center:269
 #, fuzzy, c-format
 msgid "Configure groupware"
 msgstr "설정..."
 
-#: ../control-center:271
+#: ../control-center:270
 #, fuzzy, c-format
 msgid "Configure a groupware server"
 msgstr "설정..."
 
-#: ../control-center:273
+#: ../control-center:272
 #, fuzzy, c-format
 msgid "Configure mail"
 msgstr "설정..."
 
-#: ../control-center:274
+#: ../control-center:273
 #, fuzzy, c-format
 msgid "Configure the Internet Mail services"
 msgstr "메뉴 설정 센터"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:286 ../control-center:289
+#: ../control-center:285 ../control-center:288
 #, c-format
 msgid "Online Administration"
 msgstr ""
 
-#: ../control-center:305
+#: ../control-center:304
 #, c-format
 msgid "Local administration"
 msgstr ""
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "Configure the local machine via web interface"
 msgstr ""
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr ""
 
-#: ../control-center:308
+#: ../control-center:307
 #, c-format
 msgid "Remote administration"
 msgstr "원격 관리"
 
-#: ../control-center:309
+#: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:323
+#: ../control-center:322
 #, c-format
 msgid "Hardware"
 msgstr "하드웨어"
 
-#: ../control-center:326
+#: ../control-center:325
 #, fuzzy, c-format
 msgid "Manage your hardware"
 msgstr "삼바 서비스 허용"
 
-#: ../control-center:333
+#: ../control-center:332
 #, fuzzy, c-format
 msgid "Configure graphics"
 msgstr "설정..."
 
-#: ../control-center:340
+#: ../control-center:339
 #, fuzzy, c-format
 msgid "Configure mouse and keyboard"
 msgstr "설정..."
 
-#: ../control-center:347
+#: ../control-center:346
 #, c-format
 msgid "Configure printing and scanning"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:365 ../drakxconf:31
+#: ../control-center:364 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
 msgstr "네트웍과 인터넷"
 
-#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#: ../control-center:367 ../lib/MDV/Control_Center.pm:419
 #, fuzzy, c-format
 msgid "Manage your network devices"
 msgstr "네트웍 인터페이스"
 
-#: ../control-center:381
+#: ../control-center:380
 #, c-format
 msgid "Personalize and Secure your network"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:400
+#: ../control-center:399
 #, c-format
 msgid "System"
 msgstr "시스템"
 
-#: ../control-center:403
+#: ../control-center:402
 #, fuzzy, c-format
 msgid "Manage system services"
 msgstr "삼바 서비스 허용"
 
-#: ../control-center:412
+#: ../control-center:411
 #, c-format
 msgid "Localization"
 msgstr ""
 
-#: ../control-center:419
+#: ../control-center:418
 #, fuzzy, c-format
 msgid "Administration tools"
 msgstr "원격 관리"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:436
+#: ../control-center:435
 #, fuzzy, c-format
 msgid "Network Sharing"
 msgstr "네트웍 인터페이스"
 
-#: ../control-center:439
+#: ../control-center:438
 #, fuzzy, c-format
 msgid "Configure Windows(R) shares"
 msgstr "설정..."
 
-#: ../control-center:446
+#: ../control-center:445
 #, fuzzy, c-format
 msgid "Configure NFS shares"
 msgstr "설정..."
 
-#: ../control-center:453
+#: ../control-center:452
 #, fuzzy, c-format
 msgid "Configure WebDAV shares"
 msgstr "설정..."
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:463 ../control-center:466
+#: ../control-center:462 ../control-center:465
 #, c-format
 msgid "Local disks"
 msgstr ""
 
-#: ../control-center:490
+#: ../control-center:489
 #, fuzzy, c-format
 msgid "CD-ROM (%s)"
 msgstr "DVD-ROM"
 
-#: ../control-center:491
+#: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
 msgstr ""
 
-#: ../control-center:493
+#: ../control-center:492
 #, fuzzy, c-format
 msgid "DVD-ROM (%s)"
 msgstr "DVD-ROM"
 
-#: ../control-center:494
+#: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
 msgstr ""
 
-#: ../control-center:496
+#: ../control-center:495
 #, fuzzy, c-format
 msgid "CD/DVD burner (%s)"
 msgstr "CD/DVD 구이"
 
-#: ../control-center:497
+#: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
 msgstr ""
 
-#: ../control-center:499
+#: ../control-center:498
 #, c-format
 msgid "ZIP drive"
 msgstr ""
 
-#: ../control-center:500
+#: ../control-center:499
 #, c-format
 msgid "Set where your ZIP drive is mounted"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:512 ../control-center:515
+#: ../control-center:511 ../control-center:514
 #, c-format
 msgid "Security"
 msgstr "보안"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:530
+#: ../control-center:529
 #, c-format
 msgid "Boot"
 msgstr "부트"
 
-#: ../control-center:533
+#: ../control-center:532
 #, fuzzy, c-format
 msgid "Configure boot steps"
 msgstr "설정..."
 
-#: ../control-center:542
+#: ../control-center:541
 #, c-format
 msgid "Boot look'n feel"
 msgstr ""
 
-#: ../control-center:559
+#: ../control-center:558
 #, fuzzy, c-format
 msgid "Additional wizards"
 msgstr "추가 테마"
 
-#: ../control-center:614 ../control-center:615 ../control-center:616
-#: ../control-center:628
+#: ../control-center:613 ../control-center:614 ../control-center:615
+#: ../control-center:630
 #, c-format
 msgid "/_Options"
 msgstr "/옵션(_O)"
 
-#: ../control-center:614
+#: ../control-center:613
 #, c-format
 msgid "/Display _Logs"
 msgstr "/디스플레이 로그(_L)"
 
-#: ../control-center:615
+#: ../control-center:614
 #, c-format
 msgid "/_Embedded Mode"
 msgstr "/임베디드 모드(_E)"
 
-#: ../control-center:616
+#: ../control-center:615
 #, c-format
 msgid "/Expert mode in _wizards"
 msgstr ""
 
-#: ../control-center:626 ../control-center:627
+#: ../control-center:625 ../control-center:626
 #, c-format
 msgid "/_File"
 msgstr "/파일(_F)"
 
-#: ../control-center:627
+#: ../control-center:626
 #, c-format
 msgid "/_Quit"
 msgstr "/종료(_Q)"
 
-#: ../control-center:627
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:629
 #, c-format
 msgid "<control>Q"
 msgstr "<control>Q"
 
-#: ../control-center:627
+#: ../control-center:629
 #, c-format
 msgid "Quit"
 msgstr "종료"
 
-#: ../control-center:648 ../control-center:651 ../control-center:664
+#: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
 msgid "/_Themes"
 msgstr "/테마(_T)"
 
-#: ../control-center:654
+#: ../control-center:656
 #, c-format
 msgid ""
 "This action will restart the control center.\n"
@@ -966,45 +968,45 @@ msgstr ""
 "제어센터를 재시작해야 합니다.\n"
 "적용되지 않은 변경사항은 버려집니다."
 
-#: ../control-center:664
+#: ../control-center:666
 #, c-format
 msgid "/_More themes"
 msgstr "/추가 테마(_M)"
 
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669 ../control-center:670 ../control-center:671
-#: ../control-center:674
+#: ../control-center:668 ../control-center:669 ../control-center:670
+#: ../control-center:671 ../control-center:672 ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_Help"
 msgstr "/도움말(_H)"
 
-#: ../control-center:667 ../control-center:668 ../control-center:669
-#: ../control-center:670
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:672
 #, c-format
 msgid "Help"
 msgstr "도움말"
 
-#: ../control-center:668
+#: ../control-center:670
 #, fuzzy, c-format
 msgid "/_Release notes"
 msgstr "/삭제(_D)"
 
-#: ../control-center:669
+#: ../control-center:671
 #, c-format
 msgid "/What's _New?"
 msgstr ""
 
-#: ../control-center:670
+#: ../control-center:672
 #, c-format
 msgid "/_Errata"
 msgstr ""
 
-#: ../control-center:671
+#: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
 msgstr "/버그 보고(_R)"
 
-#: ../control-center:674
+#: ../control-center:676
 #, c-format
 msgid "/_About..."
 msgstr "/이 프로그램은(_A)..."
@@ -1092,75 +1094,75 @@ msgstr "www.damz.net에서 추가 테마 찾기"
 msgid "About - %s Control Center"
 msgstr "이 프로그램은 - 맨드리바 컨트롤 센터"
 
-#: ../control-center:1420
+#: ../control-center:1419
 #, c-format
 msgid "Authors: "
 msgstr "저자:"
 
-#: ../control-center:1424
+#: ../control-center:1423
 #, fuzzy, c-format
 msgid "(perl version)"
 msgstr "커널 버전:"
 
-#: ../control-center:1429
+#: ../control-center:1428
 #, c-format
 msgid "Artwork: "
 msgstr "예술가: "
 
-#: ../control-center:1434
+#: ../control-center:1433
 #, c-format
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1456
+#: ../control-center:1455
 #, c-format
 msgid "- %s: %s\n"
 msgstr ""
 
-#: ../control-center:1471
+#: ../control-center:1470
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "최재금"
 
-#: ../control-center:1473
+#: ../control-center:1472
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "<tody@mizi.com>"
 
-#: ../control-center:1475
+#: ../control-center:1474
 #, c-format
 msgid "Translator: "
 msgstr "번역자: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1484
+#: ../control-center:1483
 #, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "맨드리바 제어 센터"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1489
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "Copyright (C) %s Mandriva SA"
 
-#: ../control-center:1489
+#: ../control-center:1488
 #, fuzzy, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr "Copyright (C) %s Mandriva SA"
 
-#: ../control-center:1495
+#: ../control-center:1494
 #, c-format
 msgid "Authors"
 msgstr "저자"
 
-#: ../control-center:1496
+#: ../control-center:1495
 #, fuzzy, c-format
 msgid "Mageia Contributors"
 msgstr "맨드리바 제어 센터 %s"

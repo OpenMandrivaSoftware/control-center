@@ -19,7 +19,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: pt_BR\n"
-"POT-Creation-Date: 2008-02-22 23:38+0200\n"
+"POT-Creation-Date: 2012-05-30 20:27+0200\n"
 "PO-Revision-Date: 2009-08-17 17:09-0300\n"
 "Last-Translator: \n"
 "Language-Team: Brazilian Portuguese <kde-i18n-doc@kde.org>\n"
@@ -575,39 +575,39 @@ msgstr "Carregando... Por Favor, Aguarde"
 msgid "Software Management"
 msgstr "Gerenciar Programas"
 
-#: ../control-center:167 ../control-center:355 ../control-center:390
-#: ../control-center:548
+#: ../control-center:166 ../control-center:354 ../control-center:389
+#: ../control-center:547
 #, c-format
 msgid "Others"
 msgstr "Outros"
 
-#: ../control-center:177
+#: ../control-center:176
 #, c-format
 msgid "Server wizards"
 msgstr "Assistentes de Servidor"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:180 ../control-center:183
+#: ../control-center:179 ../control-center:182
 #, c-format
 msgid "Sharing"
 msgstr "Compartilhando"
 
-#: ../control-center:186
+#: ../control-center:185
 #, c-format
 msgid "Configure FTP"
 msgstr "Configurar FTP"
 
-#: ../control-center:187
+#: ../control-center:186
 #, c-format
 msgid "Set up an FTP server"
 msgstr "Configurar um Servidor FTP"
 
-#: ../control-center:189
+#: ../control-center:188
 #, c-format
 msgid "Configure Samba"
 msgstr "Configurar Samba"
 
-#: ../control-center:190
+#: ../control-center:189
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
@@ -616,391 +616,393 @@ msgstr ""
 "Configurar um Servidor de Arquivos e Impressoras para Estações Linux e "
 "Sistemas Não-Linux."
 
-#: ../control-center:192
+#: ../control-center:191
 #, c-format
 msgid "Manage Samba share"
 msgstr "Gerenciar o Compartilhamento Samba"
 
-#: ../control-center:193
+#: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
 msgstr ""
 "Gerenciar, Criar Compartilhamento Especial, Criar Compartilhamento Público/"
 "Usuário"
 
-#: ../control-center:195
+#: ../control-center:194
 #, c-format
 msgid "Configure web server"
 msgstr "Configurar Servidor web"
 
-#: ../control-center:196
+#: ../control-center:195
 #, c-format
 msgid "Set up a web server"
 msgstr "Configurar um Servidor web"
 
-#: ../control-center:198
+#: ../control-center:197
 #, c-format
 msgid "Configure installation server"
 msgstr "Configurar Servidor de Instalação"
 
-#: ../control-center:199
+#: ../control-center:198
 #, c-format
 msgid "Set up server for network installations of %s"
 msgstr "Configurar um Servidor Para Instalações via Rede do %s"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:209 ../control-center:212
+#: ../control-center:208 ../control-center:211
 #, c-format
 msgid "Network Services"
 msgstr "Serviços de Rede"
 
-#: ../control-center:215
+#: ../control-center:214
 #, c-format
 msgid "Configure DHCP"
 msgstr "Configurar DHCP"
 
-#: ../control-center:216
+#: ../control-center:215
 #, c-format
 msgid "Set up a DHCP server"
 msgstr "Configurar um Servidor DHCP"
 
-#: ../control-center:218
+#: ../control-center:217
 #, c-format
 msgid "Configure DNS"
 msgstr "Configurar DNS"
 
-#: ../control-center:219
+#: ../control-center:218
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
 msgstr "Configurar um Servidor DNS (Resolução de Endereços de Rede)"
 
-#: ../control-center:221
+#: ../control-center:220
 #, c-format
 msgid "Configure proxy"
 msgstr "Configurar Proxy"
 
-#: ../control-center:222
+#: ../control-center:221
 #, c-format
 msgid "Configure a web caching proxy server"
 msgstr "Configurar um Servidor de Cache para Internet"
 
-#: ../control-center:224
+#: ../control-center:223
 #, c-format
 msgid "Configure time"
 msgstr "Configurar Hora"
 
-#: ../control-center:225
+#: ../control-center:224
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
 msgstr "Configurar Quando Sincronizar com um Servidor de Horas Externo"
 
-#: ../control-center:227 ../control-center:228
+#: ../control-center:226 ../control-center:227
 #, c-format
 msgid "OpenSSH daemon configuration"
 msgstr "Configuração do Serviço OpenSSH"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #. -PO: this message is already translated in drakx domain from which MCC will searchs it:
-#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#: ../control-center:238 ../control-center:241 ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Authentication"
 msgstr "Autenticação"
 
-#: ../control-center:246
+#: ../control-center:245
 #, c-format
 msgid "Configure NIS and Autofs"
 msgstr "Configurar NIS e Autofs"
 
-#: ../control-center:247
+#: ../control-center:246
 #, c-format
 msgid "Configure the NIS and Autofs services"
 msgstr "Configurar os Serviços NIS e Autofs"
 
-#: ../control-center:249
+#: ../control-center:248
 #, c-format
 msgid "Configure LDAP"
 msgstr "Configurar LDAP"
 
-#: ../control-center:250
+#: ../control-center:249
 #, c-format
 msgid "Configure the LDAP directory services"
 msgstr "Configurar o Serviço de Diretório LDAP"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:261 ../control-center:264
+#: ../control-center:260 ../control-center:263
 #, c-format
 msgid "Groupware"
 msgstr "Groupware"
 
-#: ../control-center:267
+#: ../control-center:266
 #, c-format
 msgid "Configure news"
 msgstr "Configurar Notícias (news)"
 
-#: ../control-center:268
+#: ../control-center:267
 #, c-format
 msgid "Configure a newsgroup server"
 msgstr "Configurar um Servidor de Grupos de Notícias"
 
-#: ../control-center:270
+#: ../control-center:269
 #, c-format
 msgid "Configure groupware"
 msgstr "Configurar Groupware"
 
-#: ../control-center:271
+#: ../control-center:270
 #, c-format
 msgid "Configure a groupware server"
 msgstr "Configurar um Servidor Groupware"
 
-#: ../control-center:273
+#: ../control-center:272
 #, c-format
 msgid "Configure mail"
 msgstr "Configurar E-Mail"
 
-#: ../control-center:274
+#: ../control-center:273
 #, c-format
 msgid "Configure the Internet Mail services"
 msgstr "Configurar os Serviços de E-Mail da Internet"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:286 ../control-center:289
+#: ../control-center:285 ../control-center:288
 #, c-format
 msgid "Online Administration"
 msgstr "Administração Remota"
 
-#: ../control-center:305
+#: ../control-center:304
 #, c-format
 msgid "Local administration"
 msgstr "Administração Local"
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "Configure the local machine via web interface"
 msgstr "Configurar a Máquina Local via Interface web"
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr ""
 "Aparentemente Você Não Tem o Webmin Instalado. Configuração Local "
 "Desabilitada"
 
-#: ../control-center:308
+#: ../control-center:307
 #, c-format
 msgid "Remote administration"
 msgstr "Administração Remota"
 
-#: ../control-center:309
+#: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
 msgstr ""
 "Clique Aqui para Configurar uma Máquina Remota através da Interface Web"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:323
+#: ../control-center:322
 #, c-format
 msgid "Hardware"
 msgstr "Hardware"
 
-#: ../control-center:326
+#: ../control-center:325
 #, c-format
 msgid "Manage your hardware"
 msgstr "Gerenciar Seu Hardware"
 
-#: ../control-center:333
+#: ../control-center:332
 #, c-format
 msgid "Configure graphics"
 msgstr "Configurar Gráficos"
 
-#: ../control-center:340
+#: ../control-center:339
 #, c-format
 msgid "Configure mouse and keyboard"
 msgstr "Configurar Teclado e Mouse"
 
-#: ../control-center:347
+#: ../control-center:346
 #, c-format
 msgid "Configure printing and scanning"
 msgstr "Configurar Impressora e Scanner"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:365 ../drakxconf:31
+#: ../control-center:364 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
 msgstr "Rede e Internet"
 
-#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#: ../control-center:367 ../lib/MDV/Control_Center.pm:419
 #, c-format
 msgid "Manage your network devices"
 msgstr "Gerenciar seus Dispositivos de Rede"
 
-#: ../control-center:381
+#: ../control-center:380
 #, c-format
 msgid "Personalize and Secure your network"
 msgstr "Personalizar e Proteger sua Rede"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:400
+#: ../control-center:399
 #, c-format
 msgid "System"
 msgstr "Sistema"
 
-#: ../control-center:403
+#: ../control-center:402
 #, c-format
 msgid "Manage system services"
 msgstr "Gerenciar Serviços do Sistema"
 
-#: ../control-center:412
+#: ../control-center:411
 #, c-format
 msgid "Localization"
 msgstr "Localização"
 
-#: ../control-center:419
+#: ../control-center:418
 #, c-format
 msgid "Administration tools"
 msgstr "Ferramentas de Administração"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:436
+#: ../control-center:435
 #, c-format
 msgid "Network Sharing"
 msgstr "Compartilhamentos"
 
-#: ../control-center:439
+#: ../control-center:438
 #, c-format
 msgid "Configure Windows(R) shares"
 msgstr "Configurar Compartilhamentos Windows®"
 
-#: ../control-center:446
+#: ../control-center:445
 #, c-format
 msgid "Configure NFS shares"
 msgstr "Configurar Compartilhamentos NFS"
 
-#: ../control-center:453
+#: ../control-center:452
 #, c-format
 msgid "Configure WebDAV shares"
 msgstr "Configurar Compartilhamentos WebDAV"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:463 ../control-center:466
+#: ../control-center:462 ../control-center:465
 #, c-format
 msgid "Local disks"
 msgstr "Discos Locais"
 
-#: ../control-center:490
+#: ../control-center:489
 #, c-format
 msgid "CD-ROM (%s)"
 msgstr "CD-ROM (%s)"
 
-#: ../control-center:491
+#: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
 msgstr "Especificar Onde o seu Drive de CD-ROM \"%s\" é Montado"
 
-#: ../control-center:493
+#: ../control-center:492
 #, c-format
 msgid "DVD-ROM (%s)"
 msgstr "DVD-ROM (%s)"
 
-#: ../control-center:494
+#: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
 msgstr "Especificar Onde o seu Drive DVD-ROM \"%s\" é Montado"
 
-#: ../control-center:496
+#: ../control-center:495
 #, c-format
 msgid "CD/DVD burner (%s)"
 msgstr "Gravador de CD/DVD (%s)"
 
-#: ../control-center:497
+#: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
 msgstr "Especificar Onde o seu Gravador de CD/DVD \"%s\" é Montado"
 
-#: ../control-center:499
+#: ../control-center:498
 #, c-format
 msgid "ZIP drive"
 msgstr "Drive ZIP"
 
-#: ../control-center:500
+#: ../control-center:499
 #, c-format
 msgid "Set where your ZIP drive is mounted"
 msgstr "Especificar Onde o seu drive ZIP é Montado"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:512 ../control-center:515
+#: ../control-center:511 ../control-center:514
 #, c-format
 msgid "Security"
 msgstr "Segurança"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:530
+#: ../control-center:529
 #, c-format
 msgid "Boot"
 msgstr "Inicialização"
 
-#: ../control-center:533
+#: ../control-center:532
 #, c-format
 msgid "Configure boot steps"
 msgstr "Configurar Inicialização"
 
-#: ../control-center:542
+#: ../control-center:541
 #, c-format
 msgid "Boot look'n feel"
 msgstr "Aparência da Inicialização"
 
-#: ../control-center:559
+#: ../control-center:558
 #, c-format
 msgid "Additional wizards"
 msgstr "Assistentes adicionais"
 
-#: ../control-center:614 ../control-center:615 ../control-center:616
-#: ../control-center:628
+#: ../control-center:613 ../control-center:614 ../control-center:615
+#: ../control-center:630
 #, c-format
 msgid "/_Options"
 msgstr "/_Opções"
 
-#: ../control-center:614
+#: ../control-center:613
 #, c-format
 msgid "/Display _Logs"
 msgstr "/Exibir _Logs"
 
-#: ../control-center:615
+#: ../control-center:614
 #, c-format
 msgid "/_Embedded Mode"
 msgstr "/Modo _Embutido"
 
-#: ../control-center:616
+#: ../control-center:615
 #, c-format
 msgid "/Expert mode in _wizards"
 msgstr "/Modo expert em _assistentes"
 
-#: ../control-center:626 ../control-center:627
+#: ../control-center:625 ../control-center:626
 #, c-format
 msgid "/_File"
 msgstr "/_Arquivo"
 
-#: ../control-center:627
+#: ../control-center:626
 #, c-format
 msgid "/_Quit"
 msgstr "/_Sair"
 
-#: ../control-center:627
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:629
 #, c-format
 msgid "<control>Q"
 msgstr "<control>Q"
 
-#: ../control-center:627
+#: ../control-center:629
 #, c-format
 msgid "Quit"
 msgstr "Sair"
 
-#: ../control-center:648 ../control-center:651 ../control-center:664
+#: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
 msgid "/_Themes"
 msgstr "/_Temas"
 
-#: ../control-center:654
+#: ../control-center:656
 #, c-format
 msgid ""
 "This action will restart the control center.\n"
@@ -1009,45 +1011,45 @@ msgstr ""
 "Esta Ação Vai Reiniciar o Centro de Controle.\n"
 "Qualquer Modificação não Aplicada vai ser Perdida."
 
-#: ../control-center:664
+#: ../control-center:666
 #, c-format
 msgid "/_More themes"
 msgstr "/_Mais Temas"
 
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669 ../control-center:670 ../control-center:671
-#: ../control-center:674
+#: ../control-center:668 ../control-center:669 ../control-center:670
+#: ../control-center:671 ../control-center:672 ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_Help"
 msgstr "/_Ajuda"
 
-#: ../control-center:667 ../control-center:668 ../control-center:669
-#: ../control-center:670
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:672
 #, c-format
 msgid "Help"
 msgstr "Ajuda"
 
-#: ../control-center:668
+#: ../control-center:670
 #, c-format
 msgid "/_Release notes"
 msgstr "/Notas de _Lançamento"
 
-#: ../control-center:669
+#: ../control-center:671
 #, c-format
 msgid "/What's _New?"
 msgstr "/O que há de _Novo?"
 
-#: ../control-center:670
+#: ../control-center:672
 #, c-format
 msgid "/_Errata"
 msgstr "/_Errata"
 
-#: ../control-center:671
+#: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
 msgstr "/_Reportar Erro"
 
-#: ../control-center:674
+#: ../control-center:676
 #, c-format
 msgid "/_About..."
 msgstr "/_Sobre..."
@@ -1138,33 +1140,33 @@ msgstr "Obter temas adicionais em www.damz.net"
 msgid "About - %s Control Center"
 msgstr "Sobre - Centro de Controle %s"
 
-#: ../control-center:1420
+#: ../control-center:1419
 #, c-format
 msgid "Authors: "
 msgstr "Autores: "
 
-#: ../control-center:1424
+#: ../control-center:1423
 #, c-format
 msgid "(perl version)"
 msgstr "(versão perl)"
 
-#: ../control-center:1429
+#: ../control-center:1428
 #, c-format
 msgid "Artwork: "
 msgstr "Trabalho artístico: "
 
-#: ../control-center:1434
+#: ../control-center:1433
 #, c-format
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1456
+#: ../control-center:1455
 #, c-format
 msgid "- %s: %s\n"
 msgstr "- %s: %s\n"
 
-#: ../control-center:1471
+#: ../control-center:1470
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
@@ -1177,7 +1179,7 @@ msgstr ""
 "Carlinhos Cecconi\n"
 "Deivi Lopes Kuhn"
 
-#: ../control-center:1473
+#: ../control-center:1472
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
@@ -1190,35 +1192,35 @@ msgstr ""
 "carlinux@terra.com.br\n"
 "deivi@softwarelivre.org sergio@mandriva.com.br"
 
-#: ../control-center:1475
+#: ../control-center:1474
 #, c-format
 msgid "Translator: "
 msgstr "Tradutor: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1484
+#: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "Centro de Controle %s %s (%s)"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1489
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "Copyright © %s Mandriva SA"
 
-#: ../control-center:1489
+#: ../control-center:1488
 #, fuzzy, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr "Copyright © %s Mandriva SA"
 
-#: ../control-center:1495
+#: ../control-center:1494
 #, c-format
 msgid "Authors"
 msgstr "Autores"
 
-#: ../control-center:1496
+#: ../control-center:1495
 #, fuzzy, c-format
 msgid "Mageia Contributors"
 msgstr "Colaboradores do Mandriva Linux"

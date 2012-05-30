@@ -38,15 +38,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
-"POT-Creation-Date: 2011-05-03 15:20+0200\n"
+"POT-Creation-Date: 2012-05-30 20:27+0200\n"
 "PO-Revision-Date: 2012-04-23 22:46+0100\n"
 "Last-Translator: Florin Cătălin RUSSEN <cfrussen@yahoo.co.uk>\n"
 "Language-Team: Romanian <cfrussen@yahoo.co.uk>\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ro\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2)\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2)\n"
 "X-Poedit-Language: Romanian\n"
 "X-Poedit-Country: ROMANIA\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -56,16 +57,19 @@ msgstr ""
 msgid "Packagers"
 msgstr "Împachetatori"
 
-#: ../contributors.pl:12
-#: ../contributors.pl:40
+#: ../contributors.pl:12 ../contributors.pl:40
 #, c-format
 msgid "Per Oyvind Karlsen"
 msgstr "Per Oyvind Karlsen"
 
 #: ../contributors.pl:12
 #, c-format
-msgid "massive packages rebuilding and cleaning, games, sparc port, proofreading of Mandriva tools"
-msgstr "regenerare și curățare masivă a pachetelor, jocuri, portate pe sparc, verificarea utilitarelor Mageia"
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"regenerare și curățare masivă a pachetelor, jocuri, portate pe sparc, "
+"verificarea utilitarelor Mageia"
 
 #: ../contributors.pl:13
 #, c-format
@@ -104,19 +108,26 @@ msgstr "Ben Reser"
 
 #: ../contributors.pl:16
 #, c-format
-msgid "updated nc with debian patches, fixed some perl packages, dnotify startup script, urpmc, hddtemp, wipe, etc..."
-msgstr "actualizare nc cu petice debian, reparat cîteva pachete perl, script de pornire dnotify, urpmc, hddtemp, wipe, etc..."
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"actualizare nc cu petice debian, reparat cîteva pachete perl, script de "
+"pornire dnotify, urpmc, hddtemp, wipe, etc..."
 
-#: ../contributors.pl:17
-#: ../contributors.pl:42
+#: ../contributors.pl:17 ../contributors.pl:42
 #, c-format
 msgid "Thomas Backlund"
 msgstr "Thomas Backlund"
 
 #: ../contributors.pl:17
 #, c-format
-msgid "\"deep and broad\" kernel work (many new patches before integration in official kernel)"
-msgstr "lucru „adînc și extins” la nucleu (multe petice noi înainte de integrarea în nucleul oficial)"
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"lucru „adînc și extins” la nucleu (multe petice noi înainte de integrarea în "
+"nucleul oficial)"
 
 #: ../contributors.pl:18
 #, c-format
@@ -145,8 +156,14 @@ msgstr "Buchan Milne"
 
 #: ../contributors.pl:20
 #, c-format
-msgid "Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS software (grass, mapserver), cursor_themes collection, misc server-side contributions"
-msgstr "Samba 3.0 (prelansare) care co-există cu Samba 2.2.x, Samba-2.2.x, programe GIS (grass, mapserver), colecția cursor_themes, diferite contribuții la nivel de server"
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (prelansare) care co-există cu Samba 2.2.x, Samba-2.2.x, programe "
+"GIS (grass, mapserver), colecția cursor_themes, diferite contribuții la "
+"nivel de server"
 
 #: ../contributors.pl:21
 #, c-format
@@ -155,8 +172,12 @@ msgstr "Goetz Waschk"
 
 #: ../contributors.pl:21
 #, c-format
-msgid "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-python, rox desktop"
-msgstr "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms și module suplimentare gnome-python, rox desktop"
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms și module suplimentare "
+"gnome-python, rox desktop"
 
 #: ../contributors.pl:22
 #, c-format
@@ -165,8 +186,12 @@ msgstr "Austin Acton"
 
 #: ../contributors.pl:22
 #, c-format
-msgid "audio/video/MIDI apps, scientific apps, audio/video production howtos, bluetooth, pyqt & related"
-msgstr "aplicații audio/video/MIDI, aplicații științifice, ghiduri de producție audio/video, bluetooth, pyqt și aplicații conexe"
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"aplicații audio/video/MIDI, aplicații științifice, ghiduri de producție "
+"audio/video, bluetooth, pyqt și aplicații conexe"
 
 #: ../contributors.pl:23
 #, c-format
@@ -196,7 +221,8 @@ msgstr "Oden Eriksson"
 #: ../contributors.pl:25
 #, c-format
 msgid "most web-based packages and many security-related packages"
-msgstr "cele mai multe pachete bazate pe web și multe pachete legate de securitate"
+msgstr ""
+"cele mai multe pachete bazate pe web și multe pachete legate de securitate"
 
 #: ../contributors.pl:26
 #, c-format
@@ -228,16 +254,19 @@ msgstr "Andi Payn"
 msgid "many extra gnome applets and python modules"
 msgstr "multe miniaplicații gnome suplimentare și module Python"
 
-#: ../contributors.pl:29
-#: ../contributors.pl:41
+#: ../contributors.pl:29 ../contributors.pl:41
 #, c-format
 msgid "Tibor Pittich"
 msgstr "Tibor Pittich"
 
 #: ../contributors.pl:29
 #, c-format
-msgid "sk-i18n, contributed several packages, openldap testing and integration, bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
-msgstr "sk-i18n, a contribuit cu diferite pachete, testare și integrare openldap, bind-sdb-ldap, cîțiva ani de folosire cooker și vînătoare de erori, etc..."
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"sk-i18n, a contribuit cu diferite pachete, testare și integrare openldap, "
+"bind-sdb-ldap, cîțiva ani de folosire cooker și vînătoare de erori, etc..."
 
 #: ../contributors.pl:30
 #, c-format
@@ -276,8 +305,12 @@ msgstr "Brook Humphrey"
 
 #: ../contributors.pl:33
 #, c-format
-msgid "testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, spamassassin, maildrop, clamav."
-msgstr "testare și raportare erori, Dovecot, bibletime, sword, ajutor cu pure-ftpd, spamassassin, maildrop, clamav."
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"testare și raportare erori, Dovecot, bibletime, sword, ajutor cu pure-ftpd, "
+"spamassassin, maildrop, clamav."
 
 #: ../contributors.pl:34
 #, c-format
@@ -286,8 +319,14 @@ msgstr "Olivier Blin"
 
 #: ../contributors.pl:34
 #, c-format
-msgid "http proxy support in installer, kernel 2.6 support in sndconfig, samba3 support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and drakxtools"
-msgstr "suport pentru proxy http la instalare, suport pentru nucleul 2.6 în sndconfig, suport samba3 în LinNeighborhood, îmbunătățiri și reparare de erori în urpmi, bootsplash și drakxtools"
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"suport pentru proxy http la instalare, suport pentru nucleul 2.6 în "
+"sndconfig, suport samba3 în LinNeighborhood, îmbunătățiri și reparare de "
+"erori în urpmi, bootsplash și drakxtools"
 
 #: ../contributors.pl:35
 #, c-format
@@ -389,27 +428,22 @@ msgstr "Traducător estonian"
 msgid "Andrea Celli"
 msgstr "Andrea Celli"
 
-#: ../contributors.pl:47
-#: ../contributors.pl:48
-#: ../contributors.pl:49
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
 #, c-format
 msgid "Italian Translator"
 msgstr "Traducător italian"
 
-#: ../contributors.pl:48
-#: ../contributors.pl:64
+#: ../contributors.pl:48 ../contributors.pl:64
 #, c-format
 msgid "Simone Riccio"
 msgstr "Simone Riccio"
 
-#: ../contributors.pl:49
-#: ../contributors.pl:65
+#: ../contributors.pl:49 ../contributors.pl:65
 #, c-format
 msgid "Daniele Pighin"
 msgstr "Daniele Pighin"
 
-#: ../contributors.pl:50
-#: ../contributors.pl:68
+#: ../contributors.pl:50 ../contributors.pl:68
 #, c-format
 msgid "Vedran Ljubovic"
 msgstr "Vedran Ljubovic"
@@ -439,15 +473,9 @@ msgstr "testare și raportare erori, integrarea pilotului eagle-usb"
 msgid "Bernhard Gruen"
 msgstr "Bernhard Gruen"
 
-#: ../contributors.pl:53
-#: ../contributors.pl:54
-#: ../contributors.pl:55
-#: ../contributors.pl:56
-#: ../contributors.pl:57
-#: ../contributors.pl:58
-#: ../contributors.pl:59
-#: ../contributors.pl:60
-#: ../contributors.pl:61
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
 #: ../contributors.pl:62
 #, c-format
 msgid "testing and bug reporting"
@@ -508,12 +536,8 @@ msgstr "Raphael Gertz"
 msgid "testing, bug report, Nvidia package try"
 msgstr "testare, raportare de erori, încercare pachet Nvidia"
 
-#: ../contributors.pl:64
-#: ../contributors.pl:65
-#: ../contributors.pl:66
-#: ../contributors.pl:67
-#: ../contributors.pl:68
-#: ../contributors.pl:69
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
 #, c-format
 msgid "testing, bug reporting"
 msgstr "teste, raportare de erori"
@@ -545,37 +569,35 @@ msgstr "MD, testare, raportare de erori"
 
 #: ../contributors.pl:71
 #, c-format
-msgid "And many unnamed and unknown beta testers and bug reporters that helped make sure it all worked right."
-msgstr "Și multi beta testori și raportori de erori nenumiți și necunoscuți care ne-au ajutat să ne asigurăm că totul funcționează corect."
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"Și multi beta testori și raportori de erori nenumiți și necunoscuți care ne-"
+"au ajutat să ne asigurăm că totul funcționează corect."
 
 #: ../control-center:90
 #, c-format
 msgid "Mageia"
 msgstr "Mageia"
 
-#: ../control-center:100
-#: ../control-center:105
+#: ../control-center:100 ../control-center:105
 #, c-format
 msgid "%s Control Center"
 msgstr "Centrul de control %s"
 
-#: ../control-center:106
-#: ../control-center:1059
+#: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
 msgstr "Se încarcă... Așteptați vă rog"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:151
-#: ../control-center:155
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
 #, c-format
 msgid "Software Management"
 msgstr "Gestionare aplicații"
 
-#: ../control-center:166
-#: ../control-center:354
-#: ../control-center:389
+#: ../control-center:166 ../control-center:354 ../control-center:389
 #: ../control-center:547
 #, c-format
 msgid "Others"
@@ -586,10 +608,8 @@ msgstr "Altele"
 msgid "Server wizards"
 msgstr "Asistenți de server"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:179
-#: ../control-center:182
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:179 ../control-center:182
 #, c-format
 msgid "Sharing"
 msgstr "Partajare"
@@ -611,8 +631,12 @@ msgstr "Configurare Samba"
 
 #: ../control-center:189
 #, c-format
-msgid "Set up a file and print server for workstations running Linux and non-Linux systems"
-msgstr "Configurați un server de fișiere și tipărire pentru mașini ce rulează sisteme Linux și non-Linux"
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Configurați un server de fișiere și tipărire pentru mașini ce rulează "
+"sisteme Linux și non-Linux"
 
 #: ../control-center:191
 #, c-format
@@ -644,10 +668,8 @@ msgstr "Configurare server de instalare"
 msgid "Set up server for network installations of %s"
 msgstr "Configurați un server pentru instalarea în rețea a lui %s"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:208
-#: ../control-center:211
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:208 ../control-center:211
 #, c-format
 msgid "Network Services"
 msgstr "Servicii de rețea"
@@ -689,22 +711,20 @@ msgstr "Configurare dată și oră"
 
 #: ../control-center:224
 #, c-format
-msgid "Set the time of the server to be synchronized with an external time server"
-msgstr "Parametrați ca ceasul serverului să se sincronizeze cu un server de timp extern"
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+"Parametrați ca ceasul serverului să se sincronizeze cu un server de timp "
+"extern"
 
-#: ../control-center:226
-#: ../control-center:227
+#: ../control-center:226 ../control-center:227
 #, c-format
 msgid "OpenSSH daemon configuration"
 msgstr "Configurare serviciu OpenSSH"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#. -PO: this message is already translated in drakx domain from which MCC will
-#. searchs it:
-#: ../control-center:238
-#: ../control-center:241
-#: ../lib/MDV/Control_Center.pm:67
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:238 ../control-center:241 ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Authentication"
 msgstr "Autentificare"
@@ -729,10 +749,8 @@ msgstr "Configurare LDAP"
 msgid "Configure the LDAP directory services"
 msgstr "Configurați serviciile directoarelor LDAP"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:260
-#: ../control-center:263
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:260 ../control-center:263
 #, c-format
 msgid "Groupware"
 msgstr "Lucru colaborativ"
@@ -767,10 +785,8 @@ msgstr "Configurare poștă electronică"
 msgid "Configure the Internet Mail services"
 msgstr "Configurați serviciile Internet Mail"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:285
-#: ../control-center:288
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:285 ../control-center:288
 #, c-format
 msgid "Online Administration"
 msgstr "Administrare online"
@@ -788,7 +804,8 @@ msgstr "Configurați mașina locală folosind o interfață web"
 #: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
-msgstr "Se pare că nu aveți webmin instalat. Configurarea locală este dezactivată"
+msgstr ""
+"Se pare că nu aveți webmin instalat. Configurarea locală este dezactivată"
 
 #: ../control-center:307
 #, c-format
@@ -798,10 +815,11 @@ msgstr "Administrare la distanță"
 #: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
-msgstr "Apăsați aici dacă doriți să configurați o mașină distantă folosind interfața web"
+msgstr ""
+"Apăsați aici dacă doriți să configurați o mașină distantă folosind interfața "
+"web"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:322
 #, c-format
 msgid "Hardware"
@@ -827,16 +845,13 @@ msgstr "Configurare maus și tastatură"
 msgid "Configure printing and scanning"
 msgstr "Configurare imprimantă și scaner"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:364
-#: ../drakxconf:31
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:364 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
 msgstr "Rețea și Internet"
 
-#: ../control-center:367
-#: ../lib/MDV/Control_Center.pm:419
+#: ../control-center:367 ../lib/MDV/Control_Center.pm:419
 #, c-format
 msgid "Manage your network devices"
 msgstr "Gestionare interfețe de rețea"
@@ -846,8 +861,7 @@ msgstr "Gestionare interfețe de rețea"
 msgid "Personalize and Secure your network"
 msgstr "Personalizare și securizare rețea"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:399
 #, c-format
 msgid "System"
@@ -868,8 +882,7 @@ msgstr "Localizare geografică"
 msgid "Administration tools"
 msgstr "Unelte de administrare"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:435
 #, c-format
 msgid "Network Sharing"
@@ -890,10 +903,8 @@ msgstr "Configurare partaje NFS"
 msgid "Configure WebDAV shares"
 msgstr "Configurare partaje WebDAV"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:462
-#: ../control-center:465
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:462 ../control-center:465
 #, c-format
 msgid "Local disks"
 msgstr "Discuri locale"
@@ -938,16 +949,13 @@ msgstr "Unitate ZIP"
 msgid "Set where your ZIP drive is mounted"
 msgstr "Stabiliți unde este montată unitatea ZIP"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:511
-#: ../control-center:514
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:511 ../control-center:514
 #, c-format
 msgid "Security"
 msgstr "Securitate"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:529
 #, c-format
 msgid "Boot"
@@ -968,10 +976,8 @@ msgstr "Aspect grafic la pornire"
 msgid "Additional wizards"
 msgstr "Asistenți suplimentari"
 
-#: ../control-center:613
-#: ../control-center:614
-#: ../control-center:615
-#: ../control-center:627
+#: ../control-center:613 ../control-center:614 ../control-center:615
+#: ../control-center:630
 #, c-format
 msgid "/_Options"
 msgstr "/_Opțiuni"
@@ -991,8 +997,7 @@ msgstr "/_Mod încapsulat"
 msgid "/Expert mode in _wizards"
 msgstr "/Mod expert în _asistenți"
 
-#: ../control-center:625
-#: ../control-center:626
+#: ../control-center:625 ../control-center:626
 #, c-format
 msgid "/_File"
 msgstr "/_Fișier"
@@ -1002,24 +1007,24 @@ msgstr "/_Fișier"
 msgid "/_Quit"
 msgstr "/_Terminare"
 
-#: ../control-center:626
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:629
 #, c-format
 msgid "<control>Q"
 msgstr "<control>Q"
 
-#: ../control-center:626
+#: ../control-center:629
 #, c-format
 msgid "Quit"
 msgstr "Terminare"
 
-#: ../control-center:647
-#: ../control-center:650
-#: ../control-center:663
+#: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
 msgid "/_Themes"
 msgstr "/_Teme"
 
-#: ../control-center:653
+#: ../control-center:656
 #, c-format
 msgid ""
 "This action will restart the control center.\n"
@@ -1028,72 +1033,65 @@ msgstr ""
 "Această acțiune va reporni centrul de control.\n"
 "Toate modificările ce nu au fost aplicate se vor pierde."
 
-#: ../control-center:663
+#: ../control-center:666
 #, c-format
 msgid "/_More themes"
 msgstr "/_Mai multe teme"
 
-#: ../control-center:665
-#: ../control-center:666
-#: ../control-center:667
-#: ../control-center:668
-#: ../control-center:669
-#: ../control-center:670
-#: ../control-center:673
+#: ../control-center:668 ../control-center:669 ../control-center:670
+#: ../control-center:671 ../control-center:672 ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_Help"
 msgstr "/_Ajutor"
 
-#: ../control-center:666
-#: ../control-center:667
-#: ../control-center:668
-#: ../control-center:669
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:672
 #, c-format
 msgid "Help"
 msgstr "Ajutor"
 
-#: ../control-center:667
+#: ../control-center:670
 #, c-format
 msgid "/_Release notes"
 msgstr "/_Nota ediției"
 
-#: ../control-center:668
+#: ../control-center:671
 #, c-format
 msgid "/What's _New?"
 msgstr "/Ce este _nou?"
 
-#: ../control-center:669
+#: ../control-center:672
 #, c-format
 msgid "/_Errata"
 msgstr "/_Erată"
 
-#: ../control-center:670
+#: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
 msgstr "/_Raportare eroare"
 
-#: ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_About..."
 msgstr "/_Despre..."
 
-#: ../control-center:731
+#: ../control-center:732
 #, c-format
 msgid "Cancel"
 msgstr "Anulează"
 
-#: ../control-center:751
+#: ../control-center:752
 #, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr "Centrul de control %s %s [pe %s]"
 
-#: ../control-center:1038
-#: ../control-center:1103
+#: ../control-center:1039 ../control-center:1104
 #, c-format
 msgid "Error"
 msgstr "Eroare"
 
-#: ../control-center:1038
+#: ../control-center:1039
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1104,95 +1102,93 @@ msgstr ""
 "\n"
 "Sînteți rugat să trimiteți o sesizare."
 
-#: ../control-center:1103
+#: ../control-center:1104
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr "Nu se poate lansa programul necunoscut „%s”"
 
-#: ../control-center:1122
+#: ../control-center:1123
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr "Modificările făcute în modulul curent nu vor fi salvate."
 
-#: ../control-center:1209
+#: ../control-center:1210
 #, c-format
 msgid "cannot fork: %s"
 msgstr "eșec de fork(): %s"
 
-#: ../control-center:1232
+#: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
 msgstr "eșec de fork() și execuție „%s” pentru că nu este executabil"
 
-#: ../control-center:1371
+#: ../control-center:1372
 #, c-format
 msgid "This program has exited abnormally"
 msgstr "Acest program s-a terminat anormal"
 
-#: ../control-center:1380
+#: ../control-center:1381
 #, c-format
 msgid "Warning"
 msgstr "Avertisment"
 
-#: ../control-center:1390
-#: ../drakconsole:31
+#: ../control-center:1391 ../drakconsole:31
 #, c-format
 msgid "Close"
 msgstr "Închide"
 
-#: ../control-center:1397
+#: ../control-center:1398
 #, c-format
 msgid "More themes"
 msgstr "Mai multe tematici"
 
-#: ../control-center:1399
+#: ../control-center:1400
 #, c-format
 msgid "Getting new themes"
 msgstr "Se recuperează noile tematici"
 
-#: ../control-center:1400
+#: ../control-center:1401
 #, c-format
 msgid "Additional themes"
 msgstr "Tematici suplimentare"
 
-#: ../control-center:1402
+#: ../control-center:1403
 #, c-format
 msgid "Get additional themes on www.damz.net"
 msgstr "Găsiți tematici suplimentare la http://www.damz.net"
 
-#: ../control-center:1410
+#: ../control-center:1411
 #, c-format
 msgid "About - %s Control Center"
 msgstr "Despre - centrul de control %s"
 
-#: ../control-center:1418
+#: ../control-center:1419
 #, c-format
 msgid "Authors: "
 msgstr "Autori: "
 
-#: ../control-center:1422
+#: ../control-center:1423
 #, c-format
 msgid "(perl version)"
 msgstr "(versiune perl)"
 
-#: ../control-center:1427
+#: ../control-center:1428
 #, c-format
 msgid "Artwork: "
 msgstr "Grafică: "
 
-#: ../control-center:1432
+#: ../control-center:1433
 #, c-format
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
-#. -PO: this is used as "language: translator" in credits part of the about
-#. dialog:
-#: ../control-center:1454
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
 #, c-format
 msgid "- %s: %s\n"
 msgstr "- %s: %s\n"
 
-#: ../control-center:1469
+#: ../control-center:1470
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
@@ -1205,7 +1201,7 @@ msgstr ""
 "Florin Cătălin RUSSEN\n"
 "Dan Marian JOIȚA"
 
-#: ../control-center:1471
+#: ../control-center:1472
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
@@ -1218,36 +1214,35 @@ msgstr ""
 "<cfrussen@yahoo.co.uk>\n"
 "<djmarian4u@yahoo.com>"
 
-#: ../control-center:1473
+#: ../control-center:1474
 #, c-format
 msgid "Translator: "
 msgstr "Traducători:"
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free)
-#. Control Center")
-#: ../control-center:1482
+#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "Centrul de control %s %s (%s)"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1487
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "Drepturi de autor (C) %s Mandriva SA"
 
-#: ../control-center:1487
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr "Drepturi de autor (C) %s Mageia"
 
-#: ../control-center:1493
+#: ../control-center:1494
 #, c-format
 msgid "Authors"
 msgstr "Autori"
 
-#: ../control-center:1494
+#: ../control-center:1495
 #, c-format
 msgid "Mageia Contributors"
 msgstr "Contribuitorii Mageia"
@@ -1322,16 +1317,17 @@ msgstr "Centrul de control"
 msgid "Choose the tool you want to use"
 msgstr "Alegeți unealta pe care doriți s-o utilizați"
 
-#: ../lib/MDV/Control_Center.pm:55
-#: ../lib/MDV/Control_Center.pm:56
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
 #, c-format
 msgid "Configure 3D Desktop effects"
 msgstr "Configurați efectele de birou 3D"
 
 #: ../lib/MDV/Control_Center.pm:68
 #, c-format
-msgid "Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
-msgstr "Selectați metoda de autentificare (local, NIS, LDAP, domeniu Windows, ...)"
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr ""
+"Selectați metoda de autentificare (local, NIS, LDAP, domeniu Windows, ...)"
 
 #: ../lib/MDV/Control_Center.pm:77
 #, c-format
@@ -1378,14 +1374,12 @@ msgstr "Configurați tematic grafică la pornirea sistemului"
 msgid "Select the graphical theme of the system while booting"
 msgstr "Selectați tematica grafică afișată în timpul pornirii sistemului"
 
-#: ../lib/MDV/Control_Center.pm:128
-#: ../lib/MDV/Control_Center.pm:129
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
 #, c-format
 msgid "Share the Internet connection with other local machines"
 msgstr "Partajați conexiunea la Internet cu alte mașini din rețeaua locală"
 
-#: ../lib/MDV/Control_Center.pm:138
-#: ../lib/MDV/Control_Center.pm:139
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
 #, c-format
 msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
 msgstr "Configurați o nouă interfață de rețea (LAN, ISDN, ADSL, ...)"
@@ -1400,14 +1394,12 @@ msgstr "Acces la Internet"
 msgid "Alter miscellaneous internet settings"
 msgstr "Modificați diverși parametri ai conexiunii internet "
 
-#: ../lib/MDV/Control_Center.pm:158
-#: ../lib/MDV/Control_Center.pm:159
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
 #, c-format
 msgid "Open a console as administrator"
 msgstr "Deschideți o consolă ca administrator"
 
-#: ../lib/MDV/Control_Center.pm:169
-#: ../lib/MDV/Control_Center.pm:170
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
 #, c-format
 msgid "Manage date and time"
 msgstr "Reglați data și ora"
@@ -1420,10 +1412,10 @@ msgstr "Configurați interfața grafică"
 #: ../lib/MDV/Control_Center.pm:180
 #, c-format
 msgid "Choose the display manager that enables to select which user to log in"
-msgstr "Alegeți interfața grafică folosită pentru autentificarea utilizatorilor"
+msgstr ""
+"Alegeți interfața grafică folosită pentru autentificarea utilizatorilor"
 
-#: ../lib/MDV/Control_Center.pm:189
-#: ../lib/MDV/Control_Center.pm:190
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
 #, c-format
 msgid "Configure a fax server"
 msgstr "Configurați un server de fax"
@@ -1435,17 +1427,18 @@ msgstr "Configurați parafocul personal"
 
 #: ../lib/MDV/Control_Center.pm:200
 #, c-format
-msgid "Set up a personal firewall in order to protect the computer and the network"
-msgstr "Configurați un parafoc personal pentru protecția calculatorului și a rețelei"
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
+msgstr ""
+"Configurați un parafoc personal pentru protecția calculatorului și a rețelei"
 
-#: ../lib/MDV/Control_Center.pm:209
-#: ../lib/MDV/Control_Center.pm:210
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Gestionați, adăugați și înlăturați fonturi. Importați fonturi Windows(TM)"
+msgstr ""
+"Gestionați, adăugați și înlăturați fonturi. Importați fonturi Windows(TM)"
 
-#: ../lib/MDV/Control_Center.pm:219
-#: ../lib/MDV/Control_Center.pm:220
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
 msgid "Set up the graphical server"
 msgstr "Configurați serverul grafic"
@@ -1460,14 +1453,12 @@ msgstr "Gestionați partițiile"
 msgid "Create, delete and resize hard disk partitions"
 msgstr "Creați, ștergeți și redimensionați partițiile"
 
-#: ../lib/MDV/Control_Center.pm:239
-#: ../lib/MDV/Control_Center.pm:240
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
 #, c-format
 msgid "Browse and configure hardware"
 msgstr "Explorați și configurați componentele materiale"
 
-#: ../lib/MDV/Control_Center.pm:250
-#: ../lib/MDV/Control_Center.pm:251
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
 #, c-format
 msgid "Sound Configuration"
 msgstr "Configurați sunetul"
@@ -1502,8 +1493,7 @@ msgstr "Configurare avansată pentru interfețele de rețea și parafoc"
 msgid "Set up network interfaces failover and firewall replication"
 msgstr "Configurați redundanța interfețelor de rețea și replicarea de parafoc"
 
-#: ../lib/MDV/Control_Center.pm:291
-#: ../lib/MDV/Control_Center.pm:292
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
 #, c-format
 msgid "Set up the keyboard layout"
 msgstr "Configurați dispunerea tastaturii"
@@ -1528,8 +1518,7 @@ msgstr "Gestionați localizarea sistemului"
 msgid "Select the language and the country or region of the system"
 msgstr "Selectați limba și țara sau regiunea pentru sistem"
 
-#: ../lib/MDV/Control_Center.pm:320
-#: ../lib/MDV/Control_Center.pm:321
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
 #, c-format
 msgid "View and search system logs"
 msgstr "Vizualizați și căutați în jurnalele de sistem"
@@ -1561,8 +1550,12 @@ msgstr "Configurați autentificarea pentru uneltele Mageia"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
-msgid "Define authentication required to access individual Mageia configuration tools "
-msgstr "Definiți metoda de autentificare necesară pentru accesarea individuală a uneltelor de configurare Mageia"
+msgid ""
+"Define authentication required to access individual Mageia configuration "
+"tools "
+msgstr ""
+"Definiți metoda de autentificare necesară pentru accesarea individuală a "
+"uneltelor de configurare Mageia"
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1571,8 +1564,12 @@ msgstr "Actualizați sistemul"
 
 #: ../lib/MDV/Control_Center.pm:359
 #, c-format
-msgid "Look at available updates and apply any fixes or upgrades to installed packages"
-msgstr "Consultați lista de actualizări disponibile și aplicați corectări sau îmbunătățiri pachetelor instalate"
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"Consultați lista de actualizări disponibile și aplicați corectări sau "
+"îmbunătățiri pachetelor instalate"
 
 #: ../lib/MDV/Control_Center.pm:369
 #, c-format
@@ -1584,8 +1581,7 @@ msgstr "Stil de meniuri"
 msgid "Menu Style Configuration"
 msgstr "Configurare stil de meniuri"
 
-#: ../lib/MDV/Control_Center.pm:379
-#: ../lib/MDV/Control_Center.pm:380
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
 msgstr "Importați documente și configurări din Windows(TM)"
@@ -1600,14 +1596,12 @@ msgstr "Supraveghere conexiuni"
 msgid "Monitor the network connections"
 msgstr "Supravegheați conexiunile de rețea"
 
-#: ../lib/MDV/Control_Center.pm:399
-#: ../lib/MDV/Control_Center.pm:400
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
 #, c-format
 msgid "Set up the pointer device (mouse, touchpad)"
 msgstr "Configurați dispozitivele de indicare (maus, tușieră tactilă)"
 
-#: ../lib/MDV/Control_Center.pm:408
-#: ../lib/MDV/Control_Center.pm:409
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
 #, c-format
 msgid "Parental Controls"
 msgstr "Control parental"
@@ -1667,8 +1661,7 @@ msgstr "Partajați partițiile discului"
 msgid "Set up sharing of your hard disk partitions"
 msgstr "Configurați partajarea partițiilor voastre de pe disc"
 
-#: ../lib/MDV/Control_Center.pm:479
-#: ../lib/MDV/Control_Center.pm:481
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
 #, c-format
 msgid "Set up the printer(s), the print job queues, ..."
 msgstr "Configurați imprimantele, cozile de tipărire, ..."
@@ -1713,8 +1706,7 @@ msgstr "Înlăturați o conexiune"
 msgid "Delete a network interface"
 msgstr "Suprimați o interfață de rețea"
 
-#: ../lib/MDV/Control_Center.pm:531
-#: ../lib/MDV/Control_Center.pm:532
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
 #, c-format
 msgid "Wireless connection"
 msgstr "Conexiune fără-fir"
@@ -1739,8 +1731,7 @@ msgstr "Partajați discuri și directoare cu sistemele Windows (SMB)"
 msgid "Manage configuration of Samba"
 msgstr "Gestionați configurația Samba"
 
-#: ../lib/MDV/Control_Center.pm:561
-#: ../lib/MDV/Control_Center.pm:562
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
 #, c-format
 msgid "Set up scanner"
 msgstr "Configurați scanerul"
@@ -1753,10 +1744,11 @@ msgstr "Configurați securitatea sistemului, permisiuni și audit"
 #: ../lib/MDV/Control_Center.pm:572
 #, c-format
 msgid "Set the system security level, periodic security audit and permissions"
-msgstr "Configurați nivelul de securitate, auditul periodic și permisiunile sistemului"
+msgstr ""
+"Configurați nivelul de securitate, auditul periodic și permisiunile "
+"sistemului"
 
-#: ../lib/MDV/Control_Center.pm:582
-#: ../lib/MDV/Control_Center.pm:583
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
 #, c-format
 msgid "Manage system services by enabling or disabling them"
 msgstr "Gestionați serviciile sistem prin activare sau dezactivare"
@@ -1793,8 +1785,7 @@ msgstr "Vizualizați și configurați politica de securitate TOMOYO Linux"
 
 #. -PO: here power means electrical power
 #. -PO: UPS==Uninterruptible power supply
-#: ../lib/MDV/Control_Center.pm:634
-#: ../lib/MDV/Control_Center.pm:637
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
 #, c-format
 msgid "Set up a UPS for power monitoring"
 msgstr "Configurați un UPS pentru supravegherea alimentării"
@@ -1819,8 +1810,7 @@ msgstr "Virtualizare"
 msgid "Virtual machines management"
 msgstr "Gestionare mașini virtuale"
 
-#: ../lib/MDV/Control_Center.pm:668
-#: ../lib/MDV/Control_Center.pm:669
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
 #, c-format
 msgid "Configure VPN connection to secure network access"
 msgstr "Configurați conexiunea VPN pentru acces securizat la rețea"
@@ -1835,8 +1825,7 @@ msgstr "Accesați discuri și directoare partajate prin WebDAV"
 msgid "Set WebDAV mount points"
 msgstr "Definiți puncte de montare WebDAV"
 
-#: ../menus_launcher.pl:19
-#: ../menus_launcher.pl:41
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
 #, c-format
 msgid "Menu Configuration Center"
 msgstr "Centrul pentru configurarea meniurilor"
@@ -1846,9 +1835,7 @@ msgstr "Centrul pentru configurarea meniurilor"
 msgid "System menu"
 msgstr "Meniul sistem"
 
-#: ../menus_launcher.pl:29
-#: ../menus_launcher.pl:36
-#: ../print_launcher.pl:31
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
 #, c-format
 msgid "Configure..."
 msgstr "Configurare..."
@@ -1869,8 +1856,7 @@ msgstr ""
 "\n"
 "Selectați meniul pe care doriți să-l configurați"
 
-#: ../print_launcher.pl:14
-#: ../print_launcher.pl:21
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
 #, c-format
 msgid "Printing configuration"
 msgstr "Configurare tipărire"
@@ -2008,4 +1994,3 @@ msgstr "Rezoluție ecran"
 #: ../drakconf.desktop.in.h:1
 msgid "Mageia Control Center"
 msgstr "Configurați calculatorul"
-

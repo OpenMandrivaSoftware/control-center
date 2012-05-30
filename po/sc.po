@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: drakconf-sc\n"
-"POT-Creation-Date: 2008-02-22 23:38+0200\n"
+"POT-Creation-Date: 2012-05-30 20:27+0200\n"
 "PO-Revision-Date: 2005-09-14 11:07+0100\n"
 "Last-Translator: Antoni Pistis <antonio.pistis@virgilio.it>\n"
 "Language-Team: Sardu\n"
@@ -563,39 +563,39 @@ msgstr "Carrighendi... Po praxeri, abeta"
 msgid "Software Management"
 msgstr "Maniju de is programas"
 
-#: ../control-center:167 ../control-center:355 ../control-center:390
-#: ../control-center:548
+#: ../control-center:166 ../control-center:354 ../control-center:389
+#: ../control-center:547
 #, fuzzy, c-format
 msgid "Others"
 msgstr "Testadoris"
 
-#: ../control-center:177
+#: ../control-center:176
 #, c-format
 msgid "Server wizards"
 msgstr "Wizards po su server"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:180 ../control-center:183
+#: ../control-center:179 ../control-center:182
 #, c-format
 msgid "Sharing"
 msgstr "Acomunadura"
 
-#: ../control-center:186
+#: ../control-center:185
 #, c-format
 msgid "Configure FTP"
 msgstr "Assètiu FTP"
 
-#: ../control-center:187
+#: ../control-center:186
 #, c-format
 msgid "Set up an FTP server"
 msgstr "Assètia unu server FTP"
 
-#: ../control-center:189
+#: ../control-center:188
 #, c-format
 msgid "Configure Samba"
 msgstr "Assètiu Samba"
 
-#: ../control-center:190
+#: ../control-center:189
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
@@ -604,387 +604,389 @@ msgstr ""
 "Assètia unu server de file e imprenta po màkinas cun sistemas Linux e no "
 "Linux"
 
-#: ../control-center:192
+#: ../control-center:191
 #, c-format
 msgid "Manage Samba share"
 msgstr "Manija su cumoni Samba"
 
-#: ../control-center:193
+#: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
 msgstr "Manija, crea cumoni spetziali, crea cumoni pùbrigu/umperadori"
 
-#: ../control-center:195
+#: ../control-center:194
 #, c-format
 msgid "Configure web server"
 msgstr "Assètiu server web"
 
-#: ../control-center:196
+#: ../control-center:195
 #, c-format
 msgid "Set up a web server"
 msgstr "Assètia unu server web"
 
-#: ../control-center:198
+#: ../control-center:197
 #, c-format
 msgid "Configure installation server"
 msgstr "Assètiu server de aposentada"
 
-#: ../control-center:199
+#: ../control-center:198
 #, c-format
 msgid "Set up server for network installations of %s"
 msgstr "Assètia unu server po aposentai %s de arretza"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:209 ../control-center:212
+#: ../control-center:208 ../control-center:211
 #, c-format
 msgid "Network Services"
 msgstr "Serbìtzius de Arretza"
 
-#: ../control-center:215
+#: ../control-center:214
 #, c-format
 msgid "Configure DHCP"
 msgstr "Assètiu DHCP"
 
-#: ../control-center:216
+#: ../control-center:215
 #, c-format
 msgid "Set up a DHCP server"
 msgstr "Assètia unu server DHCP"
 
-#: ../control-center:218
+#: ../control-center:217
 #, c-format
 msgid "Configure DNS"
 msgstr "Assètiu DNS"
 
-#: ../control-center:219
+#: ../control-center:218
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
 msgstr "Assètia unu server DNS (network name resolution)"
 
-#: ../control-center:221
+#: ../control-center:220
 #, c-format
 msgid "Configure proxy"
 msgstr "Assètiu proxy"
 
-#: ../control-center:222
+#: ../control-center:221
 #, c-format
 msgid "Configure a web caching proxy server"
 msgstr "Assètia server proxy po su web caching"
 
-#: ../control-center:224
+#: ../control-center:223
 #, c-format
 msgid "Configure time"
 msgstr "Assètia su tempus"
 
-#: ../control-center:225
+#: ../control-center:224
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
 msgstr ""
 "Assètia candu su server bolit sincronisau cun d-unu atru server de tempus"
 
-#: ../control-center:227 ../control-center:228
+#: ../control-center:226 ../control-center:227
 #, c-format
 msgid "OpenSSH daemon configuration"
 msgstr "Assètiu dimòniu OpenSSH"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #. -PO: this message is already translated in drakx domain from which MCC will searchs it:
-#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#: ../control-center:238 ../control-center:241 ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Authentication"
 msgstr "Autèntiga"
 
-#: ../control-center:246
+#: ../control-center:245
 #, c-format
 msgid "Configure NIS and Autofs"
 msgstr "Assètiu NIS e Autofs"
 
-#: ../control-center:247
+#: ../control-center:246
 #, c-format
 msgid "Configure the NIS and Autofs services"
 msgstr "Assètia is serbìtzius NIS e Autofs"
 
-#: ../control-center:249
+#: ../control-center:248
 #, c-format
 msgid "Configure LDAP"
 msgstr "Assètiu LDACP"
 
-#: ../control-center:250
+#: ../control-center:249
 #, c-format
 msgid "Configure the LDAP directory services"
 msgstr "Assètia is serbìtzius de directory LDAP"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:261 ../control-center:264
+#: ../control-center:260 ../control-center:263
 #, c-format
 msgid "Groupware"
 msgstr "Traballu in Grupu"
 
-#: ../control-center:267
+#: ../control-center:266
 #, c-format
 msgid "Configure news"
 msgstr "Assètiu noas"
 
-#: ../control-center:268
+#: ../control-center:267
 #, c-format
 msgid "Configure a newsgroup server"
 msgstr "Assètia unu server po newsgroup"
 
-#: ../control-center:270
+#: ../control-center:269
 #, c-format
 msgid "Configure groupware"
 msgstr "Assètiu groupware"
 
-#: ../control-center:271
+#: ../control-center:270
 #, c-format
 msgid "Configure a groupware server"
 msgstr "Assètia unu server po groupware"
 
-#: ../control-center:273
+#: ../control-center:272
 #, c-format
 msgid "Configure mail"
 msgstr "Assètiu curreu"
 
-#: ../control-center:274
+#: ../control-center:273
 #, c-format
 msgid "Configure the Internet Mail services"
 msgstr "Assètia is serbìtzius de Curreu Internet"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:286 ../control-center:289
+#: ../control-center:285 ../control-center:288
 #, c-format
 msgid "Online Administration"
 msgstr "Aministradura online"
 
-#: ../control-center:305
+#: ../control-center:304
 #, c-format
 msgid "Local administration"
 msgstr "Aministradura locali"
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "Configure the local machine via web interface"
 msgstr "Assètia sa màkina de interfaci web"
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "Parit ki no apas aposentau webmin. S'assètiu locali est disabivau"
 
-#: ../control-center:308
+#: ../control-center:307
 #, c-format
 msgid "Remote administration"
 msgstr "Aministradura atesu"
 
-#: ../control-center:309
+#: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
 msgstr "Crica innoi ki bolis assetiai una màkina atesu de interfaci web"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:323
+#: ../control-center:322
 #, c-format
 msgid "Hardware"
 msgstr "Hardware"
 
-#: ../control-center:326
+#: ../control-center:325
 #, fuzzy, c-format
 msgid "Manage your hardware"
 msgstr "Manija is cumonis NFS"
 
-#: ../control-center:333
+#: ../control-center:332
 #, fuzzy, c-format
 msgid "Configure graphics"
 msgstr "Assètiu curreu"
 
-#: ../control-center:340
+#: ../control-center:339
 #, fuzzy, c-format
 msgid "Configure mouse and keyboard"
 msgstr "Assètia su bisori"
 
-#: ../control-center:347
+#: ../control-center:346
 #, c-format
 msgid "Configure printing and scanning"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:365 ../drakxconf:31
+#: ../control-center:364 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
 msgstr "Arretza e Internet"
 
-#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#: ../control-center:367 ../lib/MDV/Control_Center.pm:419
 #, fuzzy, c-format
 msgid "Manage your network devices"
 msgstr "Serbìtzius de Arretza"
 
-#: ../control-center:381
+#: ../control-center:380
 #, c-format
 msgid "Personalize and Secure your network"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:400
+#: ../control-center:399
 #, c-format
 msgid "System"
 msgstr "Sistema"
 
-#: ../control-center:403
+#: ../control-center:402
 #, fuzzy, c-format
 msgid "Manage system services"
 msgstr "Abiva o disabiva is serbìtzius de su sistema"
 
-#: ../control-center:412
+#: ../control-center:411
 #, fuzzy, c-format
 msgid "Localization"
 msgstr "Aministradura locali"
 
-#: ../control-center:419
+#: ../control-center:418
 #, fuzzy, c-format
 msgid "Administration tools"
 msgstr "Aministradura online"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:436
+#: ../control-center:435
 #, fuzzy, c-format
 msgid "Network Sharing"
 msgstr "Serbìtzius de Arretza"
 
-#: ../control-center:439
+#: ../control-center:438
 #, fuzzy, c-format
 msgid "Configure Windows(R) shares"
 msgstr "Assètiu groupware"
 
-#: ../control-center:446
+#: ../control-center:445
 #, fuzzy, c-format
 msgid "Configure NFS shares"
 msgstr "Manija is cumonis NFS"
 
-#: ../control-center:453
+#: ../control-center:452
 #, fuzzy, c-format
 msgid "Configure WebDAV shares"
 msgstr "Assètiu server web"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:463 ../control-center:466
+#: ../control-center:462 ../control-center:465
 #, fuzzy, c-format
 msgid "Local disks"
 msgstr "Acomuna discu locali"
 
-#: ../control-center:490
+#: ../control-center:489
 #, fuzzy, c-format
 msgid "CD-ROM (%s)"
 msgstr "DVD-ROM"
 
-#: ../control-center:491
+#: ../control-center:490
 #, fuzzy, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
 msgstr "Assètia aundi bolit carrigau su ligidori CD-ROM"
 
-#: ../control-center:493
+#: ../control-center:492
 #, fuzzy, c-format
 msgid "DVD-ROM (%s)"
 msgstr "DVD-ROM"
 
-#: ../control-center:494
+#: ../control-center:493
 #, fuzzy, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
 msgstr "Assètia aundi bolit carrigau su ligidori DVD-ROM"
 
-#: ../control-center:496
+#: ../control-center:495
 #, fuzzy, c-format
 msgid "CD/DVD burner (%s)"
 msgstr "Scriidori CD/DVD"
 
-#: ../control-center:497
+#: ../control-center:496
 #, fuzzy, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
 msgstr "Assètia aundi bolit carrigau su scriidori CD/DVD"
 
-#: ../control-center:499
+#: ../control-center:498
 #, c-format
 msgid "ZIP drive"
 msgstr "Trastu ZIP"
 
-#: ../control-center:500
+#: ../control-center:499
 #, c-format
 msgid "Set where your ZIP drive is mounted"
 msgstr "Assètia aundi bolit carrigau su ligidori ZIP"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:512 ../control-center:515
+#: ../control-center:511 ../control-center:514
 #, c-format
 msgid "Security"
 msgstr "Siguresa"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:530
+#: ../control-center:529
 #, c-format
 msgid "Boot"
 msgstr "Alluidura"
 
-#: ../control-center:533
+#: ../control-center:532
 #, fuzzy, c-format
 msgid "Configure boot steps"
 msgstr "Assètia su tempus"
 
-#: ../control-center:542
+#: ../control-center:541
 #, c-format
 msgid "Boot look'n feel"
 msgstr ""
 
-#: ../control-center:559
+#: ../control-center:558
 #, c-format
 msgid "Additional wizards"
 msgstr "Atrus wizard"
 
-#: ../control-center:614 ../control-center:615 ../control-center:616
-#: ../control-center:628
+#: ../control-center:613 ../control-center:614 ../control-center:615
+#: ../control-center:630
 #, c-format
 msgid "/_Options"
 msgstr "/_Sceras"
 
-#: ../control-center:614
+#: ../control-center:613
 #, c-format
 msgid "/Display _Logs"
 msgstr "/Amosta _Logs"
 
-#: ../control-center:615
+#: ../control-center:614
 #, c-format
 msgid "/_Embedded Mode"
 msgstr "/_Embedded Mode"
 
-#: ../control-center:616
+#: ../control-center:615
 #, c-format
 msgid "/Expert mode in _wizards"
 msgstr "/Expert mode in _wizards"
 
-#: ../control-center:626 ../control-center:627
+#: ../control-center:625 ../control-center:626
 #, c-format
 msgid "/_File"
 msgstr "/_File"
 
-#: ../control-center:627
+#: ../control-center:626
 #, c-format
 msgid "/_Quit"
 msgstr "/_Bessi"
 
-#: ../control-center:627
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:629
 #, c-format
 msgid "<control>Q"
 msgstr "<control>Q"
 
-#: ../control-center:627
+#: ../control-center:629
 #, c-format
 msgid "Quit"
 msgstr "Bessi"
 
-#: ../control-center:648 ../control-center:651 ../control-center:664
+#: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
 msgid "/_Themes"
 msgstr "/_Temas"
 
-#: ../control-center:654
+#: ../control-center:656
 #, c-format
 msgid ""
 "This action will restart the control center.\n"
@@ -993,45 +995,45 @@ msgstr ""
 "Faendi custu as a aberri torra su centru de controllu.\n"
 "Is mudas ki no as sarvau das as a perdi."
 
-#: ../control-center:664
+#: ../control-center:666
 #, c-format
 msgid "/_More themes"
 msgstr "/_Atrus temas"
 
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669 ../control-center:670 ../control-center:671
-#: ../control-center:674
+#: ../control-center:668 ../control-center:669 ../control-center:670
+#: ../control-center:671 ../control-center:672 ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_Help"
 msgstr "/_Ajudu"
 
-#: ../control-center:667 ../control-center:668 ../control-center:669
-#: ../control-center:670
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:672
 #, c-format
 msgid "Help"
 msgstr "Ajudu"
 
-#: ../control-center:668
+#: ../control-center:670
 #, fuzzy, c-format
 msgid "/_Release notes"
 msgstr "/_Burra"
 
-#: ../control-center:669
+#: ../control-center:671
 #, c-format
 msgid "/What's _New?"
 msgstr ""
 
-#: ../control-center:670
+#: ../control-center:672
 #, c-format
 msgid "/_Errata"
 msgstr ""
 
-#: ../control-center:671
+#: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
 msgstr "/_Arrelata is fartas"
 
-#: ../control-center:674
+#: ../control-center:676
 #, c-format
 msgid "/_About..."
 msgstr "/_Apitzus de..."
@@ -1122,75 +1124,75 @@ msgstr "Arcantza atrus temas in www.damz.net"
 msgid "About - %s Control Center"
 msgstr "Apitzus de - Centru de Controllu %s"
 
-#: ../control-center:1420
+#: ../control-center:1419
 #, c-format
 msgid "Authors: "
 msgstr "Autoris: "
 
-#: ../control-center:1424
+#: ../control-center:1423
 #, c-format
 msgid "(perl version)"
 msgstr "(versioni perl)"
 
-#: ../control-center:1429
+#: ../control-center:1428
 #, c-format
 msgid "Artwork: "
 msgstr "Artwork: "
 
-#: ../control-center:1434
+#: ../control-center:1433
 #, c-format
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1456
+#: ../control-center:1455
 #, c-format
 msgid "- %s: %s\n"
 msgstr "- %s: %s\n"
 
-#: ../control-center:1471
+#: ../control-center:1470
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "Antonio Pistis"
 
-#: ../control-center:1473
+#: ../control-center:1472
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "antonio.pistis@virgilio.it"
 
-#: ../control-center:1475
+#: ../control-center:1474
 #, c-format
 msgid "Translator: "
 msgstr "Tradusidori: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1484
+#: ../control-center:1483
 #, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "Centru de Controllu %s"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1489
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "Copyright © %s Mandriva SA"
 
-#: ../control-center:1489
+#: ../control-center:1488
 #, fuzzy, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr "Copyright © %s Mandriva SA"
 
-#: ../control-center:1495
+#: ../control-center:1494
 #, c-format
 msgid "Authors"
 msgstr "Autoris"
 
-#: ../control-center:1496
+#: ../control-center:1495
 #, fuzzy, c-format
 msgid "Mageia Contributors"
 msgstr "Contribuidoris Mandriva Linux"

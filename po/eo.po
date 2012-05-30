@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eo\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-02-22 23:38+0200\n"
+"POT-Creation-Date: 2012-05-30 20:27+0200\n"
 "PO-Revision-Date: 2007-12-12 05:06+0100\n"
 "Last-Translator: Vilhelmo Lutermano <vlutermano@free.fr>\n"
 "Language-Team: Esperanto <eo@li.org>\n"
@@ -564,39 +564,39 @@ msgstr "Ŝarganta... Bonvole atendu"
 msgid "Software Management"
 msgstr "Programar-mastrumilo"
 
-#: ../control-center:167 ../control-center:355 ../control-center:390
-#: ../control-center:548
+#: ../control-center:166 ../control-center:354 ../control-center:389
+#: ../control-center:547
 #, c-format
 msgid "Others"
 msgstr "Aliaj"
 
-#: ../control-center:177
+#: ../control-center:176
 #, c-format
 msgid "Server wizards"
 msgstr "Servil-sorĉiloj"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:180 ../control-center:183
+#: ../control-center:179 ../control-center:182
 #, c-format
 msgid "Sharing"
 msgstr "Kundivido"
 
-#: ../control-center:186
+#: ../control-center:185
 #, c-format
 msgid "Configure FTP"
 msgstr "Konfiguru FTP"
 
-#: ../control-center:187
+#: ../control-center:186
 #, c-format
 msgid "Set up an FTP server"
 msgstr "Agordi FTP-servilon"
 
-#: ../control-center:189
+#: ../control-center:188
 #, c-format
 msgid "Configure Samba"
 msgstr "Konfiguru Samba"
 
-#: ../control-center:190
+#: ../control-center:189
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
@@ -605,78 +605,78 @@ msgstr ""
 "Agordi dosier- kaj pres-servilon por laborstacioj funkciantaj sub Linukso "
 "kaj ne-linuksaj sistemoj"
 
-#: ../control-center:192
+#: ../control-center:191
 #, c-format
 msgid "Manage Samba share"
 msgstr "Mastrumi Samba kundividon"
 
-#: ../control-center:193
+#: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
 msgstr "Mastrumi, krei specialan kundividon, krei publikan/uzulan kundividon"
 
-#: ../control-center:195
+#: ../control-center:194
 #, c-format
 msgid "Configure web server"
 msgstr "Konfiguri ttt-servilon"
 
-#: ../control-center:196
+#: ../control-center:195
 #, c-format
 msgid "Set up a web server"
 msgstr "Agordi ttt-servilon"
 
-#: ../control-center:198
+#: ../control-center:197
 #, c-format
 msgid "Configure installation server"
 msgstr "Konfiguru instal-servilon"
 
-#: ../control-center:199
+#: ../control-center:198
 #, c-format
 msgid "Set up server for network installations of %s"
 msgstr "Agordi servilon por retaj instaladoj de %s"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:209 ../control-center:212
+#: ../control-center:208 ../control-center:211
 #, c-format
 msgid "Network Services"
 msgstr "Retaj servoj"
 
-#: ../control-center:215
+#: ../control-center:214
 #, c-format
 msgid "Configure DHCP"
 msgstr "Konfiguru DHCP"
 
-#: ../control-center:216
+#: ../control-center:215
 #, c-format
 msgid "Set up a DHCP server"
 msgstr "Agordi DHCP-servilon"
 
-#: ../control-center:218
+#: ../control-center:217
 #, c-format
 msgid "Configure DNS"
 msgstr "Konfiguru DNS"
 
-#: ../control-center:219
+#: ../control-center:218
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
 msgstr "Agordi DNS-servilon (ret-nomoj)"
 
-#: ../control-center:221
+#: ../control-center:220
 #, c-format
 msgid "Configure proxy"
 msgstr "Konfiguru prokuron"
 
-#: ../control-center:222
+#: ../control-center:221
 #, c-format
 msgid "Configure a web caching proxy server"
 msgstr "Konfiguri ttt-kaŝmemoran prokuran servilon"
 
-#: ../control-center:224
+#: ../control-center:223
 #, c-format
 msgid "Configure time"
 msgstr "Konfiguru horon"
 
-#: ../control-center:225
+#: ../control-center:224
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
@@ -684,309 +684,311 @@ msgstr ""
 "Difini la tempon en kiu la servilo estu sinkronizata kun ekstera tempo-"
 "servilo"
 
-#: ../control-center:227 ../control-center:228
+#: ../control-center:226 ../control-center:227
 #, c-format
 msgid "OpenSSH daemon configuration"
 msgstr "Konfigurad-sorĉilo por OpenSSH"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #. -PO: this message is already translated in drakx domain from which MCC will searchs it:
-#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#: ../control-center:238 ../control-center:241 ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Authentication"
 msgstr "Aŭtentikigado"
 
-#: ../control-center:246
+#: ../control-center:245
 #, c-format
 msgid "Configure NIS and Autofs"
 msgstr "Konfiguru NIS kaj Autofs"
 
-#: ../control-center:247
+#: ../control-center:246
 #, c-format
 msgid "Configure the NIS and Autofs services"
 msgstr "Konfiguru la servojn NIS kaj Autofs"
 
-#: ../control-center:249
+#: ../control-center:248
 #, c-format
 msgid "Configure LDAP"
 msgstr "Konfiguri LDAP"
 
-#: ../control-center:250
+#: ../control-center:249
 #, c-format
 msgid "Configure the LDAP directory services"
 msgstr "Konfiguri la servojn de LDAP-dosierujo"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:261 ../control-center:264
+#: ../control-center:260 ../control-center:263
 #, c-format
 msgid "Groupware"
 msgstr "Grupa programaro"
 
-#: ../control-center:267
+#: ../control-center:266
 #, c-format
 msgid "Configure news"
 msgstr "Konfiguru novaĵojn (news)"
 
-#: ../control-center:268
+#: ../control-center:267
 #, c-format
 msgid "Configure a newsgroup server"
 msgstr "Konfiguri novaĵgrupan servilon"
 
-#: ../control-center:270
+#: ../control-center:269
 #, c-format
 msgid "Configure groupware"
 msgstr "Konfiguru grup-programon"
 
-#: ../control-center:271
+#: ../control-center:270
 #, c-format
 msgid "Configure a groupware server"
 msgstr "Konfiguri grup-programan servilon"
 
-#: ../control-center:273
+#: ../control-center:272
 #, c-format
 msgid "Configure mail"
 msgstr "Konfiguru poŝtilon"
 
-#: ../control-center:274
+#: ../control-center:273
 #, c-format
 msgid "Configure the Internet Mail services"
 msgstr "Konfiguri la retpoŝtajn servojn"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:286 ../control-center:289
+#: ../control-center:285 ../control-center:288
 #, c-format
 msgid "Online Administration"
 msgstr "Konektita administrado"
 
-#: ../control-center:305
+#: ../control-center:304
 #, c-format
 msgid "Local administration"
 msgstr "Loka administrado"
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "Configure the local machine via web interface"
 msgstr "Konfiguri la lokan maŝinon tra ttt-interfaco"
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr "Ŝajnas ke vi ne instalis webmin. Local config estas elŝaltita"
 
-#: ../control-center:308
+#: ../control-center:307
 #, c-format
 msgid "Remote administration"
 msgstr "Malproksima administrado"
 
-#: ../control-center:309
+#: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
 msgstr "Alklaku ĉi tie se vi deziras konfiguri foran keston tra ttt-interfaco"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:323
+#: ../control-center:322
 #, c-format
 msgid "Hardware"
 msgstr "Aparatoj"
 
-#: ../control-center:326
+#: ../control-center:325
 #, c-format
 msgid "Manage your hardware"
 msgstr "Mastrumi vian aparataron"
 
-#: ../control-center:333
+#: ../control-center:332
 #, c-format
 msgid "Configure graphics"
 msgstr "Konfiguru grafikaĵojn"
 
-#: ../control-center:340
+#: ../control-center:339
 #, c-format
 msgid "Configure mouse and keyboard"
 msgstr "Konfiguri muson kaj klavaron"
 
-#: ../control-center:347
+#: ../control-center:346
 #, c-format
 msgid "Configure printing and scanning"
 msgstr "Konfiguri presadon kaj skanadon"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:365 ../drakxconf:31
+#: ../control-center:364 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
 msgstr "Reto & Interreto"
 
-#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#: ../control-center:367 ../lib/MDV/Control_Center.pm:419
 #, c-format
 msgid "Manage your network devices"
 msgstr "Mastrumu viajn retajn disponaĵojn"
 
-#: ../control-center:381
+#: ../control-center:380
 #, c-format
 msgid "Personalize and Secure your network"
 msgstr "Personigu kaj sekurigu vian reton"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:400
+#: ../control-center:399
 #, c-format
 msgid "System"
 msgstr "Sistemo"
 
-#: ../control-center:403
+#: ../control-center:402
 #, c-format
 msgid "Manage system services"
 msgstr "Mastrumu la sistemservojn"
 
-#: ../control-center:412
+#: ../control-center:411
 #, c-format
 msgid "Localization"
 msgstr "Loka adaptado"
 
-#: ../control-center:419
+#: ../control-center:418
 #, c-format
 msgid "Administration tools"
 msgstr "Administriloj"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:436
+#: ../control-center:435
 #, c-format
 msgid "Network Sharing"
 msgstr "Reta kundivido"
 
-#: ../control-center:439
+#: ../control-center:438
 #, c-format
 msgid "Configure Windows(R) shares"
 msgstr "Konfiguru kundividon de Windows(R)"
 
-#: ../control-center:446
+#: ../control-center:445
 #, c-format
 msgid "Configure NFS shares"
 msgstr "Konfiguri NFS-kundividojn"
 
-#: ../control-center:453
+#: ../control-center:452
 #, c-format
 msgid "Configure WebDAV shares"
 msgstr "Konfiguri kundividon WebDAV"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:463 ../control-center:466
+#: ../control-center:462 ../control-center:465
 #, c-format
 msgid "Local disks"
 msgstr "Lokaj diskoj"
 
-#: ../control-center:490
+#: ../control-center:489
 #, c-format
 msgid "CD-ROM (%s)"
 msgstr "DVD-ROMo (%s)"
 
-#: ../control-center:491
+#: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
 msgstr "Difinu kie via \"%s\" KD-ROM-drajvo estas surmetita"
 
-#: ../control-center:493
+#: ../control-center:492
 #, c-format
 msgid "DVD-ROM (%s)"
 msgstr "DVD-ROMo (%s)"
 
-#: ../control-center:494
+#: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
 msgstr "Difinu kie via \"%s\" DVD-ROM-o estas surmetita"
 
-#: ../control-center:496
+#: ../control-center:495
 #, c-format
 msgid "CD/DVD burner (%s)"
 msgstr "KD/DVD-skribilo (%s)"
 
-#: ../control-center:497
+#: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
 msgstr "Difinu kie via \"%s\" KD/DVD-skribilo estas surmetita"
 
-#: ../control-center:499
+#: ../control-center:498
 #, c-format
 msgid "ZIP drive"
 msgstr "Zip-ingo"
 
-#: ../control-center:500
+#: ../control-center:499
 #, c-format
 msgid "Set where your ZIP drive is mounted"
 msgstr "Difinu kie via ZIP-drajvo estas surmetita"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:512 ../control-center:515
+#: ../control-center:511 ../control-center:514
 #, c-format
 msgid "Security"
 msgstr "Sekureco"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:530
+#: ../control-center:529
 #, c-format
 msgid "Boot"
 msgstr "Startado"
 
-#: ../control-center:533
+#: ../control-center:532
 #, c-format
 msgid "Configure boot steps"
 msgstr "Konfiguru startigajn etapojn"
 
-#: ../control-center:542
+#: ../control-center:541
 #, c-format
 msgid "Boot look'n feel"
 msgstr "Stilo de starto"
 
-#: ../control-center:559
+#: ../control-center:558
 #, c-format
 msgid "Additional wizards"
 msgstr "Aldonaj sorĉiloj"
 
-#: ../control-center:614 ../control-center:615 ../control-center:616
-#: ../control-center:628
+#: ../control-center:613 ../control-center:614 ../control-center:615
+#: ../control-center:630
 #, c-format
 msgid "/_Options"
 msgstr "/_Opcioj"
 
-#: ../control-center:614
+#: ../control-center:613
 #, c-format
 msgid "/Display _Logs"
 msgstr "/Montru _Log-dosierojn"
 
-#: ../control-center:615
+#: ../control-center:614
 #, c-format
 msgid "/_Embedded Mode"
 msgstr "/_Entenata moduso"
 
-#: ../control-center:616
+#: ../control-center:615
 #, c-format
 msgid "/Expert mode in _wizards"
 msgstr "/Spertula moduso en _sorĉiloj"
 
-#: ../control-center:626 ../control-center:627
+#: ../control-center:625 ../control-center:626
 #, c-format
 msgid "/_File"
 msgstr "/_Dosiero"
 
-#: ../control-center:627
+#: ../control-center:626
 #, c-format
 msgid "/_Quit"
 msgstr "/_Forlasi"
 
-#: ../control-center:627
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:629
 #, c-format
 msgid "<control>Q"
 msgstr "<control>Q"
 
-#: ../control-center:627
+#: ../control-center:629
 #, c-format
 msgid "Quit"
 msgstr "Forlasi"
 
-#: ../control-center:648 ../control-center:651 ../control-center:664
+#: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
 msgid "/_Themes"
 msgstr "/_Etosoj"
 
-#: ../control-center:654
+#: ../control-center:656
 #, c-format
 msgid ""
 "This action will restart the control center.\n"
@@ -995,45 +997,45 @@ msgstr ""
 "Tiu ago restartigos la regejon.\n"
 "Ĉia neaplikita ŝanĝo estos perdita."
 
-#: ../control-center:664
+#: ../control-center:666
 #, c-format
 msgid "/_More themes"
 msgstr "/_Pli da etosoj"
 
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669 ../control-center:670 ../control-center:671
-#: ../control-center:674
+#: ../control-center:668 ../control-center:669 ../control-center:670
+#: ../control-center:671 ../control-center:672 ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_Help"
 msgstr "/_Helpo"
 
-#: ../control-center:667 ../control-center:668 ../control-center:669
-#: ../control-center:670
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:672
 #, c-format
 msgid "Help"
 msgstr "Helpo"
 
-#: ../control-center:668
+#: ../control-center:670
 #, c-format
 msgid "/_Release notes"
 msgstr "/_Eldon-notoj"
 
-#: ../control-center:669
+#: ../control-center:671
 #, c-format
 msgid "/What's _New?"
 msgstr ""
 
-#: ../control-center:670
+#: ../control-center:672
 #, c-format
 msgid "/_Errata"
 msgstr "/_Erartabelo"
 
-#: ../control-center:671
+#: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
 msgstr "/_Raporti cimon"
 
-#: ../control-center:674
+#: ../control-center:676
 #, c-format
 msgid "/_About..."
 msgstr "/_Pri..."
@@ -1124,75 +1126,75 @@ msgstr "Akiru kromajn etosojn ĉe www.damz.net"
 msgid "About - %s Control Center"
 msgstr "Pri - %s-Regejo"
 
-#: ../control-center:1420
+#: ../control-center:1419
 #, c-format
 msgid "Authors: "
 msgstr "Aŭtoroj: "
 
-#: ../control-center:1424
+#: ../control-center:1423
 #, c-format
 msgid "(perl version)"
 msgstr "(perl-versio)"
 
-#: ../control-center:1429
+#: ../control-center:1428
 #, c-format
 msgid "Artwork: "
 msgstr "Artaĵo: "
 
-#: ../control-center:1434
+#: ../control-center:1433
 #, c-format
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1456
+#: ../control-center:1455
 #, c-format
 msgid "- %s: %s\n"
 msgstr "- %s: %s\n"
 
-#: ../control-center:1471
+#: ../control-center:1470
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "Wilhelm Luttermann"
 
-#: ../control-center:1473
+#: ../control-center:1472
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "~ @ ~"
 
-#: ../control-center:1475
+#: ../control-center:1474
 #, c-format
 msgid "Translator: "
 msgstr "Tradukinto: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1484
+#: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "Regejo de %s %s (%s)"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1489
+#: ../control-center:1488
 #, fuzzy, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "Kopirajto © %s Mandriva SA"
 
-#: ../control-center:1489
+#: ../control-center:1488
 #, fuzzy, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr "Kopirajto © %s Mandriva SA"
 
-#: ../control-center:1495
+#: ../control-center:1494
 #, c-format
 msgid "Authors"
 msgstr "Aŭtoroj"
 
-#: ../control-center:1496
+#: ../control-center:1495
 #, fuzzy, c-format
 msgid "Mageia Contributors"
 msgstr "Kontribuantoj de Mandriva Linux"
@@ -1383,8 +1385,7 @@ msgstr "Agordi personan fajroŝirmilon por protekti la komputilon kaj la reton"
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
 msgstr ""
-"Mastrumi, aldoni kaj forigi litertiparojn. Importi vindozajn ® "
-"litertiparojn"
+"Mastrumi, aldoni kaj forigi litertiparojn. Importi vindozajn ® litertiparojn"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format

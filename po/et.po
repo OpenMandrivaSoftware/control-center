@@ -8,14 +8,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
-"POT-Creation-Date: 2011-05-03 15:20+0200\n"
+"POT-Creation-Date: 2012-05-30 20:27+0200\n"
 "PO-Revision-Date: 2011-05-09 16:07+0000\n"
 "Last-Translator: Oliver Burger <oliver.bgr@googlemail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Language: et\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../contributors.pl:11
@@ -33,7 +33,9 @@ msgstr "Per Oyvind Karlsen"
 msgid ""
 "massive packages rebuilding and cleaning, games, sparc port, proofreading of "
 "Mandriva tools"
-msgstr "ulatuslik pakettide ümberehitamine ja puhastamine, mängud, portimine SPARCile, Mandriva tööriistade õigekirja kontroll"
+msgstr ""
+"ulatuslik pakettide ümberehitamine ja puhastamine, mängud, portimine "
+"SPARCile, Mandriva tööriistade õigekirja kontroll"
 
 #: ../contributors.pl:13
 #, c-format
@@ -75,7 +77,9 @@ msgstr "Ben Reser"
 msgid ""
 "updated nc with debian patches, fixed some perl packages, dnotify startup "
 "script, urpmc, hddtemp, wipe, etc..."
-msgstr "nc uuendamine debiani paikadega, mõne perli paketi parandamine, dnotify käivitusskript, urpmc, hdtemo, wipe jne..."
+msgstr ""
+"nc uuendamine debiani paikadega, mõne perli paketi parandamine, dnotify "
+"käivitusskript, urpmc, hdtemo, wipe jne..."
 
 #: ../contributors.pl:17 ../contributors.pl:42
 #, c-format
@@ -87,7 +91,9 @@ msgstr "Thomas Backlund"
 msgid ""
 "\"deep and broad\" kernel work (many new patches before integration in "
 "official kernel)"
-msgstr "sügav ja põhjalik töö kerneliga (palju uusi paiku enne ametlikku kernelisse kaasamist)"
+msgstr ""
+"sügav ja põhjalik töö kerneliga (palju uusi paiku enne ametlikku kernelisse "
+"kaasamist)"
 
 #: ../contributors.pl:18
 #, c-format
@@ -120,7 +126,10 @@ msgid ""
 "Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
 "software (grass, mapserver), cursor_themes collection, misc server-side "
 "contributions"
-msgstr "Samba 3.0 (väljalaske-eelne), mis eksisteerib kõrvuti Samba 2.2.x-ga, Samba-2.2.x, GIS tarkvara (grass, mapserver), kursoriteemade kogu, mitmesugused serveritarkvara paketid"
+msgstr ""
+"Samba 3.0 (väljalaske-eelne), mis eksisteerib kõrvuti Samba 2.2.x-ga, "
+"Samba-2.2.x, GIS tarkvara (grass, mapserver), kursoriteemade kogu, "
+"mitmesugused serveritarkvara paketid"
 
 #: ../contributors.pl:21
 #, c-format
@@ -132,7 +141,9 @@ msgstr "Götz Waschk"
 msgid ""
 "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
 "python, rox desktop"
-msgstr "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms ja pluginad, gnome-python, rox töökeskkond"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms ja pluginad, gnome-"
+"python, rox töökeskkond"
 
 #: ../contributors.pl:22
 #, c-format
@@ -144,7 +155,9 @@ msgstr "Austin Acton"
 msgid ""
 "audio/video/MIDI apps, scientific apps, audio/video production howtos, "
 "bluetooth, pyqt & related"
-msgstr "audio/video/MIDI rakendused, teadusrakendused, audio/videotöötluse HOWTO-d, bluetooth, pyqt ja muu selline"
+msgstr ""
+"audio/video/MIDI rakendused, teadusrakendused, audio/videotöötluse HOWTO-d, "
+"bluetooth, pyqt ja muu selline"
 
 #: ../contributors.pl:23
 #, c-format
@@ -216,7 +229,10 @@ msgstr "Tibor Pittich"
 msgid ""
 "sk-i18n, contributed several packages, openldap testing and integration, "
 "bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
-msgstr "sk-i18n meeskonna juht, valmistas hulk tarkvarapakette, openldapi testimine ja integreerimine, bind-sdb-ldap, mitmeaastane tegevus cooker'i edendamisel ja vigade jahtimisel jne..."
+msgstr ""
+"sk-i18n meeskonna juht, valmistas hulk tarkvarapakette, openldapi testimine "
+"ja integreerimine, bind-sdb-ldap, mitmeaastane tegevus cooker'i edendamisel "
+"ja vigade jahtimisel jne..."
 
 #: ../contributors.pl:30
 #, c-format
@@ -258,7 +274,9 @@ msgstr "Brook Humphrey"
 msgid ""
 "testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
 "spamassassin, maildrop, clamav."
-msgstr "testimine ja veateated, Dovecot, Bibletime, sword, abi pure-ftpd, spamassassini, maildropi, clamavi juures"
+msgstr ""
+"testimine ja veateated, Dovecot, Bibletime, sword, abi pure-ftpd, "
+"spamassassini, maildropi, clamavi juures"
 
 #: ../contributors.pl:34
 #, c-format
@@ -271,7 +289,10 @@ msgid ""
 "http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
 "support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
 "drakxtools"
-msgstr "http proxy toetus paigaldussüsteemis, 2.6 kerneli teotus sndconfig'is, samba3 toetus LinNeighborhoodis, urpmi, bootsplashi ja drakxtoolsi parandused ja täiendused"
+msgstr ""
+"http proxy toetus paigaldussüsteemis, 2.6 kerneli teotus sndconfig'is, "
+"samba3 toetus LinNeighborhoodis, urpmi, bootsplashi ja drakxtoolsi "
+"parandused ja täiendused"
 
 #: ../contributors.pl:35
 #, c-format
@@ -517,7 +538,9 @@ msgstr "MD, testimine, veateated"
 msgid ""
 "And many unnamed and unknown beta testers and bug reporters that helped make "
 "sure it all worked right."
-msgstr "Ja arvukad nimetud ning tundmatud beetatestijad ja vigadest teadaandjad, kes aitasid tagada kõige veatu töötamise."
+msgstr ""
+"Ja arvukad nimetud ning tundmatud beetatestijad ja vigadest teadaandjad, kes "
+"aitasid tagada kõige veatu töötamise."
 
 #: ../control-center:90
 #, c-format
@@ -529,13 +552,12 @@ msgstr "Mageia"
 msgid "%s Control Center"
 msgstr "%s juhtimiskeskus"
 
-#: ../control-center:106 ../control-center:1059
+#: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
 msgstr "Oodake palun... Laaditakse moodulit"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:151 ../control-center:155
 #, c-format
 msgid "Software Management"
@@ -552,8 +574,7 @@ msgstr "Muu"
 msgid "Server wizards"
 msgstr "Serverinõustajad"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:179 ../control-center:182
 #, c-format
 msgid "Sharing"
@@ -579,7 +600,9 @@ msgstr "Samba seadistamine"
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
-msgstr "Faili- ja printserveri seadistamine Linuxi ja muu operatsioonisüsteemiga tööjaamadele"
+msgstr ""
+"Faili- ja printserveri seadistamine Linuxi ja muu operatsioonisüsteemiga "
+"tööjaamadele"
 
 #: ../control-center:191
 #, c-format
@@ -589,7 +612,8 @@ msgstr "Samba jagatud ressursside haldamine"
 #: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
-msgstr "Spetsiaalse ressursi haldamine, loomine, avaliku/kasutaja ressursi loomine"
+msgstr ""
+"Spetsiaalse ressursi haldamine, loomine, avaliku/kasutaja ressursi loomine"
 
 #: ../control-center:194
 #, c-format
@@ -611,8 +635,7 @@ msgstr "Paigaldusserveri seadistamine"
 msgid "Set up server for network installations of %s"
 msgstr "%si võrgupaigalduse serveri seadistamine"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:208 ../control-center:211
 #, c-format
 msgid "Network Services"
@@ -664,10 +687,8 @@ msgstr "Välise ajaserveriga sünkroniseeritava ajaserveri seadistamine"
 msgid "OpenSSH daemon configuration"
 msgstr "OpenSSH deemoni seadistamine"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#. -PO: this message is already translated in drakx domain from which MCC will
-#. searchs it:
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
 #: ../control-center:238 ../control-center:241 ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Authentication"
@@ -693,8 +714,7 @@ msgstr "LDAP seadistamine"
 msgid "Configure the LDAP directory services"
 msgstr "LDAP-kataloogiteenuste seadistamine"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:260 ../control-center:263
 #, c-format
 msgid "Groupware"
@@ -730,8 +750,7 @@ msgstr "E-posti seadistamine"
 msgid "Configure the Internet Mail services"
 msgstr "E-posti teenuste seadistamine"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:285 ../control-center:288
 #, c-format
 msgid "Online Administration"
@@ -750,7 +769,8 @@ msgstr "Kohaliku masina seadistamine veebiliidese abil"
 #: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
-msgstr "Paistab, et webmin ei ole paigaldatud. Kohalik seadistamine ei ole võimalik"
+msgstr ""
+"Paistab, et webmin ei ole paigaldatud. Kohalik seadistamine ei ole võimalik"
 
 #: ../control-center:307
 #, c-format
@@ -762,8 +782,7 @@ msgstr "Kaughaldus"
 msgid "Click here if you want to configure a remote box via Web interface"
 msgstr "Võrgumasina seadistamine veebiliideselt"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:322
 #, c-format
 msgid "Hardware"
@@ -789,8 +808,7 @@ msgstr "Hiire ja klaviatuuri seadistamine"
 msgid "Configure printing and scanning"
 msgstr "Trükkimise ja skannimise seadistamine"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:364 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
@@ -806,8 +824,7 @@ msgstr "Võrguseadmete haldamine"
 msgid "Personalize and Secure your network"
 msgstr "Võrgu personaliseerimine ja turvamine"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:399
 #, c-format
 msgid "System"
@@ -828,8 +845,7 @@ msgstr "Lokaliseerimine"
 msgid "Administration tools"
 msgstr "Haldamistööriistad"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:435
 #, c-format
 msgid "Network Sharing"
@@ -850,8 +866,7 @@ msgstr "NFS-ressursside seadistamine"
 msgid "Configure WebDAV shares"
 msgstr "WebDAV-ressursside seadistamine"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:462 ../control-center:465
 #, c-format
 msgid "Local disks"
@@ -897,15 +912,13 @@ msgstr "ZIP-seade"
 msgid "Set where your ZIP drive is mounted"
 msgstr "ZIP-seadme haakepunkti määramine"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:511 ../control-center:514
 #, c-format
 msgid "Security"
 msgstr "Turvalisus"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:529
 #, c-format
 msgid "Boot"
@@ -927,7 +940,7 @@ msgid "Additional wizards"
 msgstr "Muud nõustajad"
 
 #: ../control-center:613 ../control-center:614 ../control-center:615
-#: ../control-center:627
+#: ../control-center:630
 #, c-format
 msgid "/_Options"
 msgstr "/Val_ikud"
@@ -957,22 +970,24 @@ msgstr "/_Fail"
 msgid "/_Quit"
 msgstr "/_Välju"
 
-#: ../control-center:626
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:629
 #, c-format
 msgid "<control>Q"
 msgstr "<control>Q"
 
-#: ../control-center:626
+#: ../control-center:629
 #, c-format
 msgid "Quit"
 msgstr "Välju"
 
-#: ../control-center:647 ../control-center:650 ../control-center:663
+#: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
 msgid "/_Themes"
 msgstr "/_Teemad"
 
-#: ../control-center:653
+#: ../control-center:656
 #, c-format
 msgid ""
 "This action will restart the control center.\n"
@@ -981,65 +996,65 @@ msgstr ""
 "Selle tegevuse tulemusena käivitatakse juhtimiskeskus uuesti.\n"
 "Rakendamata muutused tühistatakse."
 
-#: ../control-center:663
+#: ../control-center:666
 #, c-format
 msgid "/_More themes"
 msgstr "/Veel teemasi_d"
 
-#: ../control-center:665 ../control-center:666 ../control-center:667
 #: ../control-center:668 ../control-center:669 ../control-center:670
-#: ../control-center:673
+#: ../control-center:671 ../control-center:672 ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_Help"
 msgstr "/_Abi"
 
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:672
 #, c-format
 msgid "Help"
 msgstr "Abi"
 
-#: ../control-center:667
+#: ../control-center:670
 #, c-format
 msgid "/_Release notes"
 msgstr "/_Väljalasketeade"
 
-#: ../control-center:668
+#: ../control-center:671
 #, c-format
 msgid "/What's _New?"
 msgstr "/_Mis on uut?"
 
-#: ../control-center:669
+#: ../control-center:672
 #, c-format
 msgid "/_Errata"
 msgstr "/T_eadaolevad vead"
 
-#: ../control-center:670
+#: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
 msgstr "/_Teatamine veast"
 
-#: ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_About..."
 msgstr "/_Info..."
 
-#: ../control-center:731
+#: ../control-center:732
 #, c-format
 msgid "Cancel"
 msgstr "Loobu"
 
-#: ../control-center:751
+#: ../control-center:752
 #, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr "%s juhtimiskeskus %s [masin: %s]"
 
-#: ../control-center:1038 ../control-center:1103
+#: ../control-center:1039 ../control-center:1104
 #, c-format
 msgid "Error"
 msgstr "Viga"
 
-#: ../control-center:1038
+#: ../control-center:1039
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1050,94 +1065,93 @@ msgstr ""
 "\n"
 "Palun andke veast teada."
 
-#: ../control-center:1103
+#: ../control-center:1104
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr "Tundmatu \"%s\" programmi käivitamine pole võimalik"
 
-#: ../control-center:1122
+#: ../control-center:1123
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr "Käesolevas moodulis tehtud muudatused ei ole salvestatud."
 
-#: ../control-center:1209
+#: ../control-center:1210
 #, c-format
 msgid "cannot fork: %s"
 msgstr "ei saa käitada: %s"
 
-#: ../control-center:1232
+#: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
 msgstr "ei saa käitada ja käivitada \"%s\", sest see pole käivitatav fail"
 
-#: ../control-center:1371
+#: ../control-center:1372
 #, c-format
 msgid "This program has exited abnormally"
 msgstr "Rakendus lõpetas töö ebanormaalselt"
 
-#: ../control-center:1380
+#: ../control-center:1381
 #, c-format
 msgid "Warning"
 msgstr "Hoiatus"
 
-#: ../control-center:1390 ../drakconsole:31
+#: ../control-center:1391 ../drakconsole:31
 #, c-format
 msgid "Close"
 msgstr "Sulge"
 
-#: ../control-center:1397
+#: ../control-center:1398
 #, c-format
 msgid "More themes"
 msgstr "Veel teemasid"
 
-#: ../control-center:1399
+#: ../control-center:1400
 #, c-format
 msgid "Getting new themes"
 msgstr "Uute teemade hankimine"
 
-#: ../control-center:1400
+#: ../control-center:1401
 #, c-format
 msgid "Additional themes"
 msgstr "Lisateemad"
 
-#: ../control-center:1402
+#: ../control-center:1403
 #, c-format
 msgid "Get additional themes on www.damz.net"
 msgstr "Hangi lisateemasid saidilt www.damz.net"
 
-#: ../control-center:1410
+#: ../control-center:1411
 #, c-format
 msgid "About - %s Control Center"
 msgstr "Misvärk - %s juhtimiskeskus"
 
-#: ../control-center:1418
+#: ../control-center:1419
 #, c-format
 msgid "Authors: "
 msgstr "Autorid: "
 
-#: ../control-center:1422
+#: ../control-center:1423
 #, c-format
 msgid "(perl version)"
 msgstr "(perli versioon)"
 
-#: ../control-center:1427
+#: ../control-center:1428
 #, c-format
 msgid "Artwork: "
 msgstr "Kujundus: "
 
-#: ../control-center:1432
+#: ../control-center:1433
 #, c-format
 msgid "Helene Durosini"
 msgstr "Hélène Durosini"
 
-#. -PO: this is used as "language: translator" in credits part of the about
-#. dialog:
-#: ../control-center:1454
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
 #, c-format
 msgid "- %s: %s\n"
 msgstr "- %s: %s\n"
 
-#: ../control-center:1469
+#: ../control-center:1470
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
@@ -1146,7 +1160,7 @@ msgstr ""
 "Riho Kurg\n"
 "Marek Laane"
 
-#: ../control-center:1471
+#: ../control-center:1472
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
@@ -1155,36 +1169,35 @@ msgstr ""
 "rx@linux.ee\n"
 "bald@smail.ee"
 
-#: ../control-center:1473
+#: ../control-center:1474
 #, c-format
 msgid "Translator: "
 msgstr "Tõlkijad: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free)
-#. Control Center")
-#: ../control-center:1482
+#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "%s %s (%s) juhtimiskeskus"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1487
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "Autoriõigus (C) %s: Mandriva SA"
 
-#: ../control-center:1487
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr "Autoriõigus (C) %s: Mageia"
 
-#: ../control-center:1493
+#: ../control-center:1494
 #, c-format
 msgid "Authors"
 msgstr "Autorid"
 
-#: ../control-center:1494
+#: ../control-center:1495
 #, c-format
 msgid "Mageia Contributors"
 msgstr "Mageia kaasautorid"
@@ -1374,7 +1387,8 @@ msgstr "Isikliku tulemüüri loomine oma arvuti ja võrgu kaitsmiseks"
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Fontide haldamine, lisamine ja eemaldamine ning Windows® fontide import"
+msgstr ""
+"Fontide haldamine, lisamine ja eemaldamine ning Windows® fontide import"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1491,7 +1505,8 @@ msgstr "Mageia tööriistade autentimise seadistamine"
 msgid ""
 "Define authentication required to access individual Mageia configuration "
 "tools "
-msgstr "Mageia seadistamistööriistade kasutamiseks vajaliku autentimise seadistamine"
+msgstr ""
+"Mageia seadistamistööriistade kasutamiseks vajaliku autentimise seadistamine"
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1503,7 +1518,9 @@ msgstr "Süsteemi uuendamine"
 msgid ""
 "Look at available updates and apply any fixes or upgrades to installed "
 "packages"
-msgstr "Saadaolevate uuenduste vaatamine ja paigaldatud tarkvara paranduste või uuenduste paigaldamine"
+msgstr ""
+"Saadaolevate uuenduste vaatamine ja paigaldatud tarkvara paranduste või "
+"uuenduste paigaldamine"
 
 #: ../lib/MDV/Control_Center.pm:369
 #, c-format

@@ -14,31 +14,36 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
-"POT-Creation-Date: 2011-05-03 15:20+0200\n"
+"POT-Creation-Date: 2012-05-30 20:27+0200\n"
 "PO-Revision-Date: 2011-12-26 10:20+0100\n"
 "Last-Translator: Filip Komar <filip.komar@gmail.com>\n"
-"Language-Team: Slovenian <lugos-slo@lugos.si>, Translation list <mageia-i18n@mageia.org>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>, Translation list <mageia-"
+"i18n@mageia.org>\n"
+"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sl\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3)\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3)\n"
 
 #: ../contributors.pl:11
 #, c-format
 msgid "Packagers"
 msgstr "Pripravljavci paketov"
 
-#: ../contributors.pl:12
-#: ../contributors.pl:40
+#: ../contributors.pl:12 ../contributors.pl:40
 #, c-format
 msgid "Per Oyvind Karlsen"
 msgstr "Per Oyvind Karlsen"
 
 #: ../contributors.pl:12
 #, c-format
-msgid "massive packages rebuilding and cleaning, games, sparc port, proofreading of Mandriva tools"
-msgstr "obsežna prenova in poenostavitev paketov, igre, prenos na platformo sparc, pregled Mandrivinih orodij"
+msgid ""
+"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
+"Mandriva tools"
+msgstr ""
+"obsežna prenova in poenostavitev paketov, igre, prenos na platformo sparc, "
+"pregled Mandrivinih orodij"
 
 #: ../contributors.pl:13
 #, c-format
@@ -58,7 +63,9 @@ msgstr "Olivier Thauvin"
 #: ../contributors.pl:14
 #, c-format
 msgid "figlet introduction, Distriblint (checking rpm in the distro)"
-msgstr "Predstavitev programa figlet, Distriblint (preverjanje rpm-jev v distribuciji)"
+msgstr ""
+"Predstavitev programa figlet, Distriblint (preverjanje rpm-jev v "
+"distribuciji)"
 
 #: ../contributors.pl:15
 #, c-format
@@ -77,19 +84,26 @@ msgstr "Ben Reser"
 
 #: ../contributors.pl:16
 #, c-format
-msgid "updated nc with debian patches, fixed some perl packages, dnotify startup script, urpmc, hddtemp, wipe, etc..."
-msgstr "posodobil nc z Debianovimi popravki, popravil nekatere Perl pakete, zagonski skript dnotify, urpmc, hddtemp, wipe, itd ..."
+msgid ""
+"updated nc with debian patches, fixed some perl packages, dnotify startup "
+"script, urpmc, hddtemp, wipe, etc..."
+msgstr ""
+"posodobil nc z Debianovimi popravki, popravil nekatere Perl pakete, zagonski "
+"skript dnotify, urpmc, hddtemp, wipe, itd ..."
 
-#: ../contributors.pl:17
-#: ../contributors.pl:42
+#: ../contributors.pl:17 ../contributors.pl:42
 #, c-format
 msgid "Thomas Backlund"
 msgstr "Thomas Backlund"
 
 #: ../contributors.pl:17
 #, c-format
-msgid "\"deep and broad\" kernel work (many new patches before integration in official kernel)"
-msgstr "»obsežno in poglobljeno« delo na jedru (veliko novih popravkov pred integracijo v uradno jedro)"
+msgid ""
+"\"deep and broad\" kernel work (many new patches before integration in "
+"official kernel)"
+msgstr ""
+"»obsežno in poglobljeno« delo na jedru (veliko novih popravkov pred "
+"integracijo v uradno jedro)"
 
 #: ../contributors.pl:18
 #, c-format
@@ -118,8 +132,14 @@ msgstr "Buchan Milne"
 
 #: ../contributors.pl:20
 #, c-format
-msgid "Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS software (grass, mapserver), cursor_themes collection, misc server-side contributions"
-msgstr "Samba 3.0 (pred-izdaja), ki je lahko nameščena istočasno s Sambo 2.2.x, Samba-2.2.x, programska oprema GIS (grass, mapserver), zbirka cursor_themes, razni prispevki na strežniški strani"
+msgid ""
+"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
+"software (grass, mapserver), cursor_themes collection, misc server-side "
+"contributions"
+msgstr ""
+"Samba 3.0 (pred-izdaja), ki je lahko nameščena istočasno s Sambo 2.2.x, "
+"Samba-2.2.x, programska oprema GIS (grass, mapserver), zbirka cursor_themes, "
+"razni prispevki na strežniški strani"
 
 #: ../contributors.pl:21
 #, c-format
@@ -128,8 +148,12 @@ msgstr "Goetz Waschk"
 
 #: ../contributors.pl:21
 #, c-format
-msgid "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-python, rox desktop"
-msgstr "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms in vstavki, gnome-python, namizje rox"
+msgid ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"python, rox desktop"
+msgstr ""
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms in vstavki, gnome-"
+"python, namizje rox"
 
 #: ../contributors.pl:22
 #, c-format
@@ -138,8 +162,12 @@ msgstr "Austin Acton"
 
 #: ../contributors.pl:22
 #, c-format
-msgid "audio/video/MIDI apps, scientific apps, audio/video production howtos, bluetooth, pyqt & related"
-msgstr "programi zvok/video/MIDI, znanstveni programi, priročniki (howto) za avdio/video produkcijo, bluetooth, pyqt in sorodno"
+msgid ""
+"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
+"bluetooth, pyqt & related"
+msgstr ""
+"programi zvok/video/MIDI, znanstveni programi, priročniki (howto) za avdio/"
+"video produkcijo, bluetooth, pyqt in sorodno"
 
 #: ../contributors.pl:23
 #, c-format
@@ -201,16 +229,19 @@ msgstr "Andi Payn"
 msgid "many extra gnome applets and python modules"
 msgstr "veliko dodatnih vstavkov gnome in modulov python"
 
-#: ../contributors.pl:29
-#: ../contributors.pl:41
+#: ../contributors.pl:29 ../contributors.pl:41
 #, c-format
 msgid "Tibor Pittich"
 msgstr "Tibor Pittich"
 
 #: ../contributors.pl:29
 #, c-format
-msgid "sk-i18n, contributed several packages, openldap testing and integration, bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
-msgstr "sk-i18n, prispeval več paketov, testiranje in integracija openldap, bind-sdb-ldap, več let uporabe cookerja in iskanja hroščev, itn ..."
+msgid ""
+"sk-i18n, contributed several packages, openldap testing and integration, "
+"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr ""
+"sk-i18n, prispeval več paketov, testiranje in integracija openldap, bind-sdb-"
+"ldap, več let uporabe cookerja in iskanja hroščev, itn ..."
 
 #: ../contributors.pl:30
 #, c-format
@@ -249,8 +280,12 @@ msgstr "Brook Humphrey"
 
 #: ../contributors.pl:33
 #, c-format
-msgid "testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, spamassassin, maildrop, clamav."
-msgstr "testiranje in poročila o hroščih, Dovecot, bibletime, sword, pomoč pri pure-ftpd, spamassassin, maildrop, clamav."
+msgid ""
+"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
+"spamassassin, maildrop, clamav."
+msgstr ""
+"testiranje in poročila o hroščih, Dovecot, bibletime, sword, pomoč pri pure-"
+"ftpd, spamassassin, maildrop, clamav."
 
 #: ../contributors.pl:34
 #, c-format
@@ -259,8 +294,14 @@ msgstr "Olivier Blin"
 
 #: ../contributors.pl:34
 #, c-format
-msgid "http proxy support in installer, kernel 2.6 support in sndconfig, samba3 support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and drakxtools"
-msgstr "podpora za posredniški strežnik v namestitvenem programu, podpora za jedro 2.6 v sndconfig, podpora za samba3 v LinNeighborhood, popravki in razširitve v urpmi, bootsplash in drakxtools"
+msgid ""
+"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
+"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
+"drakxtools"
+msgstr ""
+"podpora za posredniški strežnik v namestitvenem programu, podpora za jedro "
+"2.6 v sndconfig, podpora za samba3 v LinNeighborhood, popravki in razširitve "
+"v urpmi, bootsplash in drakxtools"
 
 #: ../contributors.pl:35
 #, c-format
@@ -362,27 +403,22 @@ msgstr "Estonski prevajalec"
 msgid "Andrea Celli"
 msgstr "Andrea Celli"
 
-#: ../contributors.pl:47
-#: ../contributors.pl:48
-#: ../contributors.pl:49
+#: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
 #, c-format
 msgid "Italian Translator"
 msgstr "Italijanski prevajalec"
 
-#: ../contributors.pl:48
-#: ../contributors.pl:64
+#: ../contributors.pl:48 ../contributors.pl:64
 #, c-format
 msgid "Simone Riccio"
 msgstr "Simone Riccio"
 
-#: ../contributors.pl:49
-#: ../contributors.pl:65
+#: ../contributors.pl:49 ../contributors.pl:65
 #, c-format
 msgid "Daniele Pighin"
 msgstr "Daniele Pighin"
 
-#: ../contributors.pl:50
-#: ../contributors.pl:68
+#: ../contributors.pl:50 ../contributors.pl:68
 #, c-format
 msgid "Vedran Ljubovic"
 msgstr "Vedran Ljubović"
@@ -412,15 +448,9 @@ msgstr "testiranje in poročanje o hroščih, integracija gonilnika eagle-usb"
 msgid "Bernhard Gruen"
 msgstr "Bernhard Gruen"
 
-#: ../contributors.pl:53
-#: ../contributors.pl:54
-#: ../contributors.pl:55
-#: ../contributors.pl:56
-#: ../contributors.pl:57
-#: ../contributors.pl:58
-#: ../contributors.pl:59
-#: ../contributors.pl:60
-#: ../contributors.pl:61
+#: ../contributors.pl:53 ../contributors.pl:54 ../contributors.pl:55
+#: ../contributors.pl:56 ../contributors.pl:57 ../contributors.pl:58
+#: ../contributors.pl:59 ../contributors.pl:60 ../contributors.pl:61
 #: ../contributors.pl:62
 #, c-format
 msgid "testing and bug reporting"
@@ -481,12 +511,8 @@ msgstr "Raphael Gertz"
 msgid "testing, bug report, Nvidia package try"
 msgstr "testiranje, poročila o hroščih, preizkus paketa Nvidia"
 
-#: ../contributors.pl:64
-#: ../contributors.pl:65
-#: ../contributors.pl:66
-#: ../contributors.pl:67
-#: ../contributors.pl:68
-#: ../contributors.pl:69
+#: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
+#: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
 #, c-format
 msgid "testing, bug reporting"
 msgstr "testiranje, poročila o hroščih"
@@ -518,37 +544,35 @@ msgstr "MD, testiranje, poročanje o hroščih"
 
 #: ../contributors.pl:71
 #, c-format
-msgid "And many unnamed and unknown beta testers and bug reporters that helped make sure it all worked right."
-msgstr "In mnogo neimenovanih in neznanih beta preizkuševalcev in poročevalcev o hroščih, ki so pomagali zagotoviti, da vse deluje pravilno."
+msgid ""
+"And many unnamed and unknown beta testers and bug reporters that helped make "
+"sure it all worked right."
+msgstr ""
+"In mnogo neimenovanih in neznanih beta preizkuševalcev in poročevalcev o "
+"hroščih, ki so pomagali zagotoviti, da vse deluje pravilno."
 
 #: ../control-center:90
 #, c-format
 msgid "Mageia"
 msgstr "Mageia"
 
-#: ../control-center:100
-#: ../control-center:105
+#: ../control-center:100 ../control-center:105
 #, c-format
 msgid "%s Control Center"
 msgstr "Nadzorno središče %s"
 
-#: ../control-center:106
-#: ../control-center:1059
+#: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
 msgstr "Nalaganje ... Počakajte"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:151
-#: ../control-center:155
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:151 ../control-center:155
 #, c-format
 msgid "Software Management"
 msgstr "Upravljanje s programi"
 
-#: ../control-center:166
-#: ../control-center:354
-#: ../control-center:389
+#: ../control-center:166 ../control-center:354 ../control-center:389
 #: ../control-center:547
 #, c-format
 msgid "Others"
@@ -559,10 +583,8 @@ msgstr "Ostalo"
 msgid "Server wizards"
 msgstr "Čarovniki za strežnike"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:179
-#: ../control-center:182
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:179 ../control-center:182
 #, c-format
 msgid "Sharing"
 msgstr "Skupna raba datotek"
@@ -584,8 +606,12 @@ msgstr "Nastavite Samba"
 
 #: ../control-center:189
 #, c-format
-msgid "Set up a file and print server for workstations running Linux and non-Linux systems"
-msgstr "Nastavite datotečni in tiskalniški strežnik za delovne postaje z nameščenim Linuxom ali drugimi sistemi"
+msgid ""
+"Set up a file and print server for workstations running Linux and non-Linux "
+"systems"
+msgstr ""
+"Nastavite datotečni in tiskalniški strežnik za delovne postaje z nameščenim "
+"Linuxom ali drugimi sistemi"
 
 #: ../control-center:191
 #, c-format
@@ -595,7 +621,9 @@ msgstr "Upravljajte skupno rabo prek Sambe"
 #: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
-msgstr "Upravljajte, ustvarjajte posebno skupno rabo, ustvarjajte javno/uporabniško skupno rabo"
+msgstr ""
+"Upravljajte, ustvarjajte posebno skupno rabo, ustvarjajte javno/uporabniško "
+"skupno rabo"
 
 #: ../control-center:194
 #, c-format
@@ -617,10 +645,8 @@ msgstr "Nastavite namestitveni strežnik"
 msgid "Set up server for network installations of %s"
 msgstr "Nastavite strežnik za omrežne namestitve %s"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:208
-#: ../control-center:211
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:208 ../control-center:211
 #, c-format
 msgid "Network Services"
 msgstr "Omrežne storitve"
@@ -662,22 +688,19 @@ msgstr "Nastavite čas"
 
 #: ../control-center:224
 #, c-format
-msgid "Set the time of the server to be synchronized with an external time server"
-msgstr "Nastavite čas na strežniku, ki bo usklajen z zunanjim časovnim strežnikom"
+msgid ""
+"Set the time of the server to be synchronized with an external time server"
+msgstr ""
+"Nastavite čas na strežniku, ki bo usklajen z zunanjim časovnim strežnikom"
 
-#: ../control-center:226
-#: ../control-center:227
+#: ../control-center:226 ../control-center:227
 #, c-format
 msgid "OpenSSH daemon configuration"
 msgstr "Nastavitev ozadnjega programa OpenSSH"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#. -PO: this message is already translated in drakx domain from which MCC will
-#. searchs it:
-#: ../control-center:238
-#: ../control-center:241
-#: ../lib/MDV/Control_Center.pm:67
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#. -PO: this message is already translated in drakx domain from which MCC will searchs it:
+#: ../control-center:238 ../control-center:241 ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Authentication"
 msgstr "Overjanje"
@@ -702,10 +725,8 @@ msgstr "Nastavite LDAP"
 msgid "Configure the LDAP directory services"
 msgstr "Nastavite imeniške storitve LDAP"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:260
-#: ../control-center:263
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:260 ../control-center:263
 #, c-format
 msgid "Groupware"
 msgstr "Skupinsko delo"
@@ -740,10 +761,8 @@ msgstr "Nastavite e-pošto"
 msgid "Configure the Internet Mail services"
 msgstr "Nastavite internetne e-poštne storitve"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:285
-#: ../control-center:288
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:285 ../control-center:288
 #, c-format
 msgid "Online Administration"
 msgstr "Spletno upravljanje"
@@ -771,10 +790,11 @@ msgstr "Oddaljeno upravljanje"
 #: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
-msgstr "Kliknite sem, če želite prek spletnega vmesnika nastaviti oddaljeni računalnik"
+msgstr ""
+"Kliknite sem, če želite prek spletnega vmesnika nastaviti oddaljeni "
+"računalnik"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:322
 #, c-format
 msgid "Hardware"
@@ -800,16 +820,13 @@ msgstr "Nastavite miško in tipkovnico"
 msgid "Configure printing and scanning"
 msgstr "Nastavite tiskanje in optično branje"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:364
-#: ../drakxconf:31
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:364 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
 msgstr "Omrežje in internet"
 
-#: ../control-center:367
-#: ../lib/MDV/Control_Center.pm:419
+#: ../control-center:367 ../lib/MDV/Control_Center.pm:419
 #, c-format
 msgid "Manage your network devices"
 msgstr "Upravljajte omrežne naprave"
@@ -819,8 +836,7 @@ msgstr "Upravljajte omrežne naprave"
 msgid "Personalize and Secure your network"
 msgstr "Nastavite in zavarujte omrežje"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:399
 #, c-format
 msgid "System"
@@ -841,8 +857,7 @@ msgstr "Področne nastavitve"
 msgid "Administration tools"
 msgstr "Orodja za upravljanje"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:435
 #, c-format
 msgid "Network Sharing"
@@ -863,10 +878,8 @@ msgstr "Skupna raba prek NFS"
 msgid "Configure WebDAV shares"
 msgstr "Skupna raba prek WebDAV"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:462
-#: ../control-center:465
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:462 ../control-center:465
 #, c-format
 msgid "Local disks"
 msgstr "Krajevni diski"
@@ -911,16 +924,13 @@ msgstr "Pogon ZIP"
 msgid "Set where your ZIP drive is mounted"
 msgstr "Določite priklopno točko pogona ZIP"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
-#: ../control-center:511
-#: ../control-center:514
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
+#: ../control-center:511 ../control-center:514
 #, c-format
 msgid "Security"
 msgstr "Varnost"
 
-#. -PO: please keep the following message very short: it must fit in the left
-#. list of MCC!!!
+#. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:529
 #, c-format
 msgid "Boot"
@@ -941,10 +951,8 @@ msgstr "Videz med zaganjanjem"
 msgid "Additional wizards"
 msgstr "Dodatni čarovniki"
 
-#: ../control-center:613
-#: ../control-center:614
-#: ../control-center:615
-#: ../control-center:627
+#: ../control-center:613 ../control-center:614 ../control-center:615
+#: ../control-center:630
 #, c-format
 msgid "/_Options"
 msgstr "/_Možnosti"
@@ -964,8 +972,7 @@ msgstr "/_Vgrajeni način"
 msgid "/Expert mode in _wizards"
 msgstr "/Napredni način v _čarovnikih"
 
-#: ../control-center:625
-#: ../control-center:626
+#: ../control-center:625 ../control-center:626
 #, c-format
 msgid "/_File"
 msgstr "/_Datoteka"
@@ -975,24 +982,24 @@ msgstr "/_Datoteka"
 msgid "/_Quit"
 msgstr "/_Končaj"
 
-#: ../control-center:626
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:629
 #, c-format
 msgid "<control>Q"
 msgstr "<control>Q"
 
-#: ../control-center:626
+#: ../control-center:629
 #, c-format
 msgid "Quit"
 msgstr "Končaj"
 
-#: ../control-center:647
-#: ../control-center:650
-#: ../control-center:663
+#: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
 msgid "/_Themes"
 msgstr "/_Teme"
 
-#: ../control-center:653
+#: ../control-center:656
 #, c-format
 msgid ""
 "This action will restart the control center.\n"
@@ -1001,72 +1008,65 @@ msgstr ""
 "To dejanje bo ponovno zagnalo nadzorno središče.\n"
 "Vse neuveljavljene spremembe bodo izgubljene."
 
-#: ../control-center:663
+#: ../control-center:666
 #, c-format
 msgid "/_More themes"
 msgstr "/_Več tem"
 
-#: ../control-center:665
-#: ../control-center:666
-#: ../control-center:667
-#: ../control-center:668
-#: ../control-center:669
-#: ../control-center:670
-#: ../control-center:673
+#: ../control-center:668 ../control-center:669 ../control-center:670
+#: ../control-center:671 ../control-center:672 ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_Help"
 msgstr "/_Pomoč"
 
-#: ../control-center:666
-#: ../control-center:667
-#: ../control-center:668
-#: ../control-center:669
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:672
 #, c-format
 msgid "Help"
 msgstr "Pomoč"
 
-#: ../control-center:667
+#: ../control-center:670
 #, c-format
 msgid "/_Release notes"
 msgstr "/_Opombe ob izdaji"
 
-#: ../control-center:668
+#: ../control-center:671
 #, c-format
 msgid "/What's _New?"
 msgstr "/Kaj je _novega?"
 
-#: ../control-center:669
+#: ../control-center:672
 #, c-format
 msgid "/_Errata"
 msgstr "/_Seznam napak"
 
-#: ../control-center:670
+#: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
 msgstr "/_Poročajte o napaki"
 
-#: ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_About..."
 msgstr "/_O ..."
 
-#: ../control-center:731
+#: ../control-center:732
 #, c-format
 msgid "Cancel"
 msgstr "Prekliči"
 
-#: ../control-center:751
+#: ../control-center:752
 #, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr "Nadzorno središče %s %s [na %s]"
 
-#: ../control-center:1038
-#: ../control-center:1103
+#: ../control-center:1039 ../control-center:1104
 #, c-format
 msgid "Error"
 msgstr "Napaka"
 
-#: ../control-center:1038
+#: ../control-center:1039
 #, c-format
 msgid ""
 "There's a bug in translations of your language (%s)\n"
@@ -1077,138 +1077,140 @@ msgstr ""
 "\n"
 "Poročajte o tej napaki."
 
-#: ../control-center:1103
+#: ../control-center:1104
 #, c-format
 msgid "Impossible to run unknown '%s' program"
 msgstr "Ni mogoče zagnati neznanega programa »%s«"
 
-#: ../control-center:1122
+#: ../control-center:1123
 #, c-format
 msgid "The modifications done in the current module won't be saved."
 msgstr "Spremembe v trenutnem modulu ne bodo shranjene."
 
-#: ../control-center:1209
+#: ../control-center:1210
 #, c-format
 msgid "cannot fork: %s"
 msgstr "ni mogoče ustvariti novega procesa: %s"
 
-#: ../control-center:1232
+#: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
 msgstr "ni mogoče ustvariti novega procesa in izvršiti »%s«, saj ni izvršljiv"
 
-#: ../control-center:1371
+#: ../control-center:1372
 #, c-format
 msgid "This program has exited abnormally"
 msgstr "Ta program se ni končal normalno"
 
-#: ../control-center:1380
+#: ../control-center:1381
 #, c-format
 msgid "Warning"
 msgstr "Opozorilo"
 
-#: ../control-center:1390
-#: ../drakconsole:31
+#: ../control-center:1391 ../drakconsole:31
 #, c-format
 msgid "Close"
 msgstr "Zapri"
 
-#: ../control-center:1397
+#: ../control-center:1398
 #, c-format
 msgid "More themes"
 msgstr "Več tem"
 
-#: ../control-center:1399
+#: ../control-center:1400
 #, c-format
 msgid "Getting new themes"
 msgstr "Pridobivanje novih tem"
 
-#: ../control-center:1400
+#: ../control-center:1401
 #, c-format
 msgid "Additional themes"
 msgstr "Dodatne teme"
 
-#: ../control-center:1402
+#: ../control-center:1403
 #, c-format
 msgid "Get additional themes on www.damz.net"
 msgstr "Dodatne teme dobite na www.damz.net"
 
-#: ../control-center:1410
+#: ../control-center:1411
 #, c-format
 msgid "About - %s Control Center"
 msgstr "O Nadzornem središču %s"
 
-#: ../control-center:1418
+#: ../control-center:1419
 #, c-format
 msgid "Authors: "
 msgstr "Avtorji: "
 
-#: ../control-center:1422
+#: ../control-center:1423
 #, c-format
 msgid "(perl version)"
 msgstr "(različica v Perlu)"
 
-#: ../control-center:1427
+#: ../control-center:1428
 #, c-format
 msgid "Artwork: "
 msgstr "Oblikovanje: "
 
-#: ../control-center:1432
+#: ../control-center:1433
 #, c-format
 msgid "Helene Durosini"
 msgstr "Helene Durosini"
 
-#. -PO: this is used as "language: translator" in credits part of the about
-#. dialog:
-#: ../control-center:1454
+#. -PO: this is used as "language: translator" in credits part of the about dialog:
+#: ../control-center:1455
 #, c-format
 msgid "- %s: %s\n"
 msgstr "- %s: %s\n"
 
-#: ../control-center:1469
+#: ../control-center:1470
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
-msgstr "Gregor Pirnaver, Mitja Masten, Andrej Vernekar, Matjaž Kaše, Urška Colner, Jure Repinc, Filip Komar"
+msgstr ""
+"Gregor Pirnaver, Mitja Masten, Andrej Vernekar, Matjaž Kaše, Urška Colner, "
+"Jure Repinc, Filip Komar"
 
-#: ../control-center:1471
+#: ../control-center:1472
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
-msgstr "gregor.piraver@email.si, mitja.masten@email.si, andrej.vernekar@moj.net, matjaz.kase@telemach.net, urska.colner@agenda.si, jlp@holodeck1.com, filip.komar@gmail.com"
+msgstr ""
+"gregor.piraver@email.si, mitja.masten@email.si, andrej.vernekar@moj.net, "
+"matjaz.kase@telemach.net, urska.colner@agenda.si, jlp@holodeck1.com, filip."
+"komar@gmail.com"
 
-#: ../control-center:1473
+#: ../control-center:1474
 #, c-format
 msgid "Translator: "
 msgstr "Prevajalec: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free)
-#. Control Center")
-#: ../control-center:1482
+#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "Nadzorno središče %s %s (%s)"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1487
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "Avtorske pravice (C) %s Mandriva SA"
 
-#: ../control-center:1487
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr "Avtorske pravice (C) %s Mageia"
 
-#: ../control-center:1493
+#: ../control-center:1494
 #, c-format
 msgid "Authors"
 msgstr "Avtorji"
 
-#: ../control-center:1494
+#: ../control-center:1495
 #, c-format
 msgid "Mageia Contributors"
 msgstr "Prispevali so k Mageii"
@@ -1283,15 +1285,15 @@ msgstr "Nadzorno središče"
 msgid "Choose the tool you want to use"
 msgstr "Izberite orodje, ki ga želite uporabiti"
 
-#: ../lib/MDV/Control_Center.pm:55
-#: ../lib/MDV/Control_Center.pm:56
+#: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
 #, c-format
 msgid "Configure 3D Desktop effects"
 msgstr "Nastavite 3D učinke namizja"
 
 #: ../lib/MDV/Control_Center.pm:68
 #, c-format
-msgid "Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgid ""
+"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
 msgstr "Izberite metodo overjanja (krajevna, NIS, LDAP, Windows Domain, ...)"
 
 #: ../lib/MDV/Control_Center.pm:77
@@ -1339,14 +1341,14 @@ msgstr "Nastavite grafično temo za zagon"
 msgid "Select the graphical theme of the system while booting"
 msgstr "Izberite grafično temo, ki bo prikazana med zaganjanjem sistema"
 
-#: ../lib/MDV/Control_Center.pm:128
-#: ../lib/MDV/Control_Center.pm:129
+#: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
 #, c-format
 msgid "Share the Internet connection with other local machines"
-msgstr "Nastavite skupno rabo internetne povezave skupaj z drugimi krajevnimi računalniki"
+msgstr ""
+"Nastavite skupno rabo internetne povezave skupaj z drugimi krajevnimi "
+"računalniki"
 
-#: ../lib/MDV/Control_Center.pm:138
-#: ../lib/MDV/Control_Center.pm:139
+#: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
 #, c-format
 msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
 msgstr "Nastavite nov omrežni vmesnik (LAN, ISDN, ADSL, ...)"
@@ -1361,14 +1363,12 @@ msgstr "Dostop do interneta"
 msgid "Alter miscellaneous internet settings"
 msgstr "Spremenite razne internetne nastavitve"
 
-#: ../lib/MDV/Control_Center.pm:158
-#: ../lib/MDV/Control_Center.pm:159
+#: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
 #, c-format
 msgid "Open a console as administrator"
 msgstr "Odprite konzolo kot skrbnik"
 
-#: ../lib/MDV/Control_Center.pm:169
-#: ../lib/MDV/Control_Center.pm:170
+#: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
 #, c-format
 msgid "Manage date and time"
 msgstr "Nastavite datum in čas"
@@ -1383,8 +1383,7 @@ msgstr "Nastavite upravitelja zaslona"
 msgid "Choose the display manager that enables to select which user to log in"
 msgstr "Izberite upravitelja zaslona, ki omogoča izbiro uporabnika za prijavo"
 
-#: ../lib/MDV/Control_Center.pm:189
-#: ../lib/MDV/Control_Center.pm:190
+#: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
 #, c-format
 msgid "Configure a fax server"
 msgstr "Nastavite strežnik za faks"
@@ -1396,17 +1395,17 @@ msgstr "Nastavite osebni požarni zid"
 
 #: ../lib/MDV/Control_Center.pm:200
 #, c-format
-msgid "Set up a personal firewall in order to protect the computer and the network"
+msgid ""
+"Set up a personal firewall in order to protect the computer and the network"
 msgstr "Nastavite osebni požarni zid za zaščito računalnika in omrežja"
 
-#: ../lib/MDV/Control_Center.pm:209
-#: ../lib/MDV/Control_Center.pm:210
+#: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Upravljajte, dodajte in odstranite pisave. Uvozite pisave iz Windows(TM)"
+msgstr ""
+"Upravljajte, dodajte in odstranite pisave. Uvozite pisave iz Windows(TM)"
 
-#: ../lib/MDV/Control_Center.pm:219
-#: ../lib/MDV/Control_Center.pm:220
+#: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
 msgid "Set up the graphical server"
 msgstr "Nastavite grafični strežnik"
@@ -1421,14 +1420,12 @@ msgstr "Upravljajte z razdelki na disk(-ih)"
 msgid "Create, delete and resize hard disk partitions"
 msgstr "Ustvarite, brišite in spreminjajte velikost razdelkov na trdem disku"
 
-#: ../lib/MDV/Control_Center.pm:239
-#: ../lib/MDV/Control_Center.pm:240
+#: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
 #, c-format
 msgid "Browse and configure hardware"
 msgstr "Preglejte in nastavite strojno opremo"
 
-#: ../lib/MDV/Control_Center.pm:250
-#: ../lib/MDV/Control_Center.pm:251
+#: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
 #, c-format
 msgid "Sound Configuration"
 msgstr "Nastavitve zvoka"
@@ -1461,10 +1458,11 @@ msgstr "Napredne nastavitve za omrežne vmesnike in požarni zid"
 #: ../lib/MDV/Control_Center.pm:282
 #, c-format
 msgid "Set up network interfaces failover and firewall replication"
-msgstr "Nastavite nadomestni način delovanja omrežnih vmesnikov in replikacijo požarnega zidu"
+msgstr ""
+"Nastavite nadomestni način delovanja omrežnih vmesnikov in replikacijo "
+"požarnega zidu"
 
-#: ../lib/MDV/Control_Center.pm:291
-#: ../lib/MDV/Control_Center.pm:292
+#: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
 #, c-format
 msgid "Set up the keyboard layout"
 msgstr "Določite razpored tipk na tipkovnici"
@@ -1489,8 +1487,7 @@ msgstr "Upravljajte prevode in področne nastavitve"
 msgid "Select the language and the country or region of the system"
 msgstr "Izberite sistemski jezik in državo ali regijo"
 
-#: ../lib/MDV/Control_Center.pm:320
-#: ../lib/MDV/Control_Center.pm:321
+#: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
 #, c-format
 msgid "View and search system logs"
 msgstr "Preglejte sistemske dnevnike in iščite po njih"
@@ -1522,8 +1519,12 @@ msgstr "Nastavite overjanje za Mageiina orodja"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
-msgid "Define authentication required to access individual Mageia configuration tools "
-msgstr "Določite overjanje, ki je potrebno za dostop do posamičnih Mageiinih nastavitvenih orodij "
+msgid ""
+"Define authentication required to access individual Mageia configuration "
+"tools "
+msgstr ""
+"Določite overjanje, ki je potrebno za dostop do posamičnih Mageiinih "
+"nastavitvenih orodij "
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1532,8 +1533,12 @@ msgstr "Posodobite svoj sistem"
 
 #: ../lib/MDV/Control_Center.pm:359
 #, c-format
-msgid "Look at available updates and apply any fixes or upgrades to installed packages"
-msgstr "Preglejte razpoložljive posodobitve in namestite vse popravke ali nadgradnje nameščenih paketov"
+msgid ""
+"Look at available updates and apply any fixes or upgrades to installed "
+"packages"
+msgstr ""
+"Preglejte razpoložljive posodobitve in namestite vse popravke ali nadgradnje "
+"nameščenih paketov"
 
 #: ../lib/MDV/Control_Center.pm:369
 #, c-format
@@ -1545,8 +1550,7 @@ msgstr "Slog menija"
 msgid "Menu Style Configuration"
 msgstr "Nastavitev sloga menija"
 
-#: ../lib/MDV/Control_Center.pm:379
-#: ../lib/MDV/Control_Center.pm:380
+#: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
 msgstr "Uvozite dokumente in nastavitve iz Windows(TM)"
@@ -1561,14 +1565,12 @@ msgstr "Nadzorujte povezave"
 msgid "Monitor the network connections"
 msgstr "Nadzorujte omrežne povezave"
 
-#: ../lib/MDV/Control_Center.pm:399
-#: ../lib/MDV/Control_Center.pm:400
+#: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
 #, c-format
 msgid "Set up the pointer device (mouse, touchpad)"
 msgstr "Nastavite kazalno napravo (miška, sledilna ploščica)"
 
-#: ../lib/MDV/Control_Center.pm:408
-#: ../lib/MDV/Control_Center.pm:409
+#: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
 #, c-format
 msgid "Parental Controls"
 msgstr "Starševski nadzor"
@@ -1628,8 +1630,7 @@ msgstr "Dajte v skupno rabo razdelke na trdem disku"
 msgid "Set up sharing of your hard disk partitions"
 msgstr "Nastavite skupno rabo razdelkov diska"
 
-#: ../lib/MDV/Control_Center.pm:479
-#: ../lib/MDV/Control_Center.pm:481
+#: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
 #, c-format
 msgid "Set up the printer(s), the print job queues, ..."
 msgstr "Nastavite tiskalnik(-e), čakalne vrste za tiskanje ..."
@@ -1674,8 +1675,7 @@ msgstr "Odstranite povezavo"
 msgid "Delete a network interface"
 msgstr "Izbrišite omrežni vmesnik"
 
-#: ../lib/MDV/Control_Center.pm:531
-#: ../lib/MDV/Control_Center.pm:532
+#: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
 #, c-format
 msgid "Wireless connection"
 msgstr "Brezžična povezava"
@@ -1683,12 +1683,16 @@ msgstr "Brezžična povezava"
 #: ../lib/MDV/Control_Center.pm:541
 #, c-format
 msgid "Access Windows (SMB) shared drives and directories"
-msgstr "Dostopajte do diskov in map, ki so v skupni rabi prek SMB (računalniki z Windows)"
+msgstr ""
+"Dostopajte do diskov in map, ki so v skupni rabi prek SMB (računalniki z "
+"Windows)"
 
 #: ../lib/MDV/Control_Center.pm:542
 #, c-format
 msgid "Configuration of Windows (Samba) shared drives and directories"
-msgstr "Nastavitev diskov in map, ki so v skupni rabi z uporabniki Windows (prek Sambe)"
+msgstr ""
+"Nastavitev diskov in map, ki so v skupni rabi z uporabniki Windows (prek "
+"Sambe)"
 
 #: ../lib/MDV/Control_Center.pm:551
 #, c-format
@@ -1700,8 +1704,7 @@ msgstr "Dajte v skupno rabo diske in mape prek SMB (za računalnike z Windows)"
 msgid "Manage configuration of Samba"
 msgstr "Upravljate z nastavitvami strežnika Samba"
 
-#: ../lib/MDV/Control_Center.pm:561
-#: ../lib/MDV/Control_Center.pm:562
+#: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
 #, c-format
 msgid "Set up scanner"
 msgstr "Nastavite optični bralnik"
@@ -1714,10 +1717,10 @@ msgstr "Nastavite varovanje sistema, dovoljenja in preverjanja"
 #: ../lib/MDV/Control_Center.pm:572
 #, c-format
 msgid "Set the system security level, periodic security audit and permissions"
-msgstr "Nastavite stopnjo varovanja sistema, dovoljenja in redna preverjanja varnosti"
+msgstr ""
+"Nastavite stopnjo varovanja sistema, dovoljenja in redna preverjanja varnosti"
 
-#: ../lib/MDV/Control_Center.pm:582
-#: ../lib/MDV/Control_Center.pm:583
+#: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
 #, c-format
 msgid "Manage system services by enabling or disabling them"
 msgstr "Upravljajte sistemske storitve"
@@ -1754,8 +1757,7 @@ msgstr "Preglejte in nastavite varnostna pravila TOMOYO Linux"
 
 #. -PO: here power means electrical power
 #. -PO: UPS==Uninterruptible power supply
-#: ../lib/MDV/Control_Center.pm:634
-#: ../lib/MDV/Control_Center.pm:637
+#: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
 #, c-format
 msgid "Set up a UPS for power monitoring"
 msgstr "Nastavite UPS za nadzor porabe energije"
@@ -1780,8 +1782,7 @@ msgstr "Virtualizacija"
 msgid "Virtual machines management"
 msgstr "Upravljanje z navideznimi računalniki"
 
-#: ../lib/MDV/Control_Center.pm:668
-#: ../lib/MDV/Control_Center.pm:669
+#: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
 #, c-format
 msgid "Configure VPN connection to secure network access"
 msgstr "Nastavite povezavo VPN za zavarovanje dostopa do omrežja"
@@ -1796,8 +1797,7 @@ msgstr "Dostopajte do diskov in map, ki so v skupni rabi prek WebDAV"
 msgid "Set WebDAV mount points"
 msgstr "Določite priklopne točke za WebDAV"
 
-#: ../menus_launcher.pl:19
-#: ../menus_launcher.pl:41
+#: ../menus_launcher.pl:19 ../menus_launcher.pl:41
 #, c-format
 msgid "Menu Configuration Center"
 msgstr "Središče za nastavljanje menija"
@@ -1807,9 +1807,7 @@ msgstr "Središče za nastavljanje menija"
 msgid "System menu"
 msgstr "Sistemski meni"
 
-#: ../menus_launcher.pl:29
-#: ../menus_launcher.pl:36
-#: ../print_launcher.pl:31
+#: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
 #, c-format
 msgid "Configure..."
 msgstr "Nastavitve ..."
@@ -1830,8 +1828,7 @@ msgstr ""
 "\n"
 "Izberite meni, ki ga želite nastavljati"
 
-#: ../print_launcher.pl:14
-#: ../print_launcher.pl:21
+#: ../print_launcher.pl:14 ../print_launcher.pl:21
 #, c-format
 msgid "Printing configuration"
 msgstr "Nastavitve tiskanja"
@@ -1969,4 +1966,3 @@ msgstr "Ločljivost zaslona"
 #: ../drakconf.desktop.in.h:1
 msgid "Mageia Control Center"
 msgstr "Nadzorno središče Mageia"
-

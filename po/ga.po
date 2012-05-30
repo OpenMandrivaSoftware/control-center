@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drakconf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-02-22 23:38+0200\n"
+"POT-Creation-Date: 2012-05-30 20:27+0200\n"
 "PO-Revision-Date: 2004-03-30 20:06+0100\n"
 "Last-Translator: Séamus Ó Ciardhuáin <seoc at iolfree.ie>\n"
 "Language-Team: Irish <ga@li.org>\n"
@@ -565,425 +565,427 @@ msgstr "Ag luchtú, fan tamall le do thoil..."
 msgid "Software Management"
 msgstr "Bainistíocht Bhogearraí"
 
-#: ../control-center:167 ../control-center:355 ../control-center:390
-#: ../control-center:548
+#: ../control-center:166 ../control-center:354 ../control-center:389
+#: ../control-center:547
 #, fuzzy, c-format
 msgid "Others"
 msgstr "Tástálaithe"
 
-#: ../control-center:177
+#: ../control-center:176
 #, c-format
 msgid "Server wizards"
 msgstr "Draíodóirí freastalaithe"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:180 ../control-center:183
+#: ../control-center:179 ../control-center:182
 #, c-format
 msgid "Sharing"
 msgstr "Comhroinnt"
 
-#: ../control-center:186
+#: ../control-center:185
 #, c-format
 msgid "Configure FTP"
 msgstr "Cumraigh FTP"
 
-#: ../control-center:187
+#: ../control-center:186
 #, c-format
 msgid "Set up an FTP server"
 msgstr ""
 
-#: ../control-center:189
+#: ../control-center:188
 #, c-format
 msgid "Configure Samba"
 msgstr "Cumraigh Samba"
 
-#: ../control-center:190
+#: ../control-center:189
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
 msgstr ""
 
-#: ../control-center:192
+#: ../control-center:191
 #, fuzzy, c-format
 msgid "Manage Samba share"
 msgstr "Freastalaí Samba"
 
-#: ../control-center:193
+#: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
 msgstr ""
 
-#: ../control-center:195
+#: ../control-center:194
 #, fuzzy, c-format
 msgid "Configure web server"
 msgstr "Cumraigh Líon na Cruinne Móire"
 
-#: ../control-center:196
+#: ../control-center:195
 #, fuzzy, c-format
 msgid "Set up a web server"
 msgstr "Cumraigh Líon na Cruinne Móire"
 
-#: ../control-center:198
+#: ../control-center:197
 #, c-format
 msgid "Configure installation server"
 msgstr "Cumraigh freastalaí suiteála"
 
-#: ../control-center:199
+#: ../control-center:198
 #, c-format
 msgid "Set up server for network installations of %s"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:209 ../control-center:212
+#: ../control-center:208 ../control-center:211
 #, fuzzy, c-format
 msgid "Network Services"
 msgstr "Comhéadain Ghréasáin"
 
-#: ../control-center:215
+#: ../control-center:214
 #, c-format
 msgid "Configure DHCP"
 msgstr "Cumraigh DHCP"
 
-#: ../control-center:216
+#: ../control-center:215
 #, c-format
 msgid "Set up a DHCP server"
 msgstr ""
 
-#: ../control-center:218
+#: ../control-center:217
 #, c-format
 msgid "Configure DNS"
 msgstr "Cumraigh DNS"
 
-#: ../control-center:219
+#: ../control-center:218
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
 msgstr ""
 
-#: ../control-center:221
+#: ../control-center:220
 #, c-format
 msgid "Configure proxy"
 msgstr "Cumraigh ionadaí"
 
-#: ../control-center:222
+#: ../control-center:221
 #, fuzzy, c-format
 msgid "Configure a web caching proxy server"
 msgstr "Cumraigh Líon na Cruinne Móire"
 
-#: ../control-center:224
+#: ../control-center:223
 #, c-format
 msgid "Configure time"
 msgstr "Cumraigh am"
 
-#: ../control-center:225
+#: ../control-center:224
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
 msgstr ""
 
-#: ../control-center:227 ../control-center:228
+#: ../control-center:226 ../control-center:227
 #, fuzzy, c-format
 msgid "OpenSSH daemon configuration"
 msgstr "Cumraíocht priontála"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #. -PO: this message is already translated in drakx domain from which MCC will searchs it:
-#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#: ../control-center:238 ../control-center:241 ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Authentication"
 msgstr "Deimniú"
 
-#: ../control-center:246
+#: ../control-center:245
 #, c-format
 msgid "Configure NIS and Autofs"
 msgstr "Cumraigh NIS agus Autofs"
 
-#: ../control-center:247
+#: ../control-center:246
 #, fuzzy, c-format
 msgid "Configure the NIS and Autofs services"
 msgstr "Cumraigh NIS agus Autofs"
 
-#: ../control-center:249
+#: ../control-center:248
 #, fuzzy, c-format
 msgid "Configure LDAP"
 msgstr "Cumraigh DHCP"
 
-#: ../control-center:250
+#: ../control-center:249
 #, c-format
 msgid "Configure the LDAP directory services"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:261 ../control-center:264
+#: ../control-center:260 ../control-center:263
 #, c-format
 msgid "Groupware"
 msgstr "Grúpearraí"
 
-#: ../control-center:267
+#: ../control-center:266
 #, c-format
 msgid "Configure news"
 msgstr "Cumraigh nuacht"
 
-#: ../control-center:268
+#: ../control-center:267
 #, fuzzy, c-format
 msgid "Configure a newsgroup server"
 msgstr "Cumraigh Líon na Cruinne Móire"
 
-#: ../control-center:270
+#: ../control-center:269
 #, c-format
 msgid "Configure groupware"
 msgstr "Cumraigh grúpa-earraí"
 
-#: ../control-center:271
+#: ../control-center:270
 #, fuzzy, c-format
 msgid "Configure a groupware server"
 msgstr "Cumraigh grúpa-earraí"
 
-#: ../control-center:273
+#: ../control-center:272
 #, c-format
 msgid "Configure mail"
 msgstr "Cumraigh ríomhphost"
 
-#: ../control-center:274
+#: ../control-center:273
 #, fuzzy, c-format
 msgid "Configure the Internet Mail services"
 msgstr "Cumraigh freastalaí suiteála"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:286 ../control-center:289
+#: ../control-center:285 ../control-center:288
 #, c-format
 msgid "Online Administration"
 msgstr "Riarachán Ar Líne"
 
-#: ../control-center:305
+#: ../control-center:304
 #, c-format
 msgid "Local administration"
 msgstr "Riarachán logánta"
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "Configure the local machine via web interface"
 msgstr ""
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr ""
 
-#: ../control-center:308
+#: ../control-center:307
 #, c-format
 msgid "Remote administration"
 msgstr "Cianriarachán"
 
-#: ../control-center:309
+#: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:323
+#: ../control-center:322
 #, c-format
 msgid "Hardware"
 msgstr "Crua-earraí"
 
-#: ../control-center:326
+#: ../control-center:325
 #, fuzzy, c-format
 msgid "Manage your hardware"
 msgstr "Freastalaí Samba"
 
-#: ../control-center:333
+#: ../control-center:332
 #, fuzzy, c-format
 msgid "Configure graphics"
 msgstr "Cumraigh ríomhphost"
 
-#: ../control-center:340
+#: ../control-center:339
 #, fuzzy, c-format
 msgid "Configure mouse and keyboard"
 msgstr "Cumraigh ríomhphost"
 
-#: ../control-center:347
+#: ../control-center:346
 #, c-format
 msgid "Configure printing and scanning"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:365 ../drakxconf:31
+#: ../control-center:364 ../drakxconf:31
 #, c-format
 msgid "Network & Internet"
 msgstr "Gréasán agus Idirlíon"
 
-#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#: ../control-center:367 ../lib/MDV/Control_Center.pm:419
 #, fuzzy, c-format
 msgid "Manage your network devices"
 msgstr "Comhéadain Ghréasáin"
 
-#: ../control-center:381
+#: ../control-center:380
 #, c-format
 msgid "Personalize and Secure your network"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:400
+#: ../control-center:399
 #, c-format
 msgid "System"
 msgstr "Córas"
 
-#: ../control-center:403
+#: ../control-center:402
 #, fuzzy, c-format
 msgid "Manage system services"
 msgstr "Freastalaí Samba"
 
-#: ../control-center:412
+#: ../control-center:411
 #, fuzzy, c-format
 msgid "Localization"
 msgstr "Riarachán logánta"
 
-#: ../control-center:419
+#: ../control-center:418
 #, fuzzy, c-format
 msgid "Administration tools"
 msgstr "Riarachán Ar Líne"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:436
+#: ../control-center:435
 #, fuzzy, c-format
 msgid "Network Sharing"
 msgstr "Comhéadain Ghréasáin"
 
-#: ../control-center:439
+#: ../control-center:438
 #, fuzzy, c-format
 msgid "Configure Windows(R) shares"
 msgstr "Cumraigh grúpa-earraí"
 
-#: ../control-center:446
+#: ../control-center:445
 #, fuzzy, c-format
 msgid "Configure NFS shares"
 msgstr "Cumraigh DNS"
 
-#: ../control-center:453
+#: ../control-center:452
 #, fuzzy, c-format
 msgid "Configure WebDAV shares"
 msgstr "Cumraigh Líon na Cruinne Móire"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:463 ../control-center:466
+#: ../control-center:462 ../control-center:465
 #, fuzzy, c-format
 msgid "Local disks"
 msgstr "Roinnt na ndioscaí logánta"
 
-#: ../control-center:490
+#: ../control-center:489
 #, fuzzy, c-format
 msgid "CD-ROM (%s)"
 msgstr "DVD-ROM"
 
-#: ../control-center:491
+#: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
 msgstr ""
 
-#: ../control-center:493
+#: ../control-center:492
 #, fuzzy, c-format
 msgid "DVD-ROM (%s)"
 msgstr "DVD-ROM"
 
-#: ../control-center:494
+#: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
 msgstr ""
 
-#: ../control-center:496
+#: ../control-center:495
 #, fuzzy, c-format
 msgid "CD/DVD burner (%s)"
 msgstr "Scríobhneoir CD/DVD"
 
-#: ../control-center:497
+#: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
 msgstr ""
 
-#: ../control-center:499
+#: ../control-center:498
 #, c-format
 msgid "ZIP drive"
 msgstr "Tiomántán ZIP"
 
-#: ../control-center:500
+#: ../control-center:499
 #, c-format
 msgid "Set where your ZIP drive is mounted"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:512 ../control-center:515
+#: ../control-center:511 ../control-center:514
 #, c-format
 msgid "Security"
 msgstr "Slándáil"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:530
+#: ../control-center:529
 #, c-format
 msgid "Boot"
 msgstr "Tosú"
 
-#: ../control-center:533
+#: ../control-center:532
 #, fuzzy, c-format
 msgid "Configure boot steps"
 msgstr "Cumraigh am"
 
-#: ../control-center:542
+#: ../control-center:541
 #, c-format
 msgid "Boot look'n feel"
 msgstr ""
 
-#: ../control-center:559
+#: ../control-center:558
 #, fuzzy, c-format
 msgid "Additional wizards"
 msgstr "Téamaí breise"
 
-#: ../control-center:614 ../control-center:615 ../control-center:616
-#: ../control-center:628
+#: ../control-center:613 ../control-center:614 ../control-center:615
+#: ../control-center:630
 #, c-format
 msgid "/_Options"
 msgstr "/_Roghanna"
 
-#: ../control-center:614
+#: ../control-center:613
 #, c-format
 msgid "/Display _Logs"
 msgstr "/Taispeáin _Iarchomhaid"
 
-#: ../control-center:615
+#: ../control-center:614
 #, c-format
 msgid "/_Embedded Mode"
 msgstr "/_Mód Inleabaithe"
 
-#: ../control-center:616
+#: ../control-center:615
 #, c-format
 msgid "/Expert mode in _wizards"
 msgstr "/Mód an saineolaithe i n_draíodóirí"
 
-#: ../control-center:626 ../control-center:627
+#: ../control-center:625 ../control-center:626
 #, c-format
 msgid "/_File"
 msgstr "/_Comhad"
 
-#: ../control-center:627
+#: ../control-center:626
 #, c-format
 msgid "/_Quit"
 msgstr "/_Fág"
 
-#: ../control-center:627
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:629
 #, c-format
 msgid "<control>Q"
 msgstr "<control>F"
 
-#: ../control-center:627
+#: ../control-center:629
 #, c-format
 msgid "Quit"
 msgstr "Fág"
 
-#: ../control-center:648 ../control-center:651 ../control-center:664
+#: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
 msgid "/_Themes"
 msgstr "/_Téamaí"
 
-#: ../control-center:654
+#: ../control-center:656
 #, c-format
 msgid ""
 "This action will restart the control center.\n"
@@ -992,45 +994,45 @@ msgstr ""
 "Atosóidh an gníomh seo an ionad rialaithe.\n"
 "Caillfear athraithe nár cuireadh i bhfeidhm."
 
-#: ../control-center:664
+#: ../control-center:666
 #, c-format
 msgid "/_More themes"
 msgstr "/_Tuilleadh Téamaí"
 
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669 ../control-center:670 ../control-center:671
-#: ../control-center:674
+#: ../control-center:668 ../control-center:669 ../control-center:670
+#: ../control-center:671 ../control-center:672 ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_Help"
 msgstr "/_Cabhair"
 
-#: ../control-center:667 ../control-center:668 ../control-center:669
-#: ../control-center:670
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:672
 #, c-format
 msgid "Help"
 msgstr "Cabhair"
 
-#: ../control-center:668
+#: ../control-center:670
 #, fuzzy, c-format
 msgid "/_Release notes"
 msgstr "/_Bain"
 
-#: ../control-center:669
+#: ../control-center:671
 #, c-format
 msgid "/What's _New?"
 msgstr ""
 
-#: ../control-center:670
+#: ../control-center:672
 #, c-format
 msgid "/_Errata"
 msgstr ""
 
-#: ../control-center:671
+#: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
 msgstr "/_Seol tuairisc faoi fabht"
 
-#: ../control-center:674
+#: ../control-center:676
 #, c-format
 msgid "/_About..."
 msgstr "/_Eolas..."
@@ -1118,75 +1120,75 @@ msgstr "Faigh téamaí breise ó www.damz.net"
 msgid "About - %s Control Center"
 msgstr "Eolas Faoi Ionad Rialaithe %s"
 
-#: ../control-center:1420
+#: ../control-center:1419
 #, c-format
 msgid "Authors: "
 msgstr "Údáir: "
 
-#: ../control-center:1424
+#: ../control-center:1423
 #, c-format
 msgid "(perl version)"
 msgstr "(leagan perl)"
 
-#: ../control-center:1429
+#: ../control-center:1428
 #, c-format
 msgid "Artwork: "
 msgstr "Maisiúchán: "
 
-#: ../control-center:1434
+#: ../control-center:1433
 #, c-format
 msgid "Helene Durosini"
 msgstr "Hélène Durosini"
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1456
+#: ../control-center:1455
 #, c-format
 msgid "- %s: %s\n"
 msgstr ""
 
-#: ../control-center:1471
+#: ../control-center:1470
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "Séamus Ó Ciardhuáin"
 
-#: ../control-center:1473
+#: ../control-center:1472
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "~ @ ~"
 
-#: ../control-center:1475
+#: ../control-center:1474
 #, c-format
 msgid "Translator: "
 msgstr "Aistritheoir: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1484
+#: ../control-center:1483
 #, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "Ionad Rialaithe %s"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1489
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr "Cóipcheart © %s Mandriva SA"
 
-#: ../control-center:1489
+#: ../control-center:1488
 #, fuzzy, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr "Cóipcheart © %s Mandriva SA"
 
-#: ../control-center:1495
+#: ../control-center:1494
 #, c-format
 msgid "Authors"
 msgstr "Údáir"
 
-#: ../control-center:1496
+#: ../control-center:1495
 #, fuzzy, c-format
 msgid "Mageia Contributors"
 msgstr "Cuiditheorí le Mandriva Linux"

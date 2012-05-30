@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drakconf 0.96\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-02-22 23:38+0200\n"
+"POT-Creation-Date: 2012-05-30 20:27+0200\n"
 "PO-Revision-Date: 2000-08-19 08:45+0200\n"
 "Last-Translator: Alexander Bokovoy <ab@avilink.net>\n"
 "Language-Team: be <be@li.org>\n"
@@ -533,470 +533,472 @@ msgstr ""
 msgid "Software Management"
 msgstr "Мэнэджэр сэрвісаў"
 
-#: ../control-center:167 ../control-center:355 ../control-center:390
-#: ../control-center:548
+#: ../control-center:166 ../control-center:354 ../control-center:389
+#: ../control-center:547
 #, fuzzy, c-format
 msgid "Others"
 msgstr "Аўтары"
 
-#: ../control-center:177
+#: ../control-center:176
 #, c-format
 msgid "Server wizards"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:180 ../control-center:183
+#: ../control-center:179 ../control-center:182
 #, fuzzy, c-format
 msgid "Sharing"
 msgstr "Увага!"
 
-#: ../control-center:186
+#: ../control-center:185
 #, fuzzy, c-format
 msgid "Configure FTP"
 msgstr "Настройка IDE"
 
-#: ../control-center:187
+#: ../control-center:186
 #, c-format
 msgid "Set up an FTP server"
 msgstr ""
 
-#: ../control-center:189
+#: ../control-center:188
 #, fuzzy, c-format
 msgid "Configure Samba"
 msgstr "Настройка IDE"
 
-#: ../control-center:190
+#: ../control-center:189
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
 msgstr ""
 
-#: ../control-center:192
+#: ../control-center:191
 #, c-format
 msgid "Manage Samba share"
 msgstr ""
 
-#: ../control-center:193
+#: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
 msgstr ""
 
-#: ../control-center:195
+#: ../control-center:194
 #, fuzzy, c-format
 msgid "Configure web server"
 msgstr "Настройка IDE"
 
-#: ../control-center:196
+#: ../control-center:195
 #, fuzzy, c-format
 msgid "Set up a web server"
 msgstr "Настройка IDE"
 
-#: ../control-center:198
+#: ../control-center:197
 #, fuzzy, c-format
 msgid "Configure installation server"
 msgstr "Настройка IDE"
 
-#: ../control-center:199
+#: ../control-center:198
 #, c-format
 msgid "Set up server for network installations of %s"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:209 ../control-center:212
+#: ../control-center:208 ../control-center:211
 #, fuzzy, c-format
 msgid "Network Services"
 msgstr "Сеткавыя інтэрфэйсы"
 
-#: ../control-center:215
+#: ../control-center:214
 #, fuzzy, c-format
 msgid "Configure DHCP"
 msgstr "Настройка IDE"
 
-#: ../control-center:216
+#: ../control-center:215
 #, c-format
 msgid "Set up a DHCP server"
 msgstr ""
 
-#: ../control-center:218
+#: ../control-center:217
 #, fuzzy, c-format
 msgid "Configure DNS"
 msgstr "Настройка IDE"
 
-#: ../control-center:219
+#: ../control-center:218
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
 msgstr ""
 
-#: ../control-center:221
+#: ../control-center:220
 #, fuzzy, c-format
 msgid "Configure proxy"
 msgstr "Настройка IDE"
 
-#: ../control-center:222
+#: ../control-center:221
 #, fuzzy, c-format
 msgid "Configure a web caching proxy server"
 msgstr "Настройка IDE"
 
-#: ../control-center:224
+#: ../control-center:223
 #, fuzzy, c-format
 msgid "Configure time"
 msgstr "Настройка IDE"
 
-#: ../control-center:225
+#: ../control-center:224
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
 msgstr ""
 
-#: ../control-center:227 ../control-center:228
+#: ../control-center:226 ../control-center:227
 #, c-format
 msgid "OpenSSH daemon configuration"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #. -PO: this message is already translated in drakx domain from which MCC will searchs it:
-#: ../control-center:239 ../control-center:242 ../lib/MDV/Control_Center.pm:67
+#: ../control-center:238 ../control-center:241 ../lib/MDV/Control_Center.pm:67
 #, c-format
 msgid "Authentication"
 msgstr "Аўтэнтыфікацыя"
 
-#: ../control-center:246
+#: ../control-center:245
 #, fuzzy, c-format
 msgid "Configure NIS and Autofs"
 msgstr "Настройка IDE"
 
-#: ../control-center:247
+#: ../control-center:246
 #, fuzzy, c-format
 msgid "Configure the NIS and Autofs services"
 msgstr "Настройка IDE"
 
-#: ../control-center:249
+#: ../control-center:248
 #, fuzzy, c-format
 msgid "Configure LDAP"
 msgstr "Настройка IDE"
 
-#: ../control-center:250
+#: ../control-center:249
 #, c-format
 msgid "Configure the LDAP directory services"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:261 ../control-center:264
+#: ../control-center:260 ../control-center:263
 #, fuzzy, c-format
 msgid "Groupware"
 msgstr "Групы"
 
-#: ../control-center:267
+#: ../control-center:266
 #, fuzzy, c-format
 msgid "Configure news"
 msgstr "Настройка IDE"
 
-#: ../control-center:268
+#: ../control-center:267
 #, fuzzy, c-format
 msgid "Configure a newsgroup server"
 msgstr "Настройка IDE"
 
-#: ../control-center:270
+#: ../control-center:269
 #, fuzzy, c-format
 msgid "Configure groupware"
 msgstr "Настройка IDE"
 
-#: ../control-center:271
+#: ../control-center:270
 #, fuzzy, c-format
 msgid "Configure a groupware server"
 msgstr "Настройка IDE"
 
-#: ../control-center:273
+#: ../control-center:272
 #, fuzzy, c-format
 msgid "Configure mail"
 msgstr "Настройка IDE"
 
-#: ../control-center:274
+#: ../control-center:273
 #, fuzzy, c-format
 msgid "Configure the Internet Mail services"
 msgstr "Настройка IDE"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:286 ../control-center:289
+#: ../control-center:285 ../control-center:288
 #, c-format
 msgid "Online Administration"
 msgstr ""
 
-#: ../control-center:305
+#: ../control-center:304
 #, c-format
 msgid "Local administration"
 msgstr ""
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "Configure the local machine via web interface"
 msgstr ""
 
-#: ../control-center:306
+#: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
 msgstr ""
 
-#: ../control-center:308
+#: ../control-center:307
 #, c-format
 msgid "Remote administration"
 msgstr ""
 
-#: ../control-center:309
+#: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:323
+#: ../control-center:322
 #, c-format
 msgid "Hardware"
 msgstr "Абсталяваньне"
 
-#: ../control-center:326
+#: ../control-center:325
 #, c-format
 msgid "Manage your hardware"
 msgstr ""
 
-#: ../control-center:333
+#: ../control-center:332
 #, fuzzy, c-format
 msgid "Configure graphics"
 msgstr "Настройка IDE"
 
-#: ../control-center:340
+#: ../control-center:339
 #, fuzzy, c-format
 msgid "Configure mouse and keyboard"
 msgstr "Настройка IDE"
 
-#: ../control-center:347
+#: ../control-center:346
 #, c-format
 msgid "Configure printing and scanning"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:365 ../drakxconf:31
+#: ../control-center:364 ../drakxconf:31
 #, fuzzy, c-format
 msgid "Network & Internet"
 msgstr "Сеткавы інтэрфейс"
 
-#: ../control-center:368 ../lib/MDV/Control_Center.pm:419
+#: ../control-center:367 ../lib/MDV/Control_Center.pm:419
 #, fuzzy, c-format
 msgid "Manage your network devices"
 msgstr "Сеткавыя інтэрфэйсы"
 
-#: ../control-center:381
+#: ../control-center:380
 #, c-format
 msgid "Personalize and Secure your network"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:400
+#: ../control-center:399
 #, c-format
 msgid "System"
 msgstr "Сістэма"
 
-#: ../control-center:403
+#: ../control-center:402
 #, c-format
 msgid "Manage system services"
 msgstr ""
 
-#: ../control-center:412
+#: ../control-center:411
 #, c-format
 msgid "Localization"
 msgstr ""
 
-#: ../control-center:419
+#: ../control-center:418
 #, c-format
 msgid "Administration tools"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:436
+#: ../control-center:435
 #, fuzzy, c-format
 msgid "Network Sharing"
 msgstr "Сеткавыя інтэрфэйсы"
 
-#: ../control-center:439
+#: ../control-center:438
 #, fuzzy, c-format
 msgid "Configure Windows(R) shares"
 msgstr "Настройка IDE"
 
-#: ../control-center:446
+#: ../control-center:445
 #, fuzzy, c-format
 msgid "Configure NFS shares"
 msgstr "Настройка IDE"
 
-#: ../control-center:453
+#: ../control-center:452
 #, fuzzy, c-format
 msgid "Configure WebDAV shares"
 msgstr "Настройка IDE"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:463 ../control-center:466
+#: ../control-center:462 ../control-center:465
 #, c-format
 msgid "Local disks"
 msgstr ""
 
-#: ../control-center:490
+#: ../control-center:489
 #, fuzzy, c-format
 msgid "CD-ROM (%s)"
 msgstr "CD-ROM"
 
-#: ../control-center:491
+#: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
 msgstr ""
 
-#: ../control-center:493
+#: ../control-center:492
 #, c-format
 msgid "DVD-ROM (%s)"
 msgstr ""
 
-#: ../control-center:494
+#: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
 msgstr ""
 
-#: ../control-center:496
+#: ../control-center:495
 #, c-format
 msgid "CD/DVD burner (%s)"
 msgstr ""
 
-#: ../control-center:497
+#: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
 msgstr ""
 
-#: ../control-center:499
+#: ../control-center:498
 #, c-format
 msgid "ZIP drive"
 msgstr ""
 
-#: ../control-center:500
+#: ../control-center:499
 #, c-format
 msgid "Set where your ZIP drive is mounted"
 msgstr ""
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:512 ../control-center:515
+#: ../control-center:511 ../control-center:514
 #, c-format
 msgid "Security"
 msgstr "Бясьпека"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
-#: ../control-center:530
+#: ../control-center:529
 #, fuzzy, c-format
 msgid "Boot"
 msgstr "Манітор"
 
-#: ../control-center:533
+#: ../control-center:532
 #, fuzzy, c-format
 msgid "Configure boot steps"
 msgstr "Настройка IDE"
 
-#: ../control-center:542
+#: ../control-center:541
 #, c-format
 msgid "Boot look'n feel"
 msgstr ""
 
-#: ../control-center:559
+#: ../control-center:558
 #, c-format
 msgid "Additional wizards"
 msgstr ""
 
-#: ../control-center:614 ../control-center:615 ../control-center:616
-#: ../control-center:628
+#: ../control-center:613 ../control-center:614 ../control-center:615
+#: ../control-center:630
 #, c-format
 msgid "/_Options"
 msgstr "/_Налады"
 
-#: ../control-center:614
+#: ../control-center:613
 #, c-format
 msgid "/Display _Logs"
 msgstr ""
 
-#: ../control-center:615
+#: ../control-center:614
 #, c-format
 msgid "/_Embedded Mode"
 msgstr ""
 
-#: ../control-center:616
+#: ../control-center:615
 #, c-format
 msgid "/Expert mode in _wizards"
 msgstr ""
 
-#: ../control-center:626 ../control-center:627
+#: ../control-center:625 ../control-center:626
 #, c-format
 msgid "/_File"
 msgstr "/_Файл"
 
-#: ../control-center:627
+#: ../control-center:626
 #, c-format
 msgid "/_Quit"
 msgstr "/_Выхад"
 
-#: ../control-center:627
+#. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+#. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+#: ../control-center:629
 #, c-format
 msgid "<control>Q"
 msgstr "<control>Q"
 
-#: ../control-center:627
+#: ../control-center:629
 #, c-format
 msgid "Quit"
 msgstr "Выхад"
 
-#: ../control-center:648 ../control-center:651 ../control-center:664
+#: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
 msgid "/_Themes"
 msgstr ""
 
-#: ../control-center:654
+#: ../control-center:656
 #, c-format
 msgid ""
 "This action will restart the control center.\n"
 "Any change not applied will be lost."
 msgstr ""
 
-#: ../control-center:664
+#: ../control-center:666
 #, c-format
 msgid "/_More themes"
 msgstr ""
 
-#: ../control-center:666 ../control-center:667 ../control-center:668
-#: ../control-center:669 ../control-center:670 ../control-center:671
-#: ../control-center:674
+#: ../control-center:668 ../control-center:669 ../control-center:670
+#: ../control-center:671 ../control-center:672 ../control-center:673
+#: ../control-center:676
 #, c-format
 msgid "/_Help"
 msgstr "/_Дапамога"
 
-#: ../control-center:667 ../control-center:668 ../control-center:669
-#: ../control-center:670
+#: ../control-center:669 ../control-center:670 ../control-center:671
+#: ../control-center:672
 #, c-format
 msgid "Help"
 msgstr "Дапамога"
 
-#: ../control-center:668
+#: ../control-center:670
 #, fuzzy, c-format
 msgid "/_Release notes"
 msgstr "/_Выдаліць"
 
-#: ../control-center:669
+#: ../control-center:671
 #, c-format
 msgid "/What's _New?"
 msgstr ""
 
-#: ../control-center:670
+#: ../control-center:672
 #, c-format
 msgid "/_Errata"
 msgstr ""
 
-#: ../control-center:671
+#: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
 msgstr "/_Паведаміць пра памылку"
 
-#: ../control-center:674
+#: ../control-center:676
 #, c-format
 msgid "/_About..."
 msgstr "/_Пра..."
@@ -1084,75 +1086,75 @@ msgstr ""
 msgid "About - %s Control Center"
 msgstr ""
 
-#: ../control-center:1420
+#: ../control-center:1419
 #, c-format
 msgid "Authors: "
 msgstr "Аўтары: "
 
-#: ../control-center:1424
+#: ../control-center:1423
 #, c-format
 msgid "(perl version)"
 msgstr ""
 
-#: ../control-center:1429
+#: ../control-center:1428
 #, c-format
 msgid "Artwork: "
 msgstr ""
 
-#: ../control-center:1434
+#: ../control-center:1433
 #, c-format
 msgid "Helene Durosini"
 msgstr ""
 
 #. -PO: this is used as "language: translator" in credits part of the about dialog:
-#: ../control-center:1456
+#: ../control-center:1455
 #, c-format
 msgid "- %s: %s\n"
 msgstr ""
 
-#: ../control-center:1471
+#: ../control-center:1470
 #, c-format
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "Аляксандр Бакавы"
 
-#: ../control-center:1473
+#: ../control-center:1472
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "greendeath@mail.ru"
 
-#: ../control-center:1475
+#: ../control-center:1474
 #, c-format
 msgid "Translator: "
 msgstr ""
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
-#: ../control-center:1484
+#: ../control-center:1483
 #, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "Цэнтар кіраваньня"
 
 #. -PO: here %s is eg: "1999-2008"
-#: ../control-center:1489
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
 msgstr ""
 
-#: ../control-center:1489
+#: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mageia"
 msgstr ""
 
-#: ../control-center:1495
+#: ../control-center:1494
 #, c-format
 msgid "Authors"
 msgstr "Аўтары"
 
-#: ../control-center:1496
+#: ../control-center:1495
 #, c-format
 msgid "Mageia Contributors"
 msgstr ""
