@@ -1,3 +1,5 @@
+- fix pressing "q" exiting mcc with german locale (mga#6172)
+
 Version 12.29 - 12 May 2012 Anne Nicolas
 
 - use new icon for about splash

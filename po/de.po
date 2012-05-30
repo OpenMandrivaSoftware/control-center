@@ -969,7 +969,7 @@ msgstr "/_Beenden"
 #: ../control-center:626
 #, c-format
 msgid "<control>Q"
-msgstr "<STRG>Q"
+msgstr "<control>Q"
 
 #: ../control-center:626
 #, c-format
