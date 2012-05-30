@@ -1,3 +1,5 @@
+Version 12.29.1 - 30 May 2012 Thierry Vignaud
+
 - fix pressing "q" exiting mcc with german locale (mga#6172)
 
 Version 12.29 - 12 May 2012 Anne Nicolas
