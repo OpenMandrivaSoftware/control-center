@@ -623,7 +623,10 @@ my $release = mageia_release_info();
 
 my @menu_items = (
                   [ N("/_File"), undef, undef, undef, '<Branch>' ],
-                  [ N("/_File") . N("/_Quit"), N("<control>Q"), \&quit_global, undef, '<Item>', N("Quit") ],
+                  [ N("/_File") . N("/_Quit"),
+                    #-PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
+                    #-PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
+                    N("<control>Q"), \&quit_global, undef, '<Item>', N("Quit") ],
                   [ N("/_Options"), undef, undef, undef, '<Branch>' ],
                   [ join('', @{$options{show_log}}), undef,
                     sub  {
