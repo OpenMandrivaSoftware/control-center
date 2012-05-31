@@ -1,3 +1,5 @@
+- use proper design from original author
+
 Version 12.29.1 - 30 May 2012 Thierry Vignaud
 
 - fix pressing "q" exiting mcc with german locale (mga#6172)
