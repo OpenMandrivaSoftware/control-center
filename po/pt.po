@@ -1,20 +1,27 @@
+# Portuguese translation of drakconf package.
+# This file is distributed under the same license as the drakconf package.
 # Copyright (C) 2011 Free Software Foundation, Inc.
 #
-# Last-Translator: Zé <ze@mandriva.org>, 2011.
+# Last-Translator: Zé <ze@mandriva.org>, 2011, 2012.
+# Sérgio Marques <smarquespt@gmail.com>, 2012
+# Pedro <simplew8@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: drakconf\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-30 20:27+0200\n"
-"PO-Revision-Date: 2011-05-08 03:44+0100\n"
-"Last-Translator: Zé <ze@mandriva.org>\n"
+"PO-Revision-Date: 2012-06-23 12:35+0100\n"
+"Last-Translator: Pedro <simplew8@gmail.com>\n"
 "Language-Team: Portuguese <>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.2\n"
+"Language: pt\n"
+"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: Portugal\n"
 
 #: ../contributors.pl:11
 #, c-format
@@ -28,12 +35,8 @@ msgstr "Per Oyvind Karlsen"
 
 #: ../contributors.pl:12
 #, c-format
-msgid ""
-"massive packages rebuilding and cleaning, games, sparc port, proofreading of "
-"Mandriva tools"
-msgstr ""
-"reconstrução massiva e limpeza de pacotes, jogos, porto sparc, verificação "
-"ortográfica de ferramentas Mandriva"
+msgid "massive packages rebuilding and cleaning, games, sparc port, proofreading of Mandriva tools"
+msgstr "recompilação e limpeza de pacotes, jogos, portabilidade sparc e verificação ortográfica das ferramentas Mandriva"
 
 #: ../contributors.pl:13
 #, c-format
@@ -63,7 +66,7 @@ msgstr "Marcel Pol"
 #: ../contributors.pl:15
 #, c-format
 msgid "xfce4, updated abiword, mono"
-msgstr "xfce4, abiword actualizado, mono"
+msgstr "xfce4, abiword e mono"
 
 #: ../contributors.pl:16
 #, c-format
@@ -72,12 +75,8 @@ msgstr "Ben Reser"
 
 #: ../contributors.pl:16
 #, c-format
-msgid ""
-"updated nc with debian patches, fixed some perl packages, dnotify startup "
-"script, urpmc, hddtemp, wipe, etc..."
-msgstr ""
-"nc actualizado com correcções debian, corrigidos alguns pacotes perl, "
-"'script' de arranque dnotify, urpmc, hddtemp, wipe, etc..."
+msgid "updated nc with debian patches, fixed some perl packages, dnotify startup script, urpmc, hddtemp, wipe, etc..."
+msgstr "atualicação do nc com correções debian, correção de alguns pacotes perl, script de arranque dnotify, urpmc, hddtemp, wipe, etc..."
 
 #: ../contributors.pl:17 ../contributors.pl:42
 #, c-format
@@ -86,12 +85,8 @@ msgstr "Thomas Backlund"
 
 #: ../contributors.pl:17
 #, c-format
-msgid ""
-"\"deep and broad\" kernel work (many new patches before integration in "
-"official kernel)"
-msgstr ""
-"trabalho \"amplo e aprofundado\" no kernel (muitas novas correcções antes da "
-"integração no kernel oficial)"
+msgid "\"deep and broad\" kernel work (many new patches before integration in official kernel)"
+msgstr "trabalho amplo e aprofundado no kernel (muitas correções novas antes da integração no kernel oficial)"
 
 #: ../contributors.pl:18
 #, c-format
@@ -101,7 +96,7 @@ msgstr "Svetoslav Slavtchev"
 #: ../contributors.pl:18
 #, c-format
 msgid "kernel work (audio- and video-related patches)"
-msgstr "trabalho no kernel (correcções relacionadas com áudio e vídeo)"
+msgstr "trabalho no kernel (correções relacionadas com áudio e vídeo)"
 
 #: ../contributors.pl:19
 #, c-format
@@ -111,7 +106,7 @@ msgstr "Danny Tholen"
 #: ../contributors.pl:19
 #, c-format
 msgid "patches to some packages, kfiresaver, xwine. ppc kernel-benh."
-msgstr "correcções para alguns pacotes, kfiresaver, xwine. ppc kernel-benh."
+msgstr "correções para alguns pacotes, kfiresaver, xwine. ppc kernel-benh."
 
 #: ../contributors.pl:20
 #, c-format
@@ -120,14 +115,8 @@ msgstr "Buchan Milne"
 
 #: ../contributors.pl:20
 #, c-format
-msgid ""
-"Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS "
-"software (grass, mapserver), cursor_themes collection, misc server-side "
-"contributions"
-msgstr ""
-"Samba 3.0 (pré lançamento) que co-existe com o Samba 2.2.x, Samba-2.2.x, "
-"programa GIS (grass, mapserver), colecção de temas para o rato, diversas "
-"contribuições para servidores"
+msgid "Samba 3.0 (prerelease) that co-exists with Samba 2.2.x, Samba-2.2.x, GIS software (grass, mapserver), cursor_themes collection, misc server-side contributions"
+msgstr "Samba 3.0 (pré-lançamento) que coexiste com o Samba 2.2.x, Samba-2.2.x, GIS (grass, mapserver), temas de cursores, diversas contribuições para servidores"
 
 #: ../contributors.pl:21
 #, c-format
@@ -136,12 +125,8 @@ msgstr "Goetz Waschk"
 
 #: ../contributors.pl:21
 #, c-format
-msgid ""
-"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
-"python, rox desktop"
-msgstr ""
-"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms e extras gnome-python, "
-"rox desktop"
+msgid "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-python, rox desktop"
+msgstr "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms e extras gnome-python, rox desktop"
 
 #: ../contributors.pl:22
 #, c-format
@@ -150,12 +135,8 @@ msgstr "Austin Acton"
 
 #: ../contributors.pl:22
 #, c-format
-msgid ""
-"audio/video/MIDI apps, scientific apps, audio/video production howtos, "
-"bluetooth, pyqt & related"
-msgstr ""
-"aplicações audio/vídeo/MIDI, aplicações científicas, produção de documentos "
-"COMOFAZER para audio/vídeo, bluetooth, pyqt e relacionados"
+msgid "audio/video/MIDI apps, scientific apps, audio/video production howtos, bluetooth, pyqt & related"
+msgstr "aplicações audio/vídeo/MIDI, aplicações científicas, produção de documentos de ajuda para áudio e vídeo, bluetooth, pyqt e relacionados"
 
 #: ../contributors.pl:23
 #, c-format
@@ -185,9 +166,7 @@ msgstr "Oden Eriksson"
 #: ../contributors.pl:25
 #, c-format
 msgid "most web-based packages and many security-related packages"
-msgstr ""
-"a maior parte dos pacotes baseados em web e muitos pacotes relacionados com "
-"segurança"
+msgstr "a maior parte dos pacotes 'web' e muitos pacotes relacionados com segurança"
 
 #: ../contributors.pl:26
 #, c-format
@@ -197,7 +176,7 @@ msgstr "Stefan VanDer Eijk"
 #: ../contributors.pl:26
 #, c-format
 msgid "slbd distro checking, devel dependencies"
-msgstr "verificação da distribuição slbd, dependências de desenvolvimento"
+msgstr "verificação da distribuição slbd e dependências de desenvolvimento"
 
 #: ../contributors.pl:27
 #, c-format
@@ -207,7 +186,7 @@ msgstr "David Walser"
 #: ../contributors.pl:27
 #, c-format
 msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
-msgstr "'script' rpmsync, reprodução MIDI a toda à prova, libao melhorada"
+msgstr "'script' rpmsync, reprodução MIDI e libao melhorada"
 
 #: ../contributors.pl:28
 #, c-format
@@ -217,7 +196,7 @@ msgstr "Andi Payn"
 #: ../contributors.pl:28
 #, c-format
 msgid "many extra gnome applets and python modules"
-msgstr "vários componentes extra gnome e módulos python"
+msgstr "vários componentes gnome e módulos python"
 
 #: ../contributors.pl:29 ../contributors.pl:41
 #, c-format
@@ -226,12 +205,8 @@ msgstr "Tibor Pittich"
 
 #: ../contributors.pl:29
 #, c-format
-msgid ""
-"sk-i18n, contributed several packages, openldap testing and integration, "
-"bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
-msgstr ""
-"sk-i18n, contribuiu com vários pacotes, teste e integração openldap, bind-"
-"sdb-ldap, vários anos de uso cooker e procura de erros, etc..."
+msgid "sk-i18n, contributed several packages, openldap testing and integration, bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
+msgstr "sk-i18n, contribuiu com vários pacotes, testes e integração openldap, bind-sdb-ldap, vários anos a utilizar a versão cooker e procura de erros, etc..."
 
 #: ../contributors.pl:30
 #, c-format
@@ -241,7 +216,7 @@ msgstr "Pascal Terjan"
 #: ../contributors.pl:30
 #, c-format
 msgid "some ruby stuff, php-pear packages, various other stuff."
-msgstr "algum material ruby, pacotes php-pear, outro material variado."
+msgstr "algum material ruby, pacotes php-pear e outro material variado."
 
 #: ../contributors.pl:31
 #, c-format
@@ -261,7 +236,7 @@ msgstr "Christophe Guilloux"
 #: ../contributors.pl:32
 #, c-format
 msgid "bug reports, help with thunderbird package,..."
-msgstr "reportar erros, ajuda com o pacote thunderbird, ..."
+msgstr "reportação de erros, ajuda com o pacote thunderbird, ..."
 
 #: ../contributors.pl:33
 #, c-format
@@ -270,12 +245,8 @@ msgstr "Brook Humphrey"
 
 #: ../contributors.pl:33
 #, c-format
-msgid ""
-"testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
-"spamassassin, maildrop, clamav."
-msgstr ""
-"testes e reportação de erros, Dovecot, bibletime, sword, ajuda com o pure-"
-"ftpd, spamassassin, maildrop, clamav."
+msgid "testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, spamassassin, maildrop, clamav."
+msgstr "testes e reportação de erros, Dovecot, bibletime, sword, ajuda com o pure-ftpd, spamassassin, maildrop e clamav."
 
 #: ../contributors.pl:34
 #, c-format
@@ -284,14 +255,8 @@ msgstr "Olivier Blin"
 
 #: ../contributors.pl:34
 #, c-format
-msgid ""
-"http proxy support in installer, kernel 2.6 support in sndconfig, samba3 "
-"support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
-"drakxtools"
-msgstr ""
-"suporte do 'proxy' http na instalação, suporte do kernel 2.6 no sndconfig, "
-"suporte do samba3 no LinNeighborhood, correcções e melhoramentos no urpmi, "
-"bootsplash e drakxtools"
+msgid "http proxy support in installer, kernel 2.6 support in sndconfig, samba3 support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and drakxtools"
+msgstr "suporte do 'proxy' http na instalação, suporte do kernel 2.6 no sndconfig, suporte do samba3 no LinNeighborhood, correções e melhorias no urpmi, bootsplash e drakxtools"
 
 #: ../contributors.pl:35
 #, c-format
@@ -301,7 +266,7 @@ msgstr "Emmanuel Blindauer"
 #: ../contributors.pl:35
 #, c-format
 msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
-msgstr "lm_sensors para o kernel 2.6, testes, alguns pacotes contribuidos."
+msgstr "lm_sensors para o kernel 2.6, testes, alguns pacotes contribuídos."
 
 #: ../contributors.pl:36
 #, c-format
@@ -311,7 +276,7 @@ msgstr "Matthias Debus"
 #: ../contributors.pl:36
 #, c-format
 msgid "sim, pine and some other contrib packages."
-msgstr "sim, pine e alguns outros pacotes contribuidos."
+msgstr "sim, pine e alguns outros pacotes contribuídos."
 
 #: ../contributors.pl:37
 #, c-format
@@ -386,7 +351,7 @@ msgstr "Marek Laane"
 #: ../contributors.pl:46
 #, c-format
 msgid "Estonian translator"
-msgstr "Tradutor Estónio"
+msgstr "Tradutor Estônio"
 
 #: ../contributors.pl:47
 #, c-format
@@ -534,12 +499,8 @@ msgstr "MD, testes, reportação de erros"
 
 #: ../contributors.pl:71
 #, c-format
-msgid ""
-"And many unnamed and unknown beta testers and bug reporters that helped make "
-"sure it all worked right."
-msgstr ""
-"E muitos verificadores beta e reportadores de erros desconhecidos que "
-"ajudaram para que tudo corresse bem."
+msgid "And many unnamed and unknown beta testers and bug reporters that helped make sure it all worked right."
+msgstr "E muitos verificadores beta e reportadores de erros desconhecidos que ajudaram para que tudo corresse bem."
 
 #: ../control-center:90
 #, c-format
@@ -596,12 +557,8 @@ msgstr "Configurar Samba"
 
 #: ../control-center:189
 #, c-format
-msgid ""
-"Set up a file and print server for workstations running Linux and non-Linux "
-"systems"
-msgstr ""
-"Configurar servidor de impressão e ficheiros para áreas de trabalho a correr "
-"em sistemas Linux e não-Linux"
+msgid "Set up a file and print server for workstations running Linux and non-Linux systems"
+msgstr "Configurar servidor de impressão e ficheiros para áreas de trabalho a correr em sistemas Linux e não-Linux"
 
 #: ../control-center:191
 #, c-format
@@ -648,7 +605,7 @@ msgstr "Configurar DHCP"
 #: ../control-center:215
 #, c-format
 msgid "Set up a DHCP server"
-msgstr "Configurar servidor DHCP"
+msgstr "Configura o servidor DHCP"
 
 #: ../control-center:217
 #, c-format
@@ -658,29 +615,27 @@ msgstr "Configurar DNS"
 #: ../control-center:218
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
-msgstr "Configurar servidor DNS (resolução do nome da rede)"
+msgstr "Configura o servidor DNS (resolução do nome da rede)"
 
 #: ../control-center:220
 #, c-format
 msgid "Configure proxy"
-msgstr "Configurar 'proxy'"
+msgstr "Configurar 'Proxy'"
 
 #: ../control-center:221
 #, c-format
 msgid "Configure a web caching proxy server"
-msgstr "Configurar servidor 'proxy' web com caixa (cache)"
+msgstr "Configura o servidor 'proxy' web com caixa (cache)"
 
 #: ../control-center:223
 #, c-format
 msgid "Configure time"
-msgstr "Configurar hora"
+msgstr "Configurar Hora"
 
 #: ../control-center:224
 #, c-format
-msgid ""
-"Set the time of the server to be synchronized with an external time server"
-msgstr ""
-"Defina hora do servidor para sincronização com servidor horário externo"
+msgid "Set the time of the server to be synchronized with an external time server"
+msgstr "Define a hora do servidor para sincronização com servidor horário externo"
 
 #: ../control-center:226 ../control-center:227
 #, c-format
@@ -702,7 +657,7 @@ msgstr "Configurar NIS e Autofs"
 #: ../control-center:246
 #, c-format
 msgid "Configure the NIS and Autofs services"
-msgstr "Configure os serviços NIS e Autofs"
+msgstr "Configura os serviços NIS e Autofs"
 
 #: ../control-center:248
 #, c-format
@@ -712,7 +667,7 @@ msgstr "Configurar LDAP"
 #: ../control-center:249
 #, c-format
 msgid "Configure the LDAP directory services"
-msgstr "Configure os serviços do directório LDAP"
+msgstr "Configura os serviços do diretório LDAP"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:260 ../control-center:263
@@ -728,7 +683,7 @@ msgstr "Configurar noticias"
 #: ../control-center:267
 #, c-format
 msgid "Configure a newsgroup server"
-msgstr "Configure um servidor newsgroup"
+msgstr "Configura um servidor de notícias"
 
 #: ../control-center:269
 #, c-format
@@ -738,7 +693,7 @@ msgstr "Configurar groupware"
 #: ../control-center:270
 #, c-format
 msgid "Configure a groupware server"
-msgstr "Configure um servidor groupware"
+msgstr "Configura um servidor groupware"
 
 #: ../control-center:272
 #, c-format
@@ -748,7 +703,7 @@ msgstr "Configurar correio"
 #: ../control-center:273
 #, c-format
 msgid "Configure the Internet Mail services"
-msgstr "Configure os serviços de correio Internet"
+msgstr "Configura os serviços de correio Internet"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:285 ../control-center:288
@@ -764,13 +719,12 @@ msgstr "Administração local"
 #: ../control-center:305
 #, c-format
 msgid "Configure the local machine via web interface"
-msgstr "Configure a máquina local através de interface web"
+msgstr "Configura a máquina local através do interface 'web'"
 
 #: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
-msgstr ""
-"Não parece ter o webmin instalado. A configuração local está desactivada"
+msgstr "Não parece ter o webmin instalado. A configuração local está desativada"
 
 #: ../control-center:307
 #, c-format
@@ -780,9 +734,7 @@ msgstr "Administração remota"
 #: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
-msgstr ""
-"Clique aqui se deseja configurar uma máquina remota através de um interface "
-"web"
+msgstr "Clique aqui se deseja configurar uma máquina remota através de um interface 'web'"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:322
@@ -824,7 +776,7 @@ msgstr "Gerir dispositivos de rede"
 #: ../control-center:380
 #, c-format
 msgid "Personalize and Secure your network"
-msgstr "Personalizar e segurar a rede"
+msgstr "Personalizar e Proteger a sua rede"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:399
@@ -845,7 +797,7 @@ msgstr "Localização"
 #: ../control-center:418
 #, c-format
 msgid "Administration tools"
-msgstr "Ferramentas de administração"
+msgstr "Ferramentas administrativas"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:435
@@ -882,7 +834,7 @@ msgstr "CD-ROM (%s)"
 #: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
-msgstr "Defina onde o seu dispositivo CD-ROM \"%s\" é montado"
+msgstr "Defina o local de montagem do seu CD-ROM \"%s\""
 
 #: ../control-center:492
 #, c-format
@@ -892,7 +844,7 @@ msgstr "DVD-ROM (%s)"
 #: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
-msgstr "Defina onde o seu dispositivo DVD-ROM \"%s\" é montado"
+msgstr "Defina o local de montagem do seu DVD-ROM \"%s\""
 
 #: ../control-center:495
 #, c-format
@@ -902,7 +854,7 @@ msgstr "Gravador CD/DVD (%s)"
 #: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
-msgstr "Defina onde o seu gravador CD/DVD \"%s\" é montado"
+msgstr "Defina o local de montagem do seu gravador de CD/DVD \"%s\""
 
 #: ../control-center:498
 #, c-format
@@ -912,7 +864,7 @@ msgstr "Dispositivo ZIP"
 #: ../control-center:499
 #, c-format
 msgid "Set where your ZIP drive is mounted"
-msgstr "Defina onde o seu dispositivo ZIP é montado"
+msgstr "Defina o local de montagem do seu ZIP"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:511 ../control-center:514
@@ -939,7 +891,7 @@ msgstr "Modo e aparência do arranque"
 #: ../control-center:558
 #, c-format
 msgid "Additional wizards"
-msgstr "Assistentes adicionais"
+msgstr "Outros assistentes"
 
 #: ../control-center:613 ../control-center:614 ../control-center:615
 #: ../control-center:630
@@ -991,11 +943,9 @@ msgstr "/_Temas"
 
 #: ../control-center:656
 #, c-format
-msgid ""
-"This action will restart the control center.\n"
+msgid "This action will restart the control center.\n"
 "Any change not applied will be lost."
-msgstr ""
-"Esta acção irá reiniciar o centro de controlo.\n"
+msgstr "Esta ação irá reiniciar o centro de controlo.\n"
 "Qualquer alteração não aplicada será perdida."
 
 #: ../control-center:666
@@ -1058,12 +1008,10 @@ msgstr "Erro"
 
 #: ../control-center:1039
 #, c-format
-msgid ""
-"There's a bug in translations of your language (%s)\n"
+msgid "There's a bug in translations of your language (%s)\n"
 "\n"
 "Please report that bug."
-msgstr ""
-"Existe um erro na tradução da sua língua (%s)\n"
+msgstr "Existe um erro na tradução do seu idioma (%s)\n"
 "\n"
 "Por favor comunique este erro."
 
@@ -1075,7 +1023,7 @@ msgstr "Não é possível executar o programa desconhecido '%s'"
 #: ../control-center:1123
 #, c-format
 msgid "The modifications done in the current module won't be saved."
-msgstr "As modificações feitas no módulo actual não serão gravadas."
+msgstr "As modificações feitas neste módulo não serão gravadas."
 
 #: ../control-center:1210
 #, c-format
@@ -1110,7 +1058,7 @@ msgstr "Mais temas"
 #: ../control-center:1400
 #, c-format
 msgid "Getting new themes"
-msgstr "Obter novos temas"
+msgstr "Obter mais temas"
 
 #: ../control-center:1401
 #, c-format
@@ -1140,7 +1088,7 @@ msgstr "(versão perl)"
 #: ../control-center:1428
 #, c-format
 msgid "Artwork: "
-msgstr "Projecto Artístico: "
+msgstr "Projeto Artístico: "
 
 #: ../control-center:1433
 #, c-format
@@ -1158,14 +1106,20 @@ msgstr "- %s: %s\n"
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
-msgstr "José Melo, José Jorge"
+msgstr "José Melo\n"
+"José Jorge\n"
+"Pedro Gomes\n"
+"Sérgio Marques"
 
 #: ../control-center:1472
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
-msgstr "mmodem00@gmail.com, jose.jorge@oreka.com"
+msgstr "mmodem00@gmail.com\n"
+"jose.jorge@oreka.com\n"
+"simplew8@gmail.com\n"
+"smarquespt@gmail.com"
 
 #: ../control-center:1474
 #, c-format
@@ -1208,7 +1162,7 @@ msgstr "DrakConsole"
 #: ../drakxconf:28
 #, c-format
 msgid "Display"
-msgstr "Mostrar"
+msgstr "Ecrã"
 
 #: ../drakxconf:29
 #, c-format
@@ -1238,22 +1192,22 @@ msgstr "'Firewall'"
 #: ../drakxconf:35
 #, c-format
 msgid "Boot loader"
-msgstr "Carregador de arranque"
+msgstr "Carregador de Arranque"
 
 #: ../drakxconf:36
 #, c-format
 msgid "Auto Install"
-msgstr "Auto instalar"
+msgstr "Instalação Automática"
 
 #: ../drakxconf:37
 #, c-format
 msgid "Internet connection sharing"
-msgstr "Partilhar conexão Internet"
+msgstr "Partilha da conexão Internet"
 
 #: ../drakxconf:38
 #, c-format
 msgid "3D Desktop effects"
-msgstr "Efeitos de ecrã 3D"
+msgstr "Efeitos de Ecrã 3D"
 
 #: ../drakxconf:39
 #, c-format
@@ -1273,26 +1227,22 @@ msgstr "Escolha a ferramenta que deseja usar"
 #: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
 #, c-format
 msgid "Configure 3D Desktop effects"
-msgstr "Configurar efeitos de ecrã 3D"
+msgstr "Configurar efeitos de Ecrã 3D"
 
 #: ../lib/MDV/Control_Center.pm:68
 #, c-format
-msgid ""
-"Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
-msgstr ""
-"Seleccionar método de autenticação (local, NIS, LDAP, Domínio Windows, ...)"
+msgid "Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
+msgstr "Selecionar método de autenticação (local, NIS, LDAP, Domínio Windows, ...)"
 
 #: ../lib/MDV/Control_Center.pm:77
 #, c-format
 msgid "Set up autologin to automatically log in"
-msgstr "Configurar auto-autenticação"
+msgstr "Configurar inicio da sessão"
 
 #: ../lib/MDV/Control_Center.pm:78
 #, c-format
 msgid "Enable autologin and select the user to automatically log in"
-msgstr ""
-"Active a auto-autenticação e seleccione o utilizador para se autenticar "
-"automaticamente"
+msgstr "Ative a auto-autenticação e selecione o utilizador para se autenticar automaticamente"
 
 #: ../lib/MDV/Control_Center.pm:87
 #, c-format
@@ -1302,7 +1252,7 @@ msgstr "Salvaguardas"
 #: ../lib/MDV/Control_Center.pm:88
 #, c-format
 msgid "Configure backups of the system and of the users' data"
-msgstr "Configure salvaguardas do sistema e dados do utilizador"
+msgstr "Configura as salvaguardas do sistema e dados do utilizador"
 
 #: ../lib/MDV/Control_Center.pm:98
 #, c-format
@@ -1317,7 +1267,7 @@ msgstr "Configurar arranque do sistema "
 #: ../lib/MDV/Control_Center.pm:109
 #, c-format
 msgid "Set up how the system boots"
-msgstr "Configure como o sistema arranca"
+msgstr "Configura como o sistema arranca"
 
 #: ../lib/MDV/Control_Center.pm:118
 #, c-format
@@ -1327,7 +1277,7 @@ msgstr "Definir tema gráfico de arranque"
 #: ../lib/MDV/Control_Center.pm:119
 #, c-format
 msgid "Select the graphical theme of the system while booting"
-msgstr "Seleccione o tema gráfico de arranque"
+msgstr "Seleciona o tema gráfico do arranque do sistema"
 
 #: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
 #, c-format
@@ -1347,7 +1297,7 @@ msgstr "Acesso Internet"
 #: ../lib/MDV/Control_Center.pm:149
 #, c-format
 msgid "Alter miscellaneous internet settings"
-msgstr "Modificar definições da Internet"
+msgstr "Modifica as várias definições da Internet"
 
 #: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
 #, c-format
@@ -1367,7 +1317,7 @@ msgstr "Definir gestor de ecrã"
 #: ../lib/MDV/Control_Center.pm:180
 #, c-format
 msgid "Choose the display manager that enables to select which user to log in"
-msgstr "Definir gestor de ecrã para selecção de autenticação de utilizador"
+msgstr "Escolha do gestor de ecrã que ativa a seleção do utilizador autenticado"
 
 #: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
 #, c-format
@@ -1383,7 +1333,7 @@ msgstr "Configurar 'firewall' pessoal"
 #, c-format
 msgid ""
 "Set up a personal firewall in order to protect the computer and the network"
-msgstr "Configurar 'firewall' pessoal para protecção do computador e da rede"
+msgstr "Configura a 'firewall' pessoal para proteção do computador e da rede"
 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
@@ -1433,17 +1383,17 @@ msgstr "Instalar e remover programas"
 #: ../lib/MDV/Control_Center.pm:271
 #, c-format
 msgid "Install, uninstall software"
-msgstr "Instale, remova programas"
+msgstr "Instala e remove programas"
 
 #: ../lib/MDV/Control_Center.pm:281
 #, c-format
 msgid "Advanced setup for network interfaces and firewall"
-msgstr "Configuração avançada para interfaces de rede e 'firewall'"
+msgstr "Configuração avançada de interfaces de rede e 'firewall'"
 
 #: ../lib/MDV/Control_Center.pm:282
 #, c-format
 msgid "Set up network interfaces failover and firewall replication"
-msgstr "Configurar interfaces de rede 'failover' e replicação de 'firewall'"
+msgstr "Configura interfaces de rede de recurso e replicação de 'firewall'"
 
 #: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
 #, c-format
@@ -1468,12 +1418,12 @@ msgstr "Gerir localização do sistema"
 #: ../lib/MDV/Control_Center.pm:312
 #, c-format
 msgid "Select the language and the country or region of the system"
-msgstr "Seleccionar língua e país ou região do sistema"
+msgstr "Seleciona o idioma, o país ou região do sistema"
 
 #: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
 #, c-format
 msgid "View and search system logs"
-msgstr "Ver e pesquisar registos do sistema"
+msgstr "Ver e procurar registos do sistema"
 
 #: ../lib/MDV/Control_Center.pm:330
 #, c-format
@@ -1483,7 +1433,7 @@ msgstr "Gerir conexões"
 #: ../lib/MDV/Control_Center.pm:331
 #, c-format
 msgid "Reconfigure a network interface"
-msgstr "Configurar interface de rede"
+msgstr "Configura a interface de rede"
 
 #: ../lib/MDV/Control_Center.pm:340
 #, c-format
@@ -1498,30 +1448,22 @@ msgstr "Gere os pacotes instalados num grupo de computadores"
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
 msgid "Configure authentication for Mageia tools"
-msgstr "Configurar autenticação para ferramentas Mageia"
+msgstr "Configurar autenticação das ferramentas Mageia"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
-msgid ""
-"Define authentication required to access individual Mageia configuration "
-"tools "
-msgstr ""
-"Defina a autenticação requerida para aceder às ferramentas de configuração "
-"Mageia"
+msgid "Define authentication required to access individual Mageia configuration tools"
+msgstr "Defina a autenticação requerida para aceder às ferramentas de configuração Mageia"
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
 msgid "Update your system"
-msgstr "Actualizar sistema"
+msgstr "Atualizar sistema"
 
 #: ../lib/MDV/Control_Center.pm:359
 #, c-format
-msgid ""
-"Look at available updates and apply any fixes or upgrades to installed "
-"packages"
-msgstr ""
-"Verifique as actualizações disponíveis e aplique qualquer correcção ou "
-"actualização nos pacotes instalados"
+msgid "Look at available updates and apply any fixes or upgrades to installed packages"
+msgstr "Verifica as atualizações disponíveis e aplica qualquer correção ou atualização nos pacotes instalados"
 
 #: ../lib/MDV/Control_Center.pm:369
 #, c-format
@@ -1546,7 +1488,7 @@ msgstr "Monitorizar conexões"
 #: ../lib/MDV/Control_Center.pm:390
 #, c-format
 msgid "Monitor the network connections"
-msgstr "Monitorizar conexões da rede"
+msgstr "Monitoriza as conexões da rede"
 
 #: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
 #, c-format
@@ -1561,7 +1503,7 @@ msgstr "Controlo parental"
 #: ../lib/MDV/Control_Center.pm:418
 #, c-format
 msgid "Network Center"
-msgstr "Gestão de rede"
+msgstr "Gestão da rede"
 
 #: ../lib/MDV/Control_Center.pm:428
 #, c-format
@@ -1571,12 +1513,12 @@ msgstr "Gerir diferentes perfis de rede"
 #: ../lib/MDV/Control_Center.pm:429
 #, c-format
 msgid "Activate and manage network profiles"
-msgstr "Activar e gerir perfis de rede"
+msgstr "Ativa e gere perfis de rede"
 
 #: ../lib/MDV/Control_Center.pm:438
 #, c-format
 msgid "Access NFS shared drives and directories"
-msgstr "Aceder a unidades e directórios partilhados NFS"
+msgstr "Aceder a unidades e diretórios partilhados NFS"
 
 #: ../lib/MDV/Control_Center.pm:439
 #, c-format
@@ -1586,7 +1528,7 @@ msgstr "Definir pontos de montagem NFS"
 #: ../lib/MDV/Control_Center.pm:448
 #, c-format
 msgid "Share drives and directories using NFS"
-msgstr "Partilhar directórios e controladores usando NFS"
+msgstr "Partilha diretórios e controladores usando NFS"
 
 #: ../lib/MDV/Control_Center.pm:449
 #, c-format
@@ -1611,7 +1553,7 @@ msgstr "Partilhar partições do disco"
 #: ../lib/MDV/Control_Center.pm:470
 #, c-format
 msgid "Set up sharing of your hard disk partitions"
-msgstr "Configurar partilha de partições do disco"
+msgstr "Configura a partilha de partições do disco"
 
 #: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
 #, c-format
@@ -1626,7 +1568,7 @@ msgstr "Tarefas agendadas"
 #: ../lib/MDV/Control_Center.pm:492
 #, c-format
 msgid "Schedule programs to run periodically or at given times"
-msgstr "Agendar programas para correr periodicamente ou em certos horários"
+msgstr "Agendar programas periodicamente ou horários fixos"
 
 #: ../lib/MDV/Control_Center.pm:501
 #, c-format
@@ -1636,7 +1578,7 @@ msgstr "'Proxy'"
 #: ../lib/MDV/Control_Center.pm:502
 #, c-format
 msgid "Set up a proxy server for files and web browsing"
-msgstr "Configurar servidor 'proxy' para ficheiros e navegação web"
+msgstr "Configurar servidor 'proxy' para ficheiros e navegação 'web'"
 
 #: ../lib/MDV/Control_Center.pm:510
 #, c-format
@@ -1656,28 +1598,27 @@ msgstr "Remover conexão"
 #: ../lib/MDV/Control_Center.pm:521
 #, c-format
 msgid "Delete a network interface"
-msgstr "Remover interface de rede"
+msgstr "Remove um interface de rede"
 
 #: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
 #, c-format
 msgid "Wireless connection"
-msgstr "Conexão sem-fio"
+msgstr "Conexão sem fios"
 
 #: ../lib/MDV/Control_Center.pm:541
 #, c-format
 msgid "Access Windows (SMB) shared drives and directories"
-msgstr "Aceder a unidades e directórios partilhados Windows (SMB)"
+msgstr "Aceder a unidades e diretórios partilhados Windows (SMB)"
 
 #: ../lib/MDV/Control_Center.pm:542
 #, c-format
 msgid "Configuration of Windows (Samba) shared drives and directories"
-msgstr ""
-"Configuração dos directórios e controladores partilhados (Samba) Windows"
+msgstr "Configuração das unidades e diretórios Windows partilhados (Samba)"
 
 #: ../lib/MDV/Control_Center.pm:551
 #, c-format
 msgid "Share drives and directories with Windows (SMB) systems"
-msgstr "Partilhar directórios e controladores com sistemas Windows (SMB)"
+msgstr "Partilha unidades e diretórios com sistemas Windows (SMB)"
 
 #: ../lib/MDV/Control_Center.pm:552
 #, c-format
@@ -1692,14 +1633,12 @@ msgstr "Configurar digitalizador"
 #: ../lib/MDV/Control_Center.pm:571
 #, c-format
 msgid "Configure system security, permissions and audit"
-msgstr "Configurar segurança do sistema, permissões e auditoria"
+msgstr "Configurar segurança, permissões e auditoria do sistema"
 
 #: ../lib/MDV/Control_Center.pm:572
 #, c-format
 msgid "Set the system security level, periodic security audit and permissions"
-msgstr ""
-"Defina o nível de segurança do sistema, auditoria de segurança periódica e "
-"permissões"
+msgstr "Define o nível de segurança, auditoria de segurança periódica e permissões do sistema"
 
 #: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
 #, c-format
@@ -1709,17 +1648,17 @@ msgstr "Gestão dos serviços do sistema"
 #: ../lib/MDV/Control_Center.pm:592
 #, c-format
 msgid "Configure media sources for install and update"
-msgstr "Configurar médias fonte"
+msgstr "Configurar repositórios"
 
 #: ../lib/MDV/Control_Center.pm:593
 #, c-format
 msgid "Select from where software packages are downloaded "
-msgstr "Seleccione de onde os pacotes são transferidos"
+msgstr "Selecione os repositórios para a transferência de pacotes"
 
 #: ../lib/MDV/Control_Center.pm:603
 #, c-format
 msgid "Configure updates frequency"
-msgstr "Configurar frequência de actualizações"
+msgstr "Configurar frequência de atualizações"
 
 #: ../lib/MDV/Control_Center.pm:612
 #, c-format
@@ -1729,7 +1668,7 @@ msgstr "Configurar extensão da manutenção"
 #: ../lib/MDV/Control_Center.pm:621
 #, c-format
 msgid "Configure TOMOYO Linux policy"
-msgstr "Configurar política de segurança Linux TOMOYO"
+msgstr "Configurar política de segurança TOMOYO Linux"
 
 #: ../lib/MDV/Control_Center.pm:622
 #, c-format
@@ -1741,17 +1680,17 @@ msgstr "Veja e configure a política de segurança Linux TOMOYO"
 #: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
 #, c-format
 msgid "Set up a UPS for power monitoring"
-msgstr "Configurar UPS para monitorização da alimentação"
+msgstr "Configurar UPS para monitorização da energia"
 
 #: ../lib/MDV/Control_Center.pm:647
 #, c-format
 msgid "Manage users on system"
-msgstr "Gestão de utilizadores do sistema"
+msgstr "Gerir utilizadores do sistema"
 
 #: ../lib/MDV/Control_Center.pm:648
 #, c-format
 msgid "Add, remove or change users of the system"
-msgstr "Adicionar, remover ou mudar utilizadores do sistema"
+msgstr "Adiciona, remove ou muda utilizadores do sistema"
 
 #: ../lib/MDV/Control_Center.pm:658
 #, c-format
@@ -1766,12 +1705,12 @@ msgstr "Gestão de máquinas virtuais"
 #: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
 #, c-format
 msgid "Configure VPN connection to secure network access"
-msgstr "Configurar conexões VPN para proteger acesso das redes"
+msgstr "Configurar conexões VPN para proteger acesso à rede"
 
 #: ../lib/MDV/Control_Center.pm:678
 #, c-format
 msgid "Access WebDAV shared drives and directories"
-msgstr "Aceder a unidades e directórios partilhados WebDAV"
+msgstr "Aceder a unidades e diretórios WebDAV partilhados"
 
 #: ../lib/MDV/Control_Center.pm:679
 #, c-format
@@ -1786,7 +1725,7 @@ msgstr "Centro de Configuração do Menu"
 #: ../menus_launcher.pl:28
 #, c-format
 msgid "System menu"
-msgstr "Menu de sistema"
+msgstr "Menu do sistema"
 
 #: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
 #, c-format
@@ -1796,7 +1735,7 @@ msgstr "Configurar..."
 #: ../menus_launcher.pl:31
 #, c-format
 msgid "User menu"
-msgstr "Menu de utilizador"
+msgstr "Menu do utilizador"
 
 #: ../menus_launcher.pl:41
 #, c-format
@@ -1807,7 +1746,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Escolha que menu deseja configurar"
+"Escolha o menu que deseja configurar"
 
 #: ../print_launcher.pl:14 ../print_launcher.pl:21
 #, c-format
@@ -1822,11 +1761,11 @@ msgstr "Clique aqui para configurar o sistema de impressão"
 #: ../print_launcher.pl:37
 #, c-format
 msgid "Done"
-msgstr "Terminado"
+msgstr "Concluído"
 
 #: ../data/autologin.desktop.in.h:1
 msgid "Autologin"
-msgstr "Auto-autenticar"
+msgstr "Inicio automático"
 
 #: ../data/clock.desktop.in.h:1
 msgid "Date and time"
@@ -1838,11 +1777,11 @@ msgstr "Nova conexão"
 
 #: ../data/drakautoinst.desktop.in.h:1
 msgid "Auto Install floppy"
-msgstr "Disquete de Auto Instalação"
+msgstr "Disquete de instalação automática"
 
 #: ../data/drakboot.desktop.in.h:1
 msgid "Boot Loading"
-msgstr "Carregador de Arranque"
+msgstr "Carregador de arranque"
 
 #: ../data/drakcronat.desktop.in.h:1
 msgid "Programs scheduling"
@@ -1858,7 +1797,7 @@ msgstr "Disquete de arranque"
 
 #: ../data/drakfont.desktop.in.h:1
 msgid "Fonts"
-msgstr "Tipos de Letras"
+msgstr "Tipos de Letra"
 
 #: ../data/drakperm.desktop.in.h:1
 msgid "Permissions"
@@ -1866,19 +1805,19 @@ msgstr "Permissões"
 
 #: ../data/draksec.desktop.in.h:1
 msgid "Levels and Checks"
-msgstr "Níveis e Verificações"
+msgstr "Níveis e verificações"
 
 #: ../data/drakxtv.desktop.in.h:1
 msgid "TV Cards"
-msgstr "Placas TV"
+msgstr "Placas de TV"
 
 #: ../data/fileshare.desktop.in.h:1
 msgid "Partition Sharing"
-msgstr "Partilha de Partições"
+msgstr "Partilha de partições"
 
 #: ../data/harddrive.desktop.in.h:1
 msgid "Hard Drives"
-msgstr "Discos Rígidos"
+msgstr "Discos rígidos"
 
 #: ../data/logdrake.desktop.in.h:1
 msgid "Logs"
@@ -1890,7 +1829,7 @@ msgstr "Menus"
 
 #: ../data/MountPoints.directory.in.h:1
 msgid "Mount Points"
-msgstr "Pontos de Montagem"
+msgstr "Pontos de montagem"
 
 #: ../data/nfs.desktop.in.h:1
 msgid "NFS mount points"
@@ -1902,19 +1841,19 @@ msgstr "Impressoras"
 
 #: ../data/proxy.desktop.in.h:1
 msgid "Proxy Configuration"
-msgstr "Configuração 'Proxy'"
+msgstr "Configuração 'proxy'"
 
 #: ../data/removable.desktop.in.h:1
 msgid "Removable devices"
-msgstr "Dispositivos Removiveis"
+msgstr "Dispositivos removíveis"
 
 #: ../data/remove-connection.desktop.in.h:1
 msgid "Remove Connection"
-msgstr "Remover Conexão"
+msgstr "Remover conexão"
 
 #: ../data/samba.desktop.in.h:1
 msgid "Samba mount points"
-msgstr "Pontos de montagem samba"
+msgstr "Pontos de montagem Samba"
 
 #: ../data/scannerdrake.desktop.in.h:1
 msgid "Scanners"
@@ -1922,11 +1861,11 @@ msgstr "Digitalizadores"
 
 #: ../data/SystemConfig.directory.in.h:1
 msgid "System Settings"
-msgstr "Definições do Sistema"
+msgstr "Definições do sistema"
 
 #: ../data/userdrake.desktop.in.h:1
 msgid "Users and Groups"
-msgstr "Utilizadores e Grupos"
+msgstr "Utilizadores e grupos"
 
 #: ../data/webdav.desktop.in.h:1
 msgid "WebDAV mount points"
@@ -1942,7 +1881,7 @@ msgstr "Monitor"
 
 #: ../data/XFDrake-Resolution.desktop.in.h:1
 msgid "Screen Resolution"
-msgstr "Resolução de Ecrã"
+msgstr "Resolução de ecrã"
 
 #: ../drakconf.desktop.in.h:1
 msgid "Mageia Control Center"
