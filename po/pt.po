@@ -3,14 +3,14 @@
 # Copyright (C) 2011 Free Software Foundation, Inc.
 #
 # Last-Translator: Zé <ze@mandriva.org>, 2011, 2012.
-# Sérgio Marques <smarquespt@gmail.com>, 2012
-# Pedro <simplew8@gmail.com>, 2012
+# Sérgio Marques <smarquespt@gmail.com>, 2012.
+# Pedro <simplew8@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: drakconf\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-30 20:27+0200\n"
-"PO-Revision-Date: 2012-06-23 12:35+0100\n"
+"PO-Revision-Date: 2012-07-01 23:10+0100\n"
 "Last-Translator: Pedro <simplew8@gmail.com>\n"
 "Language-Team: Portuguese <>\n"
 "Language: pt\n"
@@ -568,8 +568,7 @@ msgstr "Gerir partilhas Samba"
 #: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
-msgstr ""
-"Gerir, criar partilhas especiais, criar partilhas públicas/utilizadores"
+msgstr "Gerir, criar partilhas especiais, criar partilhas públicas/utilizadores"
 
 #: ../control-center:194
 #, c-format
@@ -881,7 +880,7 @@ msgstr "Arranque"
 #: ../control-center:532
 #, c-format
 msgid "Configure boot steps"
-msgstr "Configurar etapas de arranque"
+msgstr "Configurar arranque"
 
 #: ../control-center:541
 #, c-format
@@ -945,7 +944,7 @@ msgstr "/_Temas"
 #, c-format
 msgid "This action will restart the control center.\n"
 "Any change not applied will be lost."
-msgstr "Esta ação irá reiniciar o centro de controlo.\n"
+msgstr "Esta ação reiniciará o centro de controlo.\n"
 "Qualquer alteração não aplicada será perdida."
 
 #: ../control-center:666
@@ -1013,7 +1012,7 @@ msgid "There's a bug in translations of your language (%s)\n"
 "Please report that bug."
 msgstr "Existe um erro na tradução do seu idioma (%s)\n"
 "\n"
-"Por favor comunique este erro."
+"Por favor reporte este erro."
 
 #: ../control-center:1104
 #, c-format
@@ -1252,7 +1251,7 @@ msgstr "Salvaguardas"
 #: ../lib/MDV/Control_Center.pm:88
 #, c-format
 msgid "Configure backups of the system and of the users' data"
-msgstr "Configura as salvaguardas do sistema e dados do utilizador"
+msgstr "Configure as salvaguardas do sistema e dados do utilizador"
 
 #: ../lib/MDV/Control_Center.pm:98
 #, c-format
@@ -1277,7 +1276,7 @@ msgstr "Definir tema gráfico de arranque"
 #: ../lib/MDV/Control_Center.pm:119
 #, c-format
 msgid "Select the graphical theme of the system while booting"
-msgstr "Seleciona o tema gráfico do arranque do sistema"
+msgstr "Selecione o tema gráfico do arranque do sistema"
 
 #: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
 #, c-format
@@ -1317,7 +1316,7 @@ msgstr "Definir gestor de ecrã"
 #: ../lib/MDV/Control_Center.pm:180
 #, c-format
 msgid "Choose the display manager that enables to select which user to log in"
-msgstr "Escolha do gestor de ecrã que ativa a seleção do utilizador autenticado"
+msgstr "Escolha o gestor de ecrã que ativa a seleção do utilizador autenticado"
 
 #: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
 #, c-format
@@ -1333,7 +1332,7 @@ msgstr "Configurar 'firewall' pessoal"
 #, c-format
 msgid ""
 "Set up a personal firewall in order to protect the computer and the network"
-msgstr "Configura a 'firewall' pessoal para proteção do computador e da rede"
+msgstr "Configure uma 'firewall' pessoal para proteção do computador e da rede"
 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
@@ -1383,7 +1382,7 @@ msgstr "Instalar e remover programas"
 #: ../lib/MDV/Control_Center.pm:271
 #, c-format
 msgid "Install, uninstall software"
-msgstr "Instala e remove programas"
+msgstr "Instale e remova programas"
 
 #: ../lib/MDV/Control_Center.pm:281
 #, c-format
@@ -1418,12 +1417,12 @@ msgstr "Gerir localização do sistema"
 #: ../lib/MDV/Control_Center.pm:312
 #, c-format
 msgid "Select the language and the country or region of the system"
-msgstr "Seleciona o idioma, o país ou região do sistema"
+msgstr "Selecione o idioma, o país ou região do sistema"
 
 #: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
 #, c-format
 msgid "View and search system logs"
-msgstr "Ver e procurar registos do sistema"
+msgstr "Pesquisar e analisar registos do sistema"
 
 #: ../lib/MDV/Control_Center.pm:330
 #, c-format
@@ -1433,7 +1432,7 @@ msgstr "Gerir conexões"
 #: ../lib/MDV/Control_Center.pm:331
 #, c-format
 msgid "Reconfigure a network interface"
-msgstr "Configura a interface de rede"
+msgstr "Configurar um interface de rede"
 
 #: ../lib/MDV/Control_Center.pm:340
 #, c-format
@@ -1488,7 +1487,7 @@ msgstr "Monitorizar conexões"
 #: ../lib/MDV/Control_Center.pm:390
 #, c-format
 msgid "Monitor the network connections"
-msgstr "Monitoriza as conexões da rede"
+msgstr "Monitorizar as conexões da rede"
 
 #: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
 #, c-format
@@ -1513,7 +1512,7 @@ msgstr "Gerir diferentes perfis de rede"
 #: ../lib/MDV/Control_Center.pm:429
 #, c-format
 msgid "Activate and manage network profiles"
-msgstr "Ativa e gere perfis de rede"
+msgstr "Ativar e gerir perfis de rede"
 
 #: ../lib/MDV/Control_Center.pm:438
 #, c-format
@@ -1528,7 +1527,7 @@ msgstr "Definir pontos de montagem NFS"
 #: ../lib/MDV/Control_Center.pm:448
 #, c-format
 msgid "Share drives and directories using NFS"
-msgstr "Partilha diretórios e controladores usando NFS"
+msgstr "Partilhar unidades e diretórios NFS"
 
 #: ../lib/MDV/Control_Center.pm:449
 #, c-format
@@ -1553,7 +1552,7 @@ msgstr "Partilhar partições do disco"
 #: ../lib/MDV/Control_Center.pm:470
 #, c-format
 msgid "Set up sharing of your hard disk partitions"
-msgstr "Configura a partilha de partições do disco"
+msgstr "Configurar a partilha das partições do disco"
 
 #: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
 #, c-format
@@ -1598,7 +1597,7 @@ msgstr "Remover conexão"
 #: ../lib/MDV/Control_Center.pm:521
 #, c-format
 msgid "Delete a network interface"
-msgstr "Remove um interface de rede"
+msgstr "Remover um interface de rede"
 
 #: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
 #, c-format
@@ -1613,12 +1612,12 @@ msgstr "Aceder a unidades e diretórios partilhados Windows (SMB)"
 #: ../lib/MDV/Control_Center.pm:542
 #, c-format
 msgid "Configuration of Windows (Samba) shared drives and directories"
-msgstr "Configuração das unidades e diretórios Windows partilhados (Samba)"
+msgstr "Configuração das unidades e diretórios partilhados Windows (Samba)"
 
 #: ../lib/MDV/Control_Center.pm:551
 #, c-format
 msgid "Share drives and directories with Windows (SMB) systems"
-msgstr "Partilha unidades e diretórios com sistemas Windows (SMB)"
+msgstr "Partilhar unidades e diretórios com sistemas Windows (SMB)"
 
 #: ../lib/MDV/Control_Center.pm:552
 #, c-format
@@ -1638,7 +1637,7 @@ msgstr "Configurar segurança, permissões e auditoria do sistema"
 #: ../lib/MDV/Control_Center.pm:572
 #, c-format
 msgid "Set the system security level, periodic security audit and permissions"
-msgstr "Define o nível de segurança, auditoria de segurança periódica e permissões do sistema"
+msgstr "Definir o nível de segurança, auditoria de segurança periódica e permissões do sistema"
 
 #: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
 #, c-format
@@ -1690,7 +1689,7 @@ msgstr "Gerir utilizadores do sistema"
 #: ../lib/MDV/Control_Center.pm:648
 #, c-format
 msgid "Add, remove or change users of the system"
-msgstr "Adiciona, remove ou muda utilizadores do sistema"
+msgstr "Adicionar, remover ou mudar utilizadores do sistema"
 
 #: ../lib/MDV/Control_Center.pm:658
 #, c-format
@@ -1710,7 +1709,7 @@ msgstr "Configurar conexões VPN para proteger acesso à rede"
 #: ../lib/MDV/Control_Center.pm:678
 #, c-format
 msgid "Access WebDAV shared drives and directories"
-msgstr "Aceder a unidades e diretórios WebDAV partilhados"
+msgstr "Aceder a unidades e diretórios partilhados WebDAV"
 
 #: ../lib/MDV/Control_Center.pm:679
 #, c-format
@@ -1751,7 +1750,7 @@ msgstr ""
 #: ../print_launcher.pl:14 ../print_launcher.pl:21
 #, c-format
 msgid "Printing configuration"
-msgstr "Configuração de impressão"
+msgstr "Configuração da impressão"
 
 #: ../print_launcher.pl:30
 #, c-format
