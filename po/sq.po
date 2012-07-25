@@ -1,20 +1,21 @@
 # translation of drakconf-sq.po to albanian
 # Copyright (C) 2003 Free Software Foundation, Inc.
-# Laurent Dhima <laurenti@alblinux.net>, 2001, 2003
-# Naim Daka <naim70@freesurf.ch>, 2003
+# Laurent Dhima <laurenti@alblinux.net>, 2001, 2003.
+# Naim Daka <naim70@freesurf.ch>, 2003.
+# Agron Selimaj <as9902613@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: drakconf-sq\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-30 20:27+0200\n"
-"PO-Revision-Date: 2003-02-17 14:29+0100\n"
-"Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
-"Language-Team: albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2012-06-29 01:08-0400\n"
+"Last-Translator: Agron Selimaj <as9902613@gmail.com>\n"
+"Language-Team: Albanian <kde-shqip@yahoogroups.com>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0\n"
+"X-Generator: Lokalize 1.2\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../contributors.pl:11
@@ -541,9 +542,9 @@ msgstr "Menagjuesi Softver"
 
 #: ../control-center:166 ../control-center:354 ../control-center:389
 #: ../control-center:547
-#, fuzzy, c-format
+#, c-format
 msgid "Others"
-msgstr "përdorues"
+msgstr "Të tjerët"
 
 #: ../control-center:176
 #, c-format
