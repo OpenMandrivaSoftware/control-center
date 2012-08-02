@@ -432,7 +432,7 @@ my @tree = (
 
     [
         #-PO: please keep the following message very short: it must fit in the left list of MCC!!!
-        N("Network Sharing"), 'network-sharing-mdk', '',
+        N("Network Sharing"), 'network-sharing-mdk', 'mcc-networksharing',
         [
             {
                 title => N("Configure Windows(R) shares"),
