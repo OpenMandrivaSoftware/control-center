@@ -12,6 +12,8 @@ use common;
 
 local $_ = join '', @ARGV;
 
+delete $ENV{DISPLAY};
+
 /-h/ and die "usage: drakxconf\n";
 /-version/ and die 'version: $Id: drakxconf 254567 2009-03-23 09:22:59Z tv $\n';
 

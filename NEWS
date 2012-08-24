@@ -1,3 +1,5 @@
+- prevent running internal text mode UI in graphical mode (mga#7161)
+
 Version 12.31 - 24 August 2012 Thierry Vignaud
 
 - help fix for Network Sharing
