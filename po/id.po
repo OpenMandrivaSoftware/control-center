@@ -1,6 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Budi Rachmanto <rac@linux-mandrake.com>, 2001-2003
+# Willy Sudiarto Raharjo <willysr@gmail.com>, 2004 - 2007.
+# Erwien Samantha <erwiensamantha@gmail.com>, 2005.
+# Bayu <bayuart@yahoo.com>, 2005.
+# Ahmad Ramadhana <ahmad_ramadhana@yahoo.com.sg>, 2005.
+# Firdaus <dausnux@gmail.com>, 2005.
+# Sofian <sofianhanafi@yahoo.com>, 2005.
+# Kiki Syahadat <kiki.syahadat@yahoo.co.id>, 2012.
 #
 msgid ""
 msgstr ""
