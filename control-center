@@ -999,9 +999,7 @@ $view->signal_connect('navigation-requested' =>
                             $url =~ s!^/*!!; # not a path
 
                             # workaround wekbit calling navigation-requested with "/":
-                            if (!$url) {
-                                return 'accept';
-			    }
+                            return 'accept' if !$url;
 
                             # url can be a translated UTF-8 string (eg: for CD/DVD entries):
                             c::set_tagged_utf8($url);
