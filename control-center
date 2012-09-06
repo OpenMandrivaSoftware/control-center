@@ -995,7 +995,7 @@ $view->signal_connect('navigation-requested' =>
                             my $res = 'ignore';
 
                             # get the actual program ID:
-                            my $url = Glib::filename_from_uri($request->get_uri);
+                            my $url = eval { Glib::filename_from_uri($request->get_uri) };
                             $url =~ s!^/*!!; # not a path
 
                             # workaround wekbit calling navigation-requested with "/":
