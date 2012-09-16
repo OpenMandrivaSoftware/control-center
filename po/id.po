@@ -25,7 +25,7 @@ msgstr ""
 #: ../contributors.pl:11
 #, c-format
 msgid "Packagers"
-msgstr "Pemaket"
+msgstr "Packager"
 
 #: ../contributors.pl:12 ../contributors.pl:40
 #, c-format
@@ -39,7 +39,7 @@ msgid ""
 "Mandriva tools"
 msgstr ""
 "membangun dan membersihkan paket masif, permainan, port sparc, mengoreksi "
-"peralatan Mandriva"
+"tool Mandriva"
 
 #: ../contributors.pl:13
 #, c-format
@@ -69,7 +69,7 @@ msgstr "Marcel Pol"
 #: ../contributors.pl:15
 #, c-format
 msgid "xfce4, updated abiword, mono"
-msgstr "xfce4, abiword termutakhir, mono"
+msgstr "xfce4, abiword terupdate, mono"
 
 #: ../contributors.pl:16
 #, c-format
@@ -82,7 +82,7 @@ msgid ""
 "updated nc with debian patches, fixed some perl packages, dnotify startup "
 "script, urpmc, hddtemp, wipe, etc..."
 msgstr ""
-"nc termutakhir dengan patch debian, perbaikan beberapa paket perl, skrip startup "
+"nc terupdate dengan patch debian, perbaikan beberapa paket perl, skrip startup "
 "dnotify, urpmc, hddtemp, wipe, dll..."
 
 #: ../contributors.pl:17 ../contributors.pl:42
@@ -131,7 +131,7 @@ msgid ""
 "software (grass, mapserver), cursor_themes collection, misc server-side "
 "contributions"
 msgstr ""
-"Samba 3.0 (prarilis) yang terdapat pada Samba 2.2.x, Samba-2.2.x, perangkat lunak "
+"Samba 3.0 (prarilis) yang terdapat pada Samba 2.2.x, Samba-2.2.x, software "
 "GIS (grass, mapserver), koleksi cursor_themes, kontribusi misc server-side"
 
 #: ../contributors.pl:21
@@ -145,7 +145,7 @@ msgid ""
 "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
 "python, rox desktop"
 msgstr ""
-"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
+"xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms dan plugin gnome-"
 "python, rox desktop"
 
 #: ../contributors.pl:22
@@ -200,7 +200,7 @@ msgstr "Stefan VanDer Eijk"
 #: ../contributors.pl:26
 #, c-format
 msgid "slbd distro checking, devel dependencies"
-msgstr "pemeriksaan distro slbd, ketergantungan devel"
+msgstr "pemeriksaan distro slbd, dependensi devel"
 
 #: ../contributors.pl:27
 #, c-format
@@ -220,7 +220,7 @@ msgstr "Andi Payn"
 #: ../contributors.pl:28
 #, c-format
 msgid "many extra gnome applets and python modules"
-msgstr "banyak tambahan applet gnome dan modul python"
+msgstr "banyak applet gnome ekstra dan modul python"
 
 #: ../contributors.pl:29 ../contributors.pl:41
 #, c-format
@@ -233,8 +233,8 @@ msgid ""
 "sk-i18n, contributed several packages, openldap testing and integration, "
 "bind-sdb-ldap, several years of using cooker and bug hunting, etc..."
 msgstr ""
-"sk-i18n, kontribusi beberapa paket, pengujian dan integrasi openldap, "
-"bind-sdb-ldap, beberapa tahun menggunakan cooker dan berburu kutu, dll..."
+"sk-i18n, kontribusi beberapa paket, testing dan integrasi openldap, "
+"bind-sdb-ldap, beberapa tahun menggunakan cooker dan berburu bug, dll..."
 
 #: ../contributors.pl:30
 #, c-format
@@ -244,7 +244,7 @@ msgstr "Pascal Terjan"
 #: ../contributors.pl:30
 #, c-format
 msgid "some ruby stuff, php-pear packages, various other stuff."
-msgstr "beberapa perangkat ruby, paket php-pear, hal-hal lainnya."
+msgstr "beberapa hal terkait ruby, paket php-pear, hal-hal lainnya."
 
 #: ../contributors.pl:31
 #, c-format
@@ -254,7 +254,7 @@ msgstr "Michael Reinsch"
 #: ../contributors.pl:31
 #, c-format
 msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
-msgstr "klon moin wiki, beep-media-player, im-ja dan beberapa pake lain"
+msgstr "kloning moin wiki, beep-media-player, im-ja dan beberapa pake lain"
 
 #: ../contributors.pl:32
 #, c-format
@@ -264,7 +264,7 @@ msgstr "Christophe Guilloux"
 #: ../contributors.pl:32
 #, c-format
 msgid "bug reports, help with thunderbird package,..."
-msgstr "pelaporan kutu, bantuan pada beberapa paket thunderbird,..."
+msgstr "pelaporan bug, bantuan pada beberapa paket thunderbird,..."
 
 #: ../contributors.pl:33
 #, c-format
@@ -277,7 +277,7 @@ msgid ""
 "testing and bug reports, Dovecot, bibletime, sword, help with pure-ftpd, "
 "spamassassin, maildrop, clamav."
 msgstr ""
-"pengujian dan pelaporan kutu, Davecot, bibletime, sword, bantuan pada pure-ftpd, "
+"testing dan pelaporan bug, Davecot, bibletime, sword, bantuan pada pure-ftpd, "
 "spamassassin, maildrop, clamav"
 
 #: ../contributors.pl:34
@@ -304,7 +304,7 @@ msgstr "Emmanuel Blindauer"
 #: ../contributors.pl:35
 #, c-format
 msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
-msgstr "lm_sensors untuk kernel 2.6, pengujian, beberapa paket contrib."
+msgstr "lm_sensors untuk kernel 2.6, testing, beberapa paket contrib."
 
 #: ../contributors.pl:36
 #, c-format
@@ -334,12 +334,12 @@ msgstr "sebagian tulisan/suntingan dari file gi/docs/HACKING"
 #: ../contributors.pl:39
 #, c-format
 msgid "Translators"
-msgstr "Penerjemah"
+msgstr "Translator"
 
 #: ../contributors.pl:40
 #, c-format
 msgid "Norwegian Bokmal (nb) translator and coordinator, i18n work"
-msgstr "Penerjemah dan koordinator bahasa Norwegia Bokmal (nb), pekerjaan i18n"
+msgstr "Translator dan koordinator bahasa Norwegia Bokmal (nb), pekerjaan i18n"
 
 #: ../contributors.pl:41
 #, c-format
@@ -349,7 +349,7 @@ msgstr "tim \"one-man\" mdk sk-i18n"
 #: ../contributors.pl:42
 #, c-format
 msgid "Finnish translator and coordinator"
-msgstr "Penerjemah dan koordinator bahasa Finlandia"
+msgstr "Translator dan koordinator bahasa Finlandia"
 
 #: ../contributors.pl:43
 #, c-format
@@ -359,7 +359,7 @@ msgstr "Reinout Van Schouwen"
 #: ../contributors.pl:43
 #, c-format
 msgid "Dutch translator and coordinator"
-msgstr "Penerjemah dan koordinator bahasa Belanda"
+msgstr "Translator dan koordinator bahasa Belanda"
 
 #: ../contributors.pl:44
 #, c-format
@@ -369,7 +369,7 @@ msgstr "Keld Simonsen"
 #: ../contributors.pl:44
 #, c-format
 msgid "Danish translator (and some Bokmal too:-)"
-msgstr "Penerjemah bahasa Denmark (dan beberapa bahasa Bokmal juga:-)"
+msgstr "Translator bahasa Denmark (dan beberapa bahasa Bokmal juga:-)"
 
 #: ../contributors.pl:45
 #, c-format
@@ -379,7 +379,7 @@ msgstr "Karl Ove Hufthammer"
 #: ../contributors.pl:45
 #, c-format
 msgid "Norwegian Nynorsk (nn) translator and coordinator"
-msgstr "Penerjemah dan koordinator bahasa Norwegia Nynorsk (nn)"
+msgstr "Translator dan koordinator bahasa Norwegia Nynorsk (nn)"
 
 #: ../contributors.pl:46
 #, c-format
@@ -389,7 +389,7 @@ msgstr "Marek Laane"
 #: ../contributors.pl:46
 #, c-format
 msgid "Estonian translator"
-msgstr "Penerjemah bahasa Estonia"
+msgstr "Translator bahasa Estonia"
 
 #: ../contributors.pl:47
 #, c-format
@@ -399,7 +399,7 @@ msgstr "Andrea Celli"
 #: ../contributors.pl:47 ../contributors.pl:48 ../contributors.pl:49
 #, c-format
 msgid "Italian Translator"
-msgstr "Penerjemah bahasa Italia"
+msgstr "Translator bahasa Italia"
 
 #: ../contributors.pl:48 ../contributors.pl:64
 #, c-format
@@ -419,12 +419,12 @@ msgstr "Vedran Ljubovic"
 #: ../contributors.pl:50
 #, c-format
 msgid "Bosnian translator"
-msgstr "Penerjemah bahasa Bosnia"
+msgstr "Translator bahasa Bosnia"
 
 #: ../contributors.pl:51
 #, c-format
 msgid "Testers"
-msgstr "Penguji"
+msgstr "Tester"
 
 #: ../contributors.pl:52
 #, c-format
@@ -434,7 +434,7 @@ msgstr "Benoit Audouard"
 #: ../contributors.pl:52
 #, c-format
 msgid "testing and bug reporting, integration of eagle-usb driver"
-msgstr "pengujian dan pelaporan kutu, integrasi dari penggerak eagle-usb"
+msgstr "testing dan pelaporan bug, integrasi driver eagle-usb"
 
 #: ../contributors.pl:53
 #, c-format
@@ -447,7 +447,7 @@ msgstr "Bernhard Gruen"
 #: ../contributors.pl:62
 #, c-format
 msgid "testing and bug reporting"
-msgstr "pengujian dan pelaporan kutu"
+msgstr "testing dan pelaporan bug"
 
 #: ../contributors.pl:54
 #, c-format
@@ -502,13 +502,13 @@ msgstr "Raphael Gertz"
 #: ../contributors.pl:63
 #, c-format
 msgid "testing, bug report, Nvidia package try"
-msgstr "pengujian, pelaporan kutu, percobaan pake Nvidia"
+msgstr "testing, pelaporan bug, percobaan paket Nvidia"
 
 #: ../contributors.pl:64 ../contributors.pl:65 ../contributors.pl:66
 #: ../contributors.pl:67 ../contributors.pl:68 ../contributors.pl:69
 #, c-format
 msgid "testing, bug reporting"
-msgstr "pengujian, pelaporan kutu"
+msgstr "testing, pelaporan bug"
 
 #: ../contributors.pl:66
 #, c-format
@@ -533,7 +533,7 @@ msgstr "Vincent Meyer"
 #: ../contributors.pl:70
 #, c-format
 msgid "MD, testing, bug reporting"
-msgstr "MD, pengujian, pelaporan kutu"
+msgstr "MD, testing, pelaporan bug"
 
 #: ../contributors.pl:71
 #, c-format
@@ -541,7 +541,7 @@ msgid ""
 "And many unnamed and unknown beta testers and bug reporters that helped make "
 "sure it all worked right."
 msgstr ""
-"Dan banyak penguji beta dan pelapor kutu yang tidak diketahui namanya yang membantu "
+"Dan banyak tester beta dan pelapor bug yang tidak diketahui namanya yang membantu "
 "memastikan semuanya bekerja dengan baik."
 
 #: ../control-center:90
@@ -557,13 +557,13 @@ msgstr "Pusat Kendali %s"
 #: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
-msgstr "Memuat... Harap tunggu"
+msgstr "Memuat... Silakan menunggu"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:151 ../control-center:155
 #, c-format
 msgid "Software Management"
-msgstr "Manajemen Perangkat Lunak"
+msgstr "Manajemen Software"
 
 #: ../control-center:166 ../control-center:354 ../control-center:389
 #: ../control-center:547
@@ -580,7 +580,7 @@ msgstr "Wizard server"
 #: ../control-center:179 ../control-center:182
 #, c-format
 msgid "Sharing"
-msgstr "Berbagi"
+msgstr "Sharing"
 
 #: ../control-center:185
 #, c-format
@@ -603,18 +603,18 @@ msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
 msgstr ""
-"Atur berkas dan pencetakan server untuk workstation yang menjalankan sistem "
+"Atur sebuah file dan print server untuk workstation yang menjalankan sistem "
 "Linux dan non-Linux"
 
 #: ../control-center:191
 #, c-format
 msgid "Manage Samba share"
-msgstr "Kelola pembagian Samba"
+msgstr "Kelola share Samba"
 
 #: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
-msgstr "Kelola, buat pembagian khusus, buat pembagian publik/pengguna"
+msgstr "Kelola, buat share khusus, buat share publik/pengguna"
 
 #: ../control-center:194
 #, c-format
@@ -634,7 +634,7 @@ msgstr "Konfigurasi server instalasi"
 #: ../control-center:198
 #, c-format
 msgid "Set up server for network installations of %s"
-msgstr "Atur server untuk instalasi jaringan dari %s"
+msgstr "Atur server untuk instalasi jaringan %s"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:208 ../control-center:211
@@ -670,7 +670,7 @@ msgstr "Konfigurasi proxy"
 #: ../control-center:221
 #, c-format
 msgid "Configure a web caching proxy server"
-msgstr "Konfigurasi web caching proxy server"
+msgstr "Konfigurasi sebuah web caching proxy server"
 
 #: ../control-center:223
 #, c-format
@@ -730,7 +730,7 @@ msgstr "Konfigurasi berita"
 #: ../control-center:267
 #, c-format
 msgid "Configure a newsgroup server"
-msgstr "Konfigurasi server newsgroup"
+msgstr "Konfigurasi sebuah server newsgroup"
 
 #: ../control-center:269
 #, c-format
@@ -740,12 +740,12 @@ msgstr "Konfigurasi groupware"
 #: ../control-center:270
 #, c-format
 msgid "Configure a groupware server"
-msgstr "Konfigurasi server groupware"
+msgstr "Konfigurasi sebuah server groupware"
 
 #: ../control-center:272
 #, c-format
 msgid "Configure mail"
-msgstr "Konfigurasi surat"
+msgstr "Konfigurasi mail"
 
 #: ../control-center:273
 #, c-format
@@ -771,28 +771,28 @@ msgstr "Konfigurasi mesin lokal via antarmuka web"
 #: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
-msgstr "Sepertinya Anda tidak memiliki webmin yang terinstall. Konfigurasi lokal dinonaktifkan"
+msgstr "Sepertinya Anda tidak memiliki webmin yang terinstall. Konfigurasi lokal ditiadakan"
 
 #: ../control-center:307
 #, c-format
 msgid "Remote administration"
-msgstr "Administrasi jarak jauh"
+msgstr "Administrasi remote"
 
 #: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
-msgstr "Klik di sini jika Anda ingin mengkonfigurasi mesin jarak jauh via antarmuka Web"
+msgstr "Klik di sini jika Anda ingin mengkonfigurasi mesin remote via antarmuka Web"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:322
 #, c-format
 msgid "Hardware"
-msgstr "Perangkat keras"
+msgstr "Hardware"
 
 #: ../control-center:325
 #, c-format
 msgid "Manage your hardware"
-msgstr "Kelola perangkat keras Anda"
+msgstr "Kelola hardware Anda"
 
 #: ../control-center:332
 #, c-format
@@ -802,12 +802,12 @@ msgstr "Konfigurasi grafis"
 #: ../control-center:339
 #, c-format
 msgid "Configure mouse and keyboard"
-msgstr "Konfigurasi tetikus dan papan ketik"
+msgstr "Konfigurasi mouse dan keyboard"
 
 #: ../control-center:346
 #, c-format
 msgid "Configure printing and scanning"
-msgstr "Konfigurasi percetakan dan pemindaian"
+msgstr "Konfigurasi printing dan scanning"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:364 ../drakxconf:31
@@ -818,7 +818,7 @@ msgstr "Jaringan & Internet"
 #: ../control-center:367 ../lib/MDV/Control_Center.pm:419
 #, c-format
 msgid "Manage your network devices"
-msgstr "Kelola perangkat jaringan Anda"
+msgstr "Kelola device jaringan Anda"
 
 #: ../control-center:380
 #, c-format
@@ -844,28 +844,28 @@ msgstr "Lokalisasi"
 #: ../control-center:418
 #, c-format
 msgid "Administration tools"
-msgstr "Peralatan administrasi"
+msgstr "Tool administrasi"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:435
 #, c-format
 msgid "Network Sharing"
-msgstr "Pembagian Jaringan"
+msgstr "Sharing Jaringan"
 
 #: ../control-center:438
 #, c-format
 msgid "Configure Windows(R) shares"
-msgstr "Konfigurasi berbagi Windows(R)"
+msgstr "Konfigurasi share Windows(R)"
 
 #: ../control-center:445
 #, c-format
 msgid "Configure NFS shares"
-msgstr "Konfigurasi berbagi NFS"
+msgstr "Konfigurasi share NFS"
 
 #: ../control-center:452
 #, c-format
 msgid "Configure WebDAV shares"
-msgstr "Konfigurasi berbagi WebDAV"
+msgstr "Konfigurasi share WebDAV"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:462 ../control-center:465
@@ -881,7 +881,7 @@ msgstr "CD-ROM (%s)"
 #: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
-msgstr "Atur dimana CD-ROM \"%s\" Anda dikaitkan"
+msgstr "Atur di mana CD-ROM \"%s\" Anda dimount"
 
 #: ../control-center:492
 #, c-format
@@ -891,17 +891,17 @@ msgstr "DVD-ROM (%s)"
 #: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
-msgstr "Atur dimana drive DVD-ROM \"%s\" Anda akan dikaitkan"
+msgstr "Atur di mana drive DVD-ROM \"%s\" Anda akan dimount"
 
 #: ../control-center:495
 #, c-format
 msgid "CD/DVD burner (%s)"
-msgstr "Pembakar CD/DVD (%s)"
+msgstr "Burner CD/DVD (%s)"
 
 #: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
-msgstr "Atur dimana pembakar CD/DVD \"%s\" Anda akan dikaitkan"
+msgstr "Atur di mana burner CD/DVD \"%s\" Anda akan dimount"
 
 #: ../control-center:498
 #, c-format
@@ -911,7 +911,7 @@ msgstr "Drive ZIP"
 #: ../control-center:499
 #, c-format
 msgid "Set where your ZIP drive is mounted"
-msgstr "Atur dimana drive ZIP Anda akan dikaitkan"
+msgstr "Atur di mana drive ZIP Anda akan dimount"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:511 ../control-center:514
@@ -954,17 +954,17 @@ msgstr "/Menampilkan _Log"
 #: ../control-center:614
 #, c-format
 msgid "/_Embedded Mode"
-msgstr "/_Modus Terpadu"
+msgstr "/_Mode Terpadu"
 
 #: ../control-center:615
 #, c-format
 msgid "/Expert mode in _wizards"
-msgstr "/Modus ahli dalam _wizard"
+msgstr "/Mode ahli dalam _wizard"
 
 #: ../control-center:625 ../control-center:626
 #, c-format
 msgid "/_File"
-msgstr "/_Berkas"
+msgstr "/_File"
 
 #: ../control-center:626
 #, c-format
@@ -1033,7 +1033,7 @@ msgstr "/_Kesalahan"
 #: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
-msgstr "/_Laporkan Kutu"
+msgstr "/_Laporkan Bug"
 
 #: ../control-center:676
 #, c-format
@@ -1053,7 +1053,7 @@ msgstr "Pusat Kendali %s %s [pada %s]"
 #: ../control-center:1039 ../control-center:1104
 #, c-format
 msgid "Error"
-msgstr "Galat"
+msgstr "Error"
 
 #: ../control-center:1039
 #, c-format
@@ -1062,9 +1062,9 @@ msgid ""
 "\n"
 "Please report that bug."
 msgstr ""
-"Terdapat kutu dalam terjemahan bahasa Anda (%s)\n"
+"Terdapat sebuah bug dalam terjemahan bahasa Anda (%s)\n"
 "\n"
-"Harap laporkan kutu tersebut."
+"Silakan laporkan bug tersebut."
 
 #: ../control-center:1104
 #, c-format
@@ -1074,7 +1074,7 @@ msgstr "Tidak memungkinkan untuk menjalankan program '%s' yang tidak diketahui"
 #: ../control-center:1123
 #, c-format
 msgid "The modifications done in the current module won't be saved."
-msgstr "Perubahan yang telah dilakukan pada modul ini tidak akan disimpan."
+msgstr "Modifikasi yang telah dilakukan pada modul saat ini tidak akan disimpan."
 
 #: ../control-center:1210
 #, c-format
@@ -1089,7 +1089,7 @@ msgstr "tidak dapat melakukan fork dan exec \"%s\" karena tidak dapat dieksekusi
 #: ../control-center:1372
 #, c-format
 msgid "This program has exited abnormally"
-msgstr "Program ini telah ditutup dengan tidak normal"
+msgstr "Program ini telah ditutup secara abnormal"
 
 #: ../control-center:1381
 #, c-format
@@ -1171,7 +1171,7 @@ msgstr ""
 #: ../control-center:1474
 #, c-format
 msgid "Translator: "
-msgstr "Penerjemah: "
+msgstr "Translator: "
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
@@ -1184,12 +1184,12 @@ msgstr "Pusat Kendali %s %s (%s)"
 #: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
-msgstr "Copyright (C) %s Mandriva SA"
+msgstr "Hak Cipta (C) %s Mandriva SA"
 
 #: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mageia"
-msgstr "Copyright (C) %s Mageia"
+msgstr "Hak Cipta (C) %s Mageia"
 
 #: ../control-center:1494
 #, c-format
@@ -1209,17 +1209,17 @@ msgstr "DrakConsole"
 #: ../drakxconf:28
 #, c-format
 msgid "Display"
-msgstr "Tampilan"
+msgstr "Display"
 
 #: ../drakxconf:29
 #, c-format
 msgid "Keyboard"
-msgstr "Papan Ketik"
+msgstr "Keyboard"
 
 #: ../drakxconf:30
 #, c-format
 msgid "Mouse"
-msgstr "Tetikus"
+msgstr "Mouse"
 
 #: ../drakxconf:32
 #, c-format
@@ -1249,7 +1249,7 @@ msgstr "Instalasi Otomatis"
 #: ../drakxconf:37
 #, c-format
 msgid "Internet connection sharing"
-msgstr "Pembagian koneksi internet"
+msgstr "Sharing koneksi internet"
 
 #: ../drakxconf:38
 #, c-format
@@ -1269,7 +1269,7 @@ msgstr "Pusat Kendali"
 #: ../drakxconf:42
 #, c-format
 msgid "Choose the tool you want to use"
-msgstr "Pilih alat yang ingin Anda gunakan"
+msgstr "Pilih tool yang ingin Anda gunakan"
 
 #: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
 #, c-format
@@ -1316,7 +1316,7 @@ msgstr "Atur sistem boot"
 #: ../lib/MDV/Control_Center.pm:109
 #, c-format
 msgid "Set up how the system boots"
-msgstr "Atur bagaimana sistem di-boot"
+msgstr "Atur bagaimana sistem diboot"
 
 #: ../lib/MDV/Control_Center.pm:118
 #, c-format
@@ -1331,7 +1331,7 @@ msgstr "Pilih tema grafis sistem saat booting"
 #: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
 #, c-format
 msgid "Share the Internet connection with other local machines"
-msgstr "Bagi koneksi Internet dengan mesin lokal lain"
+msgstr "Share koneksi Internet dengan mesin lokal lain"
 
 #: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
 #, c-format
@@ -1361,17 +1361,17 @@ msgstr "Kelola tanggal dan waktu"
 #: ../lib/MDV/Control_Center.pm:179
 #, c-format
 msgid "Set up display manager"
-msgstr "Atur manajer tampilan"
+msgstr "Atur manajer display"
 
 #: ../lib/MDV/Control_Center.pm:180
 #, c-format
 msgid "Choose the display manager that enables to select which user to log in"
-msgstr "Pilih manajer tampilan yang mengaktifkan pemilihan pengguna untuk log in"
+msgstr "Pilih manajer display yang mengaktifkan pemilihan pengguna untuk log in"
 
 #: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
 #, c-format
 msgid "Configure a fax server"
-msgstr "Konfigurasi server fax"
+msgstr "Konfigurasi sebuah server fax"
 
 #: ../lib/MDV/Control_Center.pm:199
 #, c-format
@@ -1383,12 +1383,12 @@ msgstr "Atur firewall pribadi Anda"
 msgid ""
 "Set up a personal firewall in order to protect the computer and the network"
 msgstr ""
-"Atur firewall pribadi untuk memproteksi komputer dan jaringan"
+"Atur sebuah firewall pribadi untuk memproteksi komputer dan jaringan"
 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "Kelola, tambah dan hapus font. Impor font Windows (TM)"
+msgstr "Kelola, tambah dan hapus font. Impor font Windows(TM)"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1408,7 +1408,7 @@ msgstr "Buat, hapus dan ubah partisi hard disk"
 #: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
 #, c-format
 msgid "Browse and configure hardware"
-msgstr "Telusuri dan konfigurasi perangkat keras"
+msgstr "Telusuri dan konfigurasi hadrware"
 
 #: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
 #, c-format
@@ -1428,12 +1428,12 @@ msgstr "Kelola definisi host"
 #: ../lib/MDV/Control_Center.pm:270
 #, c-format
 msgid "Install & Remove Software"
-msgstr "Install & Hapus Perangkat Lunak"
+msgstr "Install & Hapus Software"
 
 #: ../lib/MDV/Control_Center.pm:271
 #, c-format
 msgid "Install, uninstall software"
-msgstr "Install, uninstall perangkat lunak"
+msgstr "Install, uninstall software"
 
 #: ../lib/MDV/Control_Center.pm:281
 #, c-format
@@ -1448,7 +1448,7 @@ msgstr "Atur antarmuka jaringan tangguh dan replikasi firewall"
 #: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
 #, c-format
 msgid "Set up the keyboard layout"
-msgstr "Atur tata letak papan ketik"
+msgstr "Atur layout keyboard"
 
 #: ../lib/MDV/Control_Center.pm:301
 #, c-format
@@ -1458,7 +1458,7 @@ msgstr "Kolab"
 #: ../lib/MDV/Control_Center.pm:302
 #, c-format
 msgid "Set up a groupware server"
-msgstr "Atur server groupware"
+msgstr "Atur sebuah server groupware"
 
 #: ../lib/MDV/Control_Center.pm:311
 #, c-format
@@ -1493,12 +1493,12 @@ msgstr "Kelola grup komputer"
 #: ../lib/MDV/Control_Center.pm:341
 #, c-format
 msgid "Manage installed software packages on a group of computers"
-msgstr "Kelola paket perangkat lunak terinstall dalam sebuah grup komputer"
+msgstr "Kelola paket software terinstall dalam sebuah grup komputer"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
 msgid "Configure authentication for Mageia tools"
-msgstr "Konfigurasi otentikasi peralatan Mageia"
+msgstr "Konfigurasi otentikasi untuk tool Mageia"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
@@ -1506,13 +1506,13 @@ msgid ""
 "Define authentication required to access individual Mageia configuration "
 "tools "
 msgstr ""
-"Tentukan otentikasi yang diperlukan untuk mengakses peralatan konfigurasi "
-"individu Mageia "
+"Tentukan otentikasi yang diperlukan untuk mengakses tool konfigurasi individu"
+"Mageia "
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
 msgid "Update your system"
-msgstr "Mutakhirkan sistem Anda"
+msgstr "Update sistem Anda"
 
 #: ../lib/MDV/Control_Center.pm:359
 #, c-format
@@ -1520,7 +1520,7 @@ msgid ""
 "Look at available updates and apply any fixes or upgrades to installed "
 "packages"
 msgstr ""
-"Lihat pada pemutakhiran yang tersedia dan terapkan semua perbaikan atau peningkatan "
+"Lihat pada update yang tersedia dan terapkan semua perbaikan atau upgrade "
 "pada paket-paket terinstall"
 
 #: ../lib/MDV/Control_Center.pm:369
@@ -1536,7 +1536,7 @@ msgstr "Konfigurasi Gaya Menu"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "Impor dokumen dan pengaturan Windows(TM)"
+msgstr "Impor documents and settings Windows(TM)"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format
@@ -1551,12 +1551,12 @@ msgstr "Monitor koneksi jaringan"
 #: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
 #, c-format
 msgid "Set up the pointer device (mouse, touchpad)"
-msgstr "Atur perangkat pointer (tetikus, panel sentuh)"
+msgstr "Atur device pointer (mouse, touchpad)"
 
 #: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
 #, c-format
 msgid "Parental Controls"
-msgstr "Kendali Orangtua"
+msgstr "Parental Control"
 
 #: ../lib/MDV/Control_Center.pm:418
 #, c-format
@@ -1576,22 +1576,22 @@ msgstr "Aktifkan dan kelola profil jaringan"
 #: ../lib/MDV/Control_Center.pm:438
 #, c-format
 msgid "Access NFS shared drives and directories"
-msgstr "Akses drive dan direktori pembagian NFS"
+msgstr "Akses drive dan direktori share NFS"
 
 #: ../lib/MDV/Control_Center.pm:439
 #, c-format
 msgid "Set NFS mount points"
-msgstr "Tetapkan titik kait NFS"
+msgstr "Tetapkan mount point NFS"
 
 #: ../lib/MDV/Control_Center.pm:448
 #, c-format
 msgid "Share drives and directories using NFS"
-msgstr "Bagikan drive dan direktori menggunakan NFS"
+msgstr "Share drive dan direktori menggunakan NFS"
 
 #: ../lib/MDV/Control_Center.pm:449
 #, c-format
 msgid "Manage NFS shares"
-msgstr "Kelola pembagian NFS"
+msgstr "Kelola share NFS"
 
 #: ../lib/MDV/Control_Center.pm:459
 #, c-format
@@ -1606,17 +1606,17 @@ msgstr "Tampilkan statistik penggunaan paket software terinstall"
 #: ../lib/MDV/Control_Center.pm:469
 #, c-format
 msgid "Share your hard disk partitions"
-msgstr "Bagikan partisi hard disk Anda"
+msgstr "Share partisi hard disk Anda"
 
 #: ../lib/MDV/Control_Center.pm:470
 #, c-format
 msgid "Set up sharing of your hard disk partitions"
-msgstr "Atur pembagian partisi hard disk Anda"
+msgstr "Atur share partisi hard disk Anda"
 
 #: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
 #, c-format
 msgid "Set up the printer(s), the print job queues, ..."
-msgstr "Atur printer, antrian pencetakan, ..."
+msgstr "Atur printer, antrian pekerjaan untuk diprint, ..."
 
 #: ../lib/MDV/Control_Center.pm:491
 #, c-format
@@ -1636,17 +1636,17 @@ msgstr "Proxy"
 #: ../lib/MDV/Control_Center.pm:502
 #, c-format
 msgid "Set up a proxy server for files and web browsing"
-msgstr "Atur server proxy untu berkas dan browsing web"
+msgstr "Atur server proxy untuk file dan browsing web"
 
 #: ../lib/MDV/Control_Center.pm:510
 #, c-format
 msgid "Remote Control (Linux/Unix, Windows)"
-msgstr "Kendali Jarak jauh (Linux/Unix, Windows)"
+msgstr "Remote Control (Linux/Unix, Windows)"
 
 #: ../lib/MDV/Control_Center.pm:511
 #, c-format
 msgid "Remote Control of another machine (Linux/Unix, Windows)"
-msgstr "Kendali Jarak jauh komputer lain (Linux/Unix, Windows)"
+msgstr "Remote Control untuk komputer lain (Linux/Unix, Windows)"
 
 #: ../lib/MDV/Control_Center.pm:520
 #, c-format
@@ -1666,17 +1666,17 @@ msgstr "Koneksi nirkabel"
 #: ../lib/MDV/Control_Center.pm:541
 #, c-format
 msgid "Access Windows (SMB) shared drives and directories"
-msgstr "Akses pembagian drive dan direktori Windows (SMB)"
+msgstr "Akses share drive dan direktori Windows (SMB)"
 
 #: ../lib/MDV/Control_Center.pm:542
 #, c-format
 msgid "Configuration of Windows (Samba) shared drives and directories"
-msgstr "Konfigurasi pembagian drive dan direktori Windows (Samba)"
+msgstr "Konfigurasi share drive dan direktori Windows (Samba)"
 
 #: ../lib/MDV/Control_Center.pm:551
 #, c-format
 msgid "Share drives and directories with Windows (SMB) systems"
-msgstr "Bagikan drive dan direktori dengan sistem Windows (SMB)"
+msgstr "Share drive dan direktori dengan sistem Windows (SMB)"
 
 #: ../lib/MDV/Control_Center.pm:552
 #, c-format
@@ -1686,7 +1686,7 @@ msgstr "Kelola konfigurasi Samba"
 #: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
 #, c-format
 msgid "Set up scanner"
-msgstr "Atur pemindai"
+msgstr "Atur scanner"
 
 #: ../lib/MDV/Control_Center.pm:571
 #, c-format
@@ -1706,17 +1706,17 @@ msgstr "Kelola layanan sistem dengan mengaktifkan atau menonaktifkan"
 #: ../lib/MDV/Control_Center.pm:592
 #, c-format
 msgid "Configure media sources for install and update"
-msgstr "Konfigurasi sumber media untuk menginstall dan pemutakhiran"
+msgstr "Konfigurasi sumber media untuk install dan update"
 
 #: ../lib/MDV/Control_Center.pm:593
 #, c-format
 msgid "Select from where software packages are downloaded "
-msgstr "Pilih dari mana paket software diunduh"
+msgstr "Pilih dari mana paket software didownload"
 
 #: ../lib/MDV/Control_Center.pm:603
 #, c-format
 msgid "Configure updates frequency"
-msgstr "Konfigurasi frekuensi pemutakhiran"
+msgstr "Konfigurasi frekuensi update"
 
 #: ../lib/MDV/Control_Center.pm:612
 #, c-format
@@ -1738,7 +1738,7 @@ msgstr "Lihat dan konfigurasi kebijakan keamanan Tomoyo Linux"
 #: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
 #, c-format
 msgid "Set up a UPS for power monitoring"
-msgstr "Atur UPS untuk memantau daya"
+msgstr "Atur sebuah UPS untuk memantau daya"
 
 #: ../lib/MDV/Control_Center.pm:647
 #, c-format
@@ -1768,12 +1768,12 @@ msgstr "Konfigurasi koneksi VPN untuk mengamankan akses jaringan"
 #: ../lib/MDV/Control_Center.pm:678
 #, c-format
 msgid "Access WebDAV shared drives and directories"
-msgstr "Akses drive dan direktori pembagian WebDAV"
+msgstr "Akses drive dan direktori share WebDAV"
 
 #: ../lib/MDV/Control_Center.pm:679
 #, c-format
 msgid "Set WebDAV mount points"
-msgstr "Tentukan titik kait WebDAV"
+msgstr "Tentukan mount point WebDAV"
 
 #: ../menus_launcher.pl:19 ../menus_launcher.pl:41
 #, c-format
@@ -1809,12 +1809,12 @@ msgstr ""
 #: ../print_launcher.pl:14 ../print_launcher.pl:21
 #, c-format
 msgid "Printing configuration"
-msgstr "Konfigurasi pencetakan"
+msgstr "Konfigurasi printer"
 
 #: ../print_launcher.pl:30
 #, c-format
 msgid "Click here to configure the printing system"
-msgstr "Klik di sini untuk konfigurasi sistem pencetakan"
+msgstr "Klik di sini untuk konfigurasi sistem printer"
 
 #: ../print_launcher.pl:37
 #, c-format
@@ -1847,7 +1847,7 @@ msgstr "Penjadwalan program"
 
 #: ../data/drakdm.desktop.in.h:1
 msgid "Display manager"
-msgstr "Manajer tampilan"
+msgstr "Manajer display"
 
 #: ../data/drakfloppy.desktop.in.h:1
 msgid "Boot floppy"
@@ -1863,7 +1863,7 @@ msgstr "Perizinan"
 
 #: ../data/draksec.desktop.in.h:1
 msgid "Levels and Checks"
-msgstr "Tingkatan dan Pemeriksaan"
+msgstr "Level dan Pemeriksaan"
 
 #: ../data/drakxtv.desktop.in.h:1
 msgid "TV Cards"
@@ -1871,7 +1871,7 @@ msgstr "Kartu TV"
 
 #: ../data/fileshare.desktop.in.h:1
 msgid "Partition Sharing"
-msgstr "Pembagian Partisi"
+msgstr "Sharing Partisi"
 
 #: ../data/harddrive.desktop.in.h:1
 msgid "Hard Drives"
@@ -1887,11 +1887,11 @@ msgstr "Menu"
 
 #: ../data/MountPoints.directory.in.h:1
 msgid "Mount Points"
-msgstr "Titik Kait"
+msgstr "Mount Point"
 
 #: ../data/nfs.desktop.in.h:1
 msgid "NFS mount points"
-msgstr "Titik kait NFS"
+msgstr "Mount Point NFS"
 
 #: ../data/printerdrake.desktop.in.h:1
 msgid "Printers"
@@ -1903,7 +1903,7 @@ msgstr "Konfigurasi Proxy"
 
 #: ../data/removable.desktop.in.h:1
 msgid "Removable devices"
-msgstr "Perangkat yang dapat dilepas"
+msgstr "Device yang dapat dilepas"
 
 #: ../data/remove-connection.desktop.in.h:1
 msgid "Remove Connection"
@@ -1911,7 +1911,7 @@ msgstr "Hapus Koneksi"
 
 #: ../data/samba.desktop.in.h:1
 msgid "Samba mount points"
-msgstr "Titik kait Samba"
+msgstr "Mount Point Samba"
 
 #: ../data/scannerdrake.desktop.in.h:1
 msgid "Scanners"
@@ -1927,7 +1927,7 @@ msgstr "Pengguna dan Grup"
 
 #: ../data/webdav.desktop.in.h:1
 msgid "WebDAV mount points"
-msgstr "Titik kait WebDAV"
+msgstr "Mount Point WebDAV"
 
 #: ../data/XFDrake.desktop.in.h:1
 msgid "Graphical server"
