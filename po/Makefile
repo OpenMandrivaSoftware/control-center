@@ -52,3 +52,5 @@ merge:
 		mv -f "$$n"t "$$n"; \
 	done
 
+check:
+	for i in *.po; do msgfmt -c $$i -o /dev/null; done 
