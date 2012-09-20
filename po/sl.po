@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2012-05-30 20:27+0200\n"
-"PO-Revision-Date: 2012-06-20 19:14+0100\n"
+"PO-Revision-Date: 2012-09-20 21:18+0200\n"
 "Last-Translator: Filip Komar <filip.komar@gmail.com>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>, Translation list <mageia-"
 "i18n@mageia.org>\n"
@@ -1213,7 +1213,7 @@ msgstr "Avtorji"
 #: ../control-center:1495
 #, c-format
 msgid "Mageia Contributors"
-msgstr "Prispevali so k Mageii"
+msgstr "Mageji so prispevali"
 
 #: ../drakconsole:27
 #, c-format
@@ -1515,7 +1515,7 @@ msgstr "Upravljajte z nameščenimi programskimi paketi na skupini računalnikov
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
 msgid "Configure authentication for Mageia tools"
-msgstr "Nastavite overjanje za Mageiina orodja"
+msgstr "Nastavite overjanje za Magejina orodja"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
@@ -1523,7 +1523,7 @@ msgid ""
 "Define authentication required to access individual Mageia configuration "
 "tools "
 msgstr ""
-"Določite overjanje, ki je potrebno za dostop do posamičnih Mageiinih "
+"Določite overjanje, ki je potrebno za dostop do posamičnih Magejinih "
 "nastavitvenih orodij "
 
 #: ../lib/MDV/Control_Center.pm:358
