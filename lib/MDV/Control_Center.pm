@@ -164,7 +164,7 @@ our %programs =
 
    "Date & Time" =>
    {
-    binary => "$sbindir/clock.pl",
+    binary => "$sbindir/drakclock",
     embedded => 1,
     description => N("Manage date and time"),
     long_description => N("Manage date and time"),
