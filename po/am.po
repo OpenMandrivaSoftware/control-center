@@ -532,9 +532,9 @@ msgstr "በመጫን ላይ...እባክዎ ይተብቁ"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:151 ../control-center:155
-#, c-format
+#, fuzzy, c-format
 msgid "Software Management"
-msgstr ""
+msgstr "ማውጫዎች &አስተዳዳሪ"
 
 #: ../control-center:166 ../control-center:354 ../control-center:389
 #: ../control-center:547

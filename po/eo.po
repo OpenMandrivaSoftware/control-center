@@ -1423,9 +1423,9 @@ msgid "Manage hosts definitions"
 msgstr "Mastrumi difinojn de ĉefkomputilo"
 
 #: ../lib/MDV/Control_Center.pm:270
-#, fuzzy, c-format
+#, c-format
 msgid "Install & Remove Software"
-msgstr "Instali, malinstali programojn"
+msgstr "Instali kaj Forigi Programojn"
 
 #: ../lib/MDV/Control_Center.pm:271
 #, c-format

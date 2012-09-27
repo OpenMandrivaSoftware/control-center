@@ -1404,9 +1404,9 @@ msgid "Manage hosts definitions"
 msgstr "Puorvaļdeit hostu defenicejis"
 
 #: ../lib/MDV/Control_Center.pm:270
-#, fuzzy, c-format
+#, c-format
 msgid "Install & Remove Software"
-msgstr "Instalaceja naizadeve"
+msgstr "Instalēt & Nūjimt programmaturu"
 
 #: ../lib/MDV/Control_Center.pm:271
 #, c-format
