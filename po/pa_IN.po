@@ -536,9 +536,9 @@ msgstr ""
 "ਯਕੀਨ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰਦੇ ਹਨ।"
 
 #: ../control-center:90
-#, c-format
+#, fuzzy, c-format
 msgid "Mageia"
-msgstr ""
+msgstr "ਮੈਂਡਰਿਵ-ਆਨਲਾਈਨ"
 
 #: ../control-center:100 ../control-center:105
 #, c-format

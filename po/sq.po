@@ -520,9 +520,9 @@ msgid ""
 msgstr ""
 
 #: ../control-center:90
-#, c-format
+#, fuzzy, c-format
 msgid "Mageia"
-msgstr ""
+msgstr "Mageia Online"
 
 #: ../control-center:100 ../control-center:105
 #, c-format

@@ -519,9 +519,9 @@ msgid ""
 msgstr ""
 
 #: ../control-center:90
-#, c-format
+#, fuzzy, c-format
 msgid "Mageia"
-msgstr ""
+msgstr "맨드리바 온라인"
 
 #: ../control-center:100 ../control-center:105
 #, c-format

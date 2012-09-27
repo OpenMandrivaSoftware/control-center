@@ -535,9 +535,9 @@ msgstr ""
 "மற்றும் தெரியாத பீட்டா சோதனையாளர்கள் மற்றும் பிழை கண்டுபிடித்தவர்கள்."
 
 #: ../control-center:90
-#, c-format
+#, fuzzy, c-format
 msgid "Mageia"
-msgstr ""
+msgstr "மாண்ட்ேரக்இணைய"
 
 #: ../control-center:100 ../control-center:105
 #, c-format

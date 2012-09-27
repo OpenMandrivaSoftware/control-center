@@ -547,7 +547,7 @@ msgstr ""
 #: ../control-center:90
 #, c-format
 msgid "Mageia"
-msgstr ""
+msgstr "Mageia"
 
 #: ../control-center:100 ../control-center:105
 #, c-format

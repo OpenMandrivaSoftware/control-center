@@ -524,7 +524,7 @@ msgstr ""
 #: ../control-center:90
 #, c-format
 msgid "Mageia"
-msgstr ""
+msgstr "Мандрива Линукс"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -1853,7 +1853,7 @@ msgstr "Erfitt"
 #: ../data/logdrake.desktop.in.h:1
 #, fuzzy
 msgid "Logs"
-msgstr "Log"
+msgstr "Нэвтрэх нэр:"
 
 #: ../data/menudrake.desktop.in.h:1
 msgid "Menus"
