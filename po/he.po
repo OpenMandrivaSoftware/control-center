@@ -40,7 +40,7 @@ msgid ""
 "massive packages rebuilding and cleaning, games, sparc port, proofreading of "
 "Mandriva tools"
 msgstr ""
-"בנייה וניקוי חבילות בהיקף גדול, משחקים, היסב ל sparc, הגהה לכלים של מנדריבה "
+"בנייה וניקוי חבילות בהיקף גדול, משחקים, היסב ל sparc, הגהה לכלים של מגיה "
 
 #: ../contributors.pl:13
 #, c-format
@@ -551,7 +551,7 @@ msgstr "מנדריבה לינוקס"
 #: ../control-center:100 ../control-center:105
 #, fuzzy, c-format
 msgid "%s Control Center"
-msgstr "מרכז הבקרה של מנדריבה לינוקס"
+msgstr "מרכז הבקרה של מגיה לינוקס"
 
 #: ../control-center:106 ../control-center:1060
 #, c-format
@@ -632,7 +632,7 @@ msgstr "הגדרת שרת התקנה"
 #: ../control-center:198
 #, fuzzy, c-format
 msgid "Set up server for network installations of %s"
-msgstr "הגדרת שרת להתקנות מהרשת של מנדריבה לינוקס"
+msgstr "הגדרת שרת להתקנות מהרשת של מגיה לינוקס"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:208 ../control-center:211
@@ -1045,7 +1045,7 @@ msgstr "ביטול"
 #: ../control-center:752
 #, fuzzy, c-format
 msgid "%s Control Center %s [on %s]"
-msgstr "מרכז הבקרה של מנדריבה לינוקס %s על %s"
+msgstr "מרכז הבקרה של מגיה לינוקס %s על %s"
 
 #: ../control-center:1039 ../control-center:1104
 #, c-format
@@ -1121,7 +1121,7 @@ msgstr "השגת ערכות נושא מ־www.damz.net "
 #: ../control-center:1411
 #, fuzzy, c-format
 msgid "About - %s Control Center"
-msgstr "אודות מרכז הבקרה של מנדריבה לינוקס"
+msgstr "אודות מרכז הבקרה של מגיה לינוקס"
 
 #: ../control-center:1419
 #, c-format
@@ -1173,7 +1173,7 @@ msgstr "תרגום: "
 #: ../control-center:1483
 #, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
-msgstr "מרכז הבקרה של מנדריבה לינוקס %s (%s)"
+msgstr "מרכז הבקרה של מגיה לינוקס %s (%s)"
 
 #. -PO: here %s is eg: "1999-2008"
 #: ../control-center:1488
@@ -1194,7 +1194,7 @@ msgstr "מפתחים"
 #: ../control-center:1495
 #, fuzzy, c-format
 msgid "Mageia Contributors"
-msgstr "אנשים שתורמים או עוזרים למנדריבה לינוקס"
+msgstr "אנשים שתורמים או עוזרים למגיה לינוקס"
 
 #: ../drakconsole:27
 #, c-format
@@ -1937,11 +1937,11 @@ msgid "Mageia Control Center"
 msgstr "מרכז הבקרה"
 
 #~ msgid "Configure Your Computer"
-#~ msgstr "מרכז הבקרה של מנדריבה לינוקס"
+#~ msgstr "מרכז הבקרה של מגיה לינוקס"
 
 #, fuzzy
 #~ msgid "Mandriva Linux"
-#~ msgstr "אנשים שתורמים או עוזרים למנדריבה לינוקס"
+#~ msgstr "אנשים שתורמים או עוזרים למגיה לינוקס"
 
 #~ msgid "Set up security level and audit"
 #~ msgstr "הגדרת רמת האבטחה והביקורות"
@@ -1950,7 +1950,7 @@ msgstr "מרכז הבקרה"
 #~ msgstr "כינון ההרשאות על המערכת"
 
 #~ msgid "Welcome to the %s Control Center"
-#~ msgstr "ברוך בואך למרכז הבקרה של מנדריבה לינוקס"
+#~ msgstr "ברוך בואך למרכז הבקרה של מגיה לינוקס"
 
 #~ msgid "Generate an Auto Install floppy"
 #~ msgstr "יצירת תקליטון התקנה אוטומטית"
