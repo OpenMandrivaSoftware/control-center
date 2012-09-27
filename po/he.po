@@ -549,7 +549,7 @@ msgid "Mageia"
 msgstr "מנדריבה לינוקס"
 
 #: ../control-center:100 ../control-center:105
-#, c-format
+#, fuzzy, c-format
 msgid "%s Control Center"
 msgstr "מרכז הבקרה של מנדריבה לינוקס"
 
@@ -630,7 +630,7 @@ msgid "Configure installation server"
 msgstr "הגדרת שרת התקנה"
 
 #: ../control-center:198
-#, c-format
+#, fuzzy, c-format
 msgid "Set up server for network installations of %s"
 msgstr "הגדרת שרת להתקנות מהרשת של מנדריבה לינוקס"
 
@@ -1043,7 +1043,7 @@ msgid "Cancel"
 msgstr "ביטול"
 
 #: ../control-center:752
-#, c-format
+#, fuzzy, c-format
 msgid "%s Control Center %s [on %s]"
 msgstr "מרכז הבקרה של מנדריבה לינוקס %s על %s"
 
@@ -1119,7 +1119,7 @@ msgid "Get additional themes on www.damz.net"
 msgstr "השגת ערכות נושא מ־www.damz.net "
 
 #: ../control-center:1411
-#, c-format
+#, fuzzy, c-format
 msgid "About - %s Control Center"
 msgstr "אודות מרכז הבקרה של מנדריבה לינוקס"
 
@@ -1171,7 +1171,7 @@ msgstr "תרגום: "
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
 #: ../control-center:1483
-#, c-format
+#, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
 msgstr "מרכז הבקרה של מנדריבה לינוקס %s (%s)"
 
