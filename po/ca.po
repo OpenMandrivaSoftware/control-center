@@ -1,19 +1,19 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2012 Free Software Foundation, Inc.
 #
+# Francesc Pinyol Margalef, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2012-05-30 20:27+0200\n"
-"PO-Revision-Date: 2012-03-08 23:48+0000\n"
-"Last-Translator: Francesc Pinyol Margalef <francesc.pinyol.m@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-11-02 02:04+0100\n"
+"Last-Translator: Francesc Pinyol Margalef\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: Lokalize 1.4\n"
 
 #: ../contributors.pl:11
 #, c-format
@@ -42,7 +42,7 @@ msgstr "Guillaume Rousse"
 #: ../contributors.pl:13
 #, c-format
 msgid "cowsay introduction"
-msgstr "Introducció de cosway"
+msgstr "Introducció de cowsay"
 
 #: ../contributors.pl:14
 #, c-format
@@ -1023,7 +1023,7 @@ msgstr "/Notes de la _versió "
 #: ../control-center:671
 #, c-format
 msgid "/What's _New?"
-msgstr "/Que_hi ha de nou?"
+msgstr "/Què _hi ha de nou?"
 
 #: ../control-center:672
 #, c-format
@@ -1949,3 +1949,4 @@ msgstr "Resolució de pantalla"
 #: ../drakconf.desktop.in.h:1
 msgid "Mageia Control Center"
 msgstr "Centre de Control de Mageia"
+
