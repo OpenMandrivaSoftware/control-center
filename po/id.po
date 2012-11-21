@@ -39,7 +39,7 @@ msgid ""
 "Mandriva tools"
 msgstr ""
 "membangun dan membersihkan paket masif, permainan, port sparc, mengoreksi "
-"tool Mandriva"
+"alat-alat Mandriva"
 
 #: ../contributors.pl:13
 #, c-format
@@ -96,8 +96,8 @@ msgid ""
 "\"deep and broad\" kernel work (many new patches before integration in "
 "official kernel)"
 msgstr ""
-"pengerjaan kernel yang \"mendalam dan luas\" (banyak patch baru sebelum penggabungan dalam "
-"kernel resmi)"
+"pengerjaan kernel yang \"mendalam dan luas\" (banyak patch baru sebelum "
+"penggabungan dalam kernel resmi)"
 
 #: ../contributors.pl:18
 #, c-format
@@ -107,7 +107,7 @@ msgstr "Svetoslav Slavtchev"
 #: ../contributors.pl:18
 #, c-format
 msgid "kernel work (audio- and video-related patches)"
-msgstr "pengerjaan kernel(patch yang berhubungan dengan audio- dan video)"
+msgstr "pengerjaan kernel(patch yang berhubungan dengan audio dan video)"
 
 #: ../contributors.pl:19
 #, c-format
@@ -557,7 +557,7 @@ msgstr "Pusat Kendali %s"
 #: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
-msgstr "Memuat... Silakan menunggu"
+msgstr "Memuat... Silakan tunggu"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:151 ../control-center:155
@@ -745,12 +745,12 @@ msgstr "Konfigurasi sebuah server groupware"
 #: ../control-center:272
 #, c-format
 msgid "Configure mail"
-msgstr "Konfigurasi mail"
+msgstr "Konfigurasi surat"
 
 #: ../control-center:273
 #, c-format
 msgid "Configure the Internet Mail services"
-msgstr "Konfigurasi layanan Internet Mail"
+msgstr "Konfigurasi layanan Surat Internet"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:285 ../control-center:288
@@ -766,7 +766,7 @@ msgstr "Administrasi lokal"
 #: ../control-center:305
 #, c-format
 msgid "Configure the local machine via web interface"
-msgstr "Konfigurasi mesin lokal via antarmuka web"
+msgstr "Konfigurasi komputer lokal via antarmuka web"
 
 #: ../control-center:305
 #, c-format
@@ -781,7 +781,7 @@ msgstr "Administrasi remote"
 #: ../control-center:308
 #, c-format
 msgid "Click here if you want to configure a remote box via Web interface"
-msgstr "Klik di sini jika Anda ingin mengkonfigurasi mesin remote via antarmuka Web"
+msgstr "Klik di sini jika Anda ingin mengkonfigurasi komputer remote via antarmuka Web"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:322
@@ -881,7 +881,7 @@ msgstr "CD-ROM (%s)"
 #: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
-msgstr "Atur di mana CD-ROM \"%s\" Anda dimount"
+msgstr "Atur di mana drive CD-ROM \"%s\" Anda akan dimount"
 
 #: ../control-center:492
 #, c-format
@@ -949,12 +949,12 @@ msgstr "/_Opsi"
 #: ../control-center:613
 #, c-format
 msgid "/Display _Logs"
-msgstr "/Menampilkan _Log"
+msgstr "/Tampilkan _Log"
 
 #: ../control-center:614
 #, c-format
 msgid "/_Embedded Mode"
-msgstr "/_Mode Terpadu"
+msgstr "/Mod_e Terpadu"
 
 #: ../control-center:615
 #, c-format
@@ -976,7 +976,7 @@ msgstr "/_Keluar"
 #: ../control-center:629
 #, c-format
 msgid "<control>Q"
-msgstr "<control>Q"
+msgstr "<control>K"
 
 #: ../control-center:629
 #, c-format
@@ -1000,14 +1000,14 @@ msgstr ""
 #: ../control-center:666
 #, c-format
 msgid "/_More themes"
-msgstr "/_Lebih banyak tema"
+msgstr "/Lebih banyak te_ma"
 
 #: ../control-center:668 ../control-center:669 ../control-center:670
 #: ../control-center:671 ../control-center:672 ../control-center:673
 #: ../control-center:676
 #, c-format
 msgid "/_Help"
-msgstr "/_Bantuan"
+msgstr "/Bantuan"
 
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:672
@@ -1018,27 +1018,27 @@ msgstr "Bantuan"
 #: ../control-center:670
 #, c-format
 msgid "/_Release notes"
-msgstr "/_Catatan rilis"
+msgstr "/Catatan _rilis"
 
 #: ../control-center:671
 #, c-format
 msgid "/What's _New?"
-msgstr "/Apa yang _Baru"
+msgstr "/Apa ya_ng Baru?"
 
 #: ../control-center:672
 #, c-format
 msgid "/_Errata"
-msgstr "/_Kesalahan"
+msgstr "/K_esalahan"
 
 #: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
-msgstr "/_Laporkan Bug"
+msgstr "/Lapo_rkan Bug"
 
 #: ../control-center:676
 #, c-format
 msgid "/_About..."
-msgstr "/_Tentang..."
+msgstr "/Tent_ang..."
 
 #: ../control-center:732
 #, c-format
@@ -1089,7 +1089,7 @@ msgstr "tidak dapat melakukan fork dan exec \"%s\" karena tidak dapat dieksekusi
 #: ../control-center:1372
 #, c-format
 msgid "This program has exited abnormally"
-msgstr "Program ini telah ditutup secara abnormal"
+msgstr "Program ini telah ditutup secara tidak normal"
 
 #: ../control-center:1381
 #, c-format
@@ -1139,7 +1139,7 @@ msgstr "(versi perl)"
 #: ../control-center:1428
 #, c-format
 msgid "Artwork: "
-msgstr "Hasil seni: "
+msgstr "Karya seni: "
 
 #: ../control-center:1433
 #, c-format
@@ -1166,7 +1166,7 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr ""
-"kiki.syahadat@yahoo.co.id"
+"<kiki.syahadat@yahoo.co.id>"
 
 #: ../control-center:1474
 #, c-format
@@ -1269,7 +1269,7 @@ msgstr "Pusat Kendali"
 #: ../drakxconf:42
 #, c-format
 msgid "Choose the tool you want to use"
-msgstr "Pilih tool yang ingin Anda gunakan"
+msgstr "Pilih alat yang ingin Anda gunakan"
 
 #: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
 #, c-format
@@ -1331,7 +1331,7 @@ msgstr "Pilih tema grafis sistem saat booting"
 #: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
 #, c-format
 msgid "Share the Internet connection with other local machines"
-msgstr "Share koneksi Internet dengan mesin lokal lain"
+msgstr "Share koneksi Internet dengan komputer lokal lain"
 
 #: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
 #, c-format
@@ -1346,7 +1346,7 @@ msgstr "Akses jaringan"
 #: ../lib/MDV/Control_Center.pm:149
 #, c-format
 msgid "Alter miscellaneous internet settings"
-msgstr "Mengubah pengaturan internet"
+msgstr "Ubah pengaturan internet"
 
 #: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
 #, c-format
@@ -1438,7 +1438,7 @@ msgstr "Install, uninstall software"
 #: ../lib/MDV/Control_Center.pm:281
 #, c-format
 msgid "Advanced setup for network interfaces and firewall"
-msgstr "Pengaturan lanjutan untuk antarmuka jaringan dan firewall"
+msgstr "Pengaturan tingkat lanjut untuk antarmuka jaringan dan firewall"
 
 #: ../lib/MDV/Control_Center.pm:282
 #, c-format
@@ -1498,7 +1498,7 @@ msgstr "Kelola paket software terinstall dalam sebuah grup komputer"
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
 msgid "Configure authentication for Mageia tools"
-msgstr "Konfigurasi otentikasi untuk tool Mageia"
+msgstr "Konfigurasi otentikasi untuk peralatan Mageia"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
@@ -1506,7 +1506,7 @@ msgid ""
 "Define authentication required to access individual Mageia configuration "
 "tools "
 msgstr ""
-"Tentukan otentikasi yang diperlukan untuk mengakses tool konfigurasi individu"
+"Tentukan otentikasi yang diperlukan untuk mengakses peralatan konfigurasi individu"
 "Mageia "
 
 #: ../lib/MDV/Control_Center.pm:358
@@ -1721,7 +1721,7 @@ msgstr "Konfigurasi frekuensi update"
 #: ../lib/MDV/Control_Center.pm:612
 #, c-format
 msgid "Access to extended maintenance"
-msgstr "Akses ke pemeliharaan yang diperpanjang"
+msgstr "Akses ke perpanjangan pemeliharaan"
 
 #: ../lib/MDV/Control_Center.pm:621
 #, c-format
@@ -1814,7 +1814,7 @@ msgstr "Konfigurasi printer"
 #: ../print_launcher.pl:30
 #, c-format
 msgid "Click here to configure the printing system"
-msgstr "Klik di sini untuk konfigurasi sistem printer"
+msgstr "Klik di sini untuk mengkonfigurasi sistem pencetakan"
 
 #: ../print_launcher.pl:37
 #, c-format
@@ -1887,11 +1887,11 @@ msgstr "Menu"
 
 #: ../data/MountPoints.directory.in.h:1
 msgid "Mount Points"
-msgstr "Mount Point"
+msgstr "Titik Mount"
 
 #: ../data/nfs.desktop.in.h:1
 msgid "NFS mount points"
-msgstr "Mount Point NFS"
+msgstr "Titik Mount NFS"
 
 #: ../data/printerdrake.desktop.in.h:1
 msgid "Printers"
@@ -1903,7 +1903,7 @@ msgstr "Konfigurasi Proxy"
 
 #: ../data/removable.desktop.in.h:1
 msgid "Removable devices"
-msgstr "Device yang dapat dilepas"
+msgstr "Removable devices"
 
 #: ../data/remove-connection.desktop.in.h:1
 msgid "Remove Connection"
@@ -1911,7 +1911,7 @@ msgstr "Hapus Koneksi"
 
 #: ../data/samba.desktop.in.h:1
 msgid "Samba mount points"
-msgstr "Mount Point Samba"
+msgstr "Titik mount Samba"
 
 #: ../data/scannerdrake.desktop.in.h:1
 msgid "Scanners"
@@ -1927,7 +1927,7 @@ msgstr "Pengguna dan Grup"
 
 #: ../data/webdav.desktop.in.h:1
 msgid "WebDAV mount points"
-msgstr "Mount Point WebDAV"
+msgstr "Titik Mount WebDAV"
 
 #: ../data/XFDrake.desktop.in.h:1
 msgid "Graphical server"
