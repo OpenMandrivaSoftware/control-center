@@ -39,7 +39,7 @@ msgid ""
 "Mandriva tools"
 msgstr ""
 "membangun dan membersihkan paket masif, permainan, port sparc, mengoreksi "
-"alat-alat Mandriva"
+"peralatan Mandriva"
 
 #: ../contributors.pl:13
 #, c-format
