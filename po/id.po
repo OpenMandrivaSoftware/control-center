@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2012-05-30 20:27+0200\n"
-"PO-Revision-Date: 2012-08-24 16:00+0700\n"
+"PO-Revision-Date: 2012-11-23 08:10+0700\n"
 "Last-Translator: Kiki Syahadat <kiki.syahadat@yahoo.co.id>\n"
 "Language-Team: Indonesia <mdk-id@yahoogroups.com>, Translation list <mageia-i18n@mageia.org>\n"
 "Language: id\n"
@@ -254,7 +254,7 @@ msgstr "Michael Reinsch"
 #: ../contributors.pl:31
 #, c-format
 msgid "moin wiki clone, beep-media-player, im-ja and some other packages"
-msgstr "kloning moin wiki, beep-media-player, im-ja dan beberapa pake lain"
+msgstr "kloning moin wiki, beep-media-player, im-ja dan beberapa paket lain"
 
 #: ../contributors.pl:32
 #, c-format
@@ -293,7 +293,7 @@ msgid ""
 "drakxtools"
 msgstr ""
 "dukungan http proxy pada instaler, dukungan kernel 2.6 pada sndconfig, dukungan "
-"pada samba3 pada LinNeighborhood, perbaikan dan peningkatan pada urpmi, bootsplash dan "
+"samba3 pada LinNeighborhood, perbaikan dan peningkatan pada urpmi, bootsplash dan "
 "drakxtools"
 
 #: ../contributors.pl:35
@@ -771,7 +771,7 @@ msgstr "Konfigurasi komputer lokal via antarmuka web"
 #: ../control-center:305
 #, c-format
 msgid "You don't seem to have webmin installed. Local config is disabled"
-msgstr "Sepertinya Anda tidak memiliki webmin yang terinstall. Konfigurasi lokal ditiadakan"
+msgstr "Sepertinya Anda tidak memiliki webmin yang terinstall. Konfigurasi lokal dimatikan"
 
 #: ../control-center:307
 #, c-format
@@ -954,7 +954,7 @@ msgstr "/Tampilkan _Log"
 #: ../control-center:614
 #, c-format
 msgid "/_Embedded Mode"
-msgstr "/Mod_e Terpadu"
+msgstr "/Mode T_erpadu"
 
 #: ../control-center:615
 #, c-format
@@ -994,7 +994,7 @@ msgid ""
 "This action will restart the control center.\n"
 "Any change not applied will be lost."
 msgstr ""
-"Aksi ini akan memulai pusat kendali.\n"
+"Aksi ini akan merestart pusat kendali.\n"
 "Semua perubahan yang belum diterapkan akan hilang."
 
 #: ../control-center:666
@@ -1069,7 +1069,7 @@ msgstr ""
 #: ../control-center:1104
 #, c-format
 msgid "Impossible to run unknown '%s' program"
-msgstr "Tidak memungkinkan untuk menjalankan program '%s' yang tidak diketahui"
+msgstr "Tidak bisa menjalankan program '%s' yang tidak diketahui"
 
 #: ../control-center:1123
 #, c-format
@@ -1079,12 +1079,12 @@ msgstr "Modifikasi yang telah dilakukan pada modul saat ini tidak akan disimpan.
 #: ../control-center:1210
 #, c-format
 msgid "cannot fork: %s"
-msgstr "tidak dapat melakukan fork: %s"
+msgstr "tidak bisa melakukan fork: %s"
 
 #: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
-msgstr "tidak dapat melakukan fork dan exec \"%s\" karena tidak dapat dieksekusi"
+msgstr "tidak bisa melakukan fork dan exec \"%s\" karena tidak bisa dieksekusi"
 
 #: ../control-center:1372
 #, c-format
@@ -1291,7 +1291,7 @@ msgstr "Atur autologin untuk log in otomatis"
 #: ../lib/MDV/Control_Center.pm:78
 #, c-format
 msgid "Enable autologin and select the user to automatically log in"
-msgstr "Aktifkan autologin dan pilih pengguna log in otomatis"
+msgstr "Nyalakan autologin dan pilih pengguna log in otomatis"
 
 #: ../lib/MDV/Control_Center.pm:87
 #, c-format
@@ -1366,7 +1366,7 @@ msgstr "Atur manajer display"
 #: ../lib/MDV/Control_Center.pm:180
 #, c-format
 msgid "Choose the display manager that enables to select which user to log in"
-msgstr "Pilih manajer display yang mengaktifkan pemilihan pengguna untuk log in"
+msgstr "Pilih manajer display yang memungkinkan pemilihan pengguna untuk log in"
 
 #: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
 #, c-format
@@ -1556,7 +1556,7 @@ msgstr "Atur device pointer (mouse, touchpad)"
 #: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
 #, c-format
 msgid "Parental Controls"
-msgstr "Parental Control"
+msgstr "Parental Controls"
 
 #: ../lib/MDV/Control_Center.pm:418
 #, c-format
@@ -1581,7 +1581,7 @@ msgstr "Akses drive dan direktori share NFS"
 #: ../lib/MDV/Control_Center.pm:439
 #, c-format
 msgid "Set NFS mount points"
-msgstr "Tetapkan mount point NFS"
+msgstr "Tetapkan titik mount NFS"
 
 #: ../lib/MDV/Control_Center.pm:448
 #, c-format
@@ -1701,7 +1701,7 @@ msgstr "Atur tingkat keamanan sistem, periode audit keamanan dan perizinan"
 #: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
 #, c-format
 msgid "Manage system services by enabling or disabling them"
-msgstr "Kelola layanan sistem dengan mengaktifkan atau menonaktifkan"
+msgstr "Kelola layanan sistem dengan menyalakan atau mematikannya"
 
 #: ../lib/MDV/Control_Center.pm:592
 #, c-format
@@ -1773,7 +1773,7 @@ msgstr "Akses drive dan direktori share WebDAV"
 #: ../lib/MDV/Control_Center.pm:679
 #, c-format
 msgid "Set WebDAV mount points"
-msgstr "Tentukan mount point WebDAV"
+msgstr "Tentukan titik mount WebDAV"
 
 #: ../menus_launcher.pl:19 ../menus_launcher.pl:41
 #, c-format
@@ -1788,7 +1788,7 @@ msgstr "Menu sistem"
 #: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
 #, c-format
 msgid "Configure..."
-msgstr "Konfigurasi..."
+msgstr "Mengkonfigurasi..."
 
 #: ../menus_launcher.pl:31
 #, c-format
@@ -1867,7 +1867,7 @@ msgstr "Level dan Pemeriksaan"
 
 #: ../data/drakxtv.desktop.in.h:1
 msgid "TV Cards"
-msgstr "Kartu TV"
+msgstr "Perangkat TV"
 
 #: ../data/fileshare.desktop.in.h:1
 msgid "Partition Sharing"
