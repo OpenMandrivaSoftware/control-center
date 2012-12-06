@@ -1,5 +1,8 @@
+Version 12.32 - 6 December 2012 Thierry Vignaud
+
 - fix a crash (mga#6982)
 - prevent running internal text mode UI in graphical mode (mga#7161)
+- translations updates
 
 Version 12.31 - 24 August 2012 Thierry Vignaud
 
