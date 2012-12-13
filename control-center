@@ -103,7 +103,7 @@ $window_splash->add(gtknew('Fixed', widget_name => 'Steps',
                                   children => [
                                           [ gtknew('Image_using_pixbuf', file => 'splash_screen'), 0, 0 ],
                                           [ gtknew('Label', text => N("%s Control Center", $branding)), 21, 60 ],
-                                          [ gtknew('Label', text => N("Loading... Please wait")), 21, 175 ],
+                                          [ gtknew('Label', text => N("Loading... Please wait")), 21, 85 ],
                                          ]),
                     );
 $window_splash->show_all;
