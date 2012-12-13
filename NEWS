@@ -1,3 +1,5 @@
+- popup a confirm dialog before exiting
+
 Version 12.32 - 6 December 2012 Thierry Vignaud
 
 - fix a crash (mga#6982)

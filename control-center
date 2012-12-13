@@ -1315,6 +1315,8 @@ sub kill_logdrake() {
 }
 
 sub quit_global() {
+    return 1 if mygtk2::quit_popup();
+
     if (@pid_launched) {
         &kill_children();
         return 1; # tell gtk+ not to quit
