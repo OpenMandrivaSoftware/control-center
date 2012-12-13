@@ -1,4 +1,5 @@
 - popup a confirm dialog before exiting
+- track main_window (should fix quite some dialog placement bugs)
 
 Version 12.32 - 6 December 2012 Thierry Vignaud
 

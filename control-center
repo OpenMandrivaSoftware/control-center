@@ -590,7 +590,7 @@ my ($timeout, %check_boxes, $emb_socket);
 # set default size:
 
 my $window_global = gtkset_size_request(Gtk2::Window->new('toplevel'), $min_width, $min_height);
-$::main_window = $window_global;
+mygtk2::register_main_window($window_global);
 
 if ($geometry) {
     @h{qw(HEIGTH WIDTH)} = $geometry =~ /(\d+)x(\d+)/;
