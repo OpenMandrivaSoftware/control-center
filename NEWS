@@ -1,3 +1,5 @@
+Version 12.33 - 13 December 2012 Thierry Vignaud
+
 - fix text position over splash screen (mga#5873)
 - popup a confirm dialog before exiting
 - track main_window (should fix quite some dialog placement bugs)
