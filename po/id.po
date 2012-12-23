@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2012-05-30 20:27+0200\n"
-"PO-Revision-Date: 2012-12-17 07:16+0700\n"
+"PO-Revision-Date: 2012-12-23 10:46+0700\n"
 "Last-Translator: Kiki Syahadat <kiki.syahadat@yahoo.co.id>\n"
 "Language-Team: Indonesia <mdk-id@yahoogroups.com>, Translation list <mageia-i18n@mageia.org>\n"
 "Language: id\n"
@@ -844,7 +844,7 @@ msgstr "Lokalisasi"
 #: ../control-center:418
 #, c-format
 msgid "Administration tools"
-msgstr "Tool administrasi"
+msgstr "Peralatan administrasi"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:435
