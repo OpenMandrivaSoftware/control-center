@@ -1,11 +1,11 @@
 # Copyright (C) 2012 Free Software Foundation, Inc.
 #
-# Francesc Pinyol Margalef, 2012.
+# Francesc Pinyol Margalef, 2012, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2012-05-30 20:27+0200\n"
-"PO-Revision-Date: 2012-11-02 02:04+0100\n"
+"PO-Revision-Date: 2013-01-01 21:26+0100\n"
 "Last-Translator: Francesc Pinyol Margalef\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -90,7 +90,7 @@ msgid ""
 "\"deep and broad\" kernel work (many new patches before integration in "
 "official kernel)"
 msgstr ""
-"treball \"profund i extens\" al nucli (bastants pedaços nous abans de la "
+"treball «profund i extens» al nucli (bastants pedaços nous abans de la "
 "integració al nucli oficial)"
 
 #: ../contributors.pl:18
@@ -154,7 +154,7 @@ msgid ""
 "audio/video/MIDI apps, scientific apps, audio/video production howtos, "
 "bluetooth, pyqt & related"
 msgstr ""
-"Aplicacions àudio/vídeo/MIDI, aplicacions científiques, guies \"com es fa\" "
+"Aplicacions àudio/vídeo/MIDI, aplicacions científiques, guies «com es fa» "
 "de producció àudio/vídeo, bluetooth, pyqt i paquets relacionats"
 
 #: ../contributors.pl:23
@@ -340,7 +340,7 @@ msgstr "Traductor i coordinador Noruec Bokmål (nb), treball i18n"
 #: ../contributors.pl:41
 #, c-format
 msgid "\"one-man\" mdk sk-i18n team"
-msgstr "Equip \"d'un home\" mdk sk-i18n"
+msgstr "Equip «d'un home» mdk sk-i18n"
 
 #: ../contributors.pl:42
 #, c-format
@@ -881,7 +881,7 @@ msgstr "CD-ROM (%s)"
 #: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
-msgstr "Defineix on es muntarà la unitat CD-ROM \"%s\""
+msgstr "Defineix on es muntarà la unitat CD-ROM «%s»"
 
 #: ../control-center:492
 #, c-format
@@ -891,7 +891,7 @@ msgstr "DVD-ROM (%s)"
 #: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
-msgstr "Defineix on es muntarà la unitat \"%s\" DVD-ROM"
+msgstr "Defineix on es muntarà la unitat «%s» DVD-ROM"
 
 #: ../control-center:495
 #, c-format
@@ -1084,7 +1084,7 @@ msgstr "no es pot bifurcar: %s"
 #: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
-msgstr "no es pot bifurcar i executar \"%s\" perquè no és executable"
+msgstr "no es pot bifurcar i executar «%s» perquè no és executable"
 
 #: ../control-center:1372
 #, c-format
@@ -1949,4 +1949,5 @@ msgstr "Resolució de pantalla"
 #: ../drakconf.desktop.in.h:1
 msgid "Mageia Control Center"
 msgstr "Centre de Control de Mageia"
+
 
