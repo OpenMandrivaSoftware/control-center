@@ -955,32 +955,32 @@ msgstr "Додаткові Помічники"
 #: ../control-center:630
 #, c-format
 msgid "/_Options"
-msgstr "/Параметри"
+msgstr "/П_араметри"
 
 #: ../control-center:613
 #, c-format
 msgid "/Display _Logs"
-msgstr "/_L Показати системний журнал"
+msgstr "/По_казати системний журнал"
 
 #: ../control-center:614
 #, c-format
 msgid "/_Embedded Mode"
-msgstr "/_E Вмонтований режим"
+msgstr "/В_монтований режим"
 
 #: ../control-center:615
 #, c-format
 msgid "/Expert mode in _wizards"
-msgstr "/_w Режим експерта у Помічниках"
+msgstr "/_Режим експерта у Помічниках"
 
 #: ../control-center:625 ../control-center:626
 #, c-format
 msgid "/_File"
-msgstr "/_F Файл"
+msgstr "/_Файл"
 
 #: ../control-center:626
 #, c-format
 msgid "/_Quit"
-msgstr "/_Q Вийти"
+msgstr "/Ви_йти"
 
 #. -PO: "<control>" must _NOT_ be translated. This is a keyboard shortcut for "Quit".
 #. -PO: you just have to select the proper letter for your language (eg: english: "Quit" => "Q")
@@ -997,7 +997,7 @@ msgstr "Вийти"
 #: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
 msgid "/_Themes"
-msgstr "/_T Теми"
+msgstr "/_Теми"
 
 #: ../control-center:656
 #, c-format
@@ -1011,14 +1011,14 @@ msgstr ""
 #: ../control-center:666
 #, c-format
 msgid "/_More themes"
-msgstr "/_T Додаткові теми"
+msgstr "/_Додаткові теми"
 
 #: ../control-center:668 ../control-center:669 ../control-center:670
 #: ../control-center:671 ../control-center:672 ../control-center:673
 #: ../control-center:676
 #, c-format
 msgid "/_Help"
-msgstr "/_H Довідка"
+msgstr "/_Довідка"
 
 #: ../control-center:669 ../control-center:670 ../control-center:671
 #: ../control-center:672
@@ -1034,7 +1034,7 @@ msgstr "/_Нотатки щодо випуску"
 #: ../control-center:671
 #, c-format
 msgid "/What's _New?"
-msgstr "/Що нового?"
+msgstr "/Що _нового?"
 
 #: ../control-center:672
 #, c-format
@@ -1044,12 +1044,12 @@ msgstr "/_База помилок"
 #: ../control-center:673
 #, c-format
 msgid "/_Report Bug"
-msgstr "/_R Звіт про помилку"
+msgstr "/Надіслати _звіт про помилку"
 
 #: ../control-center:676
 #, c-format
 msgid "/_About..."
-msgstr "/_A Про програму…"
+msgstr "/_Про програму…"
 
 #: ../control-center:732
 #, c-format
