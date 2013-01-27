@@ -1599,7 +1599,7 @@ msgstr "Setzen der NFS-Einhängepunkte"
 #: ../lib/MDV/Control_Center.pm:448
 #, c-format
 msgid "Share drives and directories using NFS"
-msgstr "Laufwerken und Verzeichnissen mit NFS freigeben"
+msgstr "Laufwerke und Verzeichnisse mit NFS freigeben"
 
 #: ../lib/MDV/Control_Center.pm:449
 #, c-format
@@ -1681,7 +1681,7 @@ msgstr "Kabellose Verbindung"
 #, c-format
 msgid "Access Windows (SMB) shared drives and directories"
 msgstr ""
-"Zugang zu gemeinsam genutzen Windows-Laufwerken und Verzeichnissen (SMB)"
+"Zugriff auf über SMB (für Windows) freigegebene Laufwerke und Verzeichnisse"
 
 #: ../lib/MDV/Control_Center.pm:542
 #, c-format
@@ -1694,7 +1694,7 @@ msgstr ""
 #, c-format
 msgid "Share drives and directories with Windows (SMB) systems"
 msgstr ""
-"Laufwerke und Verzeichnisse zur Freigabe für Windows-Syteme (SMB) einrichten"
+"Laufwerke und Verzeichnisse mit SMB für Windows-Syteme freigeben"
 
 #: ../lib/MDV/Control_Center.pm:552
 #, c-format
