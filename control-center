@@ -860,7 +860,7 @@ sub build_list() {
     load_packages2install();
     my $i;
 foreach (@tree) {
-    my ($text, $icon, $help, $subtrees) = @$_;
+    my ($text, $_icon, $help, $subtrees) = @$_;
 
     my @subtrees = grep { $_->{list} = [ clean_list($_->{list}) ]; !is_empty_array_ref($_->{list}) } @$subtrees;
 
@@ -962,7 +962,6 @@ foreach (@tree) {
 
         $string .= "</TABLE>\n";
     }
-    my $text_orig = $text;
     # b/c we use Pango text markup language, we've to protect '&' caracter:
     $text =~ s/&/&amp;/g;
     $page_count++;
@@ -985,7 +984,6 @@ foreach (@tree) {
                             },
                 );
 
-    #add2notebook($banner_notebook, "", Gtk2::Banner->new($icon, $text_orig));
 }
 }
 
