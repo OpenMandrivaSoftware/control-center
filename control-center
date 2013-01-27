@@ -1485,7 +1485,7 @@ sub about_mga_cc() {
              0, Gtk2::Label->new(""),
              0, Gtk2::Label->new(
                  #-PO: here %s is eg: "1999-2008"
-                 N("Copyright (C) %s Mandriva SA", '1999-2008') . "\n" . N("Copyright (C) %s Mageia", '2011') . "\n" ),
+                 N("Copyright (C) %s Mandriva SA", '1999-2008') . "\n" . N("Copyright (C) %s Mageia", '2011-2013') . "\n" ),
              0, Gtk2::HSeparator->new,
              0, Gtk2::Label->new(""),
              1, my $n = Gtk2::Notebook->new,
