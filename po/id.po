@@ -25,7 +25,7 @@ msgstr ""
 #: ../contributors.pl:11
 #, c-format
 msgid "Packagers"
-msgstr "Packager"
+msgstr "Pemaket"
 
 #: ../contributors.pl:12 ../contributors.pl:40
 #, c-format
@@ -590,7 +590,7 @@ msgstr "Konfigurasi FTP"
 #: ../control-center:186
 #, c-format
 msgid "Set up an FTP server"
-msgstr "Atur sebuah server FTP"
+msgstr "Atur server FTP"
 
 #: ../control-center:188
 #, c-format
@@ -603,8 +603,8 @@ msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
 msgstr ""
-"Atur sebuah file dan print server untuk workstation yang menjalankan sistem "
-"Linux dan non-Linux"
+"Atur server print dan file untuk workstation yang menjalankan sistem Linux "
+"dan non-Linux"
 
 #: ../control-center:191
 #, c-format
@@ -624,7 +624,7 @@ msgstr "Konfigurasi server web"
 #: ../control-center:195
 #, c-format
 msgid "Set up a web server"
-msgstr "Atur sebuah server web"
+msgstr "Atur server web"
 
 #: ../control-center:197
 #, c-format
@@ -650,7 +650,7 @@ msgstr "Konfigurasi DHCP"
 #: ../control-center:215
 #, c-format
 msgid "Set up a DHCP server"
-msgstr "Atur sebuah server DHCP"
+msgstr "Atur server DHCP"
 
 #: ../control-center:217
 #, c-format
@@ -660,7 +660,7 @@ msgstr "Konfigurasi DNS"
 #: ../control-center:218
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
-msgstr "Atur sebuah server DNS (resolusi nama jaringan)"
+msgstr "Atur server DNS (resolusi nama jaringan)"
 
 #: ../control-center:220
 #, c-format
@@ -670,7 +670,7 @@ msgstr "Konfigurasi proxy"
 #: ../control-center:221
 #, c-format
 msgid "Configure a web caching proxy server"
-msgstr "Konfigurasi sebuah web caching proxy server"
+msgstr "Konfigurasi web caching proxy server"
 
 #: ../control-center:223
 #, c-format
@@ -730,7 +730,7 @@ msgstr "Konfigurasi berita"
 #: ../control-center:267
 #, c-format
 msgid "Configure a newsgroup server"
-msgstr "Konfigurasi sebuah server newsgroup"
+msgstr "Konfigurasi server newsgroup"
 
 #: ../control-center:269
 #, c-format
@@ -740,7 +740,7 @@ msgstr "Konfigurasi groupware"
 #: ../control-center:270
 #, c-format
 msgid "Configure a groupware server"
-msgstr "Konfigurasi sebuah server groupware"
+msgstr "Konfigurasi server groupware"
 
 #: ../control-center:272
 #, c-format
@@ -1385,7 +1385,7 @@ msgstr "Pilih manajer display yang menghidupkan pemilihan pengguna untuk log in"
 #: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
 #, c-format
 msgid "Configure a fax server"
-msgstr "Konfigurasi sebuah server fax"
+msgstr "Konfigurasi server fax"
 
 #: ../lib/MDV/Control_Center.pm:199
 #, c-format
@@ -1397,7 +1397,7 @@ msgstr "Atur firewall pribadi Anda"
 msgid ""
 "Set up a personal firewall in order to protect the computer and the network"
 msgstr ""
-"Atur sebuah firewall pribadi untuk memproteksi komputer dan jaringan"
+"Atur firewall pribadi untuk memproteksi komputer dan jaringan"
 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
@@ -1422,7 +1422,7 @@ msgstr "Buat, hapus dan ubah partisi hard disk"
 #: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
 #, c-format
 msgid "Browse and configure hardware"
-msgstr "Telusuri dan konfigurasi hadrware"
+msgstr "Telusuri dan konfigurasi hardware"
 
 #: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
 #, c-format
@@ -1665,12 +1665,12 @@ msgstr "Remote Control untuk komputer lain (Linux/Unix, Windows)"
 #: ../lib/MDV/Control_Center.pm:520
 #, c-format
 msgid "Remove a connection"
-msgstr "Hapus sebuah koneksi"
+msgstr "Hapus koneksi"
 
 #: ../lib/MDV/Control_Center.pm:521
 #, c-format
 msgid "Delete a network interface"
-msgstr "Hapus sebuah antarmuka jaringan"
+msgstr "Hapus antarmuka jaringan"
 
 #: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
 #, c-format
@@ -1752,7 +1752,7 @@ msgstr "Lihat dan konfigurasi kebijakan keamanan Tomoyo Linux"
 #: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
 #, c-format
 msgid "Set up a UPS for power monitoring"
-msgstr "Atur sebuah UPS untuk memantau daya"
+msgstr "Atur UPS untuk memantau daya"
 
 #: ../lib/MDV/Control_Center.pm:647
 #, c-format
