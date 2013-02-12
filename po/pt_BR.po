@@ -41,7 +41,7 @@ msgstr "Empacotadores"
 #: ../contributors.pl:40
 #, c-format
 msgid "Per Oyvind Karlsen"
-msgstr "Por Oyvind Karlsen"
+msgstr "Per Øyvind Karlsen"
 
 #: ../contributors.pl:12
 #, c-format
