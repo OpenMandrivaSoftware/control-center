@@ -3,20 +3,21 @@
 #
 # Jesse Kuang <kjx@mandrakesoft.com>, 2001
 # Shiyu Tang <shiyutang@netscape.net>, 2003
+# tuhaihe <1132321739qq@gmail.com>, 2013
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: drakconf 0.96\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-30 20:27+0200\n"
-"PO-Revision-Date: 2009-04-09 13:11+0800\n"
-"Last-Translator: Funda Wang <fundawang@gmail.com>\n"
+"PO-Revision-Date: 2013-03-17 18:20+0800\n"
+"Last-Translator: tuhaihe <1132321739qq@gmail.com>\n"
 "Language-Team: %s i18n Team <cooker-i18n@mandrivalinux.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../contributors.pl:11
 #, c-format
@@ -318,7 +319,7 @@ msgstr "SunnyDubey"
 #: ../contributors.pl:38
 #, c-format
 msgid "wrote/edited parts of gi/docs/HACKING file"
-msgstr "编写/编辑了部分 gi/doc/HACKING "
+msgstr "编写/编辑了部分 gi/doc/HACKING  文件"
 
 #: ../contributors.pl:39
 #, c-format
@@ -348,7 +349,7 @@ msgstr "Reinout Van Schouwen"
 #: ../contributors.pl:43
 #, c-format
 msgid "Dutch translator and coordinator"
-msgstr "荷兰语的翻译者和领导者"
+msgstr "荷兰语翻译者和领导者"
 
 #: ../contributors.pl:44
 #, c-format
@@ -408,7 +409,7 @@ msgstr "Vedran Ljubovic"
 #: ../contributors.pl:50
 #, c-format
 msgid "Bosnian translator"
-msgstr "波斯尼亚翻译者"
+msgstr "波斯尼亚语翻译者"
 
 #: ../contributors.pl:51
 #, c-format
@@ -529,7 +530,8 @@ msgstr "MD，测试，错误报告"
 msgid ""
 "And many unnamed and unknown beta testers and bug reporters that helped make "
 "sure it all worked right."
-msgstr "以及许多不知名的 beta 测试者和 bug 报告者，帮助了这一程序工作良好。"
+msgstr ""
+"以及许多不知名的 beta 测试人员和 bug 提交者，是他们帮助了该程序正常运行。"
 
 #: ../control-center:90
 #, c-format
@@ -544,7 +546,7 @@ msgstr "%s 控制中心"
 #: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
-msgstr "正在装入...请稍候"
+msgstr "正在加载...请稍候"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:151 ../control-center:155
@@ -666,7 +668,7 @@ msgstr "配置时间"
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
-msgstr "设置将服务器的时间与外部时间服务器同步"
+msgstr "设置服务器时间与外部时间服务器同步"
 
 #: ../control-center:226 ../control-center:227
 #, c-format
@@ -807,7 +809,7 @@ msgstr "管理网络设备"
 #: ../control-center:380
 #, c-format
 msgid "Personalize and Secure your network"
-msgstr "个性化和保卫网络"
+msgstr "个性化与网络安全"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:399
@@ -865,7 +867,7 @@ msgstr "CD-ROM(%s)"
 #: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
-msgstr "设定 CD-ROM 驱动器“%s”载入到哪里"
+msgstr "设置 CD-ROM 驱动器“%s”挂载位置"
 
 #: ../control-center:492
 #, c-format
@@ -875,7 +877,7 @@ msgstr "DVD-ROM(%s)"
 #: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
-msgstr "设定 DVD-ROM 驱动器“%s”载入到哪里"
+msgstr "设置 DVD-ROM 驱动器“%s”挂载位置"
 
 #: ../control-center:495
 #, c-format
@@ -885,7 +887,7 @@ msgstr "CD/DVD 刻录机(%s)"
 #: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
-msgstr "设定 CD/DVD 刻录机“%s”载入到哪里"
+msgstr "设置 CD/DVD 刻录机“%s”挂载位置"
 
 #: ../control-center:498
 #, c-format
@@ -895,7 +897,7 @@ msgstr "ZIP 驱动器"
 #: ../control-center:499
 #, c-format
 msgid "Set where your ZIP drive is mounted"
-msgstr "设定将您的 ZIP 驱动器载入到哪里"
+msgstr "设置 ZIP 驱动器挂载位置"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:511 ../control-center:514
@@ -978,8 +980,8 @@ msgid ""
 "This action will restart the control center.\n"
 "Any change not applied will be lost."
 msgstr ""
-"此操作将重新启动控制中心。\n"
-"所有没有应用的改变都将会丢失。"
+"该操作将重新启动控制中心。\n"
+"没有应用的更改都将会丢失。"
 
 #: ../control-center:666
 #, c-format
@@ -1103,7 +1105,7 @@ msgstr "额外主题"
 #: ../control-center:1403
 #, c-format
 msgid "Get additional themes on www.damz.net"
-msgstr "在 www.damz.net 里获得额外主题"
+msgstr "在 www.damz.net 上获取额外主题"
 
 #: ../control-center:1411
 #, c-format
@@ -1141,19 +1143,20 @@ msgstr "- %s: %s\n"
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
-msgstr "Funda Wang,ShiyuTang"
+msgstr "Funda Wang,ShiyuTang, tuhaihe"
 
 #: ../control-center:1472
 #, c-format
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
-msgstr "fundawang@gmail.com,shiyutang_i18n@yahoo.com.cn"
+msgstr ""
+"fundawang@gmail.com,shiyutang_i18n@yahoo.com.cn, 1132321739qq@gmail.com"
 
 #: ../control-center:1474
 #, c-format
 msgid "Translator: "
-msgstr "翻译者："
+msgstr "译者："
 
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
@@ -1166,12 +1169,12 @@ msgstr "%s %s (%s) 控制中心"
 #: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mandriva SA"
-msgstr "Mandriva SA 版权所有 (C) %s"
+msgstr "版权所有 (C) %s Mandriva SA"
 
 #: ../control-center:1488
 #, c-format
 msgid "Copyright (C) %s Mageia"
-msgstr "Mageia 版权所有 (C) %s"
+msgstr "版权所有 (C) %s Mageia"
 
 #: ../control-center:1494
 #, c-format
@@ -1231,7 +1234,7 @@ msgstr "自动安装"
 #: ../drakxconf:37
 #, c-format
 msgid "Internet connection sharing"
-msgstr "Internet 连接共享"
+msgstr "网络连接共享"
 
 #: ../drakxconf:38
 #, c-format
@@ -1256,7 +1259,7 @@ msgstr "选择您想要使用的工具"
 #: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
 #, c-format
 msgid "Configure 3D Desktop effects"
-msgstr "配置三维桌面效果"
+msgstr "配置 3D 桌面效果"
 
 #: ../lib/MDV/Control_Center.pm:68
 #, c-format
@@ -1282,7 +1285,7 @@ msgstr "备份"
 #: ../lib/MDV/Control_Center.pm:88
 #, c-format
 msgid "Configure backups of the system and of the users' data"
-msgstr "配置系统及用户数据的备份"
+msgstr "配置系统及用户数据备份"
 
 #: ../lib/MDV/Control_Center.pm:98
 #, c-format
@@ -1302,7 +1305,7 @@ msgstr "设置系统引导方式"
 #: ../lib/MDV/Control_Center.pm:118
 #, c-format
 msgid "Set up boot graphical theme of system"
-msgstr "选择系统的图形化启动主题"
+msgstr "设置系统启动主题"
 
 #: ../lib/MDV/Control_Center.pm:119
 #, c-format
@@ -1312,12 +1315,12 @@ msgstr "选择系统引导时所用的图形主题"
 #: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
 #, c-format
 msgid "Share the Internet connection with other local machines"
-msgstr "将 Internet 连接共享给其它计算机"
+msgstr "与其它计算机共享网络连接"
 
 #: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
 #, c-format
 msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
-msgstr "设置新的网络连接(局域网、ISDN、ADSL……)"
+msgstr "设置新的网络连接(局域网、ISDN、ADSL 拨号……)"
 
 #: ../lib/MDV/Control_Center.pm:148
 #, c-format
@@ -1332,7 +1335,7 @@ msgstr "更改各类 Internet 设置"
 #: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
 #, c-format
 msgid "Open a console as administrator"
-msgstr "打开管理员用的控制台"
+msgstr "以管理员身份打开控制台"
 
 #: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
 #, c-format
@@ -1368,7 +1371,7 @@ msgstr "设置个人防火墙，以便保护计算机和网络"
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "管理、添加及删除字体。导入 Windows(r) 字体"
+msgstr "管理、添加及删除字体。导入 Windows™ 字体"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
@@ -1388,7 +1391,7 @@ msgstr "创建、删除和更改硬盘分区大小"
 #: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
 #, c-format
 msgid "Browse and configure hardware"
-msgstr "浏览及配置硬件"
+msgstr "硬件浏览与配置"
 
 #: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
 #, c-format
@@ -1408,17 +1411,17 @@ msgstr "管理主机定义"
 #: ../lib/MDV/Control_Center.pm:270
 #, c-format
 msgid "Install & Remove Software"
-msgstr "安装/删除软件"
+msgstr "安装 & 移除软件"
 
 #: ../lib/MDV/Control_Center.pm:271
 #, c-format
 msgid "Install, uninstall software"
-msgstr "安装和删除软件"
+msgstr "安装、卸载软件"
 
 #: ../lib/MDV/Control_Center.pm:281
 #, c-format
 msgid "Advanced setup for network interfaces and firewall"
-msgstr "网卡和防火墙的高级设置"
+msgstr "网口和防火墙高级设置"
 
 #: ../lib/MDV/Control_Center.pm:282
 #, c-format
@@ -1443,12 +1446,12 @@ msgstr "配置群件服务器"
 #: ../lib/MDV/Control_Center.pm:311
 #, c-format
 msgid "Manage localization for your system"
-msgstr "管理系统的本地化"
+msgstr "系统本地化管理"
 
 #: ../lib/MDV/Control_Center.pm:312
 #, c-format
 msgid "Select the language and the country or region of the system"
-msgstr "选择系统的语言和国家/地区设置"
+msgstr "选择系统语言、国家/地区"
 
 #: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
 #, c-format
@@ -1468,24 +1471,24 @@ msgstr "重新配置网络连接"
 #: ../lib/MDV/Control_Center.pm:340
 #, c-format
 msgid "Manage computer group"
-msgstr "管理一组计算机"
+msgstr "管理计算机群组"
 
 #: ../lib/MDV/Control_Center.pm:341
 #, c-format
 msgid "Manage installed software packages on a group of computers"
-msgstr "在一组计算机上管理已安装的软件包"
+msgstr "管理计算机群组上已安装的软件包"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
 msgid "Configure authentication for Mageia tools"
-msgstr "配置 Mageia 工具的身份验证"
+msgstr "配置 Mageia 工具授权"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid ""
 "Define authentication required to access individual Mageia configuration "
 "tools "
-msgstr "定义访问单个 Mageia 配置工具所需的身份验证"
+msgstr "定义访问单个 Mageia 配置工具所需的授权"
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1497,7 +1500,7 @@ msgstr "更新您的系统"
 msgid ""
 "Look at available updates and apply any fixes or upgrades to installed "
 "packages"
-msgstr "查看可用的更新并将修正和更新应用到已安装的软件包上"
+msgstr "查看可用更新，修正与升级已安装软件包"
 
 #: ../lib/MDV/Control_Center.pm:369
 #, c-format
@@ -1512,7 +1515,7 @@ msgstr "菜单风格配置"
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "导入 Windows® 文档和设置"
+msgstr "导入 Windows™ 文档和设置"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format
@@ -1552,7 +1555,7 @@ msgstr "激活并管理网络配置文件"
 #: ../lib/MDV/Control_Center.pm:438
 #, c-format
 msgid "Access NFS shared drives and directories"
-msgstr "访问通过 NFS 共享的驱动器和目录"
+msgstr "访问 NFS 共享的驱动器和目录"
 
 #: ../lib/MDV/Control_Center.pm:439
 #, c-format
@@ -1582,7 +1585,7 @@ msgstr "显示已安装软件包的使用统计"
 #: ../lib/MDV/Control_Center.pm:469
 #, c-format
 msgid "Share your hard disk partitions"
-msgstr "共享您的硬盘分区"
+msgstr "共享硬盘分区"
 
 #: ../lib/MDV/Control_Center.pm:470
 #, c-format
@@ -1607,12 +1610,12 @@ msgstr "定期运行程序或在给定时间运行程序"
 #: ../lib/MDV/Control_Center.pm:501
 #, c-format
 msgid "Proxy"
-msgstr "代理服务器"
+msgstr "网络代理"
 
 #: ../lib/MDV/Control_Center.pm:502
 #, c-format
 msgid "Set up a proxy server for files and web browsing"
-msgstr "设置文件和 Web 浏览所用的代理服务器"
+msgstr "设置文件与网络浏览所用的代理服务器"
 
 #: ../lib/MDV/Control_Center.pm:510
 #, c-format
@@ -1627,7 +1630,7 @@ msgstr "远程控制另外一台计算机(Linux/Unix，Windows)"
 #: ../lib/MDV/Control_Center.pm:520
 #, c-format
 msgid "Remove a connection"
-msgstr "删除连接"
+msgstr "移除连接"
 
 #: ../lib/MDV/Control_Center.pm:521
 #, c-format
@@ -1642,7 +1645,7 @@ msgstr "无线连接"
 #: ../lib/MDV/Control_Center.pm:541
 #, c-format
 msgid "Access Windows (SMB) shared drives and directories"
-msgstr "访问通过 Windows (SMB) 共享的驱动器和目录"
+msgstr "访问 Windows (SMB) 共享的驱动器和目录"
 
 #: ../lib/MDV/Control_Center.pm:542
 #, c-format
@@ -1652,7 +1655,7 @@ msgstr "配置 Windows (Samba) 的共享驱动器和目录"
 #: ../lib/MDV/Control_Center.pm:551
 #, c-format
 msgid "Share drives and directories with Windows (SMB) systems"
-msgstr "将驱动器和目录共享给 Windows (SMB)系统"
+msgstr "与 Windows (SMB)系统共享驱动器与目录"
 
 #: ../lib/MDV/Control_Center.pm:552
 #, c-format
@@ -1667,7 +1670,7 @@ msgstr "设置扫描仪"
 #: ../lib/MDV/Control_Center.pm:571
 #, c-format
 msgid "Configure system security, permissions and audit"
-msgstr "配置系统的安全、权限和审核"
+msgstr "配置系统安全、权限和审核"
 
 #: ../lib/MDV/Control_Center.pm:572
 #, c-format
@@ -1687,7 +1690,7 @@ msgstr "配置安装和更新所用的介质源"
 #: ../lib/MDV/Control_Center.pm:593
 #, c-format
 msgid "Select from where software packages are downloaded "
-msgstr "选择从哪里下载软件包"
+msgstr "选择软件包下载地址"
 
 #: ../lib/MDV/Control_Center.pm:603
 #, c-format
@@ -1697,7 +1700,7 @@ msgstr "配置更新频率"
 #: ../lib/MDV/Control_Center.pm:612
 #, c-format
 msgid "Access to extended maintenance"
-msgstr "延保服务"
+msgstr "访问延保服务"
 
 #: ../lib/MDV/Control_Center.pm:621
 #, c-format
@@ -1707,7 +1710,7 @@ msgstr "配置 TOMOYO Linux 策略"
 #: ../lib/MDV/Control_Center.pm:622
 #, c-format
 msgid "View and configure TOMOYO Linux security policy"
-msgstr "查看和配置 TOMOYO Linux 安全策略"
+msgstr "查看并配置 TOMOYO Linux 安全策略"
 
 #. -PO: here power means electrical power
 #. -PO: UPS==Uninterruptible power supply
@@ -1719,12 +1722,12 @@ msgstr "设置监视电源的 UPS"
 #: ../lib/MDV/Control_Center.pm:647
 #, c-format
 msgid "Manage users on system"
-msgstr "管理系统中的用户"
+msgstr "管理本机用户"
 
 #: ../lib/MDV/Control_Center.pm:648
 #, c-format
 msgid "Add, remove or change users of the system"
-msgstr "添加、删除或更改系统的用户"
+msgstr "添加、删除或更改本机用户"
 
 #: ../lib/MDV/Control_Center.pm:658
 #, c-format
@@ -1739,7 +1742,7 @@ msgstr "虚拟机管理"
 #: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
 #, c-format
 msgid "Configure VPN connection to secure network access"
-msgstr "配置 VPN 连接，以便进入私有网络"
+msgstr "配置 VPN 连接，保护网络访问安全"
 
 #: ../lib/MDV/Control_Center.pm:678
 #, c-format
