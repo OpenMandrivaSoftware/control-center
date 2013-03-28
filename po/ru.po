@@ -1199,9 +1199,9 @@ msgid "Copyright (C) %s Mandriva SA"
 msgstr "Copyright (C) %s Mandriva SA"
 
 #: ../control-center:1488
-#, fuzzy, c-format
+#, c-format
 msgid "Copyright (C) %s Mageia"
-msgstr "Copyright (C) %s Mandriva SA"
+msgstr "Copyright (C) %s Mageia"
 
 #: ../control-center:1494
 #, c-format
@@ -1209,9 +1209,9 @@ msgid "Authors"
 msgstr "Авторы"
 
 #: ../control-center:1495
-#, fuzzy, c-format
+#, c-format
 msgid "Mageia Contributors"
-msgstr "Контрибьюторы Mandriva Linux"
+msgstr "Контрибьюторы Mageia"
 
 #: ../drakconsole:27
 #, c-format
@@ -1509,18 +1509,18 @@ msgid "Manage installed software packages on a group of computers"
 msgstr "Управление пакетами ПО, установленными на группе компьютеров"
 
 #: ../lib/MDV/Control_Center.pm:349
-#, fuzzy, c-format
+#, c-format
 msgid "Configure authentication for Mageia tools"
-msgstr "Настройка аутентификации для утилит Mandriva"
+msgstr "Настройка аутентификации для утилит Mageia"
 
 #: ../lib/MDV/Control_Center.pm:350
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "Define authentication required to access individual Mageia configuration "
 "tools "
 msgstr ""
 "Настройка аутентификации необходима для доступа к отдельным программам "
-"настройки Mandriva"
+"настройки Mageia"
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1959,9 +1959,8 @@ msgid "Screen Resolution"
 msgstr "Разрешение экрана"
 
 #: ../drakconf.desktop.in.h:1
-#, fuzzy
 msgid "Mageia Control Center"
-msgstr "Центр управления"
+msgstr "Центр управления Mageia"
 
 #~ msgid "Configure Your Computer"
 #~ msgstr "Настройка компьютера"
