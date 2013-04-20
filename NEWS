@@ -1,15 +1,18 @@
 Version 12.37 - 19 February 2013 Donald Stewart
+
 - should fix repition issues in filler + added shadow
 
 Version 12.36 - 17 February 2013 Donald Stewart
+
 - use longer left-background-filler to avoid repition issues
 
 Version 12.35 - 17 February 2013 Donald Stewart
+
 -more artwork fixes
 
 Version 12.34 - 17 February 2013 Donald Stewart
-- Mageia 3 artwork
 
+- Mageia 3 artwork
 - bump copyright (mga#8503)
 
 Version 12.33 - 13 December 2012 Thierry Vignaud
