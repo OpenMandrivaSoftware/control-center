@@ -669,12 +669,12 @@ msgstr "Dilesadur"
 #: ../control-center:245
 #, c-format
 msgid "Configure NIS and Autofs"
-msgstr "Kefluniañ NIS hag autofs"
+msgstr "Kefluniañ NIS hag Autofs"
 
 #: ../control-center:246
 #, c-format
 msgid "Configure the NIS and Autofs services"
-msgstr "Kefluniañ ar servijoù NIS hag autofs"
+msgstr "Kefluniañ ar servijoù NIS hag Autofs"
 
 #: ../control-center:248
 #, c-format
@@ -705,12 +705,12 @@ msgstr "Kefluniañ ar servijer keleier"
 #: ../control-center:269
 #, c-format
 msgid "Configure groupware"
-msgstr "Kefluniañ groupware   "
+msgstr "Kefluniañ ar strollant"
 
 #: ../control-center:270
 #, c-format
 msgid "Configure a groupware server"
-msgstr "Kefluniañ ur servijer groupware"
+msgstr "Kefluniañ ur servijer strollant"
 
 #: ../control-center:272
 #, c-format
@@ -720,7 +720,7 @@ msgstr "Kefluniañ mailh"
 #: ../control-center:273
 #, c-format
 msgid "Configure the Internet Mail services"
-msgstr "Kefluniañ servijoù posteloù ar c'henrouedad"
+msgstr "Kefluniañ servijoù posteloù ar genrouedad"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:285 ../control-center:288
@@ -767,7 +767,7 @@ msgstr "Merañ ho periantel"
 #: ../control-center:332
 #, c-format
 msgid "Configure graphics"
-msgstr "Kefluniañ ar grafikoù"
+msgstr "Kefluniañ ar grafigoù"
 
 #: ../control-center:339
 #, c-format
@@ -851,7 +851,7 @@ msgstr "CD-ROM « %s »"
 #: ../control-center:490
 #, c-format
 msgid "Set where your \"%s\" CD-ROM drive is mounted"
-msgstr "Lakaat pelec'h e vez marchañ ho CD-ROM « %s »"
+msgstr "Lakaat pelec'h e vez marc'hañ ho CD-ROM « %s »"
 
 #: ../control-center:492
 #, c-format
@@ -861,7 +861,7 @@ msgstr "DVD-ROM « %s »"
 #: ../control-center:493
 #, c-format
 msgid "Set where your \"%s\" DVD-ROM drive is mounted"
-msgstr "Lakaat pelec'h e vez marchañ ho zDVD-ROM « %s »"
+msgstr "Lakaat pelec'h e vez marc'hañ ho tDVD-ROM « %s »"
 
 #: ../control-center:495
 #, c-format
@@ -871,7 +871,7 @@ msgstr "Engraver CD/DVD « %s »"
 #: ../control-center:496
 #, c-format
 msgid "Set where your \"%s\" CD/DVD burner is mounted"
-msgstr "Lakaat pelec'h e vez marchañ ho skriver CD/DVD « %s »"
+msgstr "Lakaat pelec'h e vez marc'hañ ho skriver CD/DVD « %s »"
 
 #: ../control-center:498
 #, c-format
@@ -881,7 +881,7 @@ msgstr "Pladenn ZIP"
 #: ../control-center:499
 #, c-format
 msgid "Set where your ZIP drive is mounted"
-msgstr "Lakaat pelec'h e vez marchañ ho vladenn ZIP"
+msgstr "Lakaat pelec'h e vez marc'hañ ho pladenn ZIP"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:511 ../control-center:514
@@ -919,7 +919,7 @@ msgstr "/_Dibarzhoù"
 #: ../control-center:613
 #, c-format
 msgid "/Display _Logs"
-msgstr "/Diskouez ar c'herzlevr"
+msgstr "/Diskouez ar c'herzhlevr"
 
 #: ../control-center:614
 #, c-format
@@ -956,7 +956,7 @@ msgstr "Kuitaat"
 #: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
 msgid "/_Themes"
-msgstr "/_Giz"
+msgstr "/_Gizioù"
 
 #: ../control-center:656
 #, c-format
@@ -1034,7 +1034,7 @@ msgstr ""
 #: ../control-center:1104
 #, c-format
 msgid "Impossible to run unknown '%s' program"
-msgstr "Ne m'eus ket lañsañ ar goulev dianav « %s »"
+msgstr "N’em eus ket lañsañ ar goulev dianav « %s »"
 
 #: ../control-center:1123
 #, c-format
@@ -1054,12 +1054,12 @@ msgstr ""
 #: ../control-center:1372
 #, c-format
 msgid "This program has exited abnormally"
-msgstr "Echuet direizh eo ar program-mañ"
+msgstr "Echuet direizh eo ar programm-mañ"
 
 #: ../control-center:1381
 #, c-format
 msgid "Warning"
-msgstr "Ho evezh"
+msgstr "Hoc’h evezh"
 
 #: ../control-center:1391 ../drakconsole:31
 #, c-format
@@ -1157,7 +1157,7 @@ msgstr "Copyright (C) %s Mandriva SA"
 #: ../control-center:1494
 #, c-format
 msgid "Authors"
-msgstr "Obererour"
+msgstr "Obererien"
 
 #: ../control-center:1495
 #, fuzzy, c-format
@@ -1202,7 +1202,7 @@ msgstr "Moger tan"
 #: ../drakxconf:35
 #, c-format
 msgid "Boot loader"
-msgstr "C'harger loc'hañ"
+msgstr "Karger loc'hañ"
 
 #: ../drakxconf:36
 #, c-format
@@ -1217,7 +1217,7 @@ msgstr "Rannañ gevreadenn ar genrouedad"
 #: ../drakxconf:38
 #, c-format
 msgid "3D Desktop effects"
-msgstr "Efedoù ar vurev 3D"
+msgstr "Efedoù ar burev 3D"
 
 #: ../drakxconf:39
 #, c-format
@@ -1232,12 +1232,12 @@ msgstr "Kreizenn ren"
 #: ../drakxconf:42
 #, c-format
 msgid "Choose the tool you want to use"
-msgstr "Dibabit ar c'houlev e fell deoc'h implij"
+msgstr "Dibabit ar goulev e fell deoc'h implij"
 
 #: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
 #, c-format
 msgid "Configure 3D Desktop effects"
-msgstr "Kefluniañ efedoù ar vurev 3D"
+msgstr "Kefluniañ efedoù ar burev 3D"
 
 #: ../lib/MDV/Control_Center.pm:68
 #, c-format
@@ -1283,17 +1283,17 @@ msgstr "Kefluniañ penaos e vez loc'hañ ar reizhiad"
 #: ../lib/MDV/Control_Center.pm:118
 #, c-format
 msgid "Set up boot graphical theme of system"
-msgstr "Kefluniañ giz grafik ar reizhiad en ur loc'hañ"
+msgstr "Kefluniañ giz grafek ar reizhiad en ur loc'hañ"
 
 #: ../lib/MDV/Control_Center.pm:119
 #, c-format
 msgid "Select the graphical theme of the system while booting"
-msgstr "Dibabit giz grafik ar reizhiad en ur loc'hañ"
+msgstr "Dibabit giz grafek ar reizhiad en ur loc'hañ"
 
 #: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
 #, c-format
 msgid "Share the Internet connection with other local machines"
-msgstr "Rannañ gevreadenn ouzh ar genrouedad gant an urzhiataeroù lec'hel all"
+msgstr "Rannañ gevreadenn ouzh ar genrouedad gant an urzhiataerioù lec'hel all"
 
 #: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
 #, c-format
@@ -1308,7 +1308,7 @@ msgstr "Digor ar genrouedad"
 #: ../lib/MDV/Control_Center.pm:149
 #, c-format
 msgid "Alter miscellaneous internet settings"
-msgstr "Kemmañ dibarzhoù a bep seurt ar genrouedad"
+msgstr "Kemmañ dibarzhioù a bep seurt ar genrouedad"
 
 #: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
 #, c-format
@@ -1355,7 +1355,7 @@ msgstr ""
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
 msgid "Set up the graphical server"
-msgstr "Kelfunian ar servijer grafik"
+msgstr "Kefluniañ ar servijer grafek"
 
 #: ../lib/MDV/Control_Center.pm:229
 #, c-format
@@ -1410,7 +1410,7 @@ msgstr ""
 #: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
 #, c-format
 msgid "Set up the keyboard layout"
-msgstr "Lakaat kefluniadr ar stokellaoueg"
+msgstr "Lakaat kefluniadur ar stokellaoueg"
 
 #: ../lib/MDV/Control_Center.pm:301
 #, c-format
@@ -1450,12 +1450,12 @@ msgstr "Adgefluniañ un etrefas rouedad"
 #: ../lib/MDV/Control_Center.pm:340
 #, c-format
 msgid "Manage computer group"
-msgstr "Merañ strollad an urzhiataeroù"
+msgstr "Merañ strollad an urzhiataerioù"
 
 #: ../lib/MDV/Control_Center.pm:341
 #, c-format
 msgid "Manage installed software packages on a group of computers"
-msgstr "Merañ ar pakadoù staliet e-barzh strollad an urzhiataeroù"
+msgstr "Merañ ar pakadoù staliet e-barzh strollad an urzhiataeruoù"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
@@ -1509,7 +1509,7 @@ msgstr "Evezhiañ ar c'hevreadennoù rouedad"
 #: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
 #, c-format
 msgid "Set up the pointer device (mouse, touchpad)"
-msgstr "Lakkat trobarzhell ar buker (logodenn, tablezenn)"
+msgstr "Lakaat trobarzhell ar buker (logodenn, tablezenn)"
 
 #: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
 #, c-format
@@ -1579,7 +1579,7 @@ msgstr "Kefluniañ ar voullerez(ioù), al lostennoù voulañ, ..."
 #: ../lib/MDV/Control_Center.pm:491
 #, c-format
 msgid "Scheduled tasks"
-msgstr "Dleaddoù steuñvaeret"
+msgstr "Dleadoù steuñvaeret"
 
 #: ../lib/MDV/Control_Center.pm:492
 #, c-format
@@ -1674,7 +1674,7 @@ msgstr ""
 #: ../lib/MDV/Control_Center.pm:603
 #, fuzzy, c-format
 msgid "Configure updates frequency"
-msgstr "Kefluniañ groupware   "
+msgstr "Kefluniañ groupware"
 
 #: ../lib/MDV/Control_Center.pm:612
 #, c-format
@@ -1751,7 +1751,7 @@ msgstr "Kefluniañ..."
 #: ../menus_launcher.pl:31
 #, c-format
 msgid "User menu"
-msgstr "Meuziad ar dud"
+msgstr "Meuziad an dud"
 
 #: ../menus_launcher.pl:41
 #, c-format
@@ -1772,7 +1772,7 @@ msgstr "Kefluniañ ar voullerez"
 #: ../print_launcher.pl:30
 #, c-format
 msgid "Click here to configure the printing system"
-msgstr "Klikit amañ da kefluniañ reizhiad moulañ"
+msgstr "Klikit amañ da gefluniañ reizhiad moulañ"
 
 #: ../print_launcher.pl:37
 #, c-format
@@ -1789,7 +1789,7 @@ msgstr "Deiziad hag eur"
 
 #: ../data/connection.desktop.in.h:1
 msgid "New connection"
-msgstr "Kevreadenn nenez"
+msgstr "Kevreadenn nevez"
 
 #: ../data/drakautoinst.desktop.in.h:1
 msgid "Auto Install floppy"
@@ -1801,7 +1801,7 @@ msgstr "Loc'hañ"
 
 #: ../data/drakcronat.desktop.in.h:1
 msgid "Programs scheduling"
-msgstr "Dleaddoù steuñvaeret"
+msgstr "Dleadoù steuñvaeret"
 
 #: ../data/drakdm.desktop.in.h:1
 msgid "Display manager"
@@ -1869,7 +1869,7 @@ msgstr "Lemel ur gevreadenn"
 
 #: ../data/samba.desktop.in.h:1
 msgid "Samba mount points"
-msgstr "Poentoù marc'hañ SaMBa"
+msgstr "Poentoù marc'hañ Samba"
 
 #: ../data/scannerdrake.desktop.in.h:1
 msgid "Scanners"
@@ -1877,7 +1877,7 @@ msgstr "Eiltreser"
 
 #: ../data/SystemConfig.directory.in.h:1
 msgid "System Settings"
-msgstr "Dibarzhoù ar reizhiad"
+msgstr "Dibarzhioù ar reizhiad"
 
 #: ../data/userdrake.desktop.in.h:1
 msgid "Users and Groups"
@@ -1889,7 +1889,7 @@ msgstr "Poentoù marc'hañ WebDAV"
 
 #: ../data/XFDrake.desktop.in.h:1
 msgid "Graphical server"
-msgstr "Servijer grafik"
+msgstr "Servijer grafek"
 
 #: ../data/XFDrake-Monitor.desktop.in.h:1
 msgid "Monitor"
