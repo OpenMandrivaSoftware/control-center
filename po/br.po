@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: drakconf 0.96\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-30 20:27+0200\n"
-"PO-Revision-Date: 2008-12-18 17:22+0100\n"
+"PO-Revision-Date: 2013-05-03 00:04+0200\n"
 "Last-Translator: Thierry Vignaud <tvignaud@mandrakesoft.com>\n"
 "Language-Team: Brezhoneg <LL@li.org>\n"
 "Language: \n"
@@ -1150,9 +1150,9 @@ msgid "Copyright (C) %s Mandriva SA"
 msgstr "Copyright (C) %s Mandriva SA"
 
 #: ../control-center:1488
-#, fuzzy, c-format
+#, c-format
 msgid "Copyright (C) %s Mageia"
-msgstr "Copyright (C) %s Mandriva SA"
+msgstr "Copyright (C) %s Mageia"
 
 #: ../control-center:1494
 #, c-format
@@ -1160,9 +1160,9 @@ msgid "Authors"
 msgstr "Obererien"
 
 #: ../control-center:1495
-#, fuzzy, c-format
+#, c-format
 msgid "Mageia Contributors"
-msgstr "Mignonez Mandriva Linux"
+msgstr "Mignoned Mageia"
 
 #: ../drakconsole:27
 #, c-format
@@ -1338,7 +1338,7 @@ msgstr "Kefluniañ ur servijer"
 #: ../lib/MDV/Control_Center.pm:199
 #, c-format
 msgid "Set up your personal firewall"
-msgstr ""
+msgstr "Kefluniañ ho moger tan"
 
 #: ../lib/MDV/Control_Center.pm:200
 #, c-format
@@ -1472,7 +1472,7 @@ msgstr ""
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
 msgid "Update your system"
-msgstr ""
+msgstr "Bremanaat ho reizhiad"
 
 #: ../lib/MDV/Control_Center.pm:359
 #, c-format
@@ -1900,9 +1900,8 @@ msgid "Screen Resolution"
 msgstr "Spister ar skramm"
 
 #: ../drakconf.desktop.in.h:1
-#, fuzzy
 msgid "Mageia Control Center"
-msgstr "Kreizenn ren"
+msgstr "Kreizenn ren Mageia"
 
 #~ msgid "Configure Your Computer"
 #~ msgstr "Kefluniañ hoc'h urzhiataer"
