@@ -6,15 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: control-center\n"
 "POT-Creation-Date: 2012-05-30 20:27+0200\n"
-"PO-Revision-Date: 2011-05-19 13:08+0000\n"
-"Last-Translator: salim salim <almusalimalmusalimah@gmail.com>\n"
+"PO-Revision-Date: 2013-05-10 05:26+0100\n"
+"Last-Translator: Mohamed Sakhri <mohamed.sakhri@googlemail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../contributors.pl:11
 #, c-format
@@ -32,8 +33,8 @@ msgid ""
 "massive packages rebuilding and cleaning, games, sparc port, proofreading of "
 "Mandriva tools"
 msgstr ""
-"إعادة بناء ضخمة للحزم وتنظيفها، والألعاب، والنقل إلى سبارك، وتحسين كتابة "
-"نصوص أدوات ماجيّا"
+"إعادة بناء ضخمة للحزم وتنظيفها، الألعاب، النقل إلى سبارك، تحسين كتابة نصوص "
+"أدوات ماجيّا"
 
 #: ../contributors.pl:13
 #, c-format
@@ -53,7 +54,7 @@ msgstr "Olivier Thauvin"
 #: ../contributors.pl:14
 #, c-format
 msgid "figlet introduction, Distriblint (checking rpm in the distro)"
-msgstr "مقدّمة فِغلِت، وفحص حزم rpm في التوزيعة"
+msgstr "مقدمة figlet، فحص حزم rpmi بالتوزيعة"
 
 #: ../contributors.pl:15
 #, c-format
@@ -63,7 +64,7 @@ msgstr "Marcel Pol"
 #: ../contributors.pl:15
 #, c-format
 msgid "xfce4, updated abiword, mono"
-msgstr "إكسفِس4، وتحديث أبي‌وِرد، ومونو"
+msgstr "إكسفِس4، تحديث أبي‌وِرد، مونو"
 
 #: ../contributors.pl:16
 #, c-format
@@ -76,7 +77,7 @@ msgid ""
 "updated nc with debian patches, fixed some perl packages, dnotify startup "
 "script, urpmc, hddtemp, wipe, etc..."
 msgstr ""
-"تحديث nc مع رقع ديبيان، وتصحيح بعض حزم بِرل، وبرنامج dnotify startup، urpmc، "
+"تحديث nc مع رقع ديبيان، تصحيح بعض حزم بِرل، برنامج dnotify startup، urpmc، "
 "hddtemp، wipe، إلخ..."
 
 #: ../contributors.pl:17 ../contributors.pl:42
@@ -140,8 +141,8 @@ msgid ""
 "xine, totem, gstreamer, mplayer, vlc, vcdimager, xmms and plugins gnome-"
 "python, rox desktop"
 msgstr ""
-"اكسين، وتوتِم، وجي‌ستريمر، وإم‌بليَر، وvlc، وvcdimager، وxmms، وملحقات جنوم-"
-"بيثون، سطح مكتب rox"
+"اكسين، توتِم، جي‌ستريمر، إم‌بليَر، vlc، vcdimager، xmms، ملحقات جنوم-بيثون، سطح "
+"مكتب rox"
 
 #: ../contributors.pl:22
 #, c-format
@@ -154,7 +155,7 @@ msgid ""
 "audio/video/MIDI apps, scientific apps, audio/video production howtos, "
 "bluetooth, pyqt & related"
 msgstr ""
-"تطبيقات للصوت/الفيديو/MIDI، وتطبيقات علمية، وأدلة مساعدة تخصُّ الإنتاج الصوتي "
+"تطبيقات للصوت/الفيديو/MIDI، تطبيقات علمية، أدلة مساعدة تخصُّ الإنتاج الصوتي "
 "والمرئي، bluetooth، pyqt وما تعلّق بها"
 
 #: ../contributors.pl:23
@@ -195,7 +196,7 @@ msgstr "Stefan VanDer Eijk"
 #: ../contributors.pl:26
 #, c-format
 msgid "slbd distro checking, devel dependencies"
-msgstr "فحص slbd في التوزيعة، و اعتماديات devel"
+msgstr "فحص slbd في التوزيعة،  اعتماديات devel"
 
 #: ../contributors.pl:27
 #, c-format
@@ -205,7 +206,7 @@ msgstr "David Walser"
 #: ../contributors.pl:27
 #, c-format
 msgid "rpmsync script, foolproof MIDI playback, tweaked libao"
-msgstr "مسطورة rpmsync، وعصم إعادة MIDI، وتطويع libao"
+msgstr "مسطورة rpmsync، عصم إعادة MIDI، تطويع libao"
 
 #: ../contributors.pl:28
 #, c-format
@@ -260,7 +261,7 @@ msgstr "Christophe Guilloux"
 #: ../contributors.pl:32
 #, c-format
 msgid "bug reports, help with thunderbird package,..."
-msgstr "تقارير العلل، والمساعدة بحزمة ثندَربرد،..."
+msgstr "تقارير العلل، المساعدة بحزمة ثندَربرد،..."
 
 #: ../contributors.pl:33
 #, c-format
@@ -288,8 +289,8 @@ msgid ""
 "support in LinNeighborhood, fixes and enhancements in urpmi, bootsplash and "
 "drakxtools"
 msgstr ""
-"دعم وسيط http في المُثبِّت، ودعم النواة 2.6 في sndconfig، ودعم سامبا3 في "
-"LinNeighborhood، وإصلاحات وتحسينات في urpmi، شاشة الإقلاع وأدوات دريك"
+"دعم وسيط http في المُثبِّت، دعم النواة 2.6 في sndconfig، دعم سامبا3 في "
+"LinNeighborhood، إصلاحات وتحسينات في urpmi، شاشة الإقلاع وأدوات دريك"
 
 #: ../contributors.pl:35
 #, c-format
@@ -299,7 +300,7 @@ msgstr "Emmanuel Blindauer"
 #: ../contributors.pl:35
 #, c-format
 msgid "lm_sensors for 2.6 kernel, testing, some contrib packages."
-msgstr "lm_sensors للنواة 2.6، والاختبار، وبعض حزم المساهمين."
+msgstr "lm_sensors للنواة 2.6، الاختبار، وبعض حزم المساهمين."
 
 #: ../contributors.pl:36
 #, c-format
@@ -429,7 +430,7 @@ msgstr "Benoit Audouard"
 #: ../contributors.pl:52
 #, c-format
 msgid "testing and bug reporting, integration of eagle-usb driver"
-msgstr "الاختبار والإبلاغ عن العلل، وتضمين مُشغِّل eagle-usb"
+msgstr "الاختبار والإبلاغ عن العلل، تضمين مُشغِّل eagle-usb"
 
 #: ../contributors.pl:53
 #, c-format
@@ -442,7 +443,7 @@ msgstr "Bernhard Gruen"
 #: ../contributors.pl:62
 #, c-format
 msgid "testing and bug reporting"
-msgstr "الاختبار، والإبلاغ عن العلل"
+msgstr "الاختبار، الإبلاغ عن العلل"
 
 #: ../contributors.pl:54
 #, c-format
@@ -552,7 +553,7 @@ msgstr "مركز تحكُّم %s"
 #: ../control-center:106 ../control-center:1060
 #, c-format
 msgid "Loading... Please wait"
-msgstr "انتظر من فضلك ريثما يتحمَّل..."
+msgstr "جاري التحميل... الرجاء الانتظار"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:151 ../control-center:155
@@ -580,54 +581,54 @@ msgstr "المشاركة"
 #: ../control-center:185
 #, c-format
 msgid "Configure FTP"
-msgstr "اضبط FTP"
+msgstr "ضيط FTP"
 
 #: ../control-center:186
 #, c-format
 msgid "Set up an FTP server"
-msgstr "أعدَّ خادم FTP"
+msgstr "إعداد خادم FTP"
 
 #: ../control-center:188
 #, c-format
 msgid "Configure Samba"
-msgstr "اضبط سامبا"
+msgstr "ضبط سامبا"
 
 #: ../control-center:189
 #, c-format
 msgid ""
 "Set up a file and print server for workstations running Linux and non-Linux "
 "systems"
-msgstr "أعدَّ خادم ملفات وطابعات لمحطات عمل لينُكس والأنظمة الأخرى"
+msgstr "إعداد خادم ملفات وطابعات لمحطات عمل تشتغل على نظم لينكس أو غيرها."
 
 #: ../control-center:191
 #, c-format
 msgid "Manage Samba share"
-msgstr "أدِر مشاركة سامبا"
+msgstr "إدارة مشاركة سامبا"
 
 #: ../control-center:192
 #, c-format
 msgid "Manage, create special share, create public/user share"
-msgstr "أدِر، وأنشئ مشاركة خاصة أو عامة"
+msgstr "إدارة و إنشاء مشاركات خاصة وعامة"
 
 #: ../control-center:194
 #, c-format
 msgid "Configure web server"
-msgstr "اضبط خادم الوِب"
+msgstr "ضبط خادم الوِب"
 
 #: ../control-center:195
 #, c-format
 msgid "Set up a web server"
-msgstr "أعدَّ خادم وِب"
+msgstr "إعداد خادم وب"
 
 #: ../control-center:197
 #, c-format
 msgid "Configure installation server"
-msgstr "اضبط خادم التثبيت"
+msgstr "ضبط خادم التثبيت"
 
 #: ../control-center:198
 #, c-format
 msgid "Set up server for network installations of %s"
-msgstr "أعدَّ خادماً لتثبيتات %s الشبكيَّة"
+msgstr "إعداد خادم لتثبيت %s عبر الشبكة"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:208 ../control-center:211
@@ -638,43 +639,43 @@ msgstr "خدمات الشبكة"
 #: ../control-center:214
 #, c-format
 msgid "Configure DHCP"
-msgstr "اضبط DHCP"
+msgstr "ضبط DHCP"
 
 #: ../control-center:215
 #, c-format
 msgid "Set up a DHCP server"
-msgstr "أعدَّ خادم DHCP"
+msgstr "إعداد خادم DHCP"
 
 #: ../control-center:217
 #, c-format
 msgid "Configure DNS"
-msgstr "اضبط DNS"
+msgstr "ضبط DNS"
 
 #: ../control-center:218
 #, c-format
 msgid "Set up a DNS server (network name resolution)"
-msgstr "أعدَّ خادم DNS (حلُّ اسم الشبكة)"
+msgstr "إعداد خادم DNS (حلُّ اسم الشبكة)"
 
 #: ../control-center:220
 #, c-format
 msgid "Configure proxy"
-msgstr "اضبط الوسيط"
+msgstr "ضبط وسيط الشبكة (بروكسي)"
 
 #: ../control-center:221
 #, c-format
 msgid "Configure a web caching proxy server"
-msgstr "اضبط خادم وسيط مختزن لوِب"
+msgstr "ضبط خادم وسيط شبكة مختزن للوِب"
 
 #: ../control-center:223
 #, c-format
 msgid "Configure time"
-msgstr "اضبط الوقت"
+msgstr "ضبط الوقت"
 
 #: ../control-center:224
 #, c-format
 msgid ""
 "Set the time of the server to be synchronized with an external time server"
-msgstr "عيِّن وقت مُزامنة الخادم مع خادوم زمني خارجي"
+msgstr "عيِّن وقت مُزامنة الخادم مع خادم زمني خارجي"
 
 #: ../control-center:226 ../control-center:227
 #, c-format
@@ -696,17 +697,17 @@ msgstr "اضبط NIS وAutofs"
 #: ../control-center:246
 #, c-format
 msgid "Configure the NIS and Autofs services"
-msgstr "اضبط خدمات NIS وAutofs"
+msgstr "ضبط خدمات NIS وAutofs"
 
 #: ../control-center:248
 #, c-format
 msgid "Configure LDAP"
-msgstr "اضبط LDAP"
+msgstr "ضبط LDAP"
 
 #: ../control-center:249
 #, c-format
 msgid "Configure the LDAP directory services"
-msgstr "اضبط خدمات دليل LDAP"
+msgstr "ضبط خدمات دليل LDAP"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:260 ../control-center:263
@@ -717,32 +718,32 @@ msgstr "البرمجيات الجماعية"
 #: ../control-center:266
 #, c-format
 msgid "Configure news"
-msgstr "اضبط الأخبار"
+msgstr "ضبط الأخبار"
 
 #: ../control-center:267
 #, c-format
 msgid "Configure a newsgroup server"
-msgstr "اضبط خادم المجموعات الإخبارية"
+msgstr "ضبط خادم المجموعات الإخبارية"
 
 #: ../control-center:269
 #, c-format
 msgid "Configure groupware"
-msgstr "اضبط البرمجيات الجماعية"
+msgstr "ضبط البرمجيات الجماعية"
 
 #: ../control-center:270
 #, c-format
 msgid "Configure a groupware server"
-msgstr "اضبط خادم البرمجيات الجماعية"
+msgstr "ضبط خادم البرمجيات الجماعية"
 
 #: ../control-center:272
 #, c-format
 msgid "Configure mail"
-msgstr "اضبط البريد"
+msgstr "ضبط البريد"
 
 #: ../control-center:273
 #, c-format
 msgid "Configure the Internet Mail services"
-msgstr "اضبط خدمات بريد الإنترنت"
+msgstr "ضبط خدمات بريد الإنترنت"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:285 ../control-center:288
@@ -758,7 +759,7 @@ msgstr "إدارة محليَّة"
 #: ../control-center:305
 #, c-format
 msgid "Configure the local machine via web interface"
-msgstr "اضبط الجهاز المحلِّي عبر واجهة وِب"
+msgstr "ضبط الجهاز المحلِّي عبر واجهة وِب"
 
 #: ../control-center:305
 #, c-format
@@ -784,22 +785,22 @@ msgstr "العتاد"
 #: ../control-center:325
 #, c-format
 msgid "Manage your hardware"
-msgstr "أدِر عتادك"
+msgstr "إدارة العتاد"
 
 #: ../control-center:332
 #, c-format
 msgid "Configure graphics"
-msgstr "اضبط الرسوميات"
+msgstr "ضبط الرسوميات"
 
 #: ../control-center:339
 #, c-format
 msgid "Configure mouse and keyboard"
-msgstr "اضبط الفأرة ولوحة المفاتيح"
+msgstr "ضبط الفأرة ولوحة المفاتيح"
 
 #: ../control-center:346
 #, c-format
 msgid "Configure printing and scanning"
-msgstr "اضبط الطباعة والمسح"
+msgstr "ضبط الطباعة والمسح"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:364 ../drakxconf:31
@@ -810,12 +811,12 @@ msgstr "الشبكة والإنترنت"
 #: ../control-center:367 ../lib/MDV/Control_Center.pm:419
 #, c-format
 msgid "Manage your network devices"
-msgstr "أدِر أجهزة شبكتك"
+msgstr "إدارة أجهزة الشبكة"
 
 #: ../control-center:380
 #, c-format
 msgid "Personalize and Secure your network"
-msgstr "خصِّص شبكتك واحمها"
+msgstr "تخصيص وحماية الشبكة"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:399
@@ -826,7 +827,7 @@ msgstr "النظام"
 #: ../control-center:402
 #, c-format
 msgid "Manage system services"
-msgstr "أدِر خدمات النظام"
+msgstr "إدارة خدمات النظام"
 
 #: ../control-center:411
 #, c-format
@@ -847,17 +848,17 @@ msgstr "مشاركة الشبكة"
 #: ../control-center:438
 #, c-format
 msgid "Configure Windows(R) shares"
-msgstr "اضبط مشاركة وِندُز"
+msgstr "ضبط مشاركة وِيندوز"
 
 #: ../control-center:445
 #, c-format
 msgid "Configure NFS shares"
-msgstr "اضبط مشاركة NFS"
+msgstr "ضبط مشاركة NFS"
 
 #: ../control-center:452
 #, c-format
 msgid "Configure WebDAV shares"
-msgstr "اضبط مشاركة WebDAV"
+msgstr "ضبط مشاركة WebDAV"
 
 #. -PO: please keep the following message very short: it must fit in the left list of MCC!!!
 #: ../control-center:462 ../control-center:465
@@ -920,7 +921,7 @@ msgstr "الإقلاع"
 #: ../control-center:532
 #, c-format
 msgid "Configure boot steps"
-msgstr "اضبط خطوات الإقلاع"
+msgstr "ضبط خطوات الإقلاع"
 
 #: ../control-center:541
 #, c-format
@@ -973,7 +974,7 @@ msgstr "<control>ر"
 #: ../control-center:629
 #, c-format
 msgid "Quit"
-msgstr "اخرج"
+msgstr "خروج"
 
 #: ../control-center:650 ../control-center:653 ../control-center:666
 #, c-format
@@ -986,7 +987,7 @@ msgid ""
 "This action will restart the control center.\n"
 "Any change not applied will be lost."
 msgstr ""
-"سيعيد هذا الإجراء مركز التحكم.\n"
+"هذا الإجراء سيعيد تشغيل مركز التحكم.\n"
 "وستخسر أية تغييرات لم تُطبَّق بعد."
 
 #: ../control-center:666
@@ -1035,7 +1036,7 @@ msgstr "/عَ_نْ..."
 #: ../control-center:732
 #, c-format
 msgid "Cancel"
-msgstr "ألغِ"
+msgstr "إلغاء"
 
 #: ../control-center:752
 #, c-format
@@ -1054,14 +1055,14 @@ msgid ""
 "\n"
 "Please report that bug."
 msgstr ""
-"يوجد علّة في التّرجمات إلى لغتك (%s)\n"
+"توجد علّة في التّرجمات إلى لغتك (%s)\n"
 "\n"
-"أبلغ عن تلك العلَّة فضلاً."
+"الرجاء الإبلاغ عن تلك العلة"
 
 #: ../control-center:1104
 #, c-format
 msgid "Impossible to run unknown '%s' program"
-msgstr "تشغيل البرنامج '%s' المجهول مُستحيل"
+msgstr "يستحيل تشغيل برنامج '%s' المجهول"
 
 #: ../control-center:1123
 #, c-format
@@ -1076,12 +1077,12 @@ msgstr "لايمكن استنساخ: %s"
 #: ../control-center:1233
 #, c-format
 msgid "cannot fork and exec \"%s\" since it is not executable"
-msgstr "لايمكن استنساخ \"%s\" بما أنها غير تنفيذية"
+msgstr "لايمكن استنساخ \"%s\" لأنها غير تنفيذية"
 
 #: ../control-center:1372
 #, c-format
 msgid "This program has exited abnormally"
-msgstr "أُغلق هذا البرنامج بطريقة شاذة"
+msgstr "تم وقف هذا البرنامج بطريقة غير عادية"
 
 #: ../control-center:1381
 #, c-format
@@ -1091,7 +1092,7 @@ msgstr "تحذير"
 #: ../control-center:1391 ../drakconsole:31
 #, c-format
 msgid "Close"
-msgstr "أغلق"
+msgstr "إغلاق"
 
 #: ../control-center:1398
 #, c-format
@@ -1264,13 +1265,13 @@ msgstr "اختر الأداة التي تريد استخدامها"
 #: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
 #, c-format
 msgid "Configure 3D Desktop effects"
-msgstr "اضبط تأثيرات سطح المكتب ثلاثية الأبعاد"
+msgstr "ضبط تأثيرات سطح المكتب ثلاثية الأبعاد"
 
 #: ../lib/MDV/Control_Center.pm:68
 #, c-format
 msgid ""
 "Select the authentication method (local, NIS, LDAP, Windows Domain, ...)"
-msgstr "انتقِ طريقة الاستيثاق (محلِّي، NIS، LDAP، نطاق وِندُز، ...)"
+msgstr "انتقِ طريقة الاستيثاق (محلِّي، NIS، LDAP، نطاق وِيندوز، ...)"
 
 #: ../lib/MDV/Control_Center.pm:77
 #, c-format
@@ -1290,118 +1291,118 @@ msgstr "النسخ الاحتياطية"
 #: ../lib/MDV/Control_Center.pm:88
 #, c-format
 msgid "Configure backups of the system and of the users' data"
-msgstr "اضبط النسخ الاحتياطيَّ للنظام وبيانات المستخدمين"
+msgstr "ضبط النسخ الاحتياطيَّ للنظام وبيانات المستخدمين"
 
 #: ../lib/MDV/Control_Center.pm:98
 #, c-format
 msgid "Snapshots"
-msgstr "اللقطات"
+msgstr "لقطات النسخ الاحتياطي"
 
 #: ../lib/MDV/Control_Center.pm:108
 #, c-format
 msgid "Set up boot system"
-msgstr "أعدَّ نظام الإقلاع"
+msgstr "إعداد نظام الإقلاع"
 
 #: ../lib/MDV/Control_Center.pm:109
 #, c-format
 msgid "Set up how the system boots"
-msgstr "عيِّن كيفيّة إقلاع النظام"
+msgstr "تعيين كيفيّة إقلاع النظام"
 
 #: ../lib/MDV/Control_Center.pm:118
 #, c-format
 msgid "Set up boot graphical theme of system"
-msgstr "عيِّن سمة الإقلاع الرسوميَّة للنظام"
+msgstr "تعيين سمة الإقلاع الرسوميَّة للنظام"
 
 #: ../lib/MDV/Control_Center.pm:119
 #, c-format
 msgid "Select the graphical theme of the system while booting"
-msgstr "انتقِ سمة الإقلاع الرسوميَّة للنظام أثناء الإقلاع"
+msgstr "انتقاء سمة الإقلاع الرسوميَّة للنظام أثناء الإقلاع"
 
 #: ../lib/MDV/Control_Center.pm:128 ../lib/MDV/Control_Center.pm:129
 #, c-format
 msgid "Share the Internet connection with other local machines"
-msgstr "شارك اتصال الإنترنت مع أجهزة محلية أخرى"
+msgstr "مشاركة اتصال الإنترنت مع أجهزة محلية أخرى"
 
 #: ../lib/MDV/Control_Center.pm:138 ../lib/MDV/Control_Center.pm:139
 #, c-format
 msgid "Set up a new network interface (LAN, ISDN, ADSL, ...)"
-msgstr "أعدَّ واجهة شبكية جديدة (LAN، ISDN، ADSL، ...)"
+msgstr "إعداد واجهة شبكية جديدة (LAN، ISDN، ADSL، ...)"
 
 #: ../lib/MDV/Control_Center.pm:148
 #, c-format
 msgid "Internet access"
-msgstr "النفاذ إلى الإنترنت"
+msgstr "ولوج الإنترنت"
 
 #: ../lib/MDV/Control_Center.pm:149
 #, c-format
 msgid "Alter miscellaneous internet settings"
-msgstr "غيِّر إعدادات إنترنت متنوعة"
+msgstr "تغيير إعدادات إنترنت متنوعة"
 
 #: ../lib/MDV/Control_Center.pm:158 ../lib/MDV/Control_Center.pm:159
 #, c-format
 msgid "Open a console as administrator"
-msgstr "افتح الطرفيَّة بالمستخدم المدير"
+msgstr "فتح الطرفيَّة بحساب المدير"
 
 #: ../lib/MDV/Control_Center.pm:169 ../lib/MDV/Control_Center.pm:170
 #, c-format
 msgid "Manage date and time"
-msgstr "أدِر التاريخ والوقت"
+msgstr "إدارة التاريخ والوقت"
 
 #: ../lib/MDV/Control_Center.pm:179
 #, c-format
 msgid "Set up display manager"
-msgstr "عيِّن مُدير العرض"
+msgstr "تعيين مُدير العرض"
 
 #: ../lib/MDV/Control_Center.pm:180
 #, c-format
 msgid "Choose the display manager that enables to select which user to log in"
-msgstr "اختر مدير العرض الذي سيُمكِّنك من انتقاء المستخدم الذي سيلج"
+msgstr "اختيار مدير العرض الذي سيُمكِّنك من انتقاء المستخدم الذي سيلج"
 
 #: ../lib/MDV/Control_Center.pm:189 ../lib/MDV/Control_Center.pm:190
 #, c-format
 msgid "Configure a fax server"
-msgstr "اضبط خادم فاكس"
+msgstr "ضبط خادم فاكس"
 
 #: ../lib/MDV/Control_Center.pm:199
 #, c-format
 msgid "Set up your personal firewall"
-msgstr "أعدَّ جدارك الناري الشخصي"
+msgstr "إعداد الجدار الناري"
 
 #: ../lib/MDV/Control_Center.pm:200
 #, c-format
 msgid ""
 "Set up a personal firewall in order to protect the computer and the network"
-msgstr "أعدَّ جداراً نارياً شخصياً لحماية الحاسب والشّبكة"
+msgstr "إعداد جدار ناري شخصي لحماية الحاسب والشّبكة"
 
 #: ../lib/MDV/Control_Center.pm:209 ../lib/MDV/Control_Center.pm:210
 #, c-format
 msgid "Manage, add and remove fonts. Import Windows(TM) fonts"
-msgstr "أدِر، وأضف، واحذف خطوطاً. واستورد خطوط وِندُز"
+msgstr "إدارة، إضافة وحذف الخطوط، استيراد خطوط ويندوز"
 
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
 msgid "Set up the graphical server"
-msgstr "أعدَّ الخادم الرُّسومي"
+msgstr "إعداد الخادم الرُّسومي"
 
 #: ../lib/MDV/Control_Center.pm:229
 #, c-format
 msgid "Manage disk partitions"
-msgstr "أدِر أقسام القرص"
+msgstr "إدارة أقسام القرص الصلب"
 
 #: ../lib/MDV/Control_Center.pm:230
 #, c-format
 msgid "Create, delete and resize hard disk partitions"
-msgstr "أنشئ، احذف، وحجِّم أقسام القرص الصلب"
+msgstr "إنشاء، حذف وتغيير حجم أقسام القرص الصلب"
 
 #: ../lib/MDV/Control_Center.pm:239 ../lib/MDV/Control_Center.pm:240
 #, c-format
 msgid "Browse and configure hardware"
-msgstr "تصفَّح واضبط العتاد"
+msgstr "تصفح وضبط العتاد"
 
 #: ../lib/MDV/Control_Center.pm:250 ../lib/MDV/Control_Center.pm:251
 #, c-format
 msgid "Sound Configuration"
-msgstr "ضبْط الصوت"
+msgstr "ضبط الصوت"
 
 #: ../lib/MDV/Control_Center.pm:260
 #, c-format
@@ -1411,17 +1412,17 @@ msgstr "تعريفات المُضيف"
 #: ../lib/MDV/Control_Center.pm:261
 #, c-format
 msgid "Manage hosts definitions"
-msgstr "أدِر تعريفات المُضيف"
+msgstr "إدارة تعريفات المُضيف"
 
 #: ../lib/MDV/Control_Center.pm:270
 #, c-format
 msgid "Install & Remove Software"
-msgstr "ثبِّت، أو أزل برمجيَّات"
+msgstr "تثبيت وحذف البرمجيات"
 
 #: ../lib/MDV/Control_Center.pm:271
 #, c-format
 msgid "Install, uninstall software"
-msgstr "ثبِّت، أو أزل تثبيت برمجيَّات"
+msgstr "تثبيت، حذف البرمجيات"
 
 #: ../lib/MDV/Control_Center.pm:281
 #, c-format
@@ -1431,12 +1432,12 @@ msgstr "إعداد متقدم للجدار الناري وواجهات الشب�
 #: ../lib/MDV/Control_Center.pm:282
 #, c-format
 msgid "Set up network interfaces failover and firewall replication"
-msgstr "أعدَّ تجاوز فشل واجهات الشبكة، ومضاعفة الجدار النَّاري"
+msgstr "إعداد تجاوز فشل واجهات الشبكة، ومضاعفة الجدار النَّاري"
 
 #: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
 #, c-format
 msgid "Set up the keyboard layout"
-msgstr "عيِّن تخطيط لوحة المفاتيح"
+msgstr "تعيين تخطيط لوحة المفاتيح"
 
 #: ../lib/MDV/Control_Center.pm:301
 #, c-format
@@ -1446,59 +1447,59 @@ msgstr "Kolab"
 #: ../lib/MDV/Control_Center.pm:302
 #, c-format
 msgid "Set up a groupware server"
-msgstr "أعدَّ خادم برمجيات جماعية"
+msgstr "إعداد خادم برمجيات جماعية"
 
 #: ../lib/MDV/Control_Center.pm:311
 #, c-format
 msgid "Manage localization for your system"
-msgstr "أدِر توطين حاسبك"
+msgstr "إدارة التوطين لنظامك"
 
 #: ../lib/MDV/Control_Center.pm:312
 #, c-format
 msgid "Select the language and the country or region of the system"
-msgstr "اختر اللغة والبلد أو المنطقة للنظام"
+msgstr "اختيار اللغة والبلد أو المنطقة للنظام"
 
 #: ../lib/MDV/Control_Center.pm:320 ../lib/MDV/Control_Center.pm:321
 #, c-format
 msgid "View and search system logs"
-msgstr "اعرض وابحث في سجلات النظام"
+msgstr "عرض والبحث  في سجلات النظام"
 
 #: ../lib/MDV/Control_Center.pm:330
 #, c-format
 msgid "Manage connections"
-msgstr "أدِر الاتصالات"
+msgstr "إدارة  الاتصالات"
 
 #: ../lib/MDV/Control_Center.pm:331
 #, c-format
 msgid "Reconfigure a network interface"
-msgstr "أعد ضبط واجهة شبكة"
+msgstr "إعادة ضبط واجهة شبكة"
 
 #: ../lib/MDV/Control_Center.pm:340
 #, c-format
 msgid "Manage computer group"
-msgstr "أدِر مجموعة حواسيب"
+msgstr "إدارة مجموعة حواسيب"
 
 #: ../lib/MDV/Control_Center.pm:341
 #, c-format
 msgid "Manage installed software packages on a group of computers"
-msgstr "أدِر حزم البرمجيات المُثبَّتة على مجموعة حواسيب"
+msgstr "إدارة حزم البرمجيات المُثبَّتة على مجموعة حواسيب"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
 msgid "Configure authentication for Mageia tools"
-msgstr "اضبط الاستيثاق لأدوات ماجيّا"
+msgstr "ضبط الاستيثاق لأدوات ماجيّا"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid ""
 "Define authentication required to access individual Mageia configuration "
 "tools "
-msgstr "عرِّف الاستيثاق المطلوب للنفاذ إلى أدوات ضبط ماجيّا المنفردة "
+msgstr "تعريف الاستيثاق المطلوب لاستعمال كل أداة من أدوات ضبط ماجيّا منفردة"
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
 msgid "Update your system"
-msgstr "حدِّث نظامك"
+msgstr "تحديث النظام"
 
 #: ../lib/MDV/Control_Center.pm:359
 #, c-format
@@ -1510,37 +1511,37 @@ msgstr "شاهد التحديثات المتاحة وطبِّق أية إصلا�
 #: ../lib/MDV/Control_Center.pm:369
 #, c-format
 msgid "Menu Style"
-msgstr "سمْت القائمة"
+msgstr "سمة القائمة"
 
 #: ../lib/MDV/Control_Center.pm:370
 #, c-format
 msgid "Menu Style Configuration"
-msgstr "ضبط سمْت القائمة"
+msgstr "ضبط سمة القائمة"
 
 #: ../lib/MDV/Control_Center.pm:379 ../lib/MDV/Control_Center.pm:380
 #, c-format
 msgid "Import Windows(TM) documents and settings"
-msgstr "استورد مستندات وإعدادات وِندُز"
+msgstr "استيراد ملفات وإعدادات ويندوز"
 
 #: ../lib/MDV/Control_Center.pm:389
 #, c-format
 msgid "Monitor connections"
-msgstr "راقب الاتصالات"
+msgstr "مراقبة الاتصالات"
 
 #: ../lib/MDV/Control_Center.pm:390
 #, c-format
 msgid "Monitor the network connections"
-msgstr "راقب اتِّصالات الشَّبكة"
+msgstr "مراقبة اتِّصالات الشَّبكة"
 
 #: ../lib/MDV/Control_Center.pm:399 ../lib/MDV/Control_Center.pm:400
 #, c-format
 msgid "Set up the pointer device (mouse, touchpad)"
-msgstr "أعدَّ جهاز المؤشِّر (الفأرة، لوحة اللمس)"
+msgstr "إعداد جهاز المؤشِّر (الفأرة، لوحة اللمس)"
 
 #: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
 #, c-format
 msgid "Parental Controls"
-msgstr "التحكُّم الأبوي"
+msgstr "الرقابة الأسرية"
 
 #: ../lib/MDV/Control_Center.pm:418
 #, c-format
@@ -1550,32 +1551,32 @@ msgstr "مركز الشبكة"
 #: ../lib/MDV/Control_Center.pm:428
 #, c-format
 msgid "Manage different network profiles"
-msgstr "أدِر تشكيلات الشبكة المختلفة"
+msgstr "إدارة تشكيلات الشبكة المختلفة"
 
 #: ../lib/MDV/Control_Center.pm:429
 #, c-format
 msgid "Activate and manage network profiles"
-msgstr "نشِّط وأدِر تشكيلات الشبكة"
+msgstr "تفعيل وإدارة تشكيلات الشبكة"
 
 #: ../lib/MDV/Control_Center.pm:438
 #, c-format
 msgid "Access NFS shared drives and directories"
-msgstr "انفذ إلى محرِّك وأدلة NFS المُشاركَة"
+msgstr "الوصول لمحرِّك وأدلة NFS المُشاركَة"
 
 #: ../lib/MDV/Control_Center.pm:439
 #, c-format
 msgid "Set NFS mount points"
-msgstr "عيِّن نقاط ضم NFS"
+msgstr "تعيين نقاط ضم NFS"
 
 #: ../lib/MDV/Control_Center.pm:448
 #, c-format
 msgid "Share drives and directories using NFS"
-msgstr "شارك محركات وأدلَّة باستخدام NFS"
+msgstr "مشاركة محركات وأدلَّة باستخدام NFS"
 
 #: ../lib/MDV/Control_Center.pm:449
 #, c-format
 msgid "Manage NFS shares"
-msgstr "أدِر مشاركة NFS"
+msgstr "إدارة مشاركة NFS"
 
 #: ../lib/MDV/Control_Center.pm:459
 #, c-format
@@ -1585,22 +1586,22 @@ msgstr "إحصائيات الحزم"
 #: ../lib/MDV/Control_Center.pm:460
 #, c-format
 msgid "Show statistics about usage of installed software packages"
-msgstr "أظهر إحصائيَّات بشأن استعمال حزم البرمجيَّات المثبَّتة"
+msgstr "إظهار الإحصائيَّات الخاصة باستعمال حزم البرمجيَّات المثبَّتة"
 
 #: ../lib/MDV/Control_Center.pm:469
 #, c-format
 msgid "Share your hard disk partitions"
-msgstr "شارك أقسام قرصك الصلب"
+msgstr "مشاركة أقسام القرص الصلب"
 
 #: ../lib/MDV/Control_Center.pm:470
 #, c-format
 msgid "Set up sharing of your hard disk partitions"
-msgstr "أعدَّ مشاركة أقسام قرصك الصلب"
+msgstr "إعداد مشاركة أقسام القرص الصلب"
 
 #: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
 #, c-format
 msgid "Set up the printer(s), the print job queues, ..."
-msgstr "أعدَّ الطابعـ(ات)، وطوابير مهام الطباعة، ..."
+msgstr "إعداد الطابعـ(ات)، طوابير مهام الطباعة، ..."
 
 #: ../lib/MDV/Control_Center.pm:491
 #, c-format
@@ -1610,37 +1611,37 @@ msgstr "المهام المُجدولة"
 #: ../lib/MDV/Control_Center.pm:492
 #, c-format
 msgid "Schedule programs to run periodically or at given times"
-msgstr "جدوِل برامجَ لتنفَّذ دوريّاً أو في أوقاتٍ معيّنة"
+msgstr "جدوِلة برامجَ لتنفَّذ دوريّاً أو في أوقاتٍ معيّنة"
 
 #: ../lib/MDV/Control_Center.pm:501
 #, c-format
 msgid "Proxy"
-msgstr "الوسيط"
+msgstr "وسيط الشبكة"
 
 #: ../lib/MDV/Control_Center.pm:502
 #, c-format
 msgid "Set up a proxy server for files and web browsing"
-msgstr "أعدَّ خادماً وسيطاً لتصفح الملفات والوِب"
+msgstr "إعداد خادم وسيط الشبكة لتصفح الملفات والوِب"
 
 #: ../lib/MDV/Control_Center.pm:510
 #, c-format
 msgid "Remote Control (Linux/Unix, Windows)"
-msgstr "التحكم عن بعد (لينكس/يونكس، وندُز)"
+msgstr "التحكم عن بعد (لينكس/يونكس، وبندوز)"
 
 #: ../lib/MDV/Control_Center.pm:511
 #, c-format
 msgid "Remote Control of another machine (Linux/Unix, Windows)"
-msgstr "التحكم بجهاز آخر (لينكس/يونكس، وندُز) عن بعد"
+msgstr "التحكم عن بعد بجهاز آخر (لينكس/يونكس، ويندوز)"
 
 #: ../lib/MDV/Control_Center.pm:520
 #, c-format
 msgid "Remove a connection"
-msgstr "أزل اتصالاً"
+msgstr "حذف اتصال"
 
 #: ../lib/MDV/Control_Center.pm:521
 #, c-format
 msgid "Delete a network interface"
-msgstr "احذف واجهة شبكة"
+msgstr "حذف واجهة شبكة"
 
 #: ../lib/MDV/Control_Center.pm:531 ../lib/MDV/Control_Center.pm:532
 #, c-format
@@ -1650,57 +1651,57 @@ msgstr "اتِّصال لاسلكي"
 #: ../lib/MDV/Control_Center.pm:541
 #, c-format
 msgid "Access Windows (SMB) shared drives and directories"
-msgstr "انفذ إلى محرِّكات وأدلة وندُز (سامبا) المشاركَة"
+msgstr "الوصول لمحرِّكات وأدلة ويندوز (سامبا) المشاركَة"
 
 #: ../lib/MDV/Control_Center.pm:542
 #, c-format
 msgid "Configuration of Windows (Samba) shared drives and directories"
-msgstr "ضبط أدلة ومحركات وندُز (سامبا) المُشاركَة"
+msgstr "ضبط أدلة ومحركات ويندوز (سامبا) المُشاركَة"
 
 #: ../lib/MDV/Control_Center.pm:551
 #, c-format
 msgid "Share drives and directories with Windows (SMB) systems"
-msgstr "شارك محرِّكاتٍ وأدلة مع نظام وندُز (سامبا)"
+msgstr "مشاركة محرِّكاتٍ وأدلة مع نظام ويندوز (سامبا)"
 
 #: ../lib/MDV/Control_Center.pm:552
 #, c-format
 msgid "Manage configuration of Samba"
-msgstr "أدِر ضبْط سامبا"
+msgstr "إدارة ضبْط سامبا"
 
 #: ../lib/MDV/Control_Center.pm:561 ../lib/MDV/Control_Center.pm:562
 #, c-format
 msgid "Set up scanner"
-msgstr "أعدَّ ماسحة"
+msgstr "إعداد ماسح ضوئي"
 
 #: ../lib/MDV/Control_Center.pm:571
 #, c-format
 msgid "Configure system security, permissions and audit"
-msgstr "اضبط أمن النِّظام، والأذون والتدقيق"
+msgstr "ضبط أمن النِّظام، التصاريح التدقيق"
 
 #: ../lib/MDV/Control_Center.pm:572
 #, c-format
 msgid "Set the system security level, periodic security audit and permissions"
-msgstr "عيِّن مستوى أمن النظام، والتدقيق الأمنيُّ الدوري، والأذون"
+msgstr "تعيين مستوى أمن النظام، التدقيق الأمنيُّ الدوري والتصاريح"
 
 #: ../lib/MDV/Control_Center.pm:582 ../lib/MDV/Control_Center.pm:583
 #, c-format
 msgid "Manage system services by enabling or disabling them"
-msgstr "أدِر خدمات النظام بتفعليها أو تعطيلها"
+msgstr "إدارة خدمات النظام بتفعيلها أو تعطيلها"
 
 #: ../lib/MDV/Control_Center.pm:592
 #, c-format
 msgid "Configure media sources for install and update"
-msgstr "اضبط مصادر الوسيط للتثبيت والتحديث"
+msgstr "ضبط مصادر الوسائط للتثبيت والتحديث"
 
 #: ../lib/MDV/Control_Center.pm:593
 #, c-format
 msgid "Select from where software packages are downloaded "
-msgstr "اختر مكان تنزيل حزم البرمجيات "
+msgstr "اختيار مكان تنزيل حزم البرمجيات "
 
 #: ../lib/MDV/Control_Center.pm:603
 #, c-format
 msgid "Configure updates frequency"
-msgstr "اضبط تردد التحديثات"
+msgstr "ضبط تردد التحديثات"
 
 #: ../lib/MDV/Control_Center.pm:612
 #, c-format
@@ -1710,54 +1711,54 @@ msgstr "الدخول إلى الصيانة الممتدة "
 #: ../lib/MDV/Control_Center.pm:621
 #, c-format
 msgid "Configure TOMOYO Linux policy"
-msgstr "اضبط لينوكس تومويو"
+msgstr "ضبط سياسة لينكس تومويو"
 
 #: ../lib/MDV/Control_Center.pm:622
 #, c-format
 msgid "View and configure TOMOYO Linux security policy"
-msgstr "اعرض و اضبط سياسة أمان لينوكس تومويو"
+msgstr "عرض و ضبط سياسة أمان لينكس تومويو"
 
 #. -PO: here power means electrical power
 #. -PO: UPS==Uninterruptible power supply
 #: ../lib/MDV/Control_Center.pm:634 ../lib/MDV/Control_Center.pm:637
 #, c-format
 msgid "Set up a UPS for power monitoring"
-msgstr "أعدَّ UPS لمراقبة الطَّاقة"
+msgstr "إعداد UPS لمراقبة الطَّاقة"
 
 #: ../lib/MDV/Control_Center.pm:647
 #, c-format
 msgid "Manage users on system"
-msgstr "أدِر المستخدمين على النظام"
+msgstr "إدارة المستخدمين على النظام"
 
 #: ../lib/MDV/Control_Center.pm:648
 #, c-format
 msgid "Add, remove or change users of the system"
-msgstr "أضف، أو احذف، أو غيِّر مستخدمي النظام"
+msgstr "إضافة، حذف وتغيير مستخدمي النظام"
 
 #: ../lib/MDV/Control_Center.pm:658
 #, c-format
 msgid "Virtualization"
-msgstr "الإيهام"
+msgstr "تقنية الأجهزة الوهمية"
 
 #: ../lib/MDV/Control_Center.pm:659
 #, c-format
 msgid "Virtual machines management"
-msgstr "إدارة الآلات الوهميَّة"
+msgstr "إدارة الأجهزة الوهمية"
 
 #: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
 #, c-format
 msgid "Configure VPN connection to secure network access"
-msgstr "اضبط اتصال VPN للنفاذ إلى الشبكات الآمنة"
+msgstr "ضبط اتصال VPN للوصول للشبكات الآمنة"
 
 #: ../lib/MDV/Control_Center.pm:678
 #, c-format
 msgid "Access WebDAV shared drives and directories"
-msgstr "انفذ إلى محرِّكات وأدلة WebDAV المُشاركَة"
+msgstr "الوصول لمحرِّكات وأدلة WebDAV المُشاركَة"
 
 #: ../lib/MDV/Control_Center.pm:679
 #, c-format
 msgid "Set WebDAV mount points"
-msgstr "عيِّن نقاط ضمِّ WebDAV"
+msgstr "تعيين نقاط ضمِّ WebDAV"
 
 #: ../menus_launcher.pl:19 ../menus_launcher.pl:41
 #, c-format
@@ -1772,7 +1773,7 @@ msgstr "قائمة النظام"
 #: ../menus_launcher.pl:29 ../menus_launcher.pl:36 ../print_launcher.pl:31
 #, c-format
 msgid "Configure..."
-msgstr "اضبط..."
+msgstr "ضبط..."
 
 #: ../menus_launcher.pl:31
 #, c-format
@@ -1843,7 +1844,7 @@ msgstr "الخطوط"
 
 #: ../data/drakperm.desktop.in.h:1
 msgid "Permissions"
-msgstr "الأذون"
+msgstr "التصاريح"
 
 #: ../data/draksec.desktop.in.h:1
 msgid "Levels and Checks"
@@ -1883,7 +1884,7 @@ msgstr "الطابعات"
 
 #: ../data/proxy.desktop.in.h:1
 msgid "Proxy Configuration"
-msgstr "ضبط الوسيط"
+msgstr "ضبط وسيط الشبكة"
 
 #: ../data/removable.desktop.in.h:1
 msgid "Removable devices"
@@ -1891,7 +1892,7 @@ msgstr "الأجهزة القابلة للإزالة"
 
 #: ../data/remove-connection.desktop.in.h:1
 msgid "Remove Connection"
-msgstr "أزل الاتصال"
+msgstr "إزالة  الاتصال"
 
 #: ../data/samba.desktop.in.h:1
 msgid "Samba mount points"
@@ -1899,7 +1900,7 @@ msgstr "نقاط ضمِّ سامبا"
 
 #: ../data/scannerdrake.desktop.in.h:1
 msgid "Scanners"
-msgstr "الماسحات"
+msgstr "ماسحات ضوئية"
 
 #: ../data/SystemConfig.directory.in.h:1
 msgid "System Settings"
