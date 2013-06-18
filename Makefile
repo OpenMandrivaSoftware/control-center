@@ -1,4 +1,4 @@
-VERSION = 12.38
+VERSION = 12.39
 NAME = drakconf
 SUBDIRS = po pixmaps #data
 localedir = $(DESTDIR)/usr/share/locale
