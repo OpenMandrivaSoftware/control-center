@@ -1087,11 +1087,11 @@ $wait_darea->realize;
 $SIG{USR1} = 'IGNORE';
 $SIG{USR2} = 'IGNORE';
 $SIG{TERM} = \&quit_global;
-$SIG{CHLD} = \&sig_child;
+
 
 $window_splash->destroy;
 undef $window_splash;
-Glib::Timeout->add(200, sub { sig_child('CHLD', 1); 1 });
+Glib::Timeout->add(300, sub { $SIG{CHLD} = \&sig_child; sig_child('CHLD', 1); 1 });
 
 if ($program) {
     if (my $sub = $tool_callbacks{$program}) {

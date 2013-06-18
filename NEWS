@@ -1,3 +1,5 @@
+- workaround crash with glib-2.36+ (mga#10289)
+
 Version 12.38 - 21 Apr 2013 Thierry Vignaud
 
 - translations updates
