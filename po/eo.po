@@ -1046,7 +1046,7 @@ msgid "Cancel"
 msgstr "Nuligu"
 
 #: ../control-center:752
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center %s [on %s]"
 msgstr "Mandrejko-Regejo %s [sur %s]"
 

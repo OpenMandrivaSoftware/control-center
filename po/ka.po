@@ -561,7 +561,7 @@ msgid "Mageia"
 msgstr "Mageia"
 
 #: ../control-center:100 ../control-center:105
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center"
 msgstr "მენდრეიქ-ლინუქსის საკონტროლო ცენტრი"
 
@@ -1054,7 +1054,7 @@ msgid "Cancel"
 msgstr "გაუქმება"
 
 #: ../control-center:752
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center %s [on %s]"
 msgstr "მანდრეიქ-ლინუქსის საკონტროლო ცენტრი %s [%s-ზე]"
 
@@ -1129,7 +1129,7 @@ msgid "Get additional themes on www.damz.net"
 msgstr "ჩამოტვირთეთ დამატებითი დეკორაციები www.damz.net-ზე"
 
 #: ../control-center:1411
-#, c-format
+#, c-format, fuzzy
 msgid "About - %s Control Center"
 msgstr "შესახებ - მანდრეიკის საკონტროლო ცენტრი"
 

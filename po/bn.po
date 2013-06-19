@@ -556,7 +556,7 @@ msgid "Mageia"
 msgstr "ম্যান্ড্রিব লিনাক্স (Mageia)"
 
 #: ../control-center:100 ../control-center:105
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center"
 msgstr "ম্যান্ড্রিব লিনাক্স নিয়ন্ত্রন (control) সেন্টার"
 
@@ -637,7 +637,7 @@ msgid "Configure installation server"
 msgstr "ইনস্টলেশন সার্ভার কনফিগার করুন"
 
 #: ../control-center:198
-#, c-format
+#, c-format, fuzzy
 msgid "Set up server for network installations of %s"
 msgstr "ম্যান্ড্রিব লিনাক্‌সের নেটওয়ার্ক ইনস্টলের জন্য সার্ভার সেট আপ করুন"
 
@@ -1051,7 +1051,7 @@ msgid "Cancel"
 msgstr "বাতিল"
 
 #: ../control-center:752
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center %s [on %s]"
 msgstr "ম্যান্ড্রিব লিনাক্স নিয়ন্ত্রন (control) সেন্টার %s [%s -এ]"
 
@@ -1128,7 +1128,7 @@ msgstr "www.damz.net -থেকে আরো থীম পেতে পারে
 
 # কেন্দ্র
 #: ../control-center:1411
-#, c-format
+#, c-format, fuzzy
 msgid "About - %s Control Center"
 msgstr "পরিচিতি - ম্যান্ড্রিব লিনাক্স নিয়ন্ত্রন সেন্টার"
 

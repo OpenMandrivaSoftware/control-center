@@ -541,7 +541,7 @@ msgid "Mageia"
 msgstr "ਮੈਂਡਰਿਵ-ਆਨਲਾਈਨ"
 
 #: ../control-center:100 ../control-center:105
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center"
 msgstr "ਮੈਂਡਰਿਵ ਲੀਨਕਸ ਕੰਟਰੋਲ ਸੈਂਟਰ"
 
@@ -622,7 +622,7 @@ msgid "Configure installation server"
 msgstr "ਇੰਸਟਾਲੇਸ਼ਨ ਸਰਵਰ ਸੰਰਚਿਤ ਕਰੋ"
 
 #: ../control-center:198
-#, c-format
+#, c-format, fuzzy
 msgid "Set up server for network installations of %s"
 msgstr "ਮੈਂਡਰਿਵ ਲੀਨਕਸ ਦੀ ਨੈੱਟਵਰਕ ਇੰਸਟਾਲੇਸ਼ਨ ਲਈ ਸਰਵਰ ਨਿਰਧਾਰਿਤ ਕਰੋ"
 
@@ -1035,7 +1035,7 @@ msgid "Cancel"
 msgstr "/ਰੱਦ ਕਰੋ"
 
 #: ../control-center:752
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center %s [on %s]"
 msgstr "ਮੈਂਡਰਿਵ ਲੀਨਕਸ ਕੰਟਰੋਲ ਸੈਂਟਰ %s [%s ਤੇ]"
 
@@ -1108,7 +1108,7 @@ msgid "Get additional themes on www.damz.net"
 msgstr "ਵਾਧੂ ਸਰੂਪ www.damz.net ਤੋਂ ਪ੍ਰਾਪਤ ਕਰੋ"
 
 #: ../control-center:1411
-#, c-format
+#, c-format, fuzzy
 msgid "About - %s Control Center"
 msgstr "ਬਾਰੇ - ਮੈਂਡਰਿਵ ਲੀਨਕਸ ਕੰਟਰੋਲ ਸੈਂਟਰ"
 

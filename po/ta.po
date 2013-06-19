@@ -540,7 +540,7 @@ msgid "Mageia"
 msgstr "மாண்ட்ேரக்இணைய"
 
 #: ../control-center:100 ../control-center:105
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center"
 msgstr "மாண்ட்ரிவ கட்டுப்பாடு மையம்"
 
@@ -1033,7 +1033,7 @@ msgid "Cancel"
 msgstr "தவிர்"
 
 #: ../control-center:752
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center %s [on %s]"
 msgstr "மாண்ட்ரிவ கட்டுப்பாடு மையம் %s [on %s]"
 
@@ -1106,7 +1106,7 @@ msgid "Get additional themes on www.damz.net"
 msgstr "மேலும் சில உருகருக்கள் பெற www.damz.net செல்லுங்கள்"
 
 #: ../control-center:1411
-#, c-format
+#, c-format, fuzzy
 msgid "About - %s Control Center"
 msgstr "மாண்ட்ரிவ கட்டுப்பாடு மையம் - பற்றி"
 

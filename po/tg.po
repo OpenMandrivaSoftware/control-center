@@ -637,7 +637,7 @@ msgid "Configure installation server"
 msgstr "Танзими хидматрасони коргузорӣ"
 
 #: ../control-center:198
-#, c-format
+#, c-format, fuzzy
 msgid "Set up server for network installations of %s"
 msgstr "Танзимоти хидматрасон барои сабт крдани Мандрива Линкус аз шабака"
 

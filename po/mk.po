@@ -28,7 +28,7 @@ msgid "Per Oyvind Karlsen"
 msgstr "Per Oyvind Karlsen"
 
 #: ../contributors.pl:12
-#, c-format
+#, c-format, fuzzy
 msgid ""
 "massive packages rebuilding and cleaning, games, sparc port, proofreading of "
 "Mandriva tools"
@@ -528,7 +528,7 @@ msgid "Vincent Meyer"
 msgstr "Vincent Meyer"
 
 #: ../contributors.pl:70
-#, c-format
+#, c-format, fuzzy
 msgid "MD, testing, bug reporting"
 msgstr "MD, тестирање, пријавување грешки"
 

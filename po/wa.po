@@ -30,7 +30,7 @@ msgid "Per Oyvind Karlsen"
 msgstr "Per Øyvind Karlsen"
 
 #: ../contributors.pl:12
-#, c-format
+#, c-format, fuzzy
 msgid ""
 "massive packages rebuilding and cleaning, games, sparc port, proofreading of "
 "Mandriva tools"

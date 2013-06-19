@@ -545,7 +545,7 @@ msgid "Mageia"
 msgstr "मैनड्रैकलिनक्स"
 
 #: ../control-center:100 ../control-center:105
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center"
 msgstr "मैनड्रिव लिनक्स नियंत्रण केन्द्र"
 
@@ -627,7 +627,7 @@ msgid "Configure installation server"
 msgstr "संसाधन सर्वर की संरचना करना"
 
 #: ../control-center:198
-#, c-format
+#, c-format, fuzzy
 msgid "Set up server for network installations of %s"
 msgstr "मैनड्रिव लिनक्स के नेटवर्क संसाधनों हेतु सर्वर की स्थापना"
 
@@ -1041,7 +1041,7 @@ msgid "Cancel"
 msgstr "निरस्त करें"
 
 #: ../control-center:752
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center %s [on %s]"
 msgstr "मैनड्रिव लिनक्स नियंत्रण केन्द्र %s [%s पर]"
 
@@ -1117,7 +1117,7 @@ msgid "Get additional themes on www.damz.net"
 msgstr "अतिरिक्त प्रकरणों को www.damz.net से प्राप्त करें"
 
 #: ../control-center:1411
-#, c-format
+#, c-format, fuzzy
 msgid "About - %s Control Center"
 msgstr "मैनड्रिव लिनक्स नियंत्रण केन्द्र - के बारे में"
 

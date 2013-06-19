@@ -527,7 +527,7 @@ msgid "Mageia"
 msgstr "Мандрива Линукс"
 
 #: ../control-center:100 ../control-center:105
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center"
 msgstr "Мандрива Хяналтын Төв"
 

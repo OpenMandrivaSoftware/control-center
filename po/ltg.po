@@ -538,7 +538,7 @@ msgid "Mageia"
 msgstr "Mageya"
 
 #: ../control-center:100 ../control-center:105
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center"
 msgstr "Maņdryva Linukss vadeibys centrs"
 
@@ -1031,7 +1031,7 @@ msgid "Cancel"
 msgstr "Atceļt"
 
 #: ../control-center:752
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center %s [on %s]"
 msgstr "Maņdryva Linukss vadeibys centrs %s [ %s]"
 
@@ -1104,7 +1104,7 @@ msgid "Get additional themes on www.damz.net"
 msgstr "Sajimt papyldus temys nu www.damz.net"
 
 #: ../control-center:1411
-#, c-format
+#, c-format, fuzzy
 msgid "About - %s Control Center"
 msgstr "Par Maņdryva Linukss vadeibys centru"
 
@@ -1156,7 +1156,7 @@ msgstr "Tulkuotuojs: "
 #. -PO: Here, first %s will be replaced by 'Mageia'
 #. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
 #: ../control-center:1483
-#, c-format
+#, c-format, fuzzy
 msgid "%s %s (%s) Control Center"
 msgstr "Maņdryva Linukss %s (%s) vadeibys centrs"
 

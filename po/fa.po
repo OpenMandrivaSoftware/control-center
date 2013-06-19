@@ -546,7 +546,7 @@ msgid "Mageia"
 msgstr "ماندریبا لینوکس"
 
 #: ../control-center:100 ../control-center:105
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center"
 msgstr "مرکز کنترل لینوکس ماندریبا "
 
@@ -628,7 +628,7 @@ msgid "Configure installation server"
 msgstr "پیکربندی کارگزار نصب"
 
 #: ../control-center:198
-#, c-format
+#, c-format, fuzzy
 msgid "Set up server for network installations of %s"
 msgstr "برپاسازی کارگزار نصب‌های شبکه لینوکس ماندریبا "
 
@@ -1044,7 +1044,7 @@ msgid "Cancel"
 msgstr "لغو"
 
 #: ../control-center:752
-#, c-format
+#, c-format, fuzzy
 msgid "%s Control Center %s [on %s]"
 msgstr "مرکز کنترل لینوکس ماندریبا %s [بر %s]"
 
@@ -1117,7 +1117,7 @@ msgid "Get additional themes on www.damz.net"
 msgstr "تهیه طرح‌های اضافی از www.damz.net"
 
 #: ../control-center:1411
-#, c-format
+#, c-format, fuzzy
 msgid "About - %s Control Center"
 msgstr "درباره‌ی - مرکز کنترل لینوکس ماندریبا "
 

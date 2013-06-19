@@ -552,7 +552,7 @@ msgstr "Mageia"
 #: ../control-center:100 ../control-center:105
 #, c-format
 msgid "%s Control Center"
-msgstr "Mandriva Kontrolni centar"
+msgstr "%s Kontrolni centar"
 
 #: ../control-center:106 ../control-center:1060
 #, c-format
