@@ -537,7 +537,7 @@ msgstr ""
 
 #: ../control-center:90
 #, fuzzy, c-format
-msgid "Mageia"
+msgid "OpenMandriva LX"
 msgstr "ਮੈਂਡਰਿਵ-ਆਨਲਾਈਨ"
 
 #: ../control-center:100 ../control-center:105
@@ -1157,8 +1157,8 @@ msgstr "jaswinderphulewala@yahoo.com"
 msgid "Translator: "
 msgstr "ਅਨੁਵਾਦਕ:"
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
@@ -1172,7 +1172,7 @@ msgstr "ਹੱਕ ਰਾਖਵਾਂ (C) %s ਮੈਂਡਰਿਵ SA"
 
 #: ../control-center:1488
 #, fuzzy, c-format
-msgid "Copyright (C) %s Mageia"
+msgid "Copyright (C) %s OpenMandriva LX"
 msgstr "ਹੱਕ ਰਾਖਵਾਂ (C) %s ਮੈਂਡਰਿਵ SA"
 
 #: ../control-center:1494
@@ -1182,7 +1182,7 @@ msgstr "ਸੰਪਾਦਕ"
 
 #: ../control-center:1495
 #, fuzzy, c-format
-msgid "Mageia Contributors"
+msgid "OpenMandriva LX Contributors"
 msgstr "ਮੈਂਡਰਿਵ ਲੀਨਕਸ ਸਹਿਯੋਗੀ"
 
 #: ../drakconsole:27
@@ -1479,13 +1479,13 @@ msgstr "ਕੰਪਿਊਟਰਾਂ ਦੇ ਸਮੂਹ ਤੇ ਇੰਸਟਾ�
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
-msgid "Configure authentication for Mageia tools"
+msgid "Configure authentication for OpenMandriva LX tools"
 msgstr ""
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid ""
-"Define authentication required to access individual Mageia configuration "
+"Define authentication required to access individual OpenMandriva LX configuration "
 "tools "
 msgstr ""
 
@@ -1921,7 +1921,7 @@ msgstr "ਪਰਦਾ ਰੈਜ਼ੋਲੂਸ਼ਨ"
 
 #: ../drakconf.desktop.in.h:1
 #, fuzzy
-msgid "Mageia Control Center"
+msgid "OpenMandriva LX Control Center"
 msgstr "ਕੰਟਰੋਲ ਸੈਂਟਰ"
 
 #, fuzzy

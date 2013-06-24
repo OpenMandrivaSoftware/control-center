@@ -544,8 +544,8 @@ msgstr ""
 
 #: ../control-center:90
 #, c-format
-msgid "Mageia"
-msgstr "Mageia"
+msgid "OpenMandriva LX"
+msgstr "OpenMandriva LX"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -1169,8 +1169,8 @@ msgstr "antonio.pistis@virgilio.it"
 msgid "Translator: "
 msgstr "Tradusidori: "
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, fuzzy, c-format
 msgid "%s %s (%s) Control Center"
@@ -1184,7 +1184,7 @@ msgstr "Copyright © %s Mandriva SA"
 
 #: ../control-center:1488
 #, fuzzy, c-format
-msgid "Copyright (C) %s Mageia"
+msgid "Copyright (C) %s OpenMandriva LX"
 msgstr "Copyright © %s Mandriva SA"
 
 #: ../control-center:1494
@@ -1194,7 +1194,7 @@ msgstr "Autoris"
 
 #: ../control-center:1495
 #, fuzzy, c-format
-msgid "Mageia Contributors"
+msgid "OpenMandriva LX Contributors"
 msgstr "Contribuidoris Mandriva Linux"
 
 #: ../drakconsole:27
@@ -1492,13 +1492,13 @@ msgstr "Manija is programas aposentaus in d-unu grupu de màkinas"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
-msgid "Configure authentication for Mageia tools"
+msgid "Configure authentication for OpenMandriva LX tools"
 msgstr ""
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid ""
-"Define authentication required to access individual Mageia configuration "
+"Define authentication required to access individual OpenMandriva LX configuration "
 "tools "
 msgstr ""
 
@@ -1936,7 +1936,7 @@ msgstr "Arresolutzioni de su Bisori"
 
 #: ../drakconf.desktop.in.h:1
 #, fuzzy
-msgid "Mageia Control Center"
+msgid "OpenMandriva LX Control Center"
 msgstr "Centru de Controllu"
 
 #~ msgid "Configure Your Computer"

@@ -11,7 +11,7 @@ output("contributors.pl",
             qq(#/usr/bin/perl
 #
 # DO NOT ALTER HERE !!!
-# THIS IS GENERATED FROM /usr/share/doc/mageia-release-<RELEASE>/CREDITS
+# THIS IS GENERATED FROM /usr/share/doc/openmandriva-release-<RELEASE>/CREDITS
 # WHICH IS FILLED FROM THE MAGEIA WIKI
 #
 use lib qw(/usr/lib/libDrakX);
@@ -29,7 +29,7 @@ use common;
                     chomp;
                     qq(\tN("$_") => "",); 
                 }
-            } grep { $_ ne "\n" } cat_(glob("/usr/share/doc/mageia-release-*/CREDITS"))),
+            } grep { $_ ne "\n" } cat_(glob("/usr/share/doc/openmandriva-release-*/CREDITS"))),
             "}"
            )
       );

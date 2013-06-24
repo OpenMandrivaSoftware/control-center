@@ -535,8 +535,8 @@ msgstr ""
 
 #: ../control-center:90
 #, c-format
-msgid "Mageia"
-msgstr "Mageia"
+msgid "OpenMandriva LX"
+msgstr "OpenMandriva LX"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -1158,8 +1158,8 @@ msgstr ""
 msgid "Translator: "
 msgstr "译者："
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
@@ -1173,8 +1173,8 @@ msgstr "版权所有 (C) %s Mandriva SA"
 
 #: ../control-center:1488
 #, c-format
-msgid "Copyright (C) %s Mageia"
-msgstr "版权所有 (C) %s Mageia"
+msgid "Copyright (C) %s OpenMandriva LX"
+msgstr "版权所有 (C) %s OpenMandriva LX"
 
 #: ../control-center:1494
 #, c-format
@@ -1183,8 +1183,8 @@ msgstr "作者"
 
 #: ../control-center:1495
 #, c-format
-msgid "Mageia Contributors"
-msgstr "Mageia 贡献者"
+msgid "OpenMandriva LX Contributors"
+msgstr "OpenMandriva LX 贡献者"
 
 #: ../drakconsole:27
 #, c-format
@@ -1480,15 +1480,15 @@ msgstr "管理计算机群组上已安装的软件包"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
-msgid "Configure authentication for Mageia tools"
-msgstr "配置 Mageia 工具授权"
+msgid "Configure authentication for OpenMandriva LX tools"
+msgstr "配置 OpenMandriva LX 工具授权"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid ""
-"Define authentication required to access individual Mageia configuration "
+"Define authentication required to access individual OpenMandriva LX configuration "
 "tools "
-msgstr "定义访问单个 Mageia 配置工具所需的授权"
+msgstr "定义访问单个 OpenMandriva LX 配置工具所需的授权"
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1921,5 +1921,5 @@ msgid "Screen Resolution"
 msgstr "屏幕分辨率"
 
 #: ../drakconf.desktop.in.h:1
-msgid "Mageia Control Center"
-msgstr "Mageia 控制中心"
+msgid "OpenMandriva LX Control Center"
+msgstr "OpenMandriva LX 控制中心"

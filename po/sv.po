@@ -551,8 +551,8 @@ msgstr ""
 
 #: ../control-center:90
 #, c-format
-msgid "Mageia"
-msgstr "Mageia"
+msgid "OpenMandriva LX"
+msgstr "OpenMandriva LX"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -1177,8 +1177,8 @@ msgstr "newzella@linux.nu tmb@mandriva.org tmb@mageia.org"
 msgid "Translator: "
 msgstr "Översättare: "
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
@@ -1192,7 +1192,7 @@ msgstr "Copyright © %s Mandriva SA"
 
 #: ../control-center:1488
 #, c-format
-msgid "Copyright (C) %s Mageia"
+msgid "Copyright (C) %s OpenMandriva LX"
 msgstr "Copyright © %s Magieia"
 
 #: ../control-center:1494
@@ -1202,8 +1202,8 @@ msgstr "Upphovsmän"
 
 #: ../control-center:1495
 #, c-format
-msgid "Mageia Contributors"
-msgstr "Bidragsgivare till Mageia"
+msgid "OpenMandriva LX Contributors"
+msgstr "Bidragsgivare till OpenMandriva LX"
 
 #: ../drakconsole:27
 #, c-format
@@ -1500,16 +1500,16 @@ msgstr "Hantera installerade mjukvarupaket på en grupp av datorer"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
-msgid "Configure authentication for Mageia tools"
-msgstr "Konfigurera autentikering för Mageia verktyg"
+msgid "Configure authentication for OpenMandriva LX tools"
+msgstr "Konfigurera autentikering för OpenMandriva LX verktyg"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid ""
-"Define authentication required to access individual Mageia configuration "
+"Define authentication required to access individual OpenMandriva LX configuration "
 "tools "
 msgstr ""
-"Definiera autentikering som behövs för att använda de olika Mageia "
+"Definiera autentikering som behövs för att använda de olika OpenMandriva LX "
 "konfigurationsverktygen."
 
 #: ../lib/MDV/Control_Center.pm:358
@@ -1945,8 +1945,8 @@ msgid "Screen Resolution"
 msgstr "Skärmupplösning"
 
 #: ../drakconf.desktop.in.h:1
-msgid "Mageia Control Center"
-msgstr "Mageia Kontrollcentral"
+msgid "OpenMandriva LX Control Center"
+msgstr "OpenMandriva LX Kontrollcentral"
 
 #~ msgid "Configure Your Computer"
 #~ msgstr "Konfigurera din dator"

@@ -1,6 +1,6 @@
 # translation of drakconf-nl.po to Nederlands
 # DrakConf Configuration
-# Copyright (C) 2011, Mageia
+# Copyright (C) 2011, OpenMandriva LX
 # Tom Laermans <tom.laermans@powersource.cx>, 2001.
 # Reinout van Schouwen <reinouts@gnome.org>, 2002-2009
 # Peter Bosch <peter.bosch@hccnet.nl>, 2002.
@@ -550,8 +550,8 @@ msgstr ""
 
 #: ../control-center:90
 #, c-format
-msgid "Mageia"
-msgstr "Mageia"
+msgid "OpenMandriva LX"
+msgstr "OpenMandriva LX"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -1182,8 +1182,8 @@ msgstr "i18n-nl@ml.mageia.org"
 msgid "Translator: "
 msgstr "Vertaler: "
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
@@ -1197,8 +1197,8 @@ msgstr "Copyright © %s Mandriva SA"
 
 #: ../control-center:1488
 #, c-format
-msgid "Copyright (C) %s Mageia"
-msgstr "Copyright (C) %s Mageia"
+msgid "Copyright (C) %s OpenMandriva LX"
+msgstr "Copyright (C) %s OpenMandriva LX"
 
 #: ../control-center:1494
 #, c-format
@@ -1207,8 +1207,8 @@ msgstr "Auteurs"
 
 #: ../control-center:1495
 #, c-format
-msgid "Mageia Contributors"
-msgstr "Personen die hebben bijgedragen aan Mageia"
+msgid "OpenMandriva LX Contributors"
+msgstr "Personen die hebben bijgedragen aan OpenMandriva LX"
 
 #: ../drakconsole:27
 #, c-format
@@ -1514,16 +1514,16 @@ msgstr "Geïnstalleerde softwarepakketten beheren op een groep van computers"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
-msgid "Configure authentication for Mageia tools"
-msgstr "Aanmeldingscontrole voor Mageia-hulpprogramma's configureren"
+msgid "Configure authentication for OpenMandriva LX tools"
+msgstr "Aanmeldingscontrole voor OpenMandriva LX-hulpprogramma's configureren"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid ""
-"Define authentication required to access individual Mageia configuration "
+"Define authentication required to access individual OpenMandriva LX configuration "
 "tools "
 msgstr ""
-"Voor individuele Mageia-configuratieprogramma's benodigde "
+"Voor individuele OpenMandriva LX-configuratieprogramma's benodigde "
 "aanmeldingscontrole definiëren"
 
 #: ../lib/MDV/Control_Center.pm:358
@@ -1965,5 +1965,5 @@ msgid "Screen Resolution"
 msgstr "Schermresolutie"
 
 #: ../drakconf.desktop.in.h:1
-msgid "Mageia Control Center"
-msgstr "Mageia Configuratiecentrum"
+msgid "OpenMandriva LX Control Center"
+msgstr "OpenMandriva LX Configuratiecentrum"

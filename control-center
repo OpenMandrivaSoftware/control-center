@@ -87,7 +87,7 @@ mygtk2::import_style_ressources();
 my $rc = find { -r $_ } ("$themes_dir/$theme/gtkrc", if_($theme ne 'default', "$themes_dir/default/gtkrc"));
 Gtk2::Rc->parse($rc) if -r $rc;
 
-my $branding = N("Mageia");
+my $branding = N("OpenMandriva LX");
 my $product_id = common::parse_LDAP_namespace_structure(cat_('/etc/product.id'));
 # allow OEM branding:
 $branding = translate($product_id->{distribution});
@@ -155,8 +155,8 @@ my @tree = (
                         title => N("Software Management"),
                         list => [
                             "Install Software",
-                            "Mageia Update",
-                            if_(0, "Mageia Online"),
+                            "Online Update",
+                            if_(0, "OpenMandriva Online"),
                             "Updates Configuration",
                             "Software Media Manager",
                         ]
@@ -516,7 +516,7 @@ my @tree = (
                     "Security Level",
                     "Tomoyo Policy",
                     "Firewall",
-                    "Mageia Tools Authentication",
+                    "Administrative Tool Access",
                     "Invictus Firewall",
                     "Parental Controls",
                 ]
@@ -615,11 +615,11 @@ my %options = (
     'wiz_expert' => [ N("/_Options"), N("/Expert mode in _wizards") ],
 );
 
-my $mga_rel = common::mageia_release();
+my $omv_rel = common::mandrake_release();
 
 my ($steps, $view);
 
-my $release = mageia_release_info();
+my $release = mandrake_release_info();
 
 my @menu_items = (
                   [ N("/_File"), undef, undef, undef, '<Branch>' ],
@@ -673,7 +673,7 @@ my @menu_items = (
                   [ N("/_Help") . N("/_Report Bug"), undef, sub {
                         run_program::raw({ detach => 1, as_user => 1 }, 'drakbug', '--report', (split(/\s/, $pending_app))[0] || 'drakconf');
                       }, undef, '<Item>' ],
-                  [ N("/_Help") . N("/_About..."), undef, \&about_mga_cc, undef, '<Item>' ]
+                  [ N("/_Help") . N("/_About..."), undef, \&about_omv_cc, undef, '<Item>' ]
                  );
 
 
@@ -683,7 +683,7 @@ sub run_help() {
 
 sub run_browser {
     my ($url) = @_;
-    $url = "http://wiki.mageia.org/en/$release->{distribution}_$release->{version}_$url" if $url !~ m!^http://!;
+    $url = "http://wiki.openmandriva.org/en/$release->{distribution}_$release->{version}_$url" if $url !~ m!^http://!;
     run_program::raw({ detach => 1, as_user => 1 }, '/usr/bin/www-browser', $url);
 }
 
@@ -820,7 +820,7 @@ sub clean_list {
             $programs{$stuff}{icon} = $programs{$stuff}{real_icon};
         }
         # do not complain about missing entries in move:
-        warn qq("$exec" is not executable [$stuff]) if $mga_rel !~ /Move/ && !$is_present && !$programs{$stuff}{disabled};
+        warn qq("$exec" is not executable [$stuff]) if $omv_rel !~ /Move/ && !$is_present && !$programs{$stuff}{disabled};
         !$programs{$stuff}{hidden} && $is_present && !$programs{$stuff}{disabled};
     } @$subtree;
 }
@@ -1405,7 +1405,7 @@ sub more_themes() {
     $window_about->show_all;
 }
 
-sub about_mga_cc() {
+sub about_omv_cc() {
     my $window_about = new_dialog(N("About - %s Control Center", $branding));
     my $tree_model = Gtk2::TreeStore->new("Glib::String", "Glib::String", "Glib::String");
     my $credits = Gtk2::TextView->new;
@@ -1436,7 +1436,7 @@ sub about_mga_cc() {
     my ($previous_type, $not_first_title, $not_first_block);
     my $locale = lang::read;
     require Gtk2::Pango;
-   foreach my $line (grep { $_ ne "\n" && !/^#/ } cat_(top(glob("/usr/share/doc/mageia-release-*/CREDITS.$locale->{lang}")))) {
+   foreach my $line (grep { $_ ne "\n" && !/^#/ } cat_(top(glob("/usr/share/doc/openmandriva-release-*/CREDITS.$locale->{lang}")))) {
         if (my ($type, $comment, $contributor) = split(/\|/, $line, 3)) {
             last if !$type;
             $comment =~ s/^ //; # fix initial space of first section (CREDITS format should be enhanced to specify lines that really are sections)
@@ -1483,14 +1483,14 @@ sub about_mga_cc() {
              0, Gtk2::Label->new(""),
              0, Gtk2::Label->new(
                  #-PO: here %s is eg: "1999-2008"
-                 N("Copyright (C) %s Mandriva SA", '1999-2008') . "\n" . N("Copyright (C) %s Mageia", '2011-2013') . "\n" ),
+                 N("Copyright (C) %s Mandriva SA", '1999-2008') . "\n" . N("Copyright (C) %s Mageia", '2011-2013') . "\n" . N("Copyright (C) %s OpenMandriva", '2013') . "\n" ),
              0, Gtk2::HSeparator->new,
              0, Gtk2::Label->new(""),
              1, my $n = Gtk2::Notebook->new,
              );
 
     add2notebook($n, N("Authors"), $list);
-    add2notebook($n, N("Mageia Contributors"), gtkset_size_request(create_scrolled_window($credits), 650, 50));
+    add2notebook($n, N("Contributors"), gtkset_size_request(create_scrolled_window($credits), 650, 50));
     $n->set_current_page(0);
 
     $window_about->show_all;

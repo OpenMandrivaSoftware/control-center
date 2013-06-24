@@ -545,8 +545,8 @@ msgstr ""
 
 #: ../control-center:90
 #, c-format
-msgid "Mageia"
-msgstr "Mageia"
+msgid "OpenMandriva LX"
+msgstr "OpenMandriva LX"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -1177,8 +1177,8 @@ msgstr ""
 msgid "Translator: "
 msgstr "Překladatel: "
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
@@ -1192,8 +1192,8 @@ msgstr "Copyright ©%s Mandriva SA"
 
 #: ../control-center:1488
 #, c-format
-msgid "Copyright (C) %s Mageia"
-msgstr "Copyright (C) %s Mageia"
+msgid "Copyright (C) %s OpenMandriva LX"
+msgstr "Copyright (C) %s OpenMandriva LX"
 
 #: ../control-center:1494
 #, c-format
@@ -1202,8 +1202,8 @@ msgstr "Autoři"
 
 #: ../control-center:1495
 #, c-format
-msgid "Mageia Contributors"
-msgstr "Přispěvatelé Mageia"
+msgid "OpenMandriva LX Contributors"
+msgstr "Přispěvatelé OpenMandriva LX"
 
 #: ../drakconsole:27
 #, c-format
@@ -1501,16 +1501,16 @@ msgstr "Spravovat instalované balíčky softwaru na skupině počítačů"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
-msgid "Configure authentication for Mageia tools"
-msgstr "Konfigurace ověřování na nástroje Mageia"
+msgid "Configure authentication for OpenMandriva LX tools"
+msgstr "Konfigurace ověřování na nástroje OpenMandriva LX"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid ""
-"Define authentication required to access individual Mageia configuration "
+"Define authentication required to access individual OpenMandriva LX configuration "
 "tools "
 msgstr ""
-"Nastavení ověřování pro přístup k jednotlivým konfiguračním nástrojům Mageia"
+"Nastavení ověřování pro přístup k jednotlivým konfiguračním nástrojům OpenMandriva LX"
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1945,5 +1945,5 @@ msgid "Screen Resolution"
 msgstr "Rozlišení obrazovky"
 
 #: ../drakconf.desktop.in.h:1
-msgid "Mageia Control Center"
+msgid "OpenMandriva LX Control Center"
 msgstr "Nastavit váš počítač"

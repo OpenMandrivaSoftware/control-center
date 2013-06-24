@@ -558,8 +558,8 @@ msgstr ""
 
 #: ../control-center:90
 #, c-format
-msgid "Mageia"
-msgstr "Mageia"
+msgid "OpenMandriva LX"
+msgstr "OpenMandriva LX"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -1190,8 +1190,8 @@ msgstr "arkadiusz.lipiec@gazeta.pl"
 msgid "Translator: "
 msgstr "Tłumacz: "
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
@@ -1205,8 +1205,8 @@ msgstr "Copyright (C) %s Mandriva SA"
 
 #: ../control-center:1488
 #, c-format
-msgid "Copyright (C) %s Mageia"
-msgstr "Copyright (C) %s Mageia"
+msgid "Copyright (C) %s OpenMandriva LX"
+msgstr "Copyright (C) %s OpenMandriva LX"
 
 #: ../control-center:1494
 #, c-format
@@ -1215,7 +1215,7 @@ msgstr "Autorzy"
 
 #: ../control-center:1495
 #, c-format
-msgid "Mageia Contributors"
+msgid "OpenMandriva LX Contributors"
 msgstr "Współautorzy Linuksa Magei"
 
 #: ../drakconsole:27
@@ -1517,13 +1517,13 @@ msgstr "Zarządzanie zainstowalowanymi pakietami w grupie komputerów"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
-msgid "Configure authentication for Mageia tools"
+msgid "Configure authentication for OpenMandriva LX tools"
 msgstr "Konfiguracja uwierzytelniania dla narzędzi Magei"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid ""
-"Define authentication required to access individual Mageia configuration "
+"Define authentication required to access individual OpenMandriva LX configuration "
 "tools "
 msgstr ""
 "Definiowanie uwierzytelniania niezbędnego do dostępu  do narzędzi "
@@ -1966,7 +1966,7 @@ msgid "Screen Resolution"
 msgstr "Rozdzielczość ekranu"
 
 #: ../drakconf.desktop.in.h:1
-msgid "Mageia Control Center"
+msgid "OpenMandriva LX Control Center"
 msgstr "Centrum Sterowania"
 
 #~ msgid "Configure Your Computer"

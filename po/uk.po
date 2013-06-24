@@ -554,8 +554,8 @@ msgstr ""
 
 #: ../control-center:90
 #, c-format
-msgid "Mageia"
-msgstr "Mageia"
+msgid "OpenMandriva LX"
+msgstr "OpenMandriva LX"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -1184,8 +1184,8 @@ msgstr "btr1@ukr.net, yurchor@ukr.net"
 msgid "Translator: "
 msgstr "Перекладач: "
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
@@ -1199,8 +1199,8 @@ msgstr "©Mandriva SA, %s"
 
 #: ../control-center:1488
 #, c-format
-msgid "Copyright (C) %s Mageia"
-msgstr "©Mageia, %s"
+msgid "Copyright (C) %s OpenMandriva LX"
+msgstr "©OpenMandriva LX, %s"
 
 #: ../control-center:1494
 #, c-format
@@ -1209,8 +1209,8 @@ msgstr "Автори"
 
 #: ../control-center:1495
 #, c-format
-msgid "Mageia Contributors"
-msgstr "Учасники розробки Mageia"
+msgid "OpenMandriva LX Contributors"
+msgstr "Учасники розробки OpenMandriva LX"
 
 #: ../drakconsole:27
 #, c-format
@@ -1508,17 +1508,17 @@ msgstr "Керувати встановленням пакунків на гру
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
-msgid "Configure authentication for Mageia tools"
-msgstr "Налаштувати розпізнавання для інструментів Mageia"
+msgid "Configure authentication for OpenMandriva LX tools"
+msgstr "Налаштувати розпізнавання для інструментів OpenMandriva LX"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid ""
-"Define authentication required to access individual Mageia configuration "
+"Define authentication required to access individual OpenMandriva LX configuration "
 "tools "
 msgstr ""
 "Задати параметри розпізнавання для доступу до окремих інструментів "
-"налаштування Mageia "
+"налаштування OpenMandriva LX "
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1955,5 +1955,5 @@ msgid "Screen Resolution"
 msgstr "Роздільна здатність екрана"
 
 #: ../drakconf.desktop.in.h:1
-msgid "Mageia Control Center"
-msgstr "Центр керування Mageia"
+msgid "OpenMandriva LX Control Center"
+msgstr "Центр керування OpenMandriva LX"

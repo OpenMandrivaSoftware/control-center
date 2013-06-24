@@ -70,16 +70,6 @@ our %programs =
    },
 
 
-   "Auto login Config" =>
-   {
-    binary => "$sbindir/drakboot",
-    embedded => 1,
-    description => N("Set up autologin to automatically log in"),
-    long_description => N("Enable autologin and select the user to automatically log in"),
-    icon => 'autologin-mdk',
-   },
-
-
    "Backups" =>
    {
     binary => "$sbindir/drakbackup",
@@ -342,22 +332,22 @@ our %programs =
     icon => 'drakpark-mdk',
    },
 
-   "Mageia Tools Authentication" =>
+   "Administrative Tool Access" =>
    {
     binary => "$sbindir/draksec",
     embedded => 1,
-    description => N("Configure authentication for Mageia tools"),
-    long_description => N("Define authentication required to access individual Mageia configuration tools "),
+    description => N("Configure access to administrative tools"),
+    long_description => N("Define authentication required to access individual configuration tools "),
     icon => 'drakperm-mdk',
    },
 
-   "Mageia Update" =>
+   "Online Update" =>
    {
-    binary => "$sbindir/MageiaUpdate",
+    binary => "$sbindir/OnlineUpdate",
     embedded => 1,
     description => N("Update your system"),
     long_description => N("Look at available updates and apply any fixes or upgrades to installed packages"),
-    icon => 'MageiaUpdate',
+    icon => 'OnlineUpdate',
     application_driven_menu => 1,
    },
 
@@ -603,16 +593,6 @@ our %programs =
     description => N("Configure updates frequency"),
     icon => 'rpmdrake-mdk',
    },
-
-
-   "Extended Maintenance" =>
-   {
-    binary => "$sbindir/mdkapplet-add-media-helper --product=extended $version",
-    embedded => 1,
-    description => N("Access to extended maintenance"),
-    icon => 'extended_maintenance',
-   },
-
 
    "Tomoyo Policy" =>
    {

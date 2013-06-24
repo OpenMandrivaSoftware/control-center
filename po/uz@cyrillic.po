@@ -525,8 +525,8 @@ msgstr ""
 
 #: ../control-center:90
 #, c-format
-msgid "Mageia"
-msgstr "Mageia"
+msgid "OpenMandriva LX"
+msgstr "OpenMandriva LX"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -1144,8 +1144,8 @@ msgstr "kmashrab@uni-bremen.de"
 msgid "Translator: "
 msgstr "Таржимон: "
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
@@ -1159,7 +1159,7 @@ msgstr "Copyright © %s Mandriva SA"
 
 #: ../control-center:1488
 #, fuzzy, c-format
-msgid "Copyright (C) %s Mageia"
+msgid "Copyright (C) %s OpenMandriva LX"
 msgstr "Copyright © %s Mandriva SA"
 
 #: ../control-center:1494
@@ -1169,7 +1169,7 @@ msgstr "Муаллифлар"
 
 #: ../control-center:1495
 #, fuzzy, c-format
-msgid "Mageia Contributors"
+msgid "OpenMandriva LX Contributors"
 msgstr "Mandriva Linux таъминловчилари"
 
 #: ../drakconsole:27
@@ -1468,13 +1468,13 @@ msgstr "Компьютерлар гуруҳида ўрнатилган даст�
 
 #: ../lib/MDV/Control_Center.pm:349
 #, fuzzy, c-format
-msgid "Configure authentication for Mageia tools"
+msgid "Configure authentication for OpenMandriva LX tools"
 msgstr "Mandriva воситалари учун аутентификацияни созлаш"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, fuzzy, c-format
 msgid ""
-"Define authentication required to access individual Mageia configuration "
+"Define authentication required to access individual OpenMandriva LX configuration "
 "tools "
 msgstr ""
 "Алоҳида Mandriva мослаш воситаларига мурожаат учун талаб қилинадиган "
@@ -1913,7 +1913,7 @@ msgstr "Экраннинг ўлчами"
 
 #: ../drakconf.desktop.in.h:1
 #, fuzzy
-msgid "Mageia Control Center"
+msgid "OpenMandriva LX Control Center"
 msgstr "Бошқарув маркази"
 
 #~ msgid "Configure Your Computer"

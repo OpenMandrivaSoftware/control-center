@@ -46,7 +46,7 @@ msgstr "Per Øyvind Karlsen"
 #: ../contributors.pl:12
 #, c-format
 msgid "massive packages rebuilding and cleaning, games, sparc port, proofreading of Mandriva tools"
-msgstr "intensa reconstrução e limpeza de pacotes, jogos, portagem sparc, verificação das ferramentas Mageia"
+msgstr "intensa reconstrução e limpeza de pacotes, jogos, portagem sparc, verificação das ferramentas OpenMandriva LX"
 
 #: ../contributors.pl:13
 #, c-format
@@ -531,8 +531,8 @@ msgstr "Além de muitas pessoas anônimas e desconhecidas que reportaram problem
 
 #: ../control-center:90
 #, c-format
-msgid "Mageia"
-msgstr "Mageia"
+msgid "OpenMandriva LX"
+msgstr "OpenMandriva LX"
 
 #: ../control-center:100
 #: ../control-center:105
@@ -1191,8 +1191,8 @@ msgstr ""
 msgid "Translator: "
 msgstr "Tradutor: "
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
@@ -1206,8 +1206,8 @@ msgstr "Copyright © %s Mandriva SA"
 
 #: ../control-center:1488
 #, c-format
-msgid "Copyright (C) %s Mageia"
-msgstr "Copyright © %s Mageia"
+msgid "Copyright (C) %s OpenMandriva LX"
+msgstr "Copyright © %s OpenMandriva LX"
 
 #: ../control-center:1494
 #, c-format
@@ -1216,8 +1216,8 @@ msgstr "Autores"
 
 #: ../control-center:1495
 #, c-format
-msgid "Mageia Contributors"
-msgstr "Colaboradores Mageia"
+msgid "OpenMandriva LX Contributors"
+msgstr "Colaboradores OpenMandriva LX"
 
 #: ../drakconsole:27
 #, c-format
@@ -1523,13 +1523,13 @@ msgstr "Gerenciar Programas Instalados num Grupo de Computadores"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
-msgid "Configure authentication for Mageia tools"
-msgstr "Configurar Permissões das Ferramentas Mageia"
+msgid "Configure authentication for OpenMandriva LX tools"
+msgstr "Configurar Permissões das Ferramentas OpenMandriva LX"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
-msgid "Define authentication required to access individual Mageia configuration tools "
-msgstr "Definição individual de autenticação requerida para acessar as ferramentas Mageia"
+msgid "Define authentication required to access individual OpenMandriva LX configuration tools "
+msgstr "Definição individual de autenticação requerida para acessar as ferramentas OpenMandriva LX"
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1973,8 +1973,8 @@ msgid "Screen Resolution"
 msgstr "Resolução da Tela"
 
 #: ../drakconf.desktop.in.h:1
-msgid "Mageia Control Center"
-msgstr "Centro de Controle Mageia"
+msgid "OpenMandriva LX Control Center"
+msgstr "Centro de Controle OpenMandriva LX"
 
 #~ msgid "Configure Your Computer"
 #~ msgstr "Configure seu Computador"

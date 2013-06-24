@@ -542,7 +542,7 @@ msgstr ""
 
 #: ../control-center:90
 #, c-format
-msgid "Mageia"
+msgid "OpenMandriva LX"
 msgstr "ماجيّا"
 
 #: ../control-center:100 ../control-center:105
@@ -1164,8 +1164,8 @@ msgstr "mamoun.diraneyya@gmail.com"
 msgid "Translator: "
 msgstr "المترجم: "
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
@@ -1179,7 +1179,7 @@ msgstr "حقوق النشر (C) %s ماندريفا ش.م."
 
 #: ../control-center:1488
 #, c-format
-msgid "Copyright (C) %s Mageia"
+msgid "Copyright (C) %s OpenMandriva LX"
 msgstr "حقوق النشر (C) %s ماجيّا ش.م."
 
 #: ../control-center:1494
@@ -1189,7 +1189,7 @@ msgstr "المؤلِّفون"
 
 #: ../control-center:1495
 #, c-format
-msgid "Mageia Contributors"
+msgid "OpenMandriva LX Contributors"
 msgstr "المساهمون في ماجيّا"
 
 #: ../drakconsole:27
@@ -1486,13 +1486,13 @@ msgstr "إدارة حزم البرمجيات المُثبَّتة على مجم�
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
-msgid "Configure authentication for Mageia tools"
+msgid "Configure authentication for OpenMandriva LX tools"
 msgstr "ضبط الاستيثاق لأدوات ماجيّا"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid ""
-"Define authentication required to access individual Mageia configuration "
+"Define authentication required to access individual OpenMandriva LX configuration "
 "tools "
 msgstr "تعريف الاستيثاق المطلوب لاستعمال كل أداة من أدوات ضبط ماجيّا منفردة"
 
@@ -1927,5 +1927,5 @@ msgid "Screen Resolution"
 msgstr "مَيْز الشاشة"
 
 #: ../drakconf.desktop.in.h:1
-msgid "Mageia Control Center"
+msgid "OpenMandriva LX Control Center"
 msgstr "مركز تحكم ماجيّا"

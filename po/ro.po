@@ -1,5 +1,5 @@
 # Translation of control-center.po to Romanian
-# Copyright (c) 2010-2012 Mageia
+# Copyright (c) 2010-2012 OpenMandriva LX
 #
 # Vă rugăm să nu actualizaţi fișierul, cu excepția cazului în care sînteți
 # sigur de calitatea traducerii dumneavoastră, de gramatică și de ortografie.
@@ -30,7 +30,7 @@
 #
 # Vă mulțumim pentru înțelegere.
 #                                                       Echipa de traducători,
-#                                                       www.MageiaUsers.ro
+#                                                       www.OpenMandriva LXUsers.ro
 #
 # Traducători de-a lungul timpului:
 # Florin Cătălin RUSSEN <cfrussen@yahoo.co.uk>, 2010 - 2012.
@@ -69,7 +69,7 @@ msgid ""
 "Mandriva tools"
 msgstr ""
 "regenerare și curățare masivă a pachetelor, jocuri, portate pe sparc, "
-"verificarea utilitarelor Mageia"
+"verificarea utilitarelor OpenMandriva LX"
 
 #: ../contributors.pl:13
 #, c-format
@@ -578,8 +578,8 @@ msgstr ""
 
 #: ../control-center:90
 #, c-format
-msgid "Mageia"
-msgstr "Mageia"
+msgid "OpenMandriva LX"
+msgstr "OpenMandriva LX"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -1219,8 +1219,8 @@ msgstr ""
 msgid "Translator: "
 msgstr "Traducători:"
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
@@ -1234,8 +1234,8 @@ msgstr "Drepturi de autor (C) %s Mandriva SA"
 
 #: ../control-center:1488
 #, c-format
-msgid "Copyright (C) %s Mageia"
-msgstr "Drepturi de autor (C) %s Mageia"
+msgid "Copyright (C) %s OpenMandriva LX"
+msgstr "Drepturi de autor (C) %s OpenMandriva LX"
 
 #: ../control-center:1494
 #, c-format
@@ -1244,8 +1244,8 @@ msgstr "Autori"
 
 #: ../control-center:1495
 #, c-format
-msgid "Mageia Contributors"
-msgstr "Contribuitorii Mageia"
+msgid "OpenMandriva LX Contributors"
+msgstr "Contribuitorii OpenMandriva LX"
 
 #: ../drakconsole:27
 #, c-format
@@ -1545,17 +1545,17 @@ msgstr "Gestionați programele instalate pe un grup de calculatoare"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
-msgid "Configure authentication for Mageia tools"
-msgstr "Configurați autentificarea pentru uneltele Mageia"
+msgid "Configure authentication for OpenMandriva LX tools"
+msgstr "Configurați autentificarea pentru uneltele OpenMandriva LX"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, c-format
 msgid ""
-"Define authentication required to access individual Mageia configuration "
+"Define authentication required to access individual OpenMandriva LX configuration "
 "tools "
 msgstr ""
 "Definiți metoda de autentificare necesară pentru accesarea individuală a "
-"uneltelor de configurare Mageia"
+"uneltelor de configurare OpenMandriva LX"
 
 #: ../lib/MDV/Control_Center.pm:358
 #, c-format
@@ -1992,5 +1992,5 @@ msgid "Screen Resolution"
 msgstr "Rezoluție ecran"
 
 #: ../drakconf.desktop.in.h:1
-msgid "Mageia Control Center"
+msgid "OpenMandriva LX Control Center"
 msgstr "Configurați calculatorul"

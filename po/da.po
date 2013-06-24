@@ -548,8 +548,8 @@ msgstr ""
 
 #: ../control-center:90
 #, c-format
-msgid "Mageia"
-msgstr "Mageia"
+msgid "OpenMandriva LX"
+msgstr "OpenMandriva LX"
 
 #: ../control-center:100 ../control-center:105
 #, c-format
@@ -1179,8 +1179,8 @@ msgstr "<keld@dkuug.dk>"
 msgid "Translator: "
 msgstr "Oversætter: Keld Simonsen <keld@dkuug.dk>"
 
-#. -PO: Here, first %s will be replaced by 'Mageia'
-#. -PO: second %s will be replaced by the version (eg: "Mageia 1 (Free) Control Center")
+#. -PO: Here, first %s will be replaced by 'OpenMandriva LX'
+#. -PO: second %s will be replaced by the version (eg: "OpenMandriva LX 1 (Free) Control Center")
 #: ../control-center:1483
 #, c-format
 msgid "%s %s (%s) Control Center"
@@ -1194,7 +1194,7 @@ msgstr "Copyright (C) %s Mandriva SA"
 
 #: ../control-center:1488
 #, fuzzy, c-format
-msgid "Copyright (C) %s Mageia"
+msgid "Copyright (C) %s OpenMandriva LX"
 msgstr "Copyright (C) %s Mandriva SA"
 
 #: ../control-center:1494
@@ -1204,7 +1204,7 @@ msgstr "Forfattere"
 
 #: ../control-center:1495
 #, fuzzy, c-format
-msgid "Mageia Contributors"
+msgid "OpenMandriva LX Contributors"
 msgstr "Bidragsydere til Mandriva Linux"
 
 #: ../drakconsole:27
@@ -1505,13 +1505,13 @@ msgstr "Administrér installerede programpakker på en gruppe maskiner"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, fuzzy, c-format
-msgid "Configure authentication for Mageia tools"
+msgid "Configure authentication for OpenMandriva LX tools"
 msgstr "Konfigurér autentifikation for Mandriva-værktøjer"
 
 #: ../lib/MDV/Control_Center.pm:350
 #, fuzzy, c-format
 msgid ""
-"Define authentication required to access individual Mageia configuration "
+"Define authentication required to access individual OpenMandriva LX configuration "
 "tools "
 msgstr ""
 "Definér autentifikation krævet til at få adgang til individuelle Mandriva "
@@ -1953,7 +1953,7 @@ msgstr "Skærmopløsning"
 
 #: ../drakconf.desktop.in.h:1
 #, fuzzy
-msgid "Mageia Control Center"
+msgid "OpenMandriva LX Control Center"
 msgstr "Kontrolcenter"
 
 #~ msgid "Configure Your Computer"
