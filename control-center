@@ -1313,7 +1313,7 @@ sub kill_logdrake() {
 }
 
 sub quit_global() {
-    return 1 if mygtk2::quit_popup();
+    #return 1 if mygtk2::quit_popup();
 
     if (@pid_launched) {
         &kill_children();
