@@ -32,12 +32,15 @@ msgid ""
 "Mandriva tools"
 msgstr ""
 "Paketneubau und -Säuberung in großer Zahl, Spiele, Sparc-Portierung, Code-"
-"Überprüfung der Mandriva-Werkezuge"
+"Überprüfung der Mandriva-Werkzeuge"
 
 #: ../contributors.pl:13
 #, c-format
 msgid "Guillaume Rousse"
 msgstr "Guillaume Rousse"
+
+msgid "Maik Wagner"
+msgstr "Maik Wagner"
 
 #: ../contributors.pl:13
 #, c-format
@@ -429,7 +432,7 @@ msgstr "Benoit Audouard"
 #: ../contributors.pl:52
 #, c-format
 msgid "testing and bug reporting, integration of eagle-usb driver"
-msgstr "Testen und Bug-Reports, Integration des eagl-usb-Treibers."
+msgstr "Testen und Melden von Fehlern, Integration des eagl-usb-Treibers."
 
 #: ../contributors.pl:53
 #, c-format
@@ -442,7 +445,7 @@ msgstr "Bernhard Gruen"
 #: ../contributors.pl:62
 #, c-format
 msgid "testing and bug reporting"
-msgstr "Testen und Bug-Reports"
+msgstr "Testen und Melden von Fehlern"
 
 #: ../contributors.pl:54
 #, c-format
@@ -536,7 +539,7 @@ msgid ""
 "And many unnamed and unknown beta testers and bug reporters that helped make "
 "sure it all worked right."
 msgstr ""
-"Und viele ungenannte und unbekannte Beta-Tester und Fehlermelder, die halfen "
+"Und viele ungenannte und unbekannte Beta-Tester und Fehlermelder, die mitgeholfen haben "
 "sicherzustellen, dass alles gut funktioniert."
 
 #: ../control-center:90
@@ -558,7 +561,7 @@ msgstr "Wird geladen - bitte warten..."
 #: ../control-center:151 ../control-center:155
 #, c-format
 msgid "Software Management"
-msgstr "Software verwalten"
+msgstr "Softwareverwaltung"
 
 #: ../control-center:166 ../control-center:354 ../control-center:389
 #: ../control-center:547
@@ -1081,7 +1084,7 @@ msgstr "Die Änderungen im aktuellen Modul werden nicht gespeichert."
 #: ../control-center:1210
 #, c-format
 msgid "cannot fork: %s"
-msgstr "Forken nicht möglich: %s"
+msgstr "Abspaltung nicht möglich: %s"
 
 #: ../control-center:1233
 #, c-format
@@ -1142,7 +1145,7 @@ msgstr "(Perl-Version)"
 #: ../control-center:1428
 #, c-format
 msgid "Artwork: "
-msgstr "Design: "
+msgstr "Artwork: "
 
 #: ../control-center:1433
 #, c-format
@@ -1244,7 +1247,7 @@ msgstr "Firewall"
 #: ../drakxconf:35
 #, c-format
 msgid "Boot loader"
-msgstr "Boot-Loader"
+msgstr "Bootloader"
 
 #: ../drakxconf:36
 #, c-format
@@ -1274,7 +1277,7 @@ msgstr "Kontrollzentrum"
 #: ../drakxconf:42
 #, c-format
 msgid "Choose the tool you want to use"
-msgstr "Wählen Sie, welches Werkzeug Sie benutzen wollen"
+msgstr "Wählen Sie das zu verwendende Werkzeug"
 
 #: ../lib/MDV/Control_Center.pm:55 ../lib/MDV/Control_Center.pm:56
 #, c-format
@@ -1328,7 +1331,7 @@ msgstr "Einstellen wie das System hochfährt"
 #: ../lib/MDV/Control_Center.pm:118
 #, c-format
 msgid "Set up boot graphical theme of system"
-msgstr "Den grafischen Stil für das Hochfahren des Systems auswählen"
+msgstr "Das grafische Thema für das Hochfahren des Systems auswählen"
 
 #: ../lib/MDV/Control_Center.pm:119
 #, c-format
@@ -1368,7 +1371,7 @@ msgstr "Datum und Zeit einstellen"
 #: ../lib/MDV/Control_Center.pm:179
 #, c-format
 msgid "Set up display manager"
-msgstr "Display-Manager einrichten"
+msgstr "Displaymanager einrichten"
 
 #: ../lib/MDV/Control_Center.pm:180
 #, c-format
@@ -1385,7 +1388,7 @@ msgstr "Einen Fax-Server konfigurieren"
 #: ../lib/MDV/Control_Center.pm:199
 #, c-format
 msgid "Set up your personal firewall"
-msgstr "Persönliche Firewall einrichten"
+msgstr "Ihre persönliche Firewall einrichten"
 
 #: ../lib/MDV/Control_Center.pm:200
 #, c-format
@@ -1405,7 +1408,7 @@ msgstr ""
 #: ../lib/MDV/Control_Center.pm:219 ../lib/MDV/Control_Center.pm:220
 #, c-format
 msgid "Set up the graphical server"
-msgstr "Grafischen Server einrichten"
+msgstr "Den grafischen Server einrichten"
 
 #: ../lib/MDV/Control_Center.pm:229
 #, c-format
@@ -1456,7 +1459,7 @@ msgstr "Erweiterte Einstellungen für Netzwerkschnittstellen und Firewall"
 #, c-format
 msgid "Set up network interfaces failover and firewall replication"
 msgstr ""
-"Erstellen von  ausfallsicheren Netzwerkschnittstellen und Firewall-Kopien"
+"Erstellen von ausfallsicheren Netzwerkschnittstellen und Firewall-Kopien"
 
 #: ../lib/MDV/Control_Center.pm:291 ../lib/MDV/Control_Center.pm:292
 #, c-format
@@ -1496,17 +1499,17 @@ msgstr "Verbindungen verwalten"
 #: ../lib/MDV/Control_Center.pm:331
 #, c-format
 msgid "Reconfigure a network interface"
-msgstr "Rekonfigurieren einer Netzwerkschnittstelle"
+msgstr "Neukonfiguration einer Netzwerkschnittstelle"
 
 #: ../lib/MDV/Control_Center.pm:340
 #, c-format
 msgid "Manage computer group"
-msgstr "Die Computer-Gruppe verwalten"
+msgstr "Die Computergruppe verwalten"
 
 #: ../lib/MDV/Control_Center.pm:341
 #, c-format
 msgid "Manage installed software packages on a group of computers"
-msgstr "Verwalten installierter Softwarepakete auf einer Gruppe von Computern"
+msgstr "Verwalten installierter Softwarepakete auf einer Gruppe von Rechnern"
 
 #: ../lib/MDV/Control_Center.pm:349
 #, c-format
@@ -1569,7 +1572,7 @@ msgstr "Einrichten des Zeigegeräts (Maus, Touchpad)"
 #: ../lib/MDV/Control_Center.pm:408 ../lib/MDV/Control_Center.pm:409
 #, c-format
 msgid "Parental Controls"
-msgstr "Kindersicherungen"
+msgstr "Kindersicherung"
 
 #: ../lib/MDV/Control_Center.pm:418
 #, c-format
@@ -1624,7 +1627,7 @@ msgstr "Festplattenpartitionen im Netzwerk freigeben"
 #: ../lib/MDV/Control_Center.pm:470
 #, c-format
 msgid "Set up sharing of your hard disk partitions"
-msgstr "Einrichtung der Festplatten-Freigabe im Netzwerk"
+msgstr "Einrichtung der Festplatten-Freigabe von Partitionen"
 
 #: ../lib/MDV/Control_Center.pm:479 ../lib/MDV/Control_Center.pm:481
 #, c-format
@@ -1778,7 +1781,7 @@ msgstr "Virtualisierung"
 #: ../lib/MDV/Control_Center.pm:659
 #, c-format
 msgid "Virtual machines management"
-msgstr "Virtuelle PCs verwalten"
+msgstr "Virtuelle Rechner verwalten"
 
 #: ../lib/MDV/Control_Center.pm:668 ../lib/MDV/Control_Center.pm:669
 #, c-format

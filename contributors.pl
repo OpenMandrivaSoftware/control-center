@@ -48,6 +48,7 @@ use common;
 	N("Simone Riccio") => N("Italian Translator"),
 	N("Daniele Pighin") => N("Italian Translator"),
 	N("Vedran Ljubovic") => N("Bosnian translator"),
+	N("Maik Wagner") => N("German translatior and language coordinator")
 	N("Testers") => "",
 	N("Benoit Audouard"), N("testing and bug reporting, integration of eagle-usb driver"),
 	N("Bernhard Gruen") => N("testing and bug reporting"),
